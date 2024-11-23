@@ -1,0 +1,2780 @@
+[
+    {
+        "tag": "apa_itu_gangguan_mental",
+        "patterns": [
+            "Apa itu gangguan mental?",
+            "Apa maksud dari gangguan kesehatan mental?",
+            "Bisakah Anda menjelaskan gangguan mental?",
+            "Gangguan mental itu seperti apa?",
+            "Apa yang dimaksud dengan gangguan kesehatan mental?",
+            "Bisa dijelaskan tentang kesehatan mental yang terganggu?"
+        ],
+        "responses": [
+            "Gangguan mental adalah kondisi kesehatan yang mengganggu pikiran, emosi, hubungan, dan fungsi sehari-hari seseorang.",
+            "Gangguan mental mencakup berbagai kondisi yang memengaruhi bagaimana seseorang berpikir, merasa, dan berperilaku.",
+            "Kesehatan mental yang terganggu bisa membuat seseorang kesulitan dalam menjalani kehidupan sehari-hari.",
+            "Gangguan kesehatan mental adalah masalah kesehatan yang berdampak pada bagaimana seseorang merasa, berpikir, dan berinteraksi dengan orang lain.",
+            "Gangguan mental adalah kondisi yang dapat memengaruhi setiap aspek kehidupan seseorang."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "siapa_yang_terkena_gangguan_mental",
+        "patterns": [
+            "Siapa saja yang bisa terkena gangguan mental?",
+            "Apakah semua orang bisa mengalami gangguan kesehatan mental?",
+            "Gangguan mental memengaruhi siapa saja?",
+            "Bisakah saya terkena gangguan mental?",
+            "Apakah orang dari semua usia bisa terkena gangguan mental?",
+            "Apakah gangguan mental hanya terjadi pada orang dewasa?"
+        ],
+        "responses": [
+            "Gangguan mental dapat memengaruhi siapa saja, terlepas dari jenis kelamin, usia, pendapatan, status sosial, etnis, agama, orientasi seksual, atau latar belakang.",
+            "Gangguan mental tidak mengenal batasan dan dapat terjadi pada siapa saja.",
+            "Siapapun dapat mengalami gangguan mental, baik muda maupun tua.",
+            "Gangguan kesehatan mental dapat memengaruhi semua orang, tanpa memandang status atau latar belakang."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "tanda_peringatan_gangguan_mental",
+        "patterns": [
+            "Apa saja tanda-tanda gangguan mental?",
+            "Bagaimana saya tahu jika seseorang mengalami gangguan mental?",
+            "Tanda peringatan untuk kesehatan mental yang buruk apa saja?",
+            "Apa saja gejala gangguan mental?",
+            "Bagaimana cara mengenali seseorang dengan masalah kesehatan mental?",
+            "Apa yang menjadi indikasi gangguan kesehatan mental?"
+        ],
+        "responses": [
+            "Gejala gangguan mental bervariasi tergantung pada jenis dan tingkat keparahannya.",
+            "Beberapa tanda termasuk perubahan suasana hati yang ekstrem, menarik diri dari orang lain, atau kesulitan menjalani aktivitas sehari-hari.",
+            "Tanda-tanda umum meliputi perasaan cemas yang berlebihan, perubahan pola tidur, atau kurangnya motivasi.",
+            "Gejala lain bisa berupa pikiran yang tidak teratur, rasa putus asa, atau sulit berkonsentrasi.",
+            "Jika seseorang tampak tertekan untuk waktu yang lama atau kehilangan minat pada hal-hal yang biasa mereka nikmati, itu bisa menjadi tanda peringatan."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "pemulihan_gangguan_mental",
+        "patterns": [
+            "Apakah orang dengan gangguan mental bisa sembuh?",
+            "Bisakah seseorang pulih dari gangguan kesehatan mental?",
+            "Apakah mungkin untuk sembuh dari gangguan mental?",
+            "Bagaimana proses pemulihan dari masalah mental?",
+            "Apakah saya bisa kembali normal jika saya memiliki gangguan mental?"
+        ],
+        "responses": [
+            "Pemulihan dari gangguan mental sangat mungkin dilakukan, terutama dengan identifikasi dini dan pengobatan yang tepat.",
+            "Banyak orang yang hidup dengan gangguan mental dapat pulih sepenuhnya atau belajar untuk mengelola kondisi mereka secara efektif.",
+            "Dengan dukungan yang tepat, pengobatan, dan perubahan gaya hidup, banyak orang kembali menjalani kehidupan yang memuaskan.",
+            "Penting untuk mencari bantuan profesional dan melibatkan keluarga serta teman dalam proses pemulihan."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "membantu_seseorang_dengan_gangguan_mental",
+        "patterns": [
+            "Apa yang harus saya lakukan jika saya tahu seseorang yang memiliki gejala gangguan mental?",
+            "Bagaimana cara membantu teman dengan gangguan mental?",
+            "Apa yang dapat saya lakukan untuk mendukung seseorang dengan masalah kesehatan mental?",
+            "Bagaimana cara mendukung keluarga yang memiliki gangguan mental?",
+            "Apa langkah awal jika saya khawatir tentang kesehatan mental seseorang?"
+        ],
+        "responses": [
+            "Dorong mereka untuk berbicara dengan teman atau anggota keluarga yang dapat dipercaya serta mencari bantuan profesional.",
+            "Tunjukkan empati, dengarkan tanpa menghakimi, dan tawarkan dukungan emosional.",
+            "Bantu mereka menemukan informasi tentang layanan kesehatan mental dan temani mereka jika memungkinkan.",
+            "Beritahu mereka bahwa tidak apa-apa untuk meminta bantuan, dan mereka tidak sendiri dalam perjalanan ini.",
+            "Hindari memberikan saran yang tidak diminta, tetapi pastikan mereka tahu Anda peduli."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "mencari_profesional_kesehatan_mental",
+        "patterns": [
+            "Bagaimana cara menemukan profesional kesehatan mental?",
+            "Di mana saya bisa mencari terapis atau konselor?",
+            "Bagaimana saya tahu siapa yang tepat untuk saya dalam hal terapi?",
+            "Bisakah saya menemukan profesional kesehatan mental untuk anak saya?",
+            "Bagaimana cara memilih psikolog atau psikiater yang baik?"
+        ],
+        "responses": [
+            "Anda bisa mulai dengan bertanya pada dokter umum untuk rujukan atau mencari daftar profesional terpercaya di area Anda.",
+            "Pastikan Anda merasa nyaman dengan profesional yang Anda pilih, karena hubungan yang baik penting untuk keberhasilan terapi.",
+            "Lakukan penelitian tentang spesialisasi profesional, apakah itu konselor, psikolog, atau psikiater.",
+            "Jika mencari untuk anak, pertimbangkan profesional yang memiliki pengalaman dalam terapi anak dan keluarga.",
+            "Cari ulasan atau rekomendasi dari teman atau anggota keluarga, dan jangan ragu untuk bertanya kepada profesional tentang pendekatan mereka."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "opsi_perawatan",
+        "patterns": [
+            "Apa saja opsi perawatan untuk gangguan mental?",
+            "Bagaimana cara mengobati gangguan kesehatan mental?",
+            "Apakah ada terapi yang bisa membantu kesehatan mental saya?",
+            "Jenis perawatan apa yang tersedia untuk depresi?",
+            "Apakah saya harus minum obat untuk gangguan mental saya?"
+        ],
+        "responses": [
+            "Pilihan perawatan termasuk terapi berbicara, seperti terapi kognitif perilaku (CBT), terapi kelompok, atau terapi individu.",
+            "Obat-obatan sering digunakan untuk membantu mengelola gejala, tetapi ini tergantung pada kebutuhan individu.",
+            "Pendekatan holistik seperti meditasi, olahraga, dan pola makan sehat juga dapat menjadi bagian penting dari perawatan.",
+            "Bekerja sama dengan profesional kesehatan mental dapat membantu Anda menentukan rencana perawatan terbaik untuk Anda.",
+            "Gabungan terapi dan pengobatan sering kali memberikan hasil terbaik untuk banyak orang."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "mencegah_gangguan_mental",
+        "patterns": [
+            "Bisakah gangguan mental dicegah?",
+            "Apa yang bisa saya lakukan untuk mencegah kesehatan mental saya terganggu?",
+            "Bagaimana cara menjaga kesehatan mental tetap baik?",
+            "Apakah mungkin untuk menghindari depresi atau kecemasan?",
+            "Langkah apa yang bisa saya ambil untuk mencegah stres yang berlebihan?"
+        ],
+        "responses": [
+            "Membangun kesejahteraan dan ketahanan, serta mencari bantuan sejak dini, dapat membantu mencegah masalah menjadi lebih serius.",
+            "Fokus pada gaya hidup sehat, seperti tidur cukup, olahraga teratur, dan menjaga hubungan sosial yang baik.",
+            "Hindari stres yang berlebihan dengan mengatur waktu Anda, menetapkan batasan, dan melakukan aktivitas yang menenangkan.",
+            "Berlatihlah untuk mengenali tanda-tanda awal stres atau kecemasan agar Anda bisa mengambil tindakan cepat.",
+            "Penting untuk mencari dukungan dari teman, keluarga, atau profesional jika Anda mulai merasa terbebani."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "dukungan_dan_kelompok",
+        "patterns": [
+            "Di mana saya bisa menemukan kelompok dukungan?",
+            "Bagaimana saya bergabung dengan kelompok yang membahas kesehatan mental?",
+            "Apakah ada komunitas untuk orang dengan masalah mental?",
+            "Bagaimana cara saya mencari kelompok dukungan di kota saya?",
+            "Kelompok dukungan seperti apa yang tersedia untuk keluarga?"
+        ],
+        "responses": [
+            "Kelompok dukungan tersedia secara lokal maupun online, tergantung pada kebutuhan spesifik Anda.",
+            "Anda dapat menghubungi pusat kesehatan mental setempat atau mencari direktori kelompok dukungan di internet.",
+            "Beberapa komunitas online menawarkan ruang aman untuk berbagi pengalaman dan mencari dukungan.",
+            "Kelompok dukungan keluarga sering membantu anggota keluarga memahami dan mendukung orang yang memiliki gangguan mental.",
+            "Tanyakan kepada konselor atau terapis Anda untuk rekomendasi kelompok dukungan yang relevan."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "memulai_pengobatan",
+        "patterns": [
+            "Apa yang harus saya ketahui sebelum memulai pengobatan?",
+            "Bagaimana saya mempersiapkan diri untuk pengobatan kesehatan mental?",
+            "Apa saja yang harus saya bicarakan dengan dokter saya tentang pengobatan?",
+            "Apakah saya perlu memahami efek samping sebelum memulai terapi?",
+            "Hal apa yang penting diketahui sebelum saya memulai sesi terapi?"
+        ],
+        "responses": [
+            "Sangat penting untuk mendiskusikan tujuan Anda, jenis perawatan, dan harapan Anda dengan penyedia layanan kesehatan Anda.",
+            "Pastikan untuk bertanya tentang potensi efek samping, biaya, dan durasi pengobatan.",
+            "Jangan ragu untuk berbagi informasi tentang riwayat kesehatan atau tantangan yang sedang Anda hadapi.",
+            "Ketahui bahwa pemulihan adalah proses yang membutuhkan waktu dan konsistensi.",
+            "Persiapkan daftar pertanyaan atau kekhawatiran Anda sebelum pertemuan pertama dengan profesional kesehatan mental."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "gejala_gangguan_kecemasan",
+        "patterns": [
+            "Apa saja gejala gangguan kecemasan?",
+            "Bagaimana saya tahu jika saya mengalami gangguan kecemasan?",
+            "Apa tanda-tanda kecemasan yang berlebihan?",
+            "Saya merasa cemas sepanjang waktu, apakah itu gangguan kecemasan?",
+            "Gejala apa yang menandakan kecemasan berlebihan?"
+        ],
+        "responses": [
+            "Gejala gangguan kecemasan meliputi kecemasan berlebihan yang sulit dikendalikan, kekhawatiran tentang hal-hal kecil, dan ketegangan otot.",
+            "Cemas yang berlebihan, gangguan tidur, dan peningkatan detak jantung adalah tanda umum dari gangguan kecemasan.",
+            "Tanda lainnya bisa termasuk merasa panik, kesulitan bernapas, atau takut akan situasi yang tidak berbahaya.",
+            "Jika kecemasan memengaruhi kemampuan Anda untuk bekerja atau berinteraksi dengan orang lain, itu bisa menjadi tanda gangguan kecemasan.",
+            "Kecemasan yang parah bisa membuat Anda merasa terjebak dalam pola pikir negatif yang berulang."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "mencari_dukungan_psikologis",
+        "patterns": [
+            "Bagaimana cara mencari dukungan psikologis?",
+            "Di mana saya bisa mendapatkan dukungan psikologis?",
+            "Apa yang harus saya lakukan untuk mencari dukungan mental?",
+            "Apakah ada layanan dukungan untuk masalah mental?",
+            "Bagaimana cara memulai pencarian dukungan untuk kesehatan mental?"
+        ],
+        "responses": [
+            "Anda bisa memulai dengan mencari profesional kesehatan mental di sekitar Anda, seperti psikolog atau konselor.",
+            "Jangan ragu untuk berbicara dengan teman atau keluarga yang dapat memberikan dukungan, atau mencari kelompok dukungan di komunitas Anda.",
+            "Jika Anda merasa kesulitan, coba hubungi layanan kesehatan mental nasional atau lokal yang menyediakan informasi tentang dukungan yang tersedia.",
+            "Ada banyak aplikasi dan platform online yang menawarkan dukungan psikologis dan layanan terapi jarak jauh.",
+            "Bergabung dengan komunitas atau kelompok dukungan dapat membantu Anda merasa tidak sendirian dalam mengatasi masalah kesehatan mental."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "menghadapi_kematian_dan_kehilangan",
+        "patterns": [
+            "Bagaimana cara mengatasi kehilangan orang yang saya cintai?",
+            "Apa yang harus saya lakukan jika saya merasa sangat sedih setelah kehilangan?",
+            "Mengapa saya merasa sangat terpuruk setelah kehilangan?",
+            "Bagaimana cara menghadapi rasa kehilangan yang mendalam?",
+            "Apa yang bisa saya lakukan untuk meredakan rasa sakit akibat kehilangan?"
+        ],
+        "responses": [
+            "Menghadapi kehilangan adalah proses yang sulit dan setiap orang mengalaminya dengan cara yang berbeda. Luangkan waktu untuk berduka.",
+            "Menangis, berbicara dengan seseorang yang dipercaya, atau berdoa bisa membantu Anda melalui perasaan berduka.",
+            "Cari dukungan dari keluarga, teman, atau seorang konselor yang dapat membantu Anda memahami perasaan Anda.",
+            "Berikan diri Anda izin untuk merasa sedih dan jangan terburu-buru untuk ‘sembuh’. Proses berduka membutuhkan waktu.",
+            "Cobalah untuk merayakan kenangan indah bersama orang yang telah pergi, dan ingatkan diri Anda bahwa perasaan ini akan berangsur-angsur membaik."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "mengatasi_trauma",
+        "patterns": [
+            "Bagaimana cara mengatasi trauma?",
+            "Apa yang harus saya lakukan setelah mengalami trauma?",
+            "Saya merasa terguncang setelah trauma, bagaimana saya bisa pulih?",
+            "Apa langkah pertama untuk mengatasi pengalaman traumatis?",
+            "Bagaimana cara menghadapinya jika saya merasa terjebak oleh trauma?"
+        ],
+        "responses": [
+            "Mengatasi trauma melibatkan proses penyembuhan yang bisa melibatkan terapi, seperti terapi perilaku kognitif atau terapi eksposur.",
+            "Penting untuk mencari dukungan emosional dari orang yang Anda percayai atau seorang profesional yang dapat membantu Anda memahami dan mengatasi trauma.",
+            "Latihan relaksasi dan mindfulness bisa membantu mengurangi gejala trauma seperti kecemasan atau kilas balik.",
+            "Jangan ragu untuk berbicara tentang pengalaman Anda dengan seorang terapis yang berlisensi untuk mendapatkan dukungan yang tepat.",
+            "Memahami bahwa proses penyembuhan membutuhkan waktu dan kesabaran adalah langkah penting dalam mengatasi trauma."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "cara_memahami_diri_sendiri",
+        "patterns": [
+            "Bagaimana cara saya memahami diri saya sendiri?",
+            "Apa yang harus saya lakukan untuk mengenal diri saya lebih baik?",
+            "Mengapa saya merasa bingung tentang siapa saya?",
+            "Bagaimana saya bisa lebih sadar diri?",
+            "Apa yang bisa saya lakukan untuk menemukan tujuan hidup saya?"
+        ],
+        "responses": [
+            "Mengenal diri sendiri dimulai dengan meluangkan waktu untuk merenung dan memahami perasaan, keinginan, dan tujuan Anda.",
+            "Berbicara dengan seseorang yang Anda percayai atau seorang konselor bisa membantu Anda memahami perasaan Anda lebih jelas.",
+            "Mencoba hal-hal baru, mengeksplorasi minat, dan menetapkan tujuan dapat membantu Anda mengenali siapa diri Anda dan apa yang Anda inginkan dalam hidup.",
+            "Berlatih mindfulness atau meditasi dapat membantu Anda lebih sadar akan perasaan dan pikiran Anda, serta membantu Anda untuk lebih mengenal diri sendiri.",
+            "Baca buku atau ikut kursus tentang pengembangan diri untuk membantu Anda memperdalam pemahaman tentang diri Anda."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "pentingnya_sosial_support",
+        "patterns": [
+            "Mengapa dukungan sosial itu penting?",
+            "Bagaimana dukungan dari teman dan keluarga membantu kesehatan mental?",
+            "Apa pengaruh dukungan sosial terhadap kesehatan mental saya?",
+            "Bagaimana saya bisa mencari dukungan sosial?",
+            "Seberapa penting dukungan sosial untuk mengatasi kecemasan dan stres?"
+        ],
+        "responses": [
+            "Dukungan sosial memberikan rasa aman, mengurangi perasaan kesepian, dan dapat membantu mengurangi stres serta kecemasan.",
+            "Memiliki teman atau keluarga yang bisa diajak bicara membantu Anda merasa didukung dan dipahami, yang penting untuk kesehatan mental.",
+            "Dukungan sosial juga dapat meningkatkan ketahanan mental, memungkinkan Anda untuk menghadapinya lebih baik di masa sulit.",
+            "Berbicara dengan seseorang yang peduli atau bergabung dengan kelompok dukungan bisa membantu Anda meredakan perasaan tertekan.",
+            "Memiliki jaringan sosial yang baik bisa memberikan rasa pemberdayaan dan memberi Anda dorongan untuk tetap berjuang."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "mengatasi_rasa_sedih",
+        "patterns": [
+            "Bagaimana cara mengatasi rasa sedih?",
+            "Apa yang harus saya lakukan jika saya merasa sangat sedih?",
+            "Mengapa saya merasa sedih terus-menerus?",
+            "Apa yang bisa membantu jika saya merasa sangat tertekan?",
+            "Saya merasa sangat tidak berharga, apa yang bisa saya lakukan?"
+        ],
+        "responses": [
+            "Cobalah berbicara dengan seseorang yang Anda percayai, atau cari dukungan dari seorang konselor yang dapat membantu Anda melalui perasaan ini.",
+            "Melakukan aktivitas fisik, seperti berjalan atau olahraga, dapat meningkatkan suasana hati Anda dengan melepaskan endorfin.",
+            "Menulis perasaan Anda dalam jurnal atau melakukan meditasi dapat membantu Anda mengatasi rasa sedih.",
+            "Cobalah untuk mengingatkan diri Anda tentang hal-hal positif dalam hidup Anda, dan beri diri Anda izin untuk merasakan kesedihan.",
+            "Perasaan sedih bisa menjadi reaksi alami terhadap stres atau perubahan besar dalam hidup. Berikan waktu untuk berduka, tetapi juga pertimbangkan untuk mencari dukungan jika perasaan tersebut bertahan."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "menghadapi_kecemasan_social",
+        "patterns": [
+            "Bagaimana cara mengatasi kecemasan sosial?",
+            "Saya takut berada di sekitar orang banyak, bagaimana saya menghadapinya?",
+            "Apa yang bisa saya lakukan jika saya merasa sangat cemas di acara sosial?",
+            "Mengapa saya merasa cemas ketika berada di lingkungan sosial?",
+            "Apa yang bisa membantu jika saya merasa takut berinteraksi dengan orang lain?"
+        ],
+        "responses": [
+            "Cobalah untuk berbicara dengan seorang profesional yang dapat membantu Anda mengatasi kecemasan sosial dengan terapi atau latihan relaksasi.",
+            "Latihan pernapasan dalam dan mindfulness bisa membantu Anda tetap tenang saat berada dalam situasi sosial.",
+            "Mulailah dengan interaksi sosial kecil dan bertahap untuk membangun kenyamanan. Jangan terlalu memaksakan diri.",
+            "Ingatkan diri Anda bahwa perasaan cemas adalah normal, tetapi itu tidak harus mengendalikan Anda. Cobalah untuk fokus pada percakapan atau aktivitas, bukan pada perasaan cemas.",
+            "Menghadapi kecemasan sosial secara bertahap dan memberi diri Anda penghargaan setelah setiap langkah kecil bisa membantu meningkatkan rasa percaya diri."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "membangun_kepercayaan_diri",
+        "patterns": [
+            "Bagaimana cara membangun kepercayaan diri?",
+            "Apa yang bisa saya lakukan untuk meningkatkan rasa percaya diri saya?",
+            "Saya merasa tidak percaya diri, bagaimana cara mengatasinya?",
+            "Bagaimana cara mengatasi perasaan rendah diri?",
+            "Apa yang bisa membantu saya merasa lebih percaya diri?"
+        ],
+        "responses": [
+            "Mulailah dengan menetapkan tujuan kecil dan merayakan pencapaian tersebut. Setiap kemenangan kecil dapat meningkatkan rasa percaya diri.",
+            "Berlatihlah berbicara positif tentang diri sendiri dan hindari mengkritik diri secara berlebihan.",
+            "Cobalah untuk keluar dari zona nyaman Anda dan ambil langkah-langkah kecil untuk menghadapi ketakutan atau keraguan Anda.",
+            "Mencari aktivitas yang Anda nikmati atau yang memberi Anda rasa pencapaian dapat membantu membangun kepercayaan diri.",
+            "Jika Anda merasa tidak percaya diri dalam interaksi sosial, cobalah untuk fokus pada orang lain dan percakapan, bukan pada diri Anda sendiri."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "perawatan_diri_untuk_kesehatan_mental",
+        "patterns": [
+            "Apa itu perawatan diri untuk kesehatan mental?",
+            "Bagaimana cara merawat diri untuk menjaga kesehatan mental?",
+            "Apa saja kebiasaan sehat untuk mendukung kesehatan mental?",
+            "Apa yang bisa saya lakukan setiap hari untuk menjaga kesehatan mental?",
+            "Mengapa perawatan diri itu penting untuk kesehatan mental?"
+        ],
+        "responses": [
+            "Perawatan diri untuk kesehatan mental mencakup tidur yang cukup, makan makanan sehat, dan berolahraga secara teratur.",
+            "Cobalah untuk mengatur waktu untuk kegiatan yang Anda nikmati, seperti berkumpul dengan teman-teman atau menikmati hobi.",
+            "Berlatih mindfulness atau meditasi setiap hari dapat membantu mengurangi stres dan meningkatkan kesejahteraan mental.",
+            "Jangan lupa untuk memberi diri Anda waktu untuk beristirahat dan mengurangi tekanan dari pekerjaan atau kewajiban lainnya.",
+            "Perawatan diri juga termasuk mencari dukungan ketika Anda merasa cemas atau tertekan, serta berbicara dengan seseorang yang Anda percayai."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "menangani_emosi_negatif",
+        "patterns": [
+            "Bagaimana cara mengatasi emosi negatif?",
+            "Saya sering merasa marah, bagaimana cara mengendalikannya?",
+            "Apa yang harus saya lakukan jika saya merasa sangat frustrasi?",
+            "Bagaimana cara mengendalikan kemarahan yang berlebihan?",
+            "Apa yang bisa membantu jika saya merasa cemas atau takut berlebihan?"
+        ],
+        "responses": [
+            "Penting untuk memberi diri Anda waktu untuk merasakan emosi tersebut tanpa menghakimi diri sendiri, tetapi juga berusaha untuk tidak membiarkannya mengendalikan Anda.",
+            "Berlatih teknik pernapasan dalam atau meditasi dapat membantu menenangkan tubuh dan pikiran Anda saat emosi negatif muncul.",
+            "Cobalah untuk memahami akar dari emosi tersebut. Apakah ada pemicu yang bisa Anda hindari atau kelola lebih baik?",
+            "Berbicara dengan seseorang yang Anda percayai atau seorang profesional dapat membantu Anda memproses emosi dengan cara yang sehat.",
+            "Berolahraga atau melakukan aktivitas fisik lainnya dapat membantu melepaskan ketegangan yang terkait dengan emosi negatif."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "pentingnya_tidur_untuk_kesehatan_mental",
+        "patterns": [
+            "Mengapa tidur penting untuk kesehatan mental?",
+            "Apa pengaruh tidur yang buruk terhadap kesehatan mental?",
+            "Bagaimana tidur yang cukup dapat mendukung kesehatan mental?",
+            "Apa yang terjadi jika saya tidak tidur cukup?",
+            "Bagaimana cara mendapatkan tidur yang berkualitas untuk mendukung kesehatan mental?"
+        ],
+        "responses": [
+            "Tidur yang cukup penting untuk pemulihan fisik dan mental. Kurang tidur dapat meningkatkan kecemasan, stres, dan perasaan depresi.",
+            "Tidur yang baik membantu memperbaiki suasana hati, meningkatkan daya ingat, dan menjaga keseimbangan emosional.",
+            "Jika Anda tidur cukup, tubuh Anda dapat mereset dan memperbaiki sistem saraf, yang penting untuk mengelola stres dan kecemasan.",
+            "Pastikan untuk mengatur rutinitas tidur yang konsisten, seperti tidur dan bangun pada waktu yang sama setiap hari, dan hindari stimulan seperti kafein menjelang tidur.",
+            "Ciptakan lingkungan tidur yang nyaman dan tenang, serta pertimbangkan untuk menghindari perangkat elektronik menjelang tidur."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "membangun_hubungan_tersehat",
+        "patterns": [
+            "Bagaimana cara membangun hubungan yang sehat?",
+            "Apa yang bisa saya lakukan untuk memperbaiki hubungan saya dengan orang lain?",
+            "Bagaimana cara menjaga hubungan yang sehat dengan pasangan?",
+            "Apa saja ciri-ciri hubungan yang tidak sehat?",
+            "Bagaimana cara berkomunikasi dengan lebih baik dalam hubungan?"
+        ],
+        "responses": [
+            "Komunikasi yang terbuka dan jujur adalah dasar hubungan yang sehat. Pastikan untuk mendengarkan dengan penuh perhatian dan menghargai perasaan orang lain.",
+            "Berikan ruang bagi pasangan atau teman untuk berkembang dan tunjukkan rasa hormat serta dukungan.",
+            "Selalu ingat untuk memberi diri Anda dan pasangan waktu untuk diri sendiri, tetapi juga menjaga ikatan emosional.",
+            "Ciri hubungan yang tidak sehat termasuk manipulasi, kontrol berlebihan, atau tidak adanya rasa hormat terhadap batasan pribadi.",
+            "Jaga keseimbangan antara memberikan dukungan dan menjaga batasan pribadi. Jangan takut untuk berbicara jika ada masalah yang perlu dibahas."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "membangun_habits_positif",
+        "patterns": [
+            "Bagaimana cara membangun kebiasaan positif?",
+            "Apa yang bisa saya lakukan untuk menciptakan kebiasaan yang baik?",
+            "Saya ingin mulai kebiasaan baru, bagaimana cara memulainya?",
+            "Bagaimana cara membuat kebiasaan sehat yang konsisten?",
+            "Apa saja kebiasaan sehat yang bisa saya coba?"
+        ],
+        "responses": [
+            "Mulailah dengan membuat tujuan kecil dan bertahap. Fokus pada satu kebiasaan baru pada satu waktu.",
+            "Cobalah untuk menambahkan kebiasaan baru secara perlahan, seperti bangun lebih awal atau berolahraga setiap hari.",
+            "Kunci dari kebiasaan yang sehat adalah konsistensi, jadi buatlah rutinitas yang mudah diikuti setiap hari.",
+            "Jangan terlalu keras pada diri sendiri jika Anda gagal di awal. Tetap fokus dan berusaha sedikit demi sedikit untuk membangun kebiasaan baru.",
+            "Gunakan aplikasi atau alat pelacak untuk membantu Anda memantau kemajuan dan memberikan motivasi tambahan."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "menjaga_mental_dan_fisik_sehat",
+        "patterns": [
+            "Apa yang dapat saya lakukan untuk menjaga kesehatan mental dan fisik saya?",
+            "Bagaimana cara menjaga tubuh dan pikiran saya tetap sehat?",
+            "Apa hubungannya antara kesehatan mental dan fisik?",
+            "Bagaimana cara mengintegrasikan latihan fisik ke dalam rutinitas harian untuk mendukung kesehatan mental?",
+            "Mengapa penting menjaga tubuh dan pikiran tetap sehat secara bersamaan?"
+        ],
+        "responses": [
+            "Latihan fisik yang teratur sangat membantu untuk menjaga kesehatan mental. Olahraga dapat meningkatkan mood dengan melepaskan endorfin.",
+            "Tidur yang cukup, makan makanan bergizi, dan berolahraga adalah langkah dasar untuk menjaga kesehatan tubuh dan mental.",
+            "Melakukan kegiatan yang menenangkan seperti meditasi atau yoga juga dapat mendukung kesejahteraan fisik dan mental Anda.",
+            "Penting untuk menjaga keseimbangan antara pekerjaan, waktu istirahat, dan aktivitas fisik untuk mengurangi stres.",
+            "Jaga hubungan sosial yang baik dan perhatikan waktu untuk diri sendiri, karena kesehatan mental yang baik mendukung tubuh yang sehat."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "pemulihan_dari_kecanduan",
+        "patterns": [
+            "Bagaimana cara pulih dari kecanduan?",
+            "Saya merasa kecanduan, apa yang harus saya lakukan?",
+            "Apa langkah pertama dalam pemulihan dari kecanduan?",
+            "Kecanduan apa yang bisa diobati dan bagaimana caranya?",
+            "Bagaimana cara mendapatkan dukungan untuk mengatasi kecanduan?"
+        ],
+        "responses": [
+            "Langkah pertama adalah mengakui adanya masalah dan mencari bantuan dari profesional atau kelompok dukungan.",
+            "Pemulihan dari kecanduan adalah proses bertahap yang melibatkan perubahan pola pikir dan perilaku, serta dukungan dari orang lain.",
+            "Mengambil bagian dalam kelompok dukungan seperti Anonim Alkohol atau kelompok pemulihan lainnya bisa sangat membantu dalam proses pemulihan.",
+            "Dukungan dari keluarga dan teman sangat penting. Jangan ragu untuk berbicara dengan seseorang yang Anda percayai.",
+            "Terapi perilaku kognitif dan pendekatan medis lainnya dapat membantu Anda mengatasi kecanduan dengan lebih efektif."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "menghadapi_krisis_mental",
+        "patterns": [
+            "Apa yang harus saya lakukan jika saya mengalami krisis mental?",
+            "Saya merasa sangat tertekan, apa yang harus saya lakukan?",
+            "Krisis mental apa yang perlu ditangani segera?",
+            "Bagaimana cara mengatasi perasaan terpuruk yang mendalam?",
+            "Siapa yang bisa saya hubungi ketika saya mengalami krisis mental?"
+        ],
+        "responses": [
+            "Langkah pertama adalah mencari bantuan dari seseorang yang dapat dipercaya, seperti teman, keluarga, atau seorang profesional.",
+            "Jika Anda merasa tidak bisa mengatasi krisis tersebut sendiri, segera hubungi layanan bantuan darurat atau layanan krisis mental.",
+            "Mengambil napas dalam dan mencoba teknik relaksasi bisa membantu Anda merasa lebih tenang dalam krisis mental.",
+            "Jangan ragu untuk mencari bantuan dari seorang terapis atau konselor yang berpengalaman dalam menangani krisis mental.",
+            "Menulis atau berbicara tentang perasaan Anda bisa membantu memproses emosi yang intens dalam krisis mental."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "cara_mengelola_emosi_negatif",
+        "patterns": [
+            "Bagaimana cara mengelola emosi negatif?",
+            "Apa yang harus saya lakukan ketika saya merasa marah atau frustrasi?",
+            "Saya sering merasa cemas, bagaimana cara mengatasinya?",
+            "Apa yang dapat saya lakukan untuk meredakan perasaan negatif?",
+            "Bagaimana cara mengatasi kemarahan yang berlebihan?"
+        ],
+        "responses": [
+            "Cobalah untuk mengenali perasaan Anda dan identifikasi apa yang memicu emosi tersebut, lalu cari cara untuk merespons secara konstruktif.",
+            "Latihan pernapasan dalam dan meditasi dapat membantu Anda meredakan emosi negatif dan menenangkan diri.",
+            "Berbicara dengan seseorang yang Anda percayai atau menulis jurnal tentang perasaan Anda dapat membantu mengelola emosi negatif.",
+            "Mengambil waktu untuk diri sendiri, seperti beristirahat atau berjalan-jalan, bisa membantu Anda mengatasi perasaan yang intens.",
+            "Saat merasa marah atau cemas, coba untuk menghitung mundur atau fokus pada hal-hal yang menenangkan di sekitar Anda."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "menyembuhkan_diri_dari_penyakit_mental",
+        "patterns": [
+            "Bagaimana saya bisa sembuh dari penyakit mental?",
+            "Apa yang harus saya lakukan untuk sembuh dari depresi atau kecemasan?",
+            "Apakah penyakit mental bisa disembuhkan?",
+            "Bagaimana cara mengatasi gangguan mental yang saya alami?",
+            "Apa saja perawatan yang dapat membantu saya sembuh dari masalah mental?"
+        ],
+        "responses": [
+            "Pemulihan dari penyakit mental melibatkan dukungan profesional, seperti terapi dan pengobatan, serta perawatan diri yang konsisten.",
+            "Sangat penting untuk mencari bantuan dari seorang profesional kesehatan mental yang dapat membantu Anda merencanakan pemulihan yang tepat.",
+            "Menghadapi penyakit mental adalah proses bertahap yang melibatkan perawatan medis, dukungan emosional, dan perubahan pola hidup.",
+            "Dukungan dari teman, keluarga, atau kelompok dukungan sangat penting dalam perjalanan penyembuhan dari penyakit mental.",
+            "Jangan ragu untuk mencari terapi atau kelompok dukungan untuk membantu Anda merasa didengar dan didukung sepanjang proses pemulihan."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "menjaga_keseimbangan_kerja_dan_hidup",
+        "patterns": [
+            "Bagaimana cara menjaga keseimbangan antara pekerjaan dan kehidupan pribadi?",
+            "Saya merasa terlalu sibuk bekerja, bagaimana cara saya menyeimbangkan hidup saya?",
+            "Apa yang bisa saya lakukan untuk mengurangi stres pekerjaan?",
+            "Bagaimana cara mengatur waktu untuk pekerjaan dan keluarga?",
+            "Mengapa penting untuk menjaga keseimbangan antara kerja dan hidup?"
+        ],
+        "responses": [
+            "Mulailah dengan menetapkan batasan yang jelas antara waktu kerja dan waktu pribadi, serta memprioritaskan aktivitas yang penting.",
+            "Cobalah untuk mengatur waktu dengan bijak, beri diri Anda waktu untuk beristirahat dan melakukan aktivitas yang Anda nikmati di luar pekerjaan.",
+            "Jangan takut untuk mengatakan 'tidak' jika pekerjaan mulai mengganggu keseimbangan hidup Anda. Tetap fokus pada kesehatan dan kesejahteraan Anda.",
+            "Berbicara dengan atasan Anda tentang beban kerja Anda dan coba cari solusi untuk mengelola waktu dengan lebih baik.",
+            "Luangkan waktu untuk diri sendiri, lakukan aktivitas relaksasi, dan pastikan Anda memiliki waktu untuk keluarga dan teman."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "memahami_stigma_terhadap_kesehatan_mental",
+        "patterns": [
+            "Mengapa ada stigma terhadap kesehatan mental?",
+            "Bagaimana stigma mempengaruhi orang dengan gangguan mental?",
+            "Apa yang bisa saya lakukan untuk mengurangi stigma terhadap kesehatan mental?",
+            "Mengapa orang takut mencari bantuan untuk masalah kesehatan mental?",
+            "Apa dampak stigma terhadap orang yang memiliki masalah mental?"
+        ],
+        "responses": [
+            "Stigma terhadap kesehatan mental sering kali berasal dari ketidakpahaman atau ketakutan terhadap apa yang tidak diketahui.",
+            "Stigma dapat memperburuk rasa malu dan membuat orang merasa enggan mencari bantuan, padahal dukungan sangat penting untuk pemulihan.",
+            "Mengurangi stigma dimulai dengan berbicara terbuka tentang kesehatan mental dan menunjukkan bahwa itu adalah masalah kesehatan yang sah.",
+            "Dengan meningkatkan kesadaran tentang gangguan mental dan mendukung mereka yang menghadapinya, kita bisa mulai mengubah pandangan negatif terhadapnya.",
+            "Penting untuk memahami bahwa kesehatan mental sama pentingnya dengan kesehatan fisik, dan mencari bantuan adalah langkah yang berani dan penting."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "mengatasi_rasa_kecemasan_terhadap_masa_depan",
+        "patterns": [
+            "Saya merasa cemas tentang masa depan, bagaimana cara menghadapinya?",
+            "Apa yang harus saya lakukan jika saya takut akan masa depan?",
+            "Saya cemas tentang apa yang akan terjadi di masa depan, bagaimana cara meredakannya?",
+            "Apa yang bisa saya lakukan untuk mengurangi rasa takut terhadap masa depan?",
+            "Mengapa saya merasa cemas tentang masa depan?"
+        ],
+        "responses": [
+            "Cobalah untuk fokus pada apa yang bisa Anda kontrol di masa kini, dan buat langkah-langkah kecil untuk merencanakan masa depan.",
+            "Berlatih mindfulness dan teknik pernapasan dapat membantu Anda tetap fokus pada saat ini dan mengurangi kecemasan tentang hal-hal yang belum terjadi.",
+            "Memiliki rencana atau tujuan jangka pendek bisa membantu Anda merasa lebih terkontrol dan mengurangi rasa takut terhadap masa depan.",
+            "Berbicara dengan seseorang yang Anda percayai bisa membantu Anda mendapatkan perspektif dan meredakan kecemasan.",
+            "Ingatlah bahwa kecemasan adalah reaksi alami terhadap ketidakpastian, tetapi kita bisa mengelola perasaan tersebut dengan cara yang sehat."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "berbicara_tentang_kesehatan_mental",
+        "patterns": [
+            "Bagaimana cara saya mulai berbicara tentang kesehatan mental?",
+            "Apakah aman untuk berbicara tentang masalah mental saya dengan orang lain?",
+            "Bagaimana cara membuka percakapan tentang kesehatan mental?",
+            "Saya merasa sulit untuk berbicara tentang kesehatan mental, apa yang bisa saya lakukan?",
+            "Mengapa penting untuk berbicara tentang kesehatan mental?"
+        ],
+        "responses": [
+            "Mulailah dengan orang yang Anda percayai dan cobalah untuk berbicara dengan jujur tentang perasaan Anda. Mereka mungkin bisa memberi dukungan.",
+            "Berbicara tentang kesehatan mental sangat penting untuk mengurangi stigma dan membangun pemahaman lebih lanjut tentang masalah ini.",
+            "Pilih waktu yang tepat dan cobalah untuk menjelaskan apa yang Anda alami tanpa merasa tertekan untuk mendapatkan respons tertentu.",
+            "Jika merasa sulit, Anda bisa mencoba menulis perasaan Anda terlebih dahulu sebelum membagikannya secara langsung dengan orang lain.",
+            "Ingat bahwa berbicara tentang masalah mental adalah langkah pertama menuju penyembuhan dan membantu orang lain merasa tidak sendirian."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "merawat_diri_selama_stres_kerja",
+        "patterns": [
+            "Bagaimana cara merawat diri sendiri ketika saya stres di tempat kerja?",
+            "Apa yang bisa saya lakukan untuk mengatasi stres di tempat kerja?",
+            "Saya merasa tertekan di pekerjaan, bagaimana cara saya menghadapinya?",
+            "Bagaimana cara menjaga keseimbangan kerja dan kehidupan pribadi jika pekerjaan sangat menekan?",
+            "Apa yang harus saya lakukan jika pekerjaan mulai membuat saya merasa cemas?"
+        ],
+        "responses": [
+            "Cobalah untuk beristirahat secara teratur, seperti berjalan-jalan singkat atau melakukan latihan pernapasan, untuk mengurangi ketegangan.",
+            "Tentukan prioritas di tempat kerja dan atur waktu untuk menyelesaikan tugas-tugas yang penting tanpa terburu-buru.",
+            "Jika stres mulai mengganggu kesejahteraan Anda, bicarakan dengan atasan atau kolega yang bisa memberikan dukungan atau bantuan.",
+            "Pastikan untuk memberi diri Anda waktu untuk diri sendiri setelah jam kerja, seperti melakukan kegiatan yang Anda nikmati atau beristirahat.",
+            "Menjaga batasan dan mengatakan tidak jika beban pekerjaan terlalu banyak juga penting untuk menjaga kesehatan mental Anda."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "menghadapi_beban_emosional",
+        "patterns": [
+            "Bagaimana cara mengatasi beban emosional yang berat?",
+            "Saya merasa emosional dan tidak tahu harus berbuat apa, apa yang bisa saya lakukan?",
+            "Apa yang harus saya lakukan jika saya merasa emosional dan tertekan?",
+            "Bagaimana cara meredakan beban emosional saya?",
+            "Saya merasa sangat emosional akhir-akhir ini, bagaimana cara mengatasinya?"
+        ],
+        "responses": [
+            "Berbicara dengan seseorang yang Anda percayai atau seorang terapis dapat membantu Anda mengelola perasaan emosional.",
+            "Menulis jurnal atau catatan harian bisa membantu Anda mengekspresikan perasaan dan melihatnya dengan lebih jelas.",
+            "Latihan relaksasi atau meditasi juga bisa sangat membantu untuk menenangkan tubuh dan pikiran yang sedang tertekan.",
+            "Cobalah untuk memberi diri Anda waktu untuk beristirahat dan melepaskan diri dari hal-hal yang menambah stres atau beban emosional.",
+            "Sering kali, menerima perasaan kita tanpa menghakimi dan memberi ruang untuk merasakannya adalah langkah pertama menuju penyembuhan."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "menjaga_kesehatan_mental_usia_tua",
+        "patterns": [
+            "Bagaimana cara menjaga kesehatan mental di usia tua?",
+            "Apa yang harus saya lakukan untuk menjaga kesehatan mental ketika semakin menua?",
+            "Kesehatan mental di usia tua itu penting, apa yang bisa saya lakukan?",
+            "Bagaimana cara mengatasi kecemasan tentang penuaan?",
+            "Apa yang perlu diketahui tentang menjaga kesehatan mental di usia lanjut?"
+        ],
+        "responses": [
+            "Aktivitas fisik yang teratur dan menjaga hubungan sosial sangat penting untuk kesehatan mental di usia tua.",
+            "Melibatkan diri dalam hobi, aktivitas kreatif, atau kegiatan sukarela dapat memberikan rasa tujuan dan meningkatkan kesejahteraan.",
+            "Perawatan diri seperti tidur yang cukup dan makan dengan baik juga penting untuk menjaga kesehatan mental di usia lanjut.",
+            "Jika merasa cemas atau kesepian, jangan ragu untuk mencari dukungan melalui kelompok sosial atau terapi untuk meningkatkan kualitas hidup.",
+            "Berteman dengan orang lain, berbicara tentang perasaan, dan menjaga keterlibatan sosial dapat membantu Anda menjaga kesehatan mental."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "memahami_pemicu_kecemasan",
+        "patterns": [
+            "Bagaimana cara memahami pemicu kecemasan?",
+            "Apa yang menyebabkan saya merasa cemas terus-menerus?",
+            "Bagaimana saya tahu apa yang memicu kecemasan saya?",
+            "Apa yang bisa saya lakukan jika saya tahu pemicu kecemasan saya?",
+            "Mengapa saya merasa cemas tentang hal-hal kecil?"
+        ],
+        "responses": [
+            "Mencatat perasaan dan situasi yang memicu kecemasan bisa membantu Anda mengenali pola dan pemicu kecemasan.",
+            "Berbicara dengan seorang profesional bisa membantu Anda memahami lebih dalam tentang kecemasan dan cara mengelolanya.",
+            "Cobalah untuk melatih diri Anda dengan teknik relaksasi atau pernapasan saat Anda merasa cemas untuk meredakan respons tubuh.",
+            "Menyusun rencana atau solusi untuk mengatasi pemicu kecemasan dapat memberi Anda rasa kontrol dan mengurangi rasa cemas.",
+            "Dengan waktu dan latihan, Anda bisa belajar untuk mengelola kecemasan dan merespons pemicu dengan cara yang lebih tenang."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "pendekatan_holistik_untuk_kesehatan_mental",
+        "patterns": [
+            "Apa pendekatan holistik untuk kesehatan mental?",
+            "Bagaimana pendekatan holistik membantu kesehatan mental?",
+            "Apa saja bagian dari pendekatan holistik untuk merawat kesehatan mental?",
+            "Bisakah pendekatan holistik membantu saya mengatasi kecemasan?",
+            "Apa yang dimaksud dengan perawatan holistik dalam konteks kesehatan mental?"
+        ],
+        "responses": [
+            "Pendekatan holistik melibatkan merawat seluruh aspek kehidupan seseorang, termasuk fisik, emosional, mental, dan spiritual.",
+            "Dengan pendekatan ini, Anda bisa menggabungkan terapi berbicara, olahraga, meditasi, pola makan sehat, dan tidur yang cukup untuk mencapai keseimbangan.",
+            "Pendekatan holistik bisa membantu mengurangi stres dan kecemasan dengan menyeimbangkan tubuh dan pikiran.",
+            "Berfokus pada kesejahteraan secara keseluruhan dan mengadopsi gaya hidup yang mendukung kesehatan mental adalah inti dari perawatan holistik.",
+            "Pendekatan holistik mengajak Anda untuk memperhatikan koneksi antara tubuh dan pikiran serta bagaimana keduanya saling memengaruhi."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "mengelola_perasaan_sedih",
+        "patterns": [
+            "Apa yang bisa saya lakukan jika saya merasa sangat sedih?",
+            "Saya merasa tertekan dan tidak tahu harus berbuat apa, apa yang harus saya lakukan?",
+            "Bagaimana cara mengatasi perasaan sedih yang mendalam?",
+            "Mengapa saya merasa begitu sedih akhir-akhir ini?",
+            "Apa yang bisa saya coba untuk mengurangi perasaan sedih?"
+        ],
+        "responses": [
+            "Cobalah berbicara dengan seseorang yang Anda percayai atau seorang profesional untuk membantu Anda memahami dan mengatasi perasaan tersebut.",
+            "Menulis tentang perasaan Anda dalam jurnal dapat membantu Anda mengekspresikan dan memproses kesedihan.",
+            "Melakukan aktivitas yang Anda nikmati atau yang memberi rasa pencapaian bisa membantu memperbaiki suasana hati.",
+            "Perasaan sedih bisa menjadi reaksi normal terhadap peristiwa hidup, tetapi jika bertahan lama, bicarakan dengan seorang konselor atau terapis.",
+            "Beristirahat yang cukup, makan dengan baik, dan menjaga tubuh tetap aktif juga dapat membantu mengurangi perasaan sedih."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "mendukung_orang_dengan_depresi",
+        "patterns": [
+            "Bagaimana saya bisa mendukung teman yang sedang mengalami depresi?",
+            "Apa yang harus saya lakukan jika seseorang yang saya cintai menderita depresi?",
+            "Apa yang bisa saya lakukan untuk membantu seseorang yang merasa sangat tertekan?",
+            "Bagaimana cara mendukung orang yang tidak ingin berbicara tentang depresinya?",
+            "Apa yang bisa saya lakukan jika teman saya menunjukkan tanda-tanda depresi?"
+        ],
+        "responses": [
+            "Dengarkan mereka tanpa menghakimi dan biarkan mereka tahu bahwa Anda peduli dan siap untuk mendukung.",
+            "Berikan dukungan emosional dan dorong mereka untuk mencari bantuan profesional jika perlu, tetapi jangan memaksakan mereka.",
+            "Cobalah untuk memahami gejala depresi, agar Anda dapat memberikan dukungan yang tepat.",
+            "Beri ruang bagi mereka untuk berbicara tentang perasaan mereka jika mereka merasa nyaman, tetapi jangan terlalu mendesak.",
+            "Terkadang, hanya dengan hadir dan memberikan perhatian sudah dapat membantu mereka merasa didukung."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "menangani_rasa_kesepian",
+        "patterns": [
+            "Apa yang harus saya lakukan jika saya merasa sangat kesepian?",
+            "Bagaimana cara mengatasi rasa kesepian yang mendalam?",
+            "Saya merasa kesepian meskipun berada di sekitar orang lain, apa yang bisa saya lakukan?",
+            "Apa yang menyebabkan saya merasa sangat kesepian?",
+            "Bagaimana cara mengurangi rasa kesepian yang kronis?"
+        ],
+        "responses": [
+            "Mulailah dengan mencari kegiatan yang melibatkan orang lain, seperti bergabung dengan kelompok hobi atau menjadi relawan.",
+            "Cobalah untuk lebih berfokus pada kualitas hubungan sosial, bukan kuantitas. Hubungan yang mendalam dan saling mendukung lebih penting.",
+            "Bergabung dengan komunitas atau kelompok yang berbagi minat dapat membantu Anda merasa lebih terhubung dengan orang lain.",
+            "Berbicara dengan seorang konselor atau terapis bisa membantu Anda mengidentifikasi penyebab rasa kesepian dan mencari cara untuk mengatasinya.",
+            "Merawat diri sendiri melalui olahraga, meditasi, atau kegiatan lain yang membuat Anda merasa lebih baik juga dapat mengurangi perasaan kesepian."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "pemulihan_dari_gangguan_kecemasan",
+        "patterns": [
+            "Bagaimana cara saya pulih dari gangguan kecemasan?",
+            "Apa yang harus saya lakukan untuk mengatasi kecemasan yang saya alami?",
+            "Apakah gangguan kecemasan bisa sembuh?",
+            "Saya merasa cemas setiap saat, bagaimana saya bisa menghadapinya?",
+            "Apa langkah pertama untuk memulai pemulihan dari kecemasan?"
+        ],
+        "responses": [
+            "Pemulihan dari gangguan kecemasan sering kali melibatkan terapi, seperti terapi perilaku kognitif (CBT), yang dapat membantu mengelola pola pikir yang menyebabkan kecemasan.",
+            "Mengambil langkah-langkah kecil setiap hari, seperti berlatih relaksasi atau teknik pernapasan, dapat membantu mengurangi kecemasan.",
+            "Terapis atau konselor dapat membantu Anda mengidentifikasi pemicu kecemasan dan memberikan alat untuk mengelola perasaan tersebut.",
+            "Olahraga teratur dan pola tidur yang sehat juga sangat penting untuk mendukung pemulihan dari gangguan kecemasan.",
+            "Jangan ragu untuk mencari dukungan dari teman, keluarga, atau kelompok dukungan yang dapat membantu Anda sepanjang perjalanan pemulihan."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "menghadapi_tantangan_hidup",
+        "patterns": [
+            "Bagaimana cara menghadapinya ketika hidup terasa sangat sulit?",
+            "Apa yang harus saya lakukan ketika menghadapi tantangan besar dalam hidup?",
+            "Hidup terasa berat, bagaimana cara saya bisa menghadapinya?",
+            "Apa yang bisa saya lakukan untuk merasa lebih baik saat menghadapi masalah besar?",
+            "Mengapa hidup terasa begitu sulit saat ini?"
+        ],
+        "responses": [
+            "Cobalah untuk membagi tantangan besar menjadi langkah-langkah kecil yang bisa Anda atasi satu per satu.",
+            "Berbicara dengan seseorang yang Anda percayai dapat memberikan dukungan dan perspektif yang berbeda tentang situasi Anda.",
+            "Penting untuk menjaga pola hidup sehat, seperti tidur yang cukup, makan dengan baik, dan berolahraga untuk menjaga ketahanan mental.",
+            "Percayalah bahwa tantangan hidup adalah bagian dari perjalanan, dan Anda bisa belajar dan tumbuh dari setiap pengalaman tersebut.",
+            "Jangan ragu untuk mencari bantuan dari seorang profesional jika Anda merasa kesulitan mengatasi tantangan tersebut."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "pentingnya_memaafkan_diri_sendiri",
+        "patterns": [
+            "Bagaimana cara memaafkan diri sendiri atas kesalahan masa lalu?",
+            "Saya merasa sangat bersalah, bagaimana cara memaafkan diri saya?",
+            "Apa yang harus saya lakukan untuk melepaskan rasa bersalah dan memaafkan diri sendiri?",
+            "Mengapa sulit bagi saya untuk memaafkan diri sendiri?",
+            "Apa yang dapat saya lakukan untuk belajar memaafkan diri sendiri?"
+        ],
+        "responses": [
+            "Pemaafan dimulai dengan menerima bahwa kita semua membuat kesalahan. Fokus pada belajar dari kesalahan tersebut dan bergerak maju.",
+            "Cobalah untuk berbicara dengan diri Anda sendiri seperti Anda berbicara dengan teman yang Anda sayangi. Berikan diri Anda kebaikan dan pengertian.",
+            "Tuliskan perasaan Anda dan coba lihat situasi tersebut dari sudut pandang yang lebih penuh kasih terhadap diri sendiri.",
+            "Pemaafan diri juga melibatkan pengakuan bahwa Anda sudah berusaha dan bertanggung jawab atas tindakan Anda. Itu adalah bagian dari pertumbuhan pribadi.",
+            "Ingat bahwa memaafkan diri sendiri adalah langkah penting dalam menciptakan kebahagiaan dan kedamaian batin."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "menghadapi_perubahan_besar",
+        "patterns": [
+            "Bagaimana cara menghadapi perubahan besar dalam hidup?",
+            "Apa yang bisa saya lakukan ketika saya harus menghadapi perubahan besar?",
+            "Saya merasa terkejut dengan perubahan dalam hidup saya, apa yang harus saya lakukan?",
+            "Mengapa perubahan bisa begitu menantang untuk dihadapi?",
+            "Apa yang harus saya persiapkan ketika menghadapi perubahan besar?"
+        ],
+        "responses": [
+            "Penting untuk memberi diri Anda waktu untuk beradaptasi dengan perubahan dan menerima perasaan yang muncul.",
+            "Cobalah untuk fokus pada aspek positif dari perubahan tersebut, dan cari peluang baru yang dapat Anda ambil.",
+            "Bergantung pada dukungan dari teman dan keluarga dapat memberikan rasa kenyamanan dan keamanan saat melalui masa transisi.",
+            "Perubahan besar sering kali membawa ketidakpastian, tetapi dengan waktu dan kesabaran, Anda akan bisa menemukan cara untuk beradaptasi.",
+            "Cobalah untuk tetap fleksibel dan terbuka terhadap perubahan. Mengubah perspektif Anda tentang perubahan bisa mengurangi stres yang ditimbulkan."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "menemukan_tujuan_dalam_hidup",
+        "patterns": [
+            "Bagaimana cara menemukan tujuan hidup saya?",
+            "Apa yang harus saya lakukan jika saya merasa tidak memiliki tujuan dalam hidup?",
+            "Saya merasa bingung tentang apa yang harus saya capai dalam hidup, apa yang bisa saya lakukan?",
+            "Mengapa saya merasa kehilangan arah dalam hidup?",
+            "Apa yang bisa saya coba untuk menemukan tujuan hidup saya?"
+        ],
+        "responses": [
+            "Mulailah dengan refleksi diri. Tanyakan pada diri Anda apa yang benar-benar penting bagi Anda dan apa yang membuat Anda merasa bersemangat.",
+            "Cobalah untuk mengeksplorasi berbagai minat atau kegiatan yang membuat Anda merasa hidup dan terinspirasi.",
+            "Berbicara dengan seorang mentor atau konselor bisa membantu Anda menemukan arah atau tujuan dalam hidup Anda.",
+            "Menetapkan tujuan kecil dan mencapainya bisa membantu Anda merasa lebih terarah dan memberi rasa pencapaian.",
+            "Percayalah bahwa tujuan hidup tidak selalu harus besar. Sering kali, tujuan kecil yang bermakna sudah cukup untuk memberikan arti dalam hidup."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "mengatasi_stres_kerja",
+        "patterns": [
+            "Bagaimana cara mengatasi stres yang berasal dari pekerjaan?",
+            "Pekerjaan membuat saya stres, apa yang bisa saya lakukan?",
+            "Saya merasa tertekan di tempat kerja, bagaimana cara saya menghadapinya?",
+            "Apa yang harus saya lakukan ketika pekerjaan mengganggu kesehatan mental saya?",
+            "Bagaimana cara tetap produktif tanpa merasa stres di tempat kerja?"
+        ],
+        "responses": [
+            "Ambil waktu untuk istirahat singkat setiap beberapa jam untuk mengurangi ketegangan fisik dan mental.",
+            "Tetapkan prioritas untuk tugas-tugas Anda dan buatlah daftar pekerjaan yang harus diselesaikan, sehingga Anda bisa fokus pada yang terpenting.",
+            "Berlatih pernapasan dalam atau meditasi dapat membantu menenangkan tubuh dan pikiran Anda di tengah kesibukan.",
+            "Pastikan untuk menetapkan batasan antara pekerjaan dan waktu pribadi. Jangan terlalu membiarkan pekerjaan merambah ke waktu istirahat Anda.",
+            "Cobalah untuk berbicara dengan atasan atau kolega Anda jika Anda merasa beban kerja terlalu berat, mereka mungkin bisa membantu Anda mencari solusi."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "mencapai_keseimbangan_emosional",
+        "patterns": [
+            "Bagaimana cara mencapai keseimbangan emosional dalam hidup?",
+            "Saya merasa emosional, apa yang bisa saya lakukan untuk menenangkan diri?",
+            "Apa yang bisa saya lakukan untuk mengelola emosi saya dengan lebih baik?",
+            "Bagaimana cara menjaga kestabilan emosi dalam kehidupan sehari-hari?",
+            "Apa yang bisa saya lakukan untuk merasa lebih seimbang secara emosional?"
+        ],
+        "responses": [
+            "Melakukan mindfulness atau meditasi secara rutin dapat membantu Anda mengatur perasaan dan meningkatkan keseimbangan emosional.",
+            "Berlatih untuk menerima emosi Anda tanpa menghakimi dapat membantu Anda merasa lebih tenang dan terkontrol.",
+            "Jaga komunikasi yang terbuka dengan orang yang Anda percayai. Berbicara tentang perasaan dapat membantu meredakan ketegangan emosional.",
+            "Tidur yang cukup, makan dengan baik, dan berolahraga dapat mendukung kestabilan emosional dengan meningkatkan kesejahteraan fisik.",
+            "Cobalah untuk mengenali pemicu emosi negatif dan bekerja untuk mengubah pola pikir atau situasi yang memicu perasaan tersebut."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "mengelola_perasaan_tertekan",
+        "patterns": [
+            "Apa yang bisa saya lakukan jika saya merasa tertekan?",
+            "Saya merasa sangat tertekan, bagaimana cara menghadapinya?",
+            "Apa langkah pertama untuk mengatasi perasaan tertekan?",
+            "Saya merasa terjebak dalam perasaan tertekan, apa yang bisa saya lakukan?",
+            "Bagaimana cara mengurangi perasaan tertekan yang berlarut-larut?"
+        ],
+        "responses": [
+            "Cobalah untuk berbicara dengan seseorang yang Anda percayai, atau mencari dukungan dari seorang profesional yang dapat membantu Anda mengatasi perasaan tersebut.",
+            "Menulis jurnal atau meluangkan waktu untuk refleksi diri bisa membantu Anda memproses perasaan tertekan.",
+            "Lakukan aktivitas fisik yang Anda nikmati, seperti berjalan atau berolahraga, yang bisa membantu mengurangi ketegangan tubuh dan mental.",
+            "Luangkan waktu untuk diri sendiri dan lakukan sesuatu yang menyenangkan atau menenangkan untuk mengalihkan perhatian dari perasaan tertekan.",
+            "Berlatih teknik pernapasan atau meditasi dapat membantu Anda mengurangi tingkat stres dan ketegangan emosional."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "mencari_bantuan_profesional",
+        "patterns": [
+            "Bagaimana cara mencari bantuan profesional untuk masalah kesehatan mental?",
+            "Apa yang harus saya lakukan jika saya membutuhkan bantuan profesional?",
+            "Di mana saya bisa menemukan seorang konselor atau psikolog?",
+            "Apa yang perlu saya lakukan untuk memulai terapi atau pengobatan?",
+            "Bagaimana cara memilih profesional kesehatan mental yang tepat?"
+        ],
+        "responses": [
+            "Anda bisa mulai dengan berbicara kepada dokter umum atau pencarian di platform layanan kesehatan mental yang ada di daerah Anda.",
+            "Bergantung pada masalah yang Anda hadapi, memilih seorang psikolog atau psikiater dengan spesialisasi yang sesuai bisa sangat membantu.",
+            "Jangan ragu untuk mencari rujukan dari teman atau keluarga yang mungkin pernah menggunakan layanan profesional.",
+            "Periksa kredensial profesional kesehatan mental dan pastikan mereka memiliki lisensi yang sesuai serta pendekatan yang Anda rasa nyaman.",
+            "Banyak penyedia layanan juga menawarkan sesi percakapan pertama yang gratis atau dengan biaya yang lebih rendah, jadi jangan ragu untuk mencari informasi lebih lanjut."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "menghadapi_stigma_kesehatan_mental",
+        "patterns": [
+            "Bagaimana cara mengatasi stigma tentang kesehatan mental?",
+            "Mengapa ada stigma terhadap orang dengan masalah kesehatan mental?",
+            "Apa yang bisa saya lakukan untuk mengurangi stigma tentang kesehatan mental?",
+            "Stigma terhadap kesehatan mental membuat saya merasa malu, apa yang bisa saya lakukan?",
+            "Mengapa orang takut untuk mencari bantuan karena stigma kesehatan mental?"
+        ],
+        "responses": [
+            "Penting untuk berbicara terbuka tentang kesehatan mental dan berbagi pengalaman agar lebih banyak orang memahami bahwa itu adalah masalah kesehatan yang sah.",
+            "Dukungan dari teman, keluarga, dan komunitas sangat penting untuk mengurangi stigma. Bicarakan masalah kesehatan mental seperti halnya penyakit fisik.",
+            "Dengan mengedukasi orang-orang di sekitar Anda dan menunjukkan bahwa kesehatan mental adalah bagian dari kesehatan secara keseluruhan, kita bisa mengurangi stigma.",
+            "Jangan biarkan stigma menghalangi Anda mencari bantuan. Ingat, memprioritaskan kesehatan mental Anda adalah langkah yang kuat dan berani.",
+            "Berbagi pengalaman Anda dengan orang lain yang juga menghadapi masalah yang sama bisa membantu mengurangi rasa malu dan memperkuat pemahaman."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "menyadari_tanda_tanda_stres",
+        "patterns": [
+            "Bagaimana cara mengetahui jika saya sudah terlalu stres?",
+            "Apa saja tanda-tanda fisik dan mental dari stres?",
+            "Saya merasa cemas dan lelah, apakah itu tanda saya sedang stres?",
+            "Apa yang harus saya perhatikan jika saya merasa tertekan?",
+            "Bagaimana saya tahu jika saya sudah mencapai titik stres yang berbahaya?"
+        ],
+        "responses": [
+            "Tanda-tanda stres meliputi ketegangan fisik, seperti sakit kepala atau sakit punggung, serta perasaan cemas, mudah marah, atau kehilangan konsentrasi.",
+            "Jika Anda merasa lelah, tertekan, atau kehilangan minat pada kegiatan yang biasanya Anda nikmati, itu bisa menjadi tanda stres yang berlebihan.",
+            "Perubahan dalam pola tidur atau nafsu makan, serta peningkatan kecemasan atau kesulitan bernafas, juga bisa menunjukkan tingkat stres yang tinggi.",
+            "Jangan abaikan tanda-tanda stres. Jika Anda merasa stres terus-menerus, pertimbangkan untuk mencari dukungan profesional.",
+            "Penting untuk mengenali tanda-tanda tubuh dan pikiran Anda yang memberi tahu bahwa Anda membutuhkan istirahat atau pengelolaan stres yang lebih baik."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "mengelola_perasaan_terluka",
+        "patterns": [
+            "Apa yang bisa saya lakukan jika saya merasa terluka secara emosional?",
+            "Bagaimana cara mengatasi perasaan terluka oleh orang lain?",
+            "Saya merasa disakiti oleh seseorang, apa yang bisa saya lakukan?",
+            "Bagaimana cara mengatasi rasa sakit emosional yang mendalam?",
+            "Apa yang harus saya lakukan jika saya merasa sangat terluka secara emosional?"
+        ],
+        "responses": [
+            "Cobalah untuk memberi diri Anda waktu untuk merasakan perasaan tersebut dan menerima bahwa perasaan terluka adalah bagian dari pengalaman manusia.",
+            "Berbicara dengan seseorang yang Anda percayai atau seorang terapis dapat membantu Anda memproses perasaan dan menemukan cara untuk sembuh.",
+            "Menulis tentang perasaan Anda dalam jurnal atau berlatih teknik pernapasan bisa membantu meredakan perasaan terluka.",
+            "Berfokus pada penyembuhan diri dan memberi diri Anda izin untuk merasa dan sembuh secara perlahan bisa membantu Anda mengatasi rasa sakit tersebut.",
+            "Jangan terlalu keras pada diri Anda. Setiap orang mengalami perasaan terluka, dan ini adalah bagian dari perjalanan menuju kesembuhan."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "mengenali_batasan_diri",
+        "patterns": [
+            "Bagaimana cara mengenali batasan diri saya?",
+            "Saya sering merasa terbebani, bagaimana cara mengetahui batasan saya?",
+            "Apa yang harus saya lakukan jika saya merasa kelelahan karena terlalu banyak tugas?",
+            "Bagaimana cara menjaga batasan pribadi dalam hubungan?",
+            "Apa tanda bahwa saya sudah melewati batasan pribadi saya?"
+        ],
+        "responses": [
+            "Mengidentifikasi batasan diri melibatkan pemahaman tentang kebutuhan fisik, emosional, dan mental Anda, serta mengenali saat Anda merasa kelelahan atau tidak nyaman.",
+            "Cobalah untuk mendengarkan tubuh dan pikiran Anda. Jika Anda merasa stres atau tertekan, itu bisa menjadi tanda bahwa Anda perlu menetapkan batasan.",
+            "Berbicara dengan orang lain tentang batasan Anda dan belajar untuk mengatakan 'tidak' dengan cara yang penuh hormat sangat penting untuk menjaga kesejahteraan Anda.",
+            "Mengenali tanda-tanda stres atau kelelahan adalah cara untuk mulai menyadari kapan Anda perlu memberi diri Anda ruang atau waktu untuk diri sendiri.",
+            "Menetapkan batasan adalah bentuk perawatan diri. Ini membantu Anda menjaga keseimbangan dan menghindari merasa terbebani."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "mengelola_kecemasan_performansi",
+        "patterns": [
+            "Bagaimana cara mengelola kecemasan sebelum presentasi atau ujian?",
+            "Saya merasa cemas setiap kali harus tampil di depan umum, apa yang bisa saya lakukan?",
+            "Bagaimana cara mengatasi rasa takut gagal sebelum melakukan sesuatu yang penting?",
+            "Apa yang bisa saya coba untuk meredakan kecemasan performansi?",
+            "Saya selalu cemas ketika harus berbicara di depan banyak orang, apa yang harus saya lakukan?"
+        ],
+        "responses": [
+            "Cobalah untuk berlatih terlebih dahulu di depan teman atau keluarga untuk merasa lebih siap.",
+            "Latihan pernapasan dalam dapat membantu menenangkan tubuh dan meredakan kecemasan sebelum tampil.",
+            "Fokus pada pesan atau tujuan yang ingin Anda sampaikan, bukan pada penilaian orang lain.",
+            "Cobalah untuk mengubah pola pikir Anda tentang kegagalan. Lihatlah setiap kesempatan sebagai peluang untuk belajar.",
+            "Ingatlah bahwa kecemasan adalah reaksi normal terhadap situasi baru. Bersikaplah lembut pada diri sendiri dan beri diri Anda waktu untuk beradaptasi."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "pentingnya_beristirahat_untuk_kesehatan_mental",
+        "patterns": [
+            "Mengapa beristirahat itu penting untuk kesehatan mental?",
+            "Bagaimana cara beristirahat dengan efektif untuk menjaga keseimbangan mental?",
+            "Saya merasa kelelahan mental, apa yang harus saya lakukan?",
+            "Beristirahat untuk kesehatan mental itu penting, apa yang harus saya lakukan?",
+            "Apakah tidur yang cukup bisa membantu kesehatan mental saya?"
+        ],
+        "responses": [
+            "Beristirahat dengan cukup memberi otak dan tubuh kesempatan untuk pulih dan mengurangi stres.",
+            "Mengambil waktu untuk beristirahat, baik secara fisik maupun mental, penting untuk mengurangi kecemasan dan meningkatkan mood.",
+            "Tidur yang cukup memungkinkan tubuh Anda untuk memulihkan energi, memperbaiki fungsi otak, dan mengurangi emosi negatif.",
+            "Cobalah untuk meluangkan waktu sejenak untuk diri sendiri, seperti berjalan-jalan di alam, membaca buku, atau hanya menikmati keheningan.",
+            "Beristirahat juga berarti memberi waktu bagi diri Anda untuk tidak terhubung dengan pekerjaan atau tekanan lainnya, untuk menjaga keseimbangan hidup."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "strategi_mengelola_kecemasan",
+        "patterns": [
+            "Apa yang bisa saya lakukan untuk mengelola kecemasan sehari-hari?",
+            "Bagaimana cara mengurangi kecemasan tanpa obat?",
+            "Apa saja teknik untuk mengatasi kecemasan yang berlebihan?",
+            "Saya merasa sangat cemas setiap hari, bagaimana saya bisa menghadapinya?",
+            "Apa yang bisa saya lakukan saat kecemasan mulai menguasai saya?"
+        ],
+        "responses": [
+            "Berlatih mindfulness atau meditasi dapat membantu Anda tetap fokus pada saat ini dan mengurangi kecemasan.",
+            "Cobalah teknik pernapasan dalam atau visualisasi positif untuk menenangkan pikiran Anda saat merasa cemas.",
+            "Bergerak atau berolahraga ringan dapat melepaskan ketegangan tubuh dan meredakan kecemasan.",
+            "Mencatat perasaan Anda dalam jurnal dapat membantu Anda mengenali pola kecemasan dan menemukan cara untuk menghadapinya.",
+            "Mengatur rutinitas harian yang seimbang dan memberi diri Anda waktu untuk beristirahat juga dapat membantu mengurangi kecemasan."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "menghadapi_perasaan_menyesal",
+        "patterns": [
+            "Apa yang harus saya lakukan jika saya merasa menyesal?",
+            "Bagaimana cara mengatasi perasaan menyesal tentang keputusan yang saya buat?",
+            "Saya merasa sangat menyesal, apa yang bisa saya lakukan?",
+            "Apa yang bisa membantu meredakan rasa menyesal?",
+            "Bagaimana cara saya melepaskan rasa menyesal dan melanjutkan hidup?"
+        ],
+        "responses": [
+            "Memaafkan diri sendiri adalah langkah pertama untuk melepaskan rasa menyesal. Setiap orang membuat kesalahan.",
+            "Refleksi diri dapat membantu Anda memahami mengapa Anda merasa menyesal, tetapi juga untuk belajar dari pengalaman tersebut.",
+            "Cobalah untuk fokus pada tindakan positif yang bisa Anda ambil sekarang untuk memperbaiki situasi atau membuat perubahan.",
+            "Bicarakan perasaan Anda dengan seseorang yang Anda percayai untuk melepaskan rasa menyesal dan mendapatkan perspektif baru.",
+            "Ingatlah bahwa menyesal adalah bagian dari proses belajar. Setiap keputusan yang kita buat memberikan kesempatan untuk tumbuh."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "mencapai_kebahagiaan_sejati",
+        "patterns": [
+            "Apa yang bisa saya lakukan untuk mencapai kebahagiaan sejati?",
+            "Bagaimana cara menemukan kebahagiaan yang abadi?",
+            "Saya merasa tidak bahagia, bagaimana saya bisa merasa lebih bahagia?",
+            "Apa yang harus saya lakukan untuk merasa puas dan bahagia dalam hidup?",
+            "Mengapa saya merasa kesulitan untuk menemukan kebahagiaan?"
+        ],
+        "responses": [
+            "Kebahagiaan sejati datang dari dalam diri Anda. Mulailah dengan menerima diri Anda sepenuhnya dan menghargai perjalanan hidup Anda.",
+            "Cobalah untuk fokus pada hal-hal yang Anda syukuri dan nikmati kebahagiaan dalam hal-hal kecil sehari-hari.",
+            "Membangun hubungan yang sehat dengan orang-orang yang Anda sayangi dan memberikan kontribusi positif pada kehidupan orang lain bisa memperkaya kebahagiaan Anda.",
+            "Temukan tujuan yang memberi makna dalam hidup Anda. Kebahagiaan sejati sering kali berasal dari menjalani hidup yang bermakna.",
+            "Berlatih bersyukur setiap hari dan menikmati waktu untuk diri sendiri dapat membawa kebahagiaan yang lebih besar."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "menghadapi_rasa_cemas_dan_ketidakpastian",
+        "patterns": [
+            "Bagaimana cara saya menghadapi ketidakpastian hidup?",
+            "Saya merasa cemas tentang masa depan, apa yang harus saya lakukan?",
+            "Apa yang bisa saya lakukan ketika saya merasa cemas tentang hal-hal yang tidak pasti?",
+            "Ketidakpastian membuat saya cemas, bagaimana saya menghadapinya?",
+            "Apa yang dapat saya lakukan jika saya merasa tidak tahu apa yang akan terjadi selanjutnya?"
+        ],
+        "responses": [
+            "Cobalah untuk fokus pada hal-hal yang Anda bisa kontrol dan beri diri Anda izin untuk melepaskan hal-hal yang di luar kendali Anda.",
+            "Penerimaan terhadap ketidakpastian adalah kunci. Latih diri Anda untuk hidup lebih fleksibel dan terbuka terhadap kemungkinan yang ada.",
+            "Berbicara dengan seorang konselor atau terapis bisa membantu Anda memproses kecemasan tentang ketidakpastian dan memberi Anda cara-cara untuk menghadapinya.",
+            "Menggunakan teknik relaksasi atau mindfulness dapat membantu menenangkan pikiran dan mengurangi kecemasan terhadap masa depan.",
+            "Berlatih untuk menghadapi ketidakpastian dengan langkah kecil, seperti mengambil keputusan kecil dengan penuh keyakinan, bisa membantu mengurangi kecemasan."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "menjaga_kesehatan_mental_saat_krisis",
+        "patterns": [
+            "Apa yang harus saya lakukan untuk menjaga kesehatan mental saya selama masa krisis?",
+            "Bagaimana cara mengelola stres ketika hidup terasa penuh krisis?",
+            "Saya merasa cemas dan takut selama masa krisis, apa yang bisa saya lakukan?",
+            "Apa yang bisa saya lakukan untuk merasa lebih baik selama situasi yang penuh krisis?",
+            "Bagaimana cara menjaga keseimbangan mental saat menghadapi tantangan besar?"
+        ],
+        "responses": [
+            "Jaga rutinitas harian Anda sebisa mungkin untuk memberikan rasa kontrol di tengah ketidakpastian.",
+            "Cobalah untuk tetap terhubung dengan orang yang Anda percayai untuk mendapatkan dukungan sosial yang penting.",
+            "Beri diri Anda izin untuk merasa cemas, tetapi fokuslah pada langkah-langkah kecil yang dapat Anda ambil untuk mengurangi stres.",
+            "Berlatih teknik pernapasan atau meditasi untuk menenangkan pikiran dan mengurangi kecemasan yang muncul selama krisis.",
+            "Mencari cara-cara untuk memberi diri Anda waktu untuk merawat diri sendiri, seperti dengan aktivitas yang menenangkan atau istirahat yang cukup, bisa membantu menjaga keseimbangan mental."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "mengatasi_rasa_putus_asa",
+        "patterns": [
+            "Apa yang harus saya lakukan jika saya merasa sangat putus asa?",
+            "Saya merasa tidak ada harapan, bagaimana cara saya menghadapinya?",
+            "Bagaimana cara mengatasi perasaan putus asa yang mendalam?",
+            "Apa yang bisa saya lakukan saat saya merasa seperti tidak ada jalan keluar?",
+            "Mengapa saya merasa begitu putus asa dan bagaimana saya bisa mengubahnya?"
+        ],
+        "responses": [
+            "Cobalah untuk berbicara dengan seseorang yang Anda percayai atau seorang profesional untuk mendapatkan perspektif dan dukungan.",
+            "Ingat bahwa perasaan putus asa adalah sementara. Fokus pada langkah-langkah kecil untuk membangun kembali harapan dan motivasi.",
+            "Berlatih mindfulness atau meditasi dapat membantu Anda merasa lebih tenang dan lebih terhubung dengan saat ini, mengurangi perasaan putus asa.",
+            "Beri diri Anda waktu untuk merawat diri dan jangan ragu untuk meminta bantuan dari seorang konselor atau terapis.",
+            "Seringkali, perasaan putus asa datang setelah kegagalan atau kesulitan. Cobalah untuk melihat ini sebagai kesempatan untuk belajar dan berkembang."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "mengatasi_stres_berlebih",
+        "patterns": [
+            "Bagaimana cara mengatasi stres yang berlebihan?",
+            "Saya merasa sangat tertekan, bagaimana cara meredakannya?",
+            "Apa yang harus saya lakukan jika saya merasa tertekan sepanjang waktu?",
+            "Stres saya terlalu banyak, apa yang bisa saya coba?",
+            "Apa cara terbaik untuk mengelola stres yang datang setiap hari?"
+        ],
+        "responses": [
+            "Cobalah untuk mengenali penyebab stres dan atasi satu per satu, hindari merasa terbebani dengan segala hal sekaligus.",
+            "Teknik relaksasi seperti pernapasan dalam, meditasi, atau yoga dapat membantu menenangkan pikiran dan tubuh.",
+            "Jangan ragu untuk meminta bantuan dari teman atau seorang profesional. Berbicara tentang perasaan dapat membantu melepaskan ketegangan.",
+            "Mengatur waktu dengan baik dan memberikan diri Anda ruang untuk beristirahat sangat penting untuk mengurangi stres.",
+            "Cobalah untuk berfokus pada hal-hal yang bisa Anda kendalikan dan beri diri Anda izin untuk tidak sempurna."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "memperbaiki_kesehatan_mental_setelah_trauma",
+        "patterns": [
+            "Bagaimana cara memulihkan kesehatan mental setelah trauma?",
+            "Saya merasa terpengaruh oleh masa lalu, bagaimana cara menghadapinya?",
+            "Apa yang bisa saya lakukan jika trauma masa lalu mengganggu hidup saya?",
+            "Bagaimana saya bisa sembuh dari trauma emosional?",
+            "Apa yang bisa membantu mengatasi dampak trauma yang saya alami?"
+        ],
+        "responses": [
+            "Penting untuk berbicara dengan seorang terapis yang dapat membantu Anda memahami dan memproses trauma tersebut.",
+            "Cobalah untuk memberi diri Anda waktu untuk sembuh dan tidak terburu-buru dalam proses penyembuhan.",
+            "Terapi perilaku kognitif (CBT) dan terapi berbicara lainnya bisa sangat membantu untuk mengatasi trauma dan mengurangi dampaknya.",
+            "Praktikkan self-care, seperti menjaga pola tidur yang sehat, makan dengan baik, dan berolahraga, untuk mendukung kesehatan mental Anda.",
+            "Bergabung dengan kelompok dukungan atau berbicara dengan orang yang Anda percayai dapat memberikan kenyamanan dan rasa aman saat berbagi pengalaman."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "meningkatkan_kualitas_tidur",
+        "patterns": [
+            "Apa yang bisa saya lakukan untuk meningkatkan kualitas tidur saya?",
+            "Tidur saya terganggu, apa yang bisa saya coba?",
+            "Saya merasa tidak cukup tidur, bagaimana cara tidur yang lebih nyenyak?",
+            "Mengapa kualitas tidur saya buruk dan bagaimana cara memperbaikinya?",
+            "Bagaimana cara tidur lebih nyenyak tanpa gangguan?"
+        ],
+        "responses": [
+            "Cobalah untuk menciptakan rutinitas tidur yang konsisten, seperti tidur dan bangun pada jam yang sama setiap hari.",
+            "Hindari kafein, alkohol, dan makanan berat beberapa jam sebelum tidur.",
+            "Ciptakan lingkungan tidur yang nyaman, seperti memastikan ruangan gelap, tenang, dan sejuk.",
+            "Berlatih relaksasi, seperti meditasi atau pernapasan dalam, bisa membantu Anda menenangkan tubuh sebelum tidur.",
+            "Kurangi paparan layar elektronik setidaknya satu jam sebelum tidur untuk membantu tubuh Anda mempersiapkan tidur yang lebih nyenyak."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "memahami_kecemasan",
+        "patterns": [
+            "Apa itu kecemasan dan bagaimana cara saya menghadapinya?",
+            "Mengapa saya merasa cemas setiap waktu?",
+            "Apa yang menyebabkan kecemasan berlebihan dan bagaimana cara mengatasinya?",
+            "Saya merasa cemas tanpa alasan yang jelas, bagaimana cara menghadapinya?",
+            "Bagaimana cara memahami dan mengelola kecemasan?"
+        ],
+        "responses": [
+            "Kecemasan adalah respons tubuh terhadap stres dan ketidakpastian, dan bisa dikelola dengan pendekatan seperti pernapasan dalam atau terapi.",
+            "Identifikasi pemicu kecemasan dan coba ubah pola pikir yang mungkin memperburuk perasaan tersebut.",
+            "Terapi kognitif-perilaku (CBT) adalah metode yang efektif untuk mengelola kecemasan dengan membantu mengubah pola pikir yang negatif.",
+            "Berlatih mindfulness atau meditasi dapat membantu Anda tetap terhubung dengan saat ini dan mengurangi kecemasan tentang masa depan.",
+            "Bergabung dengan kelompok dukungan atau berbicara dengan seorang profesional dapat membantu Anda belajar cara-cara untuk mengelola kecemasan."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "menerima_diri_sendiri",
+        "patterns": [
+            "Bagaimana cara menerima diri saya apa adanya?",
+            "Saya merasa kesulitan untuk menerima diri saya, bagaimana cara mengatasinya?",
+            "Mengapa saya merasa tidak cukup baik dan bagaimana cara menerima diri saya?",
+            "Apa yang bisa saya lakukan untuk merasa lebih baik tentang diri saya?",
+            "Bagaimana cara belajar menerima kekurangan diri saya?"
+        ],
+        "responses": [
+            "Menerima diri sendiri dimulai dengan mengakui kekuatan dan kelemahan kita tanpa menghakimi diri sendiri.",
+            "Praktikkan self-compassion dengan berbicara dengan diri Anda sendiri seperti Anda berbicara dengan teman baik.",
+            "Cobalah untuk fokus pada apa yang telah Anda capai dan beri penghargaan kepada diri Anda atas setiap langkah kecil yang diambil.",
+            "Jangan terlalu keras pada diri sendiri. Setiap orang memiliki kekurangan, tetapi itu bukanlah alasan untuk meremehkan diri sendiri.",
+            "Berlatihlah untuk melihat diri Anda dengan kasih sayang dan penghargaan, tanpa perbandingan dengan orang lain."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "mengenali_tanda_tanda_stres",
+        "patterns": [
+            "Bagaimana cara saya tahu jika saya sedang stres?",
+            "Apa tanda-tanda fisik dan mental dari stres?",
+            "Bagaimana cara mengenali gejala stres yang berlebihan?",
+            "Saya merasa tertekan, apa yang bisa saya lakukan?",
+            "Apa yang harus saya lakukan jika saya mulai merasa sangat stres?"
+        ],
+        "responses": [
+            "Tanda stres bisa meliputi sakit kepala, ketegangan otot, kelelahan, atau perubahan nafsu makan dan tidur.",
+            "Stres bisa membuat Anda merasa cemas, mudah tersinggung, atau kesulitan berkonsentrasi.",
+            "Cobalah untuk mengenali perasaan atau reaksi fisik Anda yang bisa menunjukkan bahwa Anda sedang stres.",
+            "Penting untuk segera mengelola stres dengan teknik relaksasi atau berbicara dengan seseorang yang Anda percayai.",
+            "Mengatur waktu untuk istirahat dan menjaga keseimbangan pekerjaan dan kehidupan pribadi dapat membantu mengurangi stres."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "membangun_hubungan_yang_sehat",
+        "patterns": [
+            "Bagaimana cara membangun hubungan yang sehat?",
+            "Apa yang bisa saya lakukan untuk memperbaiki hubungan saya?",
+            "Apa yang membuat suatu hubungan menjadi sehat?",
+            "Bagaimana cara menjaga hubungan yang positif dengan orang lain?",
+            "Apa yang harus saya lakukan untuk menghindari konflik dalam hubungan?"
+        ],
+        "responses": [
+            "Komunikasi yang terbuka dan jujur adalah kunci utama dalam hubungan yang sehat.",
+            "Pastikan untuk mendengarkan dengan penuh perhatian dan memberikan dukungan kepada pasangan atau teman Anda.",
+            "Berikan ruang untuk kedua pihak dalam hubungan untuk berkembang dan mempertahankan diri, namun tetap menjaga kedekatan.",
+            "Saling menghargai dan memberi ruang untuk perbedaan adalah fondasi penting dari hubungan yang sehat.",
+            "Bersikap fleksibel dan belajar untuk menyelesaikan perbedaan secara konstruktif tanpa saling menyakiti sangat penting dalam hubungan."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "mengelola_perasaan_terluka_oleh_orang_lain",
+        "patterns": [
+            "Bagaimana cara mengatasi perasaan terluka akibat orang lain?",
+            "Apa yang bisa saya lakukan jika seseorang menyakiti perasaan saya?",
+            "Saya merasa terluka oleh orang yang saya cintai, bagaimana cara menghadapinya?",
+            "Bagaimana cara memaafkan orang yang telah menyakiti saya?",
+            "Apa yang bisa membantu jika saya merasa dikhianati oleh seseorang?"
+        ],
+        "responses": [
+            "Berbicara dengan orang yang Anda percayai dapat membantu Anda mengatasi perasaan terluka dan memahami lebih baik.",
+            "Cobalah untuk memahami perspektif orang lain dan menghindari membiarkan perasaan terluka mengendalikan reaksi Anda.",
+            "Memaafkan adalah cara untuk melepaskan perasaan sakit dan memberi ruang bagi penyembuhan, tetapi itu membutuhkan waktu dan proses.",
+            "Luangkan waktu untuk merawat diri dan memberi diri Anda kesempatan untuk pulih dari perasaan terluka.",
+            "Beri diri Anda izin untuk merasakan perasaan Anda, tetapi juga cobalah untuk menjaga perspektif agar tidak terjebak dalam perasaan negatif."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "melukai_diri_sendiri",
+        "patterns": [
+            "Apa yang harus saya lakukan jika saya merasa ingin melukai diri sendiri?",
+            "Saya merasa ingin menyakiti diri sendiri, bagaimana saya menghadapinya?",
+            "Bagaimana cara mengatasi keinginan untuk melukai diri sendiri?",
+            "Saya merasa tidak berharga dan ingin menyakiti diri saya, apa yang harus saya lakukan?",
+            "Kenapa saya merasa ingin melukai diri sendiri dan bagaimana cara menghentikannya?"
+        ],
+        "responses": [
+            "Penting untuk mencari bantuan segera, berbicara dengan seorang konselor atau terapis dapat membantu Anda mengatasi perasaan tersebut.",
+            "Cobalah untuk mengalihkan perhatian dengan melakukan aktivitas yang menyenangkan atau menenangkan, seperti berjalan, menggambar, atau berolahraga.",
+            "Berbicara dengan seseorang yang Anda percayai tentang perasaan ini bisa membantu meringankan beban emosional yang Anda rasakan.",
+            "Ingat bahwa melukai diri sendiri tidak akan menyelesaikan masalah, dan mencari bantuan profesional adalah langkah penting untuk kesembuhan.",
+            "Jika Anda merasa dalam bahaya atau kesulitan untuk mengendalikan perasaan tersebut, segera hubungi layanan darurat atau seorang profesional."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "melukai_orang_lain",
+        "patterns": [
+            "Apa yang harus saya lakukan jika saya merasa ingin melukai orang lain?",
+            "Saya merasa sangat marah dan ingin menyakiti seseorang, bagaimana saya menghadapinya?",
+            "Bagaimana cara mengendalikan kemarahan agar tidak melukai orang lain?",
+            "Saya merasa cemas dan ingin melukai orang lain, apa yang harus saya lakukan?",
+            "Kenapa saya merasa ingin menyakiti orang lain dan bagaimana cara menghentikannya?"
+        ],
+        "responses": [
+            "Jika Anda merasa cemas atau marah, segera berhenti dan tarik napas dalam-dalam. Cobalah untuk meredakan perasaan tersebut dengan menjauh sejenak dari situasi.",
+            "Mencari dukungan dari seorang konselor atau terapis sangat penting untuk membantu Anda mengelola kemarahan dan perasaan yang membangun keinginan untuk menyakiti.",
+            "Cobalah untuk menggantikan impuls tersebut dengan kegiatan yang lebih konstruktif, seperti berolahraga atau melakukan aktivitas kreatif.",
+            "Jangan ragu untuk berbicara dengan seseorang yang Anda percayai untuk memahami perasaan Anda dengan lebih baik dan mencari cara untuk mengelola kemarahan.",
+            "Jika perasaan Anda semakin intens, segera cari bantuan profesional untuk mengatasi masalah ini sebelum terjadi sesuatu yang tidak diinginkan."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "penanganan_kemarahan_berlebihan",
+        "patterns": [
+            "Bagaimana cara mengatasi kemarahan yang berlebihan?",
+            "Saya merasa marah terus-menerus, bagaimana cara mengendalikannya?",
+            "Apa yang harus saya lakukan saat saya merasa marah tanpa kendali?",
+            "Kemarahanku sering melukai orang lain, bagaimana cara menghentikannya?",
+            "Apa yang harus saya lakukan jika saya merasa tidak bisa mengontrol kemarahan?"
+        ],
+        "responses": [
+            "Cobalah untuk mengenali pemicu kemarahan Anda dan buat rencana untuk menghadapinya dengan cara yang lebih sehat, seperti berbicara dengan tenang atau berlatih pernapasan dalam.",
+            "Berlatih teknik relaksasi seperti meditasi, yoga, atau latihan pernapasan dapat membantu Anda menenangkan diri dan mengurangi intensitas kemarahan.",
+            "Mendekati masalah dengan cara yang lebih rasional dan terfokus pada solusi dapat membantu Anda mengelola kemarahan secara lebih konstruktif.",
+            "Berbicara dengan seorang terapis atau konselor dapat membantu Anda memahami akar kemarahan dan mengatasi perasaan tersebut dengan cara yang sehat.",
+            "Jika Anda merasa kemarahan mulai menguasai diri Anda, cobalah untuk mengambil waktu sejenak untuk menjauh dari situasi dan memberi diri Anda ruang untuk meredakan emosi."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "berbicara_tentang_melukai_diri_sendiri",
+        "patterns": [
+            "Saya merasa ingin melukai diri sendiri, bagaimana cara berbicara tentangnya?",
+            "Apa yang harus saya katakan kepada seseorang jika saya merasa ingin menyakiti diri saya?",
+            "Saya merasa kesulitan untuk mengungkapkan perasaan ini, bagaimana saya bisa mulai berbicara tentang melukai diri sendiri?",
+            "Saya merasa sangat tertekan, bagaimana cara saya mengungkapkan keinginan untuk melukai diri sendiri?",
+            "Bagaimana saya bisa meminta bantuan untuk perasaan saya yang ingin melukai diri sendiri?"
+        ],
+        "responses": [
+            "Berbicara dengan seseorang yang Anda percayai, seperti teman dekat atau anggota keluarga, adalah langkah pertama yang penting.",
+            "Mulailah dengan berbicara tentang perasaan Anda dengan lembut, menjelaskan bahwa Anda merasa tertekan atau cemas dan membutuhkan bantuan.",
+            "Cobalah untuk menulis tentang perasaan Anda jika berbicara terasa sulit. Menulis bisa menjadi cara yang aman untuk mengungkapkan emosi Anda.",
+            "Penting untuk mengingat bahwa melukai diri sendiri adalah sinyal untuk mencari bantuan. Anda tidak perlu menghadapinya sendirian.",
+            "Jika Anda merasa tidak mampu mengontrol perasaan tersebut, segera hubungi profesional atau layanan darurat untuk mendapatkan dukungan."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "mencari_bantuan_pentingnya",
+        "patterns": [
+            "Mengapa penting untuk mencari bantuan jika saya merasa ingin melukai diri sendiri?",
+            "Apa yang harus saya lakukan jika saya merasa ingin melukai orang lain?",
+            "Bagaimana cara tahu kapan saatnya mencari bantuan profesional?",
+            "Mengapa mencari bantuan sangat penting jika saya merasa cemas atau marah berlebihan?",
+            "Saya merasa bingung, apakah saya perlu mencari bantuan jika saya merasa ingin melukai diri sendiri?"
+        ],
+        "responses": [
+            "Mencari bantuan adalah langkah pertama untuk mengatasi perasaan tersebut dengan cara yang lebih sehat dan aman.",
+            "Bantuan dari seorang profesional dapat memberikan wawasan tentang perasaan Anda dan membantu Anda menemukan cara yang lebih positif untuk menghadapinya.",
+            "Seorang konselor atau terapis dapat memberikan dukungan yang Anda butuhkan untuk mengatasi perasaan dan memberi Anda alat untuk mengelola perasaan tersebut.",
+            "Mengakui bahwa Anda membutuhkan bantuan adalah langkah berani menuju pemulihan. Anda tidak perlu menghadapi perasaan tersebut sendirian.",
+            "Jika perasaan tersebut mulai mengganggu kehidupan sehari-hari Anda atau menyebabkan bahaya pada diri sendiri atau orang lain, segera cari bantuan profesional."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "melukai_diri_sendiri_terhadap_keluarga",
+        "patterns": [
+            "Bagaimana cara memberi tahu keluarga jika saya merasa ingin melukai diri sendiri?",
+            "Apa yang harus saya katakan kepada orang tua saya jika saya merasa ingin menyakiti diri saya?",
+            "Saya ingin berbicara dengan keluarga saya tentang perasaan saya, tapi saya merasa takut melakukannya. Apa yang harus saya lakukan?",
+            "Bagaimana saya bisa membuka diri kepada keluarga tentang perasaan saya yang ingin melukai diri sendiri?",
+            "Keluarga saya tidak mengerti masalah saya. Bagaimana saya bisa memberi tahu mereka bahwa saya butuh bantuan?"
+        ],
+        "responses": [
+            "Mulailah dengan berbicara secara terbuka dan jujur tentang perasaan Anda, mengungkapkan bahwa Anda membutuhkan dukungan tanpa merasa dihakimi.",
+            "Cobalah untuk berbicara dengan cara yang jelas, beri tahu mereka bahwa Anda sedang berjuang dan membutuhkan bantuan dari mereka.",
+            "Jika Anda merasa tidak bisa berbicara langsung, pertimbangkan untuk menulis surat atau pesan untuk mengungkapkan perasaan Anda.",
+            "Pastikan untuk memilih waktu yang tepat untuk berbicara, dan berikan ruang bagi keluarga Anda untuk mendengarkan dan merespons dengan empati.",
+            "Jika Anda merasa takut atau cemas berbicara langsung, cobalah untuk mencari dukungan dari seorang konselor atau terapis yang bisa membantu mediasi percakapan."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "bantuan_darurat_bunuh_diri",
+        "patterns": [
+            "Aku mau bunuh diri",
+            "Aku merasa sangat ingin mengakhiri hidupku",
+            "Aku merasa tak ada harapan lagi, ingin mati",
+            "Aku merasa sangat depresi, apakah ini waktu yang tepat untuk mengakhiri hidupku?",
+            "Aku sudah lelah, aku ingin mengakhiri semuanya"
+        ],
+        "responses": [
+            "Saya sangat menyesal Anda merasa seperti ini, tetapi penting untuk segera mendapatkan bantuan. Anda tidak sendirian dalam perasaan ini.",
+            "Silakan hubungi layanan darurat atau berbicara dengan seorang profesional segera. Hidup Anda sangat berharga, dan bantuan tersedia untuk Anda.",
+            "Penting untuk berbicara dengan seseorang yang dapat memberikan dukungan, seperti teman, keluarga, atau seorang konselor. Jangan menahan perasaan ini sendirian.",
+            "Ada banyak orang yang peduli pada Anda dan siap membantu. Segera hubungi layanan bantuan darurat atau seorang profesional untuk dukungan lebih lanjut.",
+            "Harap pertimbangkan untuk segera menghubungi layanan darurat atau berbicara dengan seseorang yang Anda percayai. Anda penting dan layak mendapatkan bantuan."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "mencari_bantuan_darurat",
+        "patterns": [
+            "Aku tidak tahu harus kemana, aku merasa ingin bunuh diri",
+            "Aku sudah tidak tahan lagi, apa yang harus aku lakukan?",
+            "Perasaan ini sangat berat, aku ingin mati, apakah ada bantuan untukku?",
+            "Aku tidak tahu harus mulai dari mana, tapi aku merasa ingin mengakhiri semuanya",
+            "Aku merasa sangat terpuruk, aku butuh bantuan tapi tidak tahu ke mana"
+        ],
+        "responses": [
+            "Jika Anda merasa seperti ini, sangat penting untuk berbicara dengan seorang profesional atau menelepon layanan darurat yang bisa memberikan bantuan segera.",
+            "Tolong hubungi nomor darurat atau seseorang yang Anda percayai untuk mendapatkan dukungan. Jangan biarkan perasaan ini menguasai Anda.",
+            "Ada banyak orang yang siap membantu Anda. Anda bisa menghubungi layanan bantuan krisis atau seorang konselor untuk dukungan.",
+            "Jangan menunggu lebih lama. Segera hubungi layanan bantuan bunuh diri atau berbicara dengan seseorang yang Anda percayai untuk mendapatkan pertolongan.",
+            "Anda tidak sendirian. Ada banyak orang yang peduli pada Anda dan siap membantu Anda melalui masa sulit ini. Hubungi bantuan segera."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "melukai_diri_sendiri_ekspresif",
+        "patterns": [
+            "Aku ingin melukai diri sendiri",
+            "Aku merasa kesakitan dan ingin melukai diriku",
+            "Aku merasa sangat tertekan dan ingin menyakiti diriku sendiri",
+            "Aku tidak tahu bagaimana lagi untuk mengatasi perasaan ini, aku ingin melukai diriku",
+            "Aku tidak bisa lagi menanggung perasaan ini, aku merasa ingin melukai diri sendiri"
+        ],
+        "responses": [
+            "Saya sangat menyesal Anda merasa seperti ini, tetapi melukai diri sendiri bukanlah solusi. Anda bisa mendapatkan bantuan untuk mengatasi perasaan ini.",
+            "Penting untuk berbicara dengan seseorang yang dapat memberi dukungan, seperti teman, keluarga, atau seorang terapis. Anda layak merasa lebih baik dan ada bantuan yang tersedia.",
+            "Cobalah untuk berhenti sejenak dan mencari bantuan. Ada banyak profesional yang siap mendengarkan dan memberikan dukungan untuk Anda.",
+            "Segera hubungi seorang konselor atau terapis. Anda tidak perlu menghadapinya sendirian, dan ada banyak cara untuk mengatasi perasaan ini dengan bantuan.",
+            "Jangan ragu untuk meminta bantuan, baik dari teman, keluarga, atau layanan darurat. Anda penting dan hidup Anda sangat berharga."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "kesulitan_emosional_ekstrem",
+        "patterns": [
+            "Aku tidak tahan lagi, rasanya aku mau mengakhiri hidupku",
+            "Perasaan ini terlalu berat, aku tidak tahu bagaimana cara menghadapinya",
+            "Aku merasa sangat hancur, aku tidak tahu harus berbuat apa",
+            "Aku tidak merasa ada harapan lagi, semuanya terasa sangat gelap",
+            "Perasaan ini menyiksa, aku merasa ingin pergi dari dunia ini"
+        ],
+        "responses": [
+            "Saya sangat menyesal Anda merasa seperti ini, tetapi Anda tidak sendirian. Ada bantuan yang dapat Anda akses segera. Tolong hubungi layanan darurat atau seseorang yang Anda percayai.",
+            "Penting untuk berbicara dengan seorang profesional atau layanan darurat. Hidup Anda sangat berharga, dan ada orang yang siap membantu Anda.",
+            "Cobalah untuk berbicara dengan seseorang yang Anda percayai atau menghubungi layanan bantuan untuk mendapatkan dukungan yang Anda butuhkan.",
+            "Hubungi layanan darurat segera atau seorang terapis yang dapat memberikan bantuan lebih lanjut. Anda layak mendapatkan perasaan yang lebih baik dan bantuan tersedia untuk Anda.",
+            "Saya ingin Anda tahu bahwa ada dukungan yang tersedia. Segera hubungi layanan darurat atau seorang konselor. Anda sangat berharga."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "mengelola_kecemasan_kerja",
+        "patterns": [
+            "Bagaimana cara mengelola kecemasan di tempat kerja?",
+            "Pekerjaan membuat saya cemas, apa yang bisa saya lakukan?",
+            "Apa yang harus saya lakukan jika saya merasa cemas setiap kali bekerja?",
+            "Bagaimana cara tetap tenang di tempat kerja ketika merasa cemas?",
+            "Saya merasa cemas tentang pekerjaan saya, apa yang bisa membantu?"
+        ],
+        "responses": [
+            "Berlatih pernapasan dalam atau meditasi sejenak dapat membantu menenangkan tubuh dan pikiran Anda saat merasa cemas di tempat kerja.",
+            "Cobalah untuk menetapkan batasan yang jelas antara waktu kerja dan waktu pribadi untuk mengurangi stres terkait pekerjaan.",
+            "Mengelola waktu dengan baik dan menyusun daftar tugas dapat membantu Anda merasa lebih terorganisir dan mengurangi kecemasan tentang pekerjaan.",
+            "Jangan ragu untuk berbicara dengan atasan atau rekan kerja jika Anda merasa kewalahan. Mencari dukungan di tempat kerja dapat membantu.",
+            "Sediakan waktu untuk beristirahat dan bergerak sejenak, seperti berjalan atau melakukan peregangan, untuk mengurangi ketegangan."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "menangani_perasaan_tertekan_dalam_pertemanan",
+        "patterns": [
+            "Bagaimana cara menangani perasaan tertekan dalam pertemanan?",
+            "Saya merasa tertekan karena persahabatan saya, apa yang bisa saya lakukan?",
+            "Apa yang harus saya lakukan jika saya merasa kesulitan dengan teman-teman saya?",
+            "Bagaimana cara mengelola perasaan tertekan yang muncul karena hubungan persahabatan?",
+            "Saya merasa tertekan oleh teman-teman saya, apa yang bisa membantu?"
+        ],
+        "responses": [
+            "Cobalah untuk berbicara terbuka dengan teman-teman Anda dan berbagi perasaan Anda. Terkadang, komunikasi yang jujur dapat memperbaiki situasi.",
+            "Jika Anda merasa hubungan persahabatan terlalu menekan, beri diri Anda ruang untuk meresapi perasaan Anda dan mempertimbangkan batasan yang sehat.",
+            "Penting untuk memberi diri Anda izin untuk menjaga batasan dalam hubungan, serta mengingatkan diri bahwa kesehatan mental Anda lebih penting daripada menjaga hubungan yang tidak sehat.",
+            "Jangan ragu untuk mencari dukungan dari teman yang lain atau seorang konselor jika hubungan persahabatan Anda membuat Anda merasa cemas atau tertekan.",
+            "Menjaga keseimbangan antara hubungan dan perawatan diri sangat penting untuk menghindari perasaan tertekan dalam persahabatan."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "mengatasi_kecemasan_terhadap_ubah",
+        "patterns": [
+            "Apa yang bisa saya lakukan untuk mengatasi kecemasan tentang perubahan besar dalam hidup?",
+            "Saya cemas menghadapi perubahan, bagaimana cara menghadapinya?",
+            "Apa yang bisa saya lakukan untuk tetap tenang menghadapi perubahan dalam hidup?",
+            "Perubahan besar membuat saya cemas, apa yang dapat membantu?",
+            "Bagaimana cara mengelola perasaan cemas ketika hidup saya berubah drastis?"
+        ],
+        "responses": [
+            "Cobalah untuk melihat perubahan sebagai kesempatan untuk tumbuh. Setiap perubahan membawa peluang baru.",
+            "Berbicara dengan seseorang yang Anda percayai bisa membantu Anda memproses perasaan cemas dan mendapatkan perspektif yang berbeda.",
+            "Fokuslah pada hal-hal yang tetap Anda kendalikan dalam hidup Anda dan buat langkah-langkah kecil untuk menyesuaikan diri dengan perubahan tersebut.",
+            "Teknik pernapasan dalam atau meditasi bisa membantu menenangkan tubuh dan pikiran saat merasa cemas menghadapi perubahan.",
+            "Ingatlah bahwa kecemasan tentang perubahan adalah hal yang normal, dan dengan waktu, Anda akan merasa lebih terbiasa dengan perubahan tersebut."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "mengelola_rasa_bersalah",
+        "patterns": [
+            "Bagaimana cara mengelola rasa bersalah?",
+            "Saya merasa sangat bersalah, apa yang bisa saya lakukan?",
+            "Apa yang harus saya lakukan jika saya terus-menerus merasa bersalah?",
+            "Rasa bersalah saya mengganggu, bagaimana cara mengatasinya?",
+            "Apa yang bisa membantu untuk mengurangi rasa bersalah yang saya rasakan?"
+        ],
+        "responses": [
+            "Rasa bersalah bisa menjadi tanda bahwa Anda peduli tentang keputusan Anda. Cobalah untuk memaafkan diri sendiri dan belajar dari pengalaman tersebut.",
+            "Mengakui kesalahan dan melakukan perbaikan jika perlu adalah langkah pertama untuk mengurangi rasa bersalah.",
+            "Berbicara dengan seseorang yang Anda percayai atau seorang profesional dapat membantu Anda melepaskan perasaan bersalah.",
+            "Cobalah untuk mengubah pola pikir Anda dan fokus pada perbaikan serta cara untuk membuat perubahan positif ke depan.",
+            "Ingat bahwa semua orang membuat kesalahan. Yang penting adalah bagaimana kita belajar dan tumbuh dari pengalaman tersebut."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "menyembuhkan_dari_rasa_trauma",
+        "patterns": [
+            "Bagaimana cara sembuh dari trauma?",
+            "Apa yang bisa saya lakukan untuk pulih dari pengalaman traumatis?",
+            "Saya merasa terbebani oleh trauma, bagaimana cara menghadapinya?",
+            "Bagaimana saya bisa sembuh dari luka emosional akibat trauma?",
+            "Apa langkah pertama untuk menyembuhkan diri dari trauma?"
+        ],
+        "responses": [
+            "Pemulihan dari trauma melibatkan menerima perasaan Anda dan memberi diri Anda waktu untuk sembuh.",
+            "Terapi berbicara, seperti terapi perilaku kognitif (CBT) atau terapi EMDR, dapat membantu Anda mengatasi trauma.",
+            "Jaga tubuh Anda dengan baik melalui tidur yang cukup, olahraga, dan makan dengan baik, yang semua mendukung pemulihan mental Anda.",
+            "Bergabung dengan kelompok dukungan atau berbicara dengan seseorang yang Anda percayai dapat memberi Anda rasa aman saat memproses trauma.",
+            "Cobalah untuk berfokus pada pengembangan keterampilan koping dan perawatan diri, serta perlahan-lahan menghadapinya dengan bantuan profesional."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "mendukung_anda_dalam_melawan_kecemasan",
+        "patterns": [
+            "Apa yang bisa saya lakukan untuk mendukung diri sendiri melawan kecemasan?",
+            "Bagaimana cara saya membantu diri saya sendiri untuk mengatasi kecemasan?",
+            "Saya merasa cemas sepanjang waktu, bagaimana cara menghadapinya?",
+            "Apa yang dapat saya lakukan untuk merasa lebih tenang saat cemas?",
+            "Bagaimana cara saya mendukung diri saya dalam mengatasi kecemasan?"
+        ],
+        "responses": [
+            "Berlatih teknik relaksasi, seperti meditasi atau pernapasan dalam, dapat membantu menenangkan tubuh dan pikiran Anda saat cemas.",
+            "Berkonsentrasi pada hal-hal yang dapat Anda kontrol dan melepaskan kekhawatiran yang tidak bisa Anda kendalikan bisa mengurangi kecemasan.",
+            "Cobalah untuk mencari dukungan dari teman atau seorang konselor yang dapat membantu Anda memproses kecemasan dan memberikan perspektif.",
+            "Menetapkan rutinitas harian dan membuat waktu untuk diri sendiri sangat penting untuk mengelola kecemasan.",
+            "Penting untuk tidak terlalu keras pada diri sendiri. Cobalah untuk mengenali pencapaian kecil yang telah Anda raih dalam mengatasi kecemasan."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "membangun_kepercayaan_diri_dalam_pertemuan_sosial",
+        "patterns": [
+            "Bagaimana cara membangun kepercayaan diri dalam pertemuan sosial?",
+            "Saya merasa gugup bertemu orang baru, bagaimana cara menghadapinya?",
+            "Apa yang bisa saya lakukan untuk merasa lebih percaya diri dalam situasi sosial?",
+            "Bagaimana cara mengatasi rasa malu dan cemas di tempat sosial?",
+            "Saya ingin lebih percaya diri saat berbicara dengan orang baru, apa yang harus saya lakukan?"
+        ],
+        "responses": [
+            "Berlatih percakapan kecil atau berbicara dengan teman dekat sebelum berada di keramaian dapat membantu Anda merasa lebih percaya diri.",
+            "Cobalah untuk fokus pada orang lain dan percakapan, bukan pada diri Anda sendiri, untuk mengurangi kecemasan.",
+            "Ingatlah bahwa sebagian besar orang merasa cemas dalam situasi sosial. Cobalah untuk melepaskan tekanan untuk menjadi sempurna.",
+            "Latihan pernapasan atau teknik relaksasi dapat membantu menenangkan tubuh Anda sebelum memasuki situasi sosial yang membuat Anda cemas.",
+            "Penting untuk memberi diri Anda waktu untuk beradaptasi dan membangun rasa percaya diri secara perlahan dengan menghadapi situasi sosial secara bertahap."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "mengenali_pemicu_kecemasan",
+        "patterns": [
+            "Bagaimana cara saya mengenali pemicu kecemasan?",
+            "Apa yang harus saya lakukan jika saya tahu apa yang memicu kecemasan saya?",
+            "Saya merasa cemas setiap kali berada di situasi tertentu, bagaimana cara menghadapinya?",
+            "Apa yang bisa saya lakukan jika saya mengenali pemicu kecemasan saya?",
+            "Bagaimana cara saya menangani kecemasan jika saya tahu penyebabnya?"
+        ],
+        "responses": [
+            "Mencatat perasaan Anda saat kecemasan muncul bisa membantu Anda mengenali pola dan pemicu spesifik.",
+            "Cobalah untuk mengubah pola pikir Anda tentang pemicu tersebut. Fokus pada hal-hal yang dapat Anda kontrol dan berlatih untuk tidak menghindari situasi tersebut.",
+            "Berbicara dengan seorang profesional atau terapis dapat membantu Anda mengidentifikasi pemicu kecemasan dan mengembangkan strategi untuk menghadapinya.",
+            "Gunakan teknik relaksasi atau grounding untuk membantu Anda tetap tenang saat kecemasan muncul, terutama ketika Anda mengetahui pemicunya.",
+            "Penting untuk tidak menghakimi diri sendiri ketika mengalami kecemasan. Menerima perasaan tersebut dan belajar dari pengalaman dapat membantu Anda mengelolanya."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "salam",
+        "patterns": [
+            "Hai di sana",
+            "Apakah ada orang di sana?",
+            "Hei",
+            "Hola",
+            "Halo",
+            "Selamat siang",
+            "Namaste",
+            "yo",
+            "Apa kabar?",
+            "Hai, apa kabar?",
+            "Halo semuanya",
+            "Hi, bagaimana harimu?"
+        ],
+        "responses": [
+            "Halo!",
+            "Senang bertemu denganmu",
+            "Halo di sana, ada yang bisa kubantu?",
+            "Hai! Bagaimana kabarmu hari ini?",
+            "Halo! Ada yang bisa saya bantu?"
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "apa_kabar",
+        "patterns": [
+            "Apa kabar?",
+            "Wazzup",
+            "Bagaimana kabarmu?",
+            "Sup",
+            "Bagaimana kamu?",
+            "Apa kabar hari ini?",
+            "Gimana kabarnya?",
+            "Kabar baik?",
+            "Kamu apa kabar?",
+            "Bagaimana keadaanmu?",
+            "Gimana hari ini?"
+        ],
+        "responses": [
+            "Semua baik-baik saja.. Bagaimana dengan kamu?",
+            "Saya baik, bagaimana dengan kamu?",
+            "Saya baik-baik saja, bagaimana dengan kamu?",
+            "Kabar saya baik, terima kasih sudah bertanya. Bagaimana dengan kamu?",
+            "Saya baik-baik saja, terima kasih. Bagaimana kabarmu?",
+            "Saya baik, bagaimana keadaanmu?",
+            "Kabar baik, terima kasih! Bagaimana denganmu?"
+        ]
+    },
+    {
+        "tag": "selamat_tinggal",
+        "patterns": [
+            "Sampai jumpa",
+            "Sampai nanti",
+            "Selamat tinggal",
+            "Pergilah",
+            "Sampai waktu berikutnya",
+            "Dadah",
+            "Bye bye",
+            "Sampai ketemu lagi"
+        ],
+        "responses": [
+            "Sampai jumpa!",
+            "Semoga harimu menyenangkan",
+            "Sampai jumpa! Datang kembali lagi segera.",
+            "Bye! Semoga harimu menyenangkan!",
+            "Selamat tinggal! Jangan lupa kembali lagi."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "terima_kasih",
+        "patterns": [
+            "Terima kasih",
+            "Makasih",
+            "Itu membantu",
+            "Hebat, terima kasih",
+            "Terima kasih telah membantu saya",
+            "Terima kasih banyak",
+            "Makasih ya",
+            "Saya sangat berterima kasih"
+        ],
+        "responses": [
+            "Senang membantu!",
+            "Kapan saja!",
+            "Dengan senang hati",
+            "Sama-sama!",
+            "Tidak masalah, senang membantu!"
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "tidak_ada_jawaban",
+        "patterns": [],
+        "responses": [
+            "Maaf, saya tidak bisa mengerti kamu",
+            "Tolong beri saya informasi lebih",
+            "Tidak yakin saya mengerti",
+            "Bisa ulangi lagi?",
+            "Saya kurang paham, bisa beri detail lebih?"
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "opsi",
+        "patterns": [
+            "Bagaimana kamu bisa membantuku?",
+            "Apa yang bisa kamu lakukan?",
+            "Bantuan apa yang kamu berikan?",
+            "Bagaimana kamu bisa berguna?",
+            "Dukungan apa yang ditawarkan?",
+            "Apa yang bisa kamu lakukan untukku?",
+            "Bagaimana caramu membantuku?",
+            "Layanan apa yang kamu sediakan?"
+        ],
+        "responses": [
+            "Saya adalah chatbot serba guna. Kemampuan saya adalah: \n 1. Saya bisa ngobrol denganmu. \n 2. Cobalah minta saya untuk bercanda atau teka-teki! \n 3. Tanyakan saya tanggal dan waktu \n 4. Membantumu menjawab pertanyaan dasarmu tentang mental health",
+            "Saya bisa membantu dengan banyak hal, seperti ngobrol, memberikan teka-teki, memberi informasi waktu, dan membantu mengatur jadwal kegiatanmu.",
+            "Kemampuan saya antara lain: ngobrol, memberikan hiburan, memberi informasi tanggal dan waktu, serta membantu mengatur jadwal kegiatanmu.",
+            "Saya dapat membantumu dengan berbagai hal: dari ngobrol hingga membantu mengatur jadwal harianmu."
+        ]
+    },
+    {
+        "tag": "lelucon",
+        "patterns": [
+            "Ceritakan lelucon",
+            "Lelucon",
+            "Buat saya tertawa",
+            "Beri saya lelucon",
+            "Bisa cerita lelucon?",
+            "Katakan sesuatu yang lucu",
+            "Saya ingin tertawa",
+            "Coba buat saya tertawa",
+            "Ada lelucon lucu?"
+        ],
+        "responses": [
+            "Apa yang lebih besar dari paus biru?, dua paus biru",
+            "Kenapa sepeda punya banyak teman? karena dia 'Bike'",
+            "Apa yang selalu naik dan tidak pernah turun? Umur kamu!",
+            "Mengapa kucing suka duduk di komputer? Karena ingin menjaga mouse!",
+            "Kenapa buku matematika selalu merasa sedih? Karena penuh dengan masalah.",
+            "Mengapa gajah tidak pernah bisa bersembunyi di pohon? Karena mereka terlalu besar dan kita selalu bisa melihat mereka!",
+            "Apa yang lebih berat, satu kilogram kapas atau satu kilogram besi? Sama-sama satu kilogram!",
+            "Kenapa ayam menyeberang jalan? Untuk mencapai sisi lain!",
+            "Apa yang lebih lucu dari 24? 25 ^_^",
+            "Mengapa komputer pergi ke dokter? Karena punya virus!"
+        ],
+        "context": [
+            "lelucon"
+        ]
+    },
+    {
+        "tag": "tanggal_dan_waktu",
+        "patterns": [
+            "Jam berapa sekarang?",
+            "Tanggal berapa sekarang?",
+            "Apa tanggal hari ini?",
+            "Berapa waktu sekarang?",
+            "Beri tahu saya tanggal hari ini",
+            "Hari apa hari ini?",
+            "Sekarang hari apa?",
+            "Bisa beri tahu waktu sekarang?",
+            "Tolong beri tahu tanggal dan waktu",
+            "Pukul berapa sekarang?",
+            "Tolong beri tahu saya tanggal saat ini"
+        ],
+        "responses": [
+            "~time"
+        ]
+    },
+    {
+        "tag": "haha",
+        "patterns": [
+            "haha",
+            "lol",
+            "rofl",
+            "lmao",
+            "itu lucu",
+            "Saya tertawa",
+            "kocak",
+            "bikin ngakak",
+            "Ngakak",
+            "Ketawa terus",
+            "Itu kocak banget"
+        ],
+        "responses": [
+            "Senang bisa membuatmu tertawa!",
+            "Haha, senang bisa menghibur!",
+            "Saya senang bisa membuatmu tertawa!",
+            "Terima kasih! Saya senang kamu menikmatinya!",
+            "Hahaha, itu membuat hariku! Senang kamu suka!",
+            "Saya senang bisa menghiburmu!",
+            "Itu lucu, kan? Senang bisa membuatmu tertawa!"
+        ]
+    },
+    {
+        "tag": "aktivitas",
+        "patterns": [
+            "apa yang kamu lakukan",
+            "apa yang kamu kerjakan",
+            "lagi apa?"
+        ],
+        "responses": [
+            "Tentu saja, berbicara denganmu!"
+        ]
+    },
+    {
+        "tag": "seru",
+        "patterns": [
+            "Hebat",
+            "Bagus",
+            "Saya tahu",
+            "oke",
+            "ya",
+            "keren",
+            "luar biasa",
+            "fantastis"
+        ],
+        "responses": [
+            "Ya!",
+            "Terima kasih!",
+            "Anda juga luar biasa!",
+            "Bagus sekali!"
+        ]
+    },
+    {
+        "tag": "apresiasi",
+        "patterns": [
+            "Kamu hebat",
+            "kamu yang terbaik",
+            "kamu luar biasa",
+            "kamu baik",
+            "sangat menghargai kamu"
+        ],
+        "responses": [
+            "Terima kasih!"
+        ]
+    },
+    {
+        "tag": "pembicaraan_menyenangkan",
+        "patterns": [
+            "senang berbicara denganmu",
+            "pembicaraan yang baik",
+            "aku menikmati obrolan kita",
+            "ngobrol denganmu seru"
+        ],
+        "responses": [
+            "Saya juga senang berbicara denganmu! Kembali lagi segera!"
+        ]
+    },
+    {
+        "tag": "tidak",
+        "patterns": [
+            "tidak",
+            "nggak",
+            "bukan",
+            "jangan"
+        ],
+        "responses": [
+            "ok",
+            "Baiklah",
+            "Paham"
+        ]
+    },
+    {
+        "tag": "balas_sapa",
+        "patterns": [
+            "saya baik-baik saja",
+            "saya baik",
+            "saya sehat",
+            "baik",
+            "kondisi saya bagus",
+            "aku oke"
+        ],
+        "responses": [
+            "Senang mendengarnya!"
+        ]
+    },
+    {
+        "tag": "umur",
+        "patterns": [
+            "berapa umurmu",
+            "kapan kamu dibuat",
+            "berapa usiamu"
+        ],
+        "responses": [
+            "Saya dibuat pada tahun 2024, jika itu yang kamu tanyakan!"
+        ]
+    },
+    {
+        "tag": "teka-teki",
+        "patterns": [
+            "Berikan aku teka-teki yang bikin penasaran!",
+            "Bisakah kamu menguji kemampuanku dengan teka-teki?",
+            "Punya teka-teki yang rumit untuk dipecahkan?",
+            "Coba tantang aku dengan teka-teki yang belum pernah aku dengar!",
+            "Ayo asah otak dengan teka-teki seru!"
+        ],
+        "responses": [
+            "Hewan apa yang paling pemalas? Jawaban: Koala, karena sehari-hari mereka hanya tidur selama 18-20 jam.",
+            "Benda apa yang selalu datang tapi tidak pernah pergi? Jawaban: Usia.",
+            "Kenapa ikan berenang di air asin? Jawaban: Karena kalau di air gula, nanti dia manisan.",
+            "Apa persamaan kupu-kupu dan tukang pos? Jawaban: Sama-sama suka kirim surat.",
+            "Kota apa yang paling ramai dikunjungi hantu? Jawaban: Kota Hantu.",
+            "Kenapa Superman pakai jubah merah? Jawaban: Kalau biru, nanti keliru sama Batman.",
+            "Binatang apa yang paling jahat? Jawaban: Nyamuk, karena dia selalu datang tanpa diundang dan membawa penyakit.",
+            "Kenapa bebek kalau nyebrang jalan selalu berkelompok? Jawaban: Karena kalau sendirian takut diklakson.",
+            "Apa bedanya orang gemuk dan orang kurus? Jawaban: Kalau orang gemuk makan dikit langsung kenyang, kalau orang kurus makan banyak tetap lapar.",
+            "Kenapa balon kalau ditiup terus meletus? Jawaban: Karena dia kesal disuruh kerja terus."
+        ],
+        "context": [
+            "teka-teki"
+        ]
+    },
+    {
+        "tag": "istirahat",
+        "patterns": [
+            "Kapan saya harus istirahat?",
+            "Bagaimana cara mengatur waktu istirahat?",
+            "Tolong bantu jadwalkan waktu istirahat saya",
+            "Saya butuh waktu istirahat, kapan waktu yang tepat?",
+            "Berapa lama saya harus beristirahat?"
+        ],
+        "responses": [
+            "Istirahat sangat penting! Sebaiknya kamu beristirahat setiap 1-2 jam selama 10-15 menit.",
+            "Untuk menjaga produktivitas, ambil istirahat pendek setiap satu jam kerja.",
+            "Idealnya, setelah 90 menit kerja fokus, kamu bisa beristirahat selama 10-15 menit.",
+            "Kamu bisa menjadwalkan waktu istirahat sesuai kebutuhan. Pastikan untuk beristirahat secara teratur.",
+            "Ingat, istirahat dapat meningkatkan produktivitas. Ambil jeda setiap satu jam sekali."
+        ]
+    },
+    {
+        "tag": "prioritas",
+        "patterns": [
+            "Bagaimana cara menentukan prioritas dalam jadwal?",
+            "Apa yang harus saya prioritaskan pertama kali?",
+            "Bagaimana cara mengatur jadwal untuk proyek dengan batas waktu?",
+            "Tolong bantu saya menetapkan prioritas dalam tugas.",
+            "Apa yang harus saya utamakan dalam jadwal saya?"
+        ],
+        "responses": [
+            "Menetapkan prioritas adalah kunci dalam mengatur jadwal. Pertimbangkan urgensi, pentingnya, dan batas waktu dari setiap tugas.",
+            "Mulailah dengan tugas yang paling mendesak dan penting. Apa yang perlu diselesaikan segera?",
+            "Untuk proyek dengan batas waktu, buatlah daftar tugas dan tentukan prioritas berdasarkan tenggat waktu.",
+            "Kita bisa menetapkan prioritas dengan mengevaluasi tugas berdasarkan urgensi dan pentingnya.",
+            "Untuk menentukan prioritas, fokuslah pada tugas yang akan memberikan dampak terbesar jika diselesaikan lebih dulu."
+        ]
+    },
+    {
+        "tag": "evaluasi_kegiatan",
+        "patterns": [
+            "Bagaimana cara mengevaluasi kegiatan saya?",
+            "Apa yang harus saya periksa setelah menyelesaikan tugas?",
+            "Bagaimana cara mengevaluasi hasil kerja saya?",
+            "Apa cara terbaik untuk mengevaluasi kegiatan?"
+        ],
+        "responses": [
+            "Evaluasi kegiatan adalah langkah penting. Periksa apakah tujuan Anda tercapai dan identifikasi area untuk perbaikan.",
+            "Setelah menyelesaikan tugas, luangkan waktu untuk meninjau apa yang berjalan dengan baik dan apa yang bisa ditingkatkan.",
+            "Untuk mengevaluasi hasil kerja, bandingkan hasil aktual dengan tujuan yang telah ditetapkan dan analisis perbedaannya.",
+            "Evaluasi kegiatan secara berkala membantu memastikan Anda tetap berada di jalur yang benar dan mencapai tujuan Anda."
+        ]
+    },
+    {
+        "tag": "pengingat_kegiatan",
+        "patterns": [
+            "Buatkan pengingat untuk saya",
+            "Saya butuh pengingat untuk tugas saya",
+            "Bagaimana cara mengatur pengingat?",
+            "Tolong ingatkan saya tentang jadwal saya"
+        ],
+        "responses": [
+            "Anda bisa menggunakan aplikasi pengingat atau kalender untuk mengatur pengingat tugas.",
+            "Pengingat bisa sangat membantu untuk memastikan Anda tidak melewatkan tugas penting.",
+            "Mari buat pengingat untuk tugas Anda. Apa yang perlu Anda ingatkan?",
+            "Saya sarankan menggunakan pengingat berbasis waktu atau lokasi untuk memastikan tugas Anda selesai tepat waktu."
+        ]
+    },
+    {
+        "tag": "produktivitas",
+        "patterns": [
+            "Bagaimana cara meningkatkan produktivitas saya?",
+            "Apa tips untuk tetap produktif?",
+            "Saya ingin menjadi lebih produktif, apa yang harus saya lakukan?",
+            "Bagaimana cara bekerja lebih efisien?"
+        ],
+        "responses": [
+            "Untuk meningkatkan produktivitas, fokuslah pada satu tugas pada satu waktu dan hindari multitasking.",
+            "Mengatur prioritas dan membuat daftar tugas harian dapat membantu meningkatkan produktivitas Anda.",
+            "Istirahat secara teratur dan menjaga keseimbangan antara kerja dan istirahat sangat penting untuk tetap produktif.",
+            "Cobalah teknik Pomodoro, di mana Anda bekerja selama 25 menit dan kemudian istirahat selama 5 menit."
+        ]
+    },
+    {
+        "tag": "motivasi",
+        "patterns": [
+            "Bagaimana cara tetap termotivasi?",
+            "Saya butuh motivasi untuk bekerja",
+            "Apa tips untuk tetap semangat?",
+            "Bagaimana cara mengatasi kurangnya motivasi?"
+        ],
+        "responses": [
+            "Tetapkan tujuan yang jelas dan realistis untuk menjaga motivasi.",
+            "Ingatlah mengapa Anda memulai tugas tersebut dan fokus pada hasil akhirnya.",
+            "Cobalah mencari sumber inspirasi, seperti membaca buku motivasi atau mendengarkan podcast inspiratif.",
+            "Beristirahatlah jika merasa lelah dan kembali bekerja dengan energi yang baru."
+        ]
+    },
+    {
+        "tag": "mengatasi_kecemasan_akibat_perubahan",
+        "patterns": [
+            "Bagaimana cara mengatasi kecemasan yang disebabkan oleh perubahan?",
+            "Saya merasa cemas dengan perubahan besar dalam hidup saya, bagaimana cara menghadapinya?",
+            "Apa yang bisa saya lakukan jika saya merasa tidak siap menghadapi perubahan?",
+            "Perubahan besar membuat saya cemas, apa yang harus saya lakukan?",
+            "Saya takut perubahan akan mempengaruhi hidup saya, bagaimana cara mengelola kecemasan tersebut?"
+        ],
+        "responses": [
+            "Penting untuk mengingat bahwa perubahan adalah bagian dari kehidupan. Cobalah untuk melihat perubahan sebagai kesempatan untuk tumbuh.",
+            "Berfokus pada hal-hal yang dapat Anda kendalikan selama masa transisi bisa membantu Anda merasa lebih aman dan terkendali.",
+            "Menerima perasaan cemas Anda dan berbicara dengan seseorang yang Anda percayai bisa membantu Anda memahami lebih baik dan mengurangi kecemasan.",
+            "Fokus pada langkah-langkah kecil yang bisa Anda ambil untuk beradaptasi dengan perubahan tersebut, tanpa merasa terbebani.",
+            "Menggunakan teknik relaksasi atau meditasi juga bisa membantu menenangkan pikiran dan tubuh Anda dalam menghadapi perubahan."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "mengelola_rasa_dendam",
+        "patterns": [
+            "Bagaimana cara mengelola rasa dendam?",
+            "Saya merasa sangat marah dan dendam terhadap seseorang, apa yang harus saya lakukan?",
+            "Apa yang bisa saya lakukan untuk melepaskan perasaan dendam saya?",
+            "Saya merasa sulit untuk memaafkan, bagaimana cara mengatasi rasa dendam?",
+            "Rasa dendam saya mengganggu hidup saya, apa yang bisa membantu?"
+        ],
+        "responses": [
+            "Memaafkan orang lain bukan hanya untuk mereka, tetapi juga untuk ketenangan batin Anda. Cobalah untuk melepaskan perasaan dendam yang mengganggu Anda.",
+            "Berbicara dengan seorang terapis atau konselor bisa membantu Anda memproses perasaan dendam dan belajar untuk memaafkan.",
+            "Cobalah untuk melihat situasi dari sudut pandang orang lain. Ini bisa membantu Anda memahami dan mengurangi rasa dendam.",
+            "Latihan mindfulness atau meditasi dapat membantu Anda mengatasi perasaan dendam dengan mengalihkan fokus Anda pada kedamaian batin.",
+            "Ingatlah bahwa melepaskan dendam adalah langkah menuju kebebasan emosional. Anda tidak perlu membawa perasaan negatif tersebut dalam hidup Anda."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "menghadapi_ketidakpastian",
+        "patterns": [
+            "Apa yang harus saya lakukan ketika saya merasa cemas tentang ketidakpastian?",
+            "Bagaimana cara mengatasi ketidakpastian dalam hidup?",
+            "Ketidakpastian membuat saya cemas, apa yang bisa saya lakukan?",
+            "Apa yang harus saya fokuskan saat menghadapi ketidakpastian?",
+            "Bagaimana cara tetap tenang ketika hidup terasa penuh ketidakpastian?"
+        ],
+        "responses": [
+            "Cobalah untuk fokus pada apa yang Anda bisa kontrol dan berlatih untuk melepaskan hal-hal yang tidak dapat Anda kontrol.",
+            "Latihan pernapasan atau meditasi dapat membantu Anda tetap tenang dan mengurangi kecemasan terhadap ketidakpastian.",
+            "Cobalah untuk menerima ketidakpastian sebagai bagian dari hidup. Ini memungkinkan Anda untuk lebih fleksibel dalam menghadapi perubahan.",
+            "Berbicara dengan seseorang yang Anda percayai atau seorang profesional bisa membantu Anda memahami perasaan Anda dan memberi perspektif.",
+            "Fokus pada langkah kecil yang bisa Anda ambil untuk membuat situasi lebih terkendali, daripada merasa cemas tentang hal-hal yang belum terjadi."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "memahami_batasan_dalam_hubungan",
+        "patterns": [
+            "Bagaimana cara mengetahui batasan dalam hubungan?",
+            "Apa yang harus saya lakukan jika saya merasa terlarut-larut dalam hubungan?",
+            "Bagaimana cara menetapkan batasan yang sehat dalam hubungan?",
+            "Saya merasa batasan saya dilanggar dalam hubungan, apa yang harus saya lakukan?",
+            "Apa yang harus saya lakukan untuk menjaga hubungan yang sehat dan tidak merugikan diri saya?"
+        ],
+        "responses": [
+            "Mengenali batasan diri adalah hal pertama yang perlu Anda lakukan dalam hubungan. Tanyakan pada diri Anda apa yang Anda butuhkan untuk merasa nyaman.",
+            "Komunikasikan batasan Anda dengan jelas kepada pasangan atau teman. Hubungan yang sehat membutuhkan pengertian dan rasa hormat terhadap batasan masing-masing.",
+            "Jika merasa batasan Anda dilanggar, penting untuk berbicara terbuka dengan orang yang bersangkutan tentang bagaimana perasaan Anda dan apa yang Anda butuhkan.",
+            "Berlatih untuk mengatakan 'tidak' dengan penuh hormat jika Anda merasa tidak nyaman dengan sesuatu. Menghargai diri sendiri adalah langkah penting untuk menjaga hubungan sehat.",
+            "Menjaga keseimbangan antara memberi perhatian kepada orang lain dan memberi diri Anda ruang adalah kunci untuk hubungan yang sehat dan memuaskan."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "strategi_menangani_emosi_negatif",
+        "patterns": [
+            "Apa yang bisa saya lakukan jika saya merasa emosi negatif datang?",
+            "Bagaimana cara menangani emosi negatif yang berlebihan?",
+            "Apa yang harus saya lakukan ketika saya merasa sangat marah atau kecewa?",
+            "Saya sering merasa kesal, bagaimana cara menghadapinya?",
+            "Bagaimana cara mengelola perasaan negatif saya?"
+        ],
+        "responses": [
+            "Cobalah untuk mengidentifikasi penyebab perasaan negatif dan berfokus pada solusi, bukan terjebak dalam emosi tersebut.",
+            "Berlatih pernapasan dalam atau meditasi dapat membantu menenangkan tubuh dan pikiran Anda saat emosi negatif muncul.",
+            "Berbicara dengan seseorang yang Anda percayai atau menulis tentang perasaan Anda dapat membantu meredakan ketegangan.",
+            "Mengalihkan perhatian dengan kegiatan fisik, seperti berjalan-jalan atau berolahraga, dapat membantu melepaskan ketegangan yang disebabkan oleh emosi negatif.",
+            "Terkadang, memberi diri Anda waktu untuk meresapi perasaan negatif dan kemudian berfokus pada perbaikan adalah langkah terbaik dalam mengelolanya."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "mengatasi_stigma_mental_health",
+        "patterns": [
+            "Bagaimana cara mengatasi stigma terkait masalah kesehatan mental?",
+            "Mengapa ada stigma terhadap orang yang berjuang dengan masalah mental?",
+            "Apa yang bisa saya lakukan untuk mengurangi stigma tentang kesehatan mental?",
+            "Saya merasa malu dengan masalah kesehatan mental saya, bagaimana cara menghadapinya?",
+            "Apa yang harus saya lakukan jika saya merasa dihakimi karena masalah mental?"
+        ],
+        "responses": [
+            "Penting untuk berbicara terbuka tentang kesehatan mental dan berbagi pengalaman Anda untuk mengurangi stigma yang ada.",
+            "Dukungan dari teman, keluarga, dan komunitas sangat penting untuk mengurangi stigma dan meningkatkan pemahaman tentang kesehatan mental.",
+            "Ingat bahwa kesehatan mental adalah masalah yang sama pentingnya dengan kesehatan fisik. Tidak ada alasan untuk merasa malu atau dihakimi.",
+            "Berbagi cerita dan mendidik orang-orang sekitar Anda tentang kesehatan mental dapat membantu mengubah pandangan dan memperkuat dukungan.",
+            "Berbicara dengan seorang profesional tentang rasa malu atau stigma yang Anda rasakan bisa memberi Anda alat untuk menghadapinya dengan lebih baik."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "menyembuhkan_rasa_terluka_emosional",
+        "patterns": [
+            "Bagaimana cara menyembuhkan rasa terluka emosional?",
+            "Saya merasa sangat terluka secara emosional, apa yang bisa saya lakukan?",
+            "Apa yang harus saya lakukan jika saya merasa terkhianati oleh seseorang?",
+            "Bagaimana cara saya sembuh dari luka emosional?",
+            "Saya merasa sangat terluka, apa yang harus saya lakukan untuk merasa lebih baik?"
+        ],
+        "responses": [
+            "Memaafkan diri sendiri dan orang lain adalah langkah pertama dalam menyembuhkan luka emosional. Ini memberi Anda ruang untuk melanjutkan hidup.",
+            "Berbicara dengan seorang terapis atau konselor dapat membantu Anda memproses perasaan terluka dan menemukan cara untuk sembuh.",
+            "Jangan terburu-buru dalam proses penyembuhan. Beri diri Anda waktu untuk merasakan dan memproses perasaan Anda.",
+            "Cobalah untuk berfokus pada hal-hal positif dalam hidup Anda dan lakukan aktivitas yang memberi Anda rasa kedamaian dan kepuasan.",
+            "Bergabung dengan kelompok dukungan atau berbicara dengan orang-orang yang Anda percayai dapat memberikan kenyamanan saat Anda sembuh dari luka emosional."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "menghadapi_kesulitan_hidup",
+        "patterns": [
+            "Apa yang harus saya lakukan ketika hidup terasa sangat sulit?",
+            "Saya merasa kehidupan sangat berat, bagaimana cara saya menghadapinya?",
+            "Bagaimana cara mengelola perasaan ketika hidup terasa penuh tantangan?",
+            "Hidup terasa penuh tekanan, apa yang bisa saya lakukan?",
+            "Bagaimana cara bertahan saat menghadapi kesulitan besar dalam hidup?"
+        ],
+        "responses": [
+            "Cobalah untuk fokus pada satu langkah kecil yang bisa Anda ambil hari ini. Menghadapi masalah sedikit demi sedikit bisa mengurangi rasa kewalahan.",
+            "Beri diri Anda izin untuk merasakan perasaan tersebut. Terkadang, kita perlu waktu untuk berduka atau menerima situasi sebelum bisa melangkah maju.",
+            "Berbicara dengan seseorang yang Anda percayai dapat membantu Anda merasa didengar dan mendapat dukungan emosional.",
+            "Jangan ragu untuk mencari bantuan profesional. Terapi atau konseling dapat memberikan Anda alat untuk mengatasi kesulitan dalam hidup.",
+            "Ingat bahwa kesulitan adalah bagian dari kehidupan, dan melalui tantangan kita belajar dan tumbuh. Berikan diri Anda ruang untuk berproses."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "mengenali_gejala_depresi",
+        "patterns": [
+            "Bagaimana saya tahu jika saya mengalami depresi?",
+            "Apa saja gejala depresi yang harus saya waspadai?",
+            "Saya merasa sangat tertekan, apakah itu depresi?",
+            "Bagaimana cara mengenali tanda-tanda depresi pada diri sendiri?",
+            "Apa yang harus saya lakukan jika saya merasa tertekan dan tidak bersemangat?"
+        ],
+        "responses": [
+            "Gejala depresi bisa termasuk perasaan sedih yang berlangsung lama, kehilangan minat pada aktivitas yang biasa Anda nikmati, dan gangguan tidur atau nafsu makan.",
+            "Tanda depresi juga bisa mencakup kelelahan, perasaan tidak berharga, kesulitan berkonsentrasi, dan pikiran untuk menyakiti diri sendiri.",
+            "Jika Anda merasa cemas, tidak berdaya, atau merasa hidup tidak memiliki makna, itu bisa menjadi tanda-tanda depresi.",
+            "Segera cari bantuan profesional jika Anda merasa gejala depresi mengganggu kehidupan sehari-hari Anda. Terapi dan obat-obatan bisa membantu.",
+            "Berbicara dengan seseorang yang Anda percayai, seperti teman atau keluarga, juga bisa memberikan dukungan emosional saat Anda menghadapi perasaan tersebut."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "menghadapi_krisis_emosi",
+        "patterns": [
+            "Bagaimana cara saya mengatasi krisis emosional?",
+            "Saya merasa sangat tertekan dan emosional, bagaimana cara menghadapinya?",
+            "Apa yang bisa saya lakukan saat merasa terjebak dalam krisis emosional?",
+            "Bagaimana cara tetap tenang saat mengalami krisis emosi?",
+            "Saya merasa cemas dan terhimpit, apa yang harus saya lakukan?"
+        ],
+        "responses": [
+            "Cobalah untuk berhenti sejenak dan beri diri Anda waktu untuk meresapi perasaan tersebut. Mengambil napas dalam atau beristirahat sejenak dapat membantu menenangkan tubuh.",
+            "Bicara dengan seseorang yang Anda percayai bisa memberi Anda rasa aman dan dukungan saat mengatasi perasaan ini.",
+            "Berfokus pada pernapasan atau meditasi dapat membantu menenangkan pikiran Anda selama krisis emosional. Berikan diri Anda izin untuk merasakan dan memproses perasaan tersebut.",
+            "Jika Anda merasa kesulitan mengatasi krisis ini sendiri, pertimbangkan untuk berbicara dengan seorang terapis atau konselor yang dapat memberikan dukungan lebih lanjut.",
+            "Jangan ragu untuk mencari bantuan profesional jika Anda merasa perasaan Anda terlalu berat untuk ditangani sendiri. Mereka dapat membantu Anda belajar cara-cara untuk mengelola emosi."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "memperbaiki_perasaan_rendah_diri",
+        "patterns": [
+            "Saya merasa rendah diri, bagaimana cara memperbaikinya?",
+            "Apa yang bisa saya lakukan untuk merasa lebih baik tentang diri saya?",
+            "Saya merasa tidak cukup baik, bagaimana cara mengubah perasaan tersebut?",
+            "Bagaimana cara mengatasi perasaan tidak berharga?",
+            "Saya merasa tidak dihargai, apa yang bisa saya lakukan untuk merasa lebih baik?"
+        ],
+        "responses": [
+            "Mulailah dengan berbicara kepada diri Anda dengan penuh kasih dan pengertian. Hindari berbicara negatif tentang diri sendiri.",
+            "Cobalah untuk mengenali kekuatan dan pencapaian yang telah Anda raih. Tulis hal-hal yang Anda hargai tentang diri Anda setiap hari.",
+            "Membangun rasa percaya diri dimulai dengan mencintai diri sendiri dan menerima kekurangan serta kelebihan Anda.",
+            "Berlatihlah untuk mengubah pikiran negatif menjadi afirmasi positif. Fokus pada hal-hal yang Anda bisa kontrol dan lakukan dengan baik.",
+            "Ingat bahwa setiap orang memiliki perjalanan dan tantangan mereka sendiri. Memberi diri Anda izin untuk berkembang akan membantu Anda merasa lebih baik."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "mengelola_emosi_positif",
+        "patterns": [
+            "Bagaimana cara mengelola emosi positif?",
+            "Apa yang bisa saya lakukan untuk memperkuat emosi positif dalam hidup saya?",
+            "Saya merasa bahagia, bagaimana cara menjaga perasaan positif ini?",
+            "Bagaimana cara tetap merasa positif saat menghadapi kesulitan?",
+            "Apa yang harus saya lakukan untuk memperkuat perasaan bahagia?"
+        ],
+        "responses": [
+            "Cobalah untuk fokus pada apa yang Anda syukuri setiap hari. Menulis dalam jurnal tentang hal-hal yang membuat Anda bahagia dapat memperkuat perasaan positif.",
+            "Terlibat dalam aktivitas yang Anda nikmati, seperti hobi atau olahraga, dapat membantu Anda mempertahankan emosi positif.",
+            "Saling berbagi kebahagiaan dengan orang lain, seperti teman atau keluarga, dapat meningkatkan emosi positif dalam hidup Anda.",
+            "Praktikkan mindfulness untuk membantu Anda tetap fokus pada saat ini dan menghargai setiap momen yang membawa kebahagiaan.",
+            "Fokus pada pencapaian kecil dan rayakan setiap langkah positif yang Anda ambil dalam kehidupan sehari-hari."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "mengenali_emosi_dalam_diri_sendiri",
+        "patterns": [
+            "Bagaimana cara mengenali emosi saya?",
+            "Saya tidak tahu bagaimana perasaan saya, bagaimana cara mengenalinya?",
+            "Apa yang bisa saya lakukan untuk memahami emosi saya?",
+            "Bagaimana cara menyadari perasaan saya saat sedang cemas atau marah?",
+            "Mengapa saya merasa bingung dengan emosi saya?"
+        ],
+        "responses": [
+            "Luangkan waktu untuk refleksi diri. Tanyakan pada diri Anda bagaimana perasaan Anda dan cobalah untuk mengenali pola perasaan tersebut.",
+            "Menulis dalam jurnal atau berbicara dengan seseorang dapat membantu Anda mengenali dan memahami perasaan Anda dengan lebih jelas.",
+            "Penting untuk memberi diri Anda izin untuk merasakan emosi Anda tanpa menghakimi. Emosi adalah bagian alami dari pengalaman manusia.",
+            "Cobalah untuk fokus pada sensasi fisik yang Anda rasakan saat emosi datang. Terkadang, tubuh kita memberi petunjuk tentang perasaan yang sedang dialami.",
+            "Berlatih mindfulness atau meditasi dapat membantu Anda lebih terhubung dengan perasaan Anda dan memahami apa yang terjadi di dalam diri Anda."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "menghadapi_ketidakpastian_masa_depan",
+        "patterns": [
+            "Bagaimana cara menghadapi ketidakpastian tentang masa depan?",
+            "Saya merasa cemas tentang masa depan, apa yang harus saya lakukan?",
+            "Apa yang bisa saya lakukan untuk tetap tenang ketika masa depan tidak pasti?",
+            "Mengapa saya merasa takut dengan masa depan yang tidak pasti?",
+            "Bagaimana cara mengatasi ketidakpastian yang saya rasakan tentang masa depan?"
+        ],
+        "responses": [
+            "Fokuslah pada saat ini dan apa yang dapat Anda lakukan sekarang untuk mempersiapkan masa depan, daripada terlalu cemas tentang hal-hal yang belum terjadi.",
+            "Penerimaan terhadap ketidakpastian adalah kunci. Anda tidak dapat mengontrol semua hal di masa depan, tetapi Anda bisa mengontrol bagaimana Anda meresponsnya.",
+            "Berbicara dengan seseorang yang Anda percayai atau seorang profesional dapat membantu Anda mendapatkan perspektif yang lebih positif tentang masa depan.",
+            "Membuat rencana jangka pendek dapat memberi Anda rasa kontrol dan membantu Anda merasa lebih tenang tentang ketidakpastian.",
+            "Menggunakan teknik relaksasi atau meditasi dapat membantu Anda tetap tenang dan fokus pada apa yang dapat Anda kendalikan saat ini."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "membangun_kebiasaan_sehat_untuk_kesehatan_mental",
+        "patterns": [
+            "Bagaimana cara membangun kebiasaan sehat untuk kesehatan mental?",
+            "Apa kebiasaan sehari-hari yang bisa membantu kesehatan mental saya?",
+            "Bagaimana saya bisa merawat kesehatan mental saya setiap hari?",
+            "Apa yang bisa saya lakukan untuk menjaga kesehatan mental saya?",
+            "Bagaimana cara membangun kebiasaan yang mendukung kesehatan mental?"
+        ],
+        "responses": [
+            "Mulailah dengan kebiasaan kecil seperti berolahraga ringan, tidur yang cukup, dan makan makanan yang sehat untuk mendukung kesehatan mental.",
+            "Praktikkan mindfulness atau meditasi setiap hari untuk membantu meredakan stres dan meningkatkan kesejahteraan emosional.",
+            "Beri diri Anda waktu untuk beristirahat dan melakukan kegiatan yang Anda nikmati. Menjaga keseimbangan dalam hidup adalah kunci untuk kesehatan mental.",
+            "Cobalah untuk menetapkan rutinitas harian yang memberi Anda waktu untuk merawat diri, seperti berjalan di luar ruangan atau berkumpul dengan teman-teman.",
+            "Menetapkan tujuan kecil yang realistis dan merayakan pencapaian Anda dapat memberikan rasa pencapaian dan meningkatkan rasa percaya diri."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "menangani_perasaan_kesepian",
+        "patterns": [
+            "Apa yang harus saya lakukan jika saya merasa kesepian?",
+            "Saya merasa kesepian meskipun di sekitar orang lain, bagaimana cara menghadapinya?",
+            "Bagaimana cara mengatasi rasa kesepian yang terus menerus?",
+            "Perasaan kesepian ini mengganggu hidup saya, apa yang bisa saya lakukan?",
+            "Apa yang dapat membantu saya merasa lebih terhubung dengan orang lain?"
+        ],
+        "responses": [
+            "Cobalah untuk melibatkan diri dalam kegiatan sosial yang menyenangkan atau yang dapat mempertemukan Anda dengan orang lain.",
+            "Berbicara dengan seseorang yang Anda percayai dapat memberikan rasa dukungan dan mengurangi perasaan kesepian.",
+            "Bergabung dengan kelompok atau komunitas yang memiliki minat yang sama dapat membantu Anda merasa lebih terhubung.",
+            "Menjaga hubungan dengan teman-teman atau keluarga, bahkan melalui panggilan telepon atau video, dapat membantu Anda merasa lebih dekat.",
+            "Berfokus pada perawatan diri, seperti olahraga atau meditasi, dapat membantu mengurangi kesepian dengan meningkatkan kesejahteraan emosional."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "mengelola_kecemasan_saat_menghadapi_tantangan",
+        "patterns": [
+            "Bagaimana cara mengelola kecemasan saat menghadapi tantangan hidup?",
+            "Saya merasa sangat cemas saat menghadapi tantangan besar, bagaimana cara menghadapinya?",
+            "Apa yang bisa saya lakukan untuk tetap tenang saat menghadapi kesulitan?",
+            "Saya merasa takut dengan tantangan besar, apa yang harus saya lakukan?",
+            "Bagaimana cara mengurangi kecemasan yang datang dengan tantangan besar?"
+        ],
+        "responses": [
+            "Pecah tantangan besar menjadi tugas kecil yang dapat Anda atasi satu per satu, hal ini dapat mengurangi rasa kewalahan.",
+            "Fokus pada langkah-langkah yang dapat Anda ambil untuk menghadapi tantangan tersebut, daripada khawatir tentang hasil akhir.",
+            "Berlatih pernapasan dalam atau meditasi untuk menenangkan pikiran dan tubuh Anda saat merasa cemas.",
+            "Jangan ragu untuk mencari dukungan dari teman, keluarga, atau seorang profesional. Terkadang berbicara tentang tantangan dapat memberikan perspektif baru.",
+            "Ingatlah bahwa tantangan adalah bagian dari hidup dan dapat menjadi peluang untuk belajar dan berkembang."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "mengenali_pemicu_emosi_negatif",
+        "patterns": [
+            "Bagaimana cara mengenali pemicu emosi negatif saya?",
+            "Saya merasa mudah marah, bagaimana cara mengenali apa yang memicunya?",
+            "Apa yang harus saya lakukan jika saya mengetahui penyebab emosi negatif saya?",
+            "Bagaimana cara mengatasi emosi negatif yang muncul tanpa saya sadari?",
+            "Bagaimana cara menangani emosi negatif jika saya tahu pemicunya?"
+        ],
+        "responses": [
+            "Cobalah untuk memantau situasi dan perasaan Anda melalui jurnal atau catatan harian untuk mengenali pola pemicu emosi negatif.",
+            "Berbicara dengan seorang terapis atau konselor dapat membantu Anda menggali lebih dalam penyebab emosi negatif dan cara menghadapinya.",
+            "Mengidentifikasi pemicu dapat membantu Anda mengubah reaksi terhadap situasi tersebut, sehingga Anda bisa merespons dengan cara yang lebih positif.",
+            "Saat mengenali pemicu emosi negatif, latihlah untuk mengambil napas dalam-dalam dan menghentikan respon impulsif. Berlatih mindfulness dapat membantu Anda tetap tenang.",
+            "Menghindari pemicu atau mempersiapkan diri dengan alat koping yang sehat sebelum menghadapi situasi tertentu dapat membantu mengelola emosi negatif."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "mengelola_perasaan_stres_berlebihan",
+        "patterns": [
+            "Bagaimana cara mengelola stres berlebihan?",
+            "Saya merasa stres berlebihan, apa yang harus saya lakukan?",
+            "Apa yang bisa saya lakukan ketika stres saya sudah tidak terkendali?",
+            "Saya merasa stres setiap hari, bagaimana cara meredakannya?",
+            "Bagaimana cara menjaga keseimbangan saat saya merasa stres berlebihan?"
+        ],
+        "responses": [
+            "Berlatih pernapasan dalam dan meditasi dapat membantu Anda menenangkan tubuh dan mengurangi stres.",
+            "Pecah tugas besar menjadi langkah-langkah kecil yang lebih mudah dikelola untuk mengurangi rasa kewalahan.",
+            "Olahraga ringan seperti berjalan, berlari, atau yoga dapat membantu mengurangi ketegangan fisik dan mental akibat stres.",
+            "Cari waktu untuk diri sendiri setiap hari, baik itu beristirahat, berkumpul dengan teman, atau melakukan aktivitas yang Anda nikmati.",
+            "Jangan takut untuk meminta bantuan. Berbicara dengan seseorang yang Anda percayai atau seorang profesional bisa memberi perspektif baru dan solusi untuk mengelola stres."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "meningkatkan_kesehatan_mental_dengan_hobi",
+        "patterns": [
+            "Bagaimana cara meningkatkan kesehatan mental melalui hobi?",
+            "Apa saja hobi yang bisa membantu kesehatan mental?",
+            "Bagaimana hobi dapat meningkatkan kesejahteraan saya?",
+            "Saya ingin mulai melakukan hobi baru, apa yang bisa saya coba?",
+            "Bagaimana cara menemukan hobi yang dapat mendukung kesehatan mental saya?"
+        ],
+        "responses": [
+            "Hobi dapat membantu mengalihkan perhatian dari stres dan meningkatkan suasana hati dengan memberi Anda kegiatan yang menyenangkan.",
+            "Cobalah untuk mengeksplorasi berbagai hobi, seperti melukis, berkebun, atau bermain musik, untuk menemukan apa yang paling Anda nikmati.",
+            "Hobi yang melibatkan kreativitas atau aktivitas fisik dapat sangat bermanfaat untuk mengurangi kecemasan dan meningkatkan kesejahteraan mental.",
+            "Berinvestasi dalam hobi yang Anda nikmati memberi Anda kesempatan untuk bersantai dan melepaskan ketegangan setelah hari yang panjang.",
+            "Meluangkan waktu untuk melakukan sesuatu yang Anda sukai tidak hanya mengurangi stres, tetapi juga membantu Anda merasa lebih puas dalam hidup."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "menghadapi_rasa_takut_gagal",
+        "patterns": [
+            "Bagaimana cara mengatasi rasa takut gagal?",
+            "Saya merasa takut gagal, bagaimana cara menghadapinya?",
+            "Apa yang bisa saya lakukan untuk mengatasi rasa takut gagal dalam hidup?",
+            "Rasa takut gagal menghalangi saya, apa yang bisa saya lakukan?",
+            "Bagaimana cara mengelola ketakutan terhadap kegagalan?"
+        ],
+        "responses": [
+            "Pahami bahwa kegagalan adalah bagian dari proses belajar. Setiap kegagalan memberi kesempatan untuk tumbuh dan mencoba lagi dengan lebih bijak.",
+            "Cobalah untuk melihat kegagalan sebagai pelajaran, bukan sebagai akhir. Berfokus pada pembelajaran dari setiap pengalaman bisa mengurangi ketakutan terhadap kegagalan.",
+            "Berlatih untuk mengubah pola pikir negatif tentang kegagalan menjadi pandangan yang lebih positif dan produktif.",
+            "Buatlah tujuan kecil yang realistis agar Anda merasa lebih percaya diri dalam menghadapinya. Dengan cara ini, Anda bisa mengatasi rasa takut satu langkah demi satu langkah.",
+            "Berbicara dengan seseorang yang Anda percayai bisa memberi Anda perspektif baru dan memberi dukungan dalam menghadapi ketakutan akan kegagalan."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "menjaga_hubungan_yang_positif",
+        "patterns": [
+            "Bagaimana cara menjaga hubungan yang positif dengan orang lain?",
+            "Apa yang bisa saya lakukan untuk menjaga hubungan baik dengan teman-teman?",
+            "Saya ingin memperbaiki hubungan saya dengan pasangan, apa yang harus saya lakukan?",
+            "Bagaimana cara menjaga komunikasi yang baik dalam hubungan?",
+            "Apa yang bisa saya lakukan untuk membangun hubungan yang lebih baik?"
+        ],
+        "responses": [
+            "Komunikasi yang terbuka dan jujur adalah kunci untuk membangun hubungan yang positif dan sehat.",
+            "Cobalah untuk mendengarkan dengan penuh perhatian dan saling menghargai perasaan serta pendapat orang lain.",
+            "Menunjukkan empati dan pengertian terhadap pasangan atau teman-teman Anda membantu mempererat hubungan.",
+            "Cobalah untuk berbagi waktu berkualitas bersama orang yang Anda sayangi untuk memperkuat hubungan dan menciptakan kenangan positif.",
+            "Berikan dukungan kepada orang yang Anda cintai saat mereka membutuhkan, dan jangan ragu untuk meminta dukungan ketika Anda membutuhkannya."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "menghadapi_perasaan_putus_asa",
+        "patterns": [
+            "Apa yang bisa saya lakukan jika saya merasa putus asa?",
+            "Saya merasa tidak ada harapan, bagaimana cara menghadapinya?",
+            "Saya merasa sangat terpuruk, apa yang harus saya lakukan?",
+            "Perasaan putus asa mengganggu hidup saya, apa yang bisa saya coba?",
+            "Bagaimana cara saya bangkit dari perasaan putus asa?"
+        ],
+        "responses": [
+            "Pertama-tama, beri diri Anda izin untuk merasakan perasaan tersebut tanpa menghakimi diri sendiri. Setiap orang menghadapi perasaan putus asa di beberapa titik dalam hidup.",
+            "Berbicara dengan seseorang yang Anda percayai dapat memberikan dukungan dan perspektif yang berbeda mengenai situasi Anda.",
+            "Cobalah untuk fokus pada hal-hal kecil yang bisa Anda lakukan hari ini untuk mengubah perasaan tersebut, dan beri diri Anda penghargaan untuk setiap langkah positif.",
+            "Terkadang, mencari dukungan profesional seperti seorang terapis dapat membantu Anda menemukan cara untuk mengatasi perasaan putus asa dan menemukan kembali harapan.",
+            "Ingatlah bahwa perasaan putus asa adalah sementara. Dengan waktu dan perawatan diri, Anda bisa kembali merasa lebih kuat dan penuh harapan."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "mengelola_perasaan_marah",
+        "patterns": [
+            "Bagaimana cara mengelola perasaan marah?",
+            "Saya merasa sangat marah, bagaimana cara meredakannya?",
+            "Apa yang bisa saya lakukan untuk tetap tenang ketika saya marah?",
+            "Saya tidak tahu bagaimana cara mengatasi kemarahan, apa yang harus saya lakukan?",
+            "Bagaimana cara mengelola perasaan marah dalam hubungan?"
+        ],
+        "responses": [
+            "Cobalah untuk memberi diri Anda waktu untuk menenangkan diri sebelum merespons. Mengambil napas dalam atau pergi berjalan-jalan dapat membantu meredakan kemarahan.",
+            "Berbicara dengan seseorang yang Anda percayai dapat membantu Anda melepaskan perasaan marah dengan cara yang sehat.",
+            "Alihkan perhatian Anda dengan aktivitas fisik, seperti olahraga atau latihan pernapasan, untuk melepaskan ketegangan yang disebabkan oleh kemarahan.",
+            "Menulis perasaan Anda dalam jurnal atau berbicara dengan seorang terapis bisa membantu Anda memahami lebih dalam tentang penyebab kemarahan.",
+            "Ingat bahwa kemarahan adalah emosi alami, tetapi penting untuk menemukan cara yang sehat untuk mengelolanya agar tidak merusak hubungan atau kesejahteraan Anda."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "mengatasi_perasaan_kesal_dan_frustrasi",
+        "patterns": [
+            "Apa yang harus saya lakukan jika saya merasa sangat kesal?",
+            "Saya merasa sangat frustrasi, apa yang bisa saya lakukan?",
+            "Bagaimana cara mengatasi perasaan kesal yang berkepanjangan?",
+            "Perasaan frustrasi saya membuat saya tertekan, bagaimana cara menghadapinya?",
+            "Apa yang bisa saya lakukan untuk merasa lebih baik ketika saya merasa kesal?"
+        ],
+        "responses": [
+            "Cobalah untuk mengenali penyebab perasaan kesal atau frustrasi Anda. Kadang-kadang, mengenali akar masalah dapat membantu Anda menemukan solusi.",
+            "Berlatih pernapasan dalam atau meditasi dapat membantu Anda menenangkan pikiran dan mengurangi perasaan frustrasi.",
+            "Bergabung dalam kegiatan yang menyenangkan atau produktif bisa menjadi cara yang baik untuk mengalihkan perasaan kesal Anda.",
+            "Terkadang berbicara dengan seseorang yang Anda percayai bisa memberikan perspektif baru yang membantu meredakan perasaan frustrasi.",
+            "Ingatlah bahwa perasaan kesal adalah bagian dari kehidupan. Beri diri Anda waktu untuk merasa, lalu fokuslah pada langkah-langkah untuk memperbaiki situasi."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "menghadapi_ketakutan_terhadap_kegagalan",
+        "patterns": [
+            "Bagaimana cara saya mengatasi ketakutan terhadap kegagalan?",
+            "Saya takut gagal, bagaimana cara menghadapinya?",
+            "Ketakutan gagal menghalangi saya untuk maju, apa yang bisa saya lakukan?",
+            "Bagaimana cara saya berhenti takut gagal dan mulai mencoba?",
+            "Apa yang harus saya lakukan untuk mengatasi rasa takut gagal?"
+        ],
+        "responses": [
+            "Cobalah untuk mengubah pandangan Anda terhadap kegagalan. Lihatlah kegagalan sebagai kesempatan untuk belajar, bukan sebagai akhir dari segalanya.",
+            "Mulailah dengan menetapkan tujuan kecil dan mencapainya secara bertahap. Setiap keberhasilan kecil akan membangun rasa percaya diri Anda.",
+            "Berfokus pada proses, bukan hasil akhir, dapat mengurangi ketakutan terhadap kegagalan. Nikmati perjalanan Anda tanpa terlalu terbebani oleh hasilnya.",
+            "Bergabung dengan seseorang yang bisa memberi dukungan atau menjadi mentor dapat membantu Anda merasa lebih yakin dalam menghadapi ketakutan Anda.",
+            "Ingat bahwa setiap orang pernah gagal. Yang penting adalah bagaimana Anda belajar dan bangkit kembali untuk mencoba lagi."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "mengenali_batasan_emosional",
+        "patterns": [
+            "Bagaimana cara mengenali batasan emosional saya?",
+            "Saya merasa kelelahan emosional, bagaimana cara mengetahui batasan saya?",
+            "Apa yang harus saya lakukan jika saya merasa perasaan saya terabaikan?",
+            "Bagaimana cara menjaga batasan emosional dalam hubungan?",
+            "Apa yang bisa saya lakukan untuk menjaga kesehatan emosional saya?"
+        ],
+        "responses": [
+            "Mengenali batasan emosional dimulai dengan memahami apa yang Anda butuhkan untuk merasa aman dan dihargai dalam hubungan.",
+            "Tanyakan pada diri Anda apa yang Anda rasakan dalam berbagai situasi. Jika Anda merasa tertekan atau tidak nyaman, itu bisa jadi tanda bahwa batasan Anda dilanggar.",
+            "Berkomunikasi dengan jelas tentang apa yang dapat Anda terima dan apa yang tidak dapat Anda terima dalam hubungan sangat penting untuk menjaga batasan emosional.",
+            "Jika Anda merasa kelelahan atau terabaikan, beri diri Anda izin untuk mundur dan memberikan ruang bagi diri Anda untuk pulih.",
+            "Mengenali kapan Anda perlu memberi ruang bagi diri sendiri dan tidak takut untuk mengatakan 'tidak' jika suatu hal melampaui batas emosional Anda."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "menangani_rasa_gelisah",
+        "patterns": [
+            "Apa yang harus saya lakukan jika saya merasa gelisah?",
+            "Saya merasa sangat gelisah, bagaimana cara menghadapinya?",
+            "Bagaimana cara mengatasi perasaan gelisah yang terus-menerus?",
+            "Perasaan gelisah mengganggu saya, apa yang bisa saya lakukan?",
+            "Saya tidak bisa tenang, apa yang bisa membantu meredakan kegelisahan?"
+        ],
+        "responses": [
+            "Berlatih pernapasan dalam dan meditasi dapat membantu menenangkan tubuh dan mengurangi kegelisahan.",
+            "Identifikasi apa yang menyebabkan kegelisahan Anda dan cobalah untuk fokus pada solusi atau langkah kecil yang bisa Anda ambil.",
+            "Bergerak atau berolahraga dapat melepaskan ketegangan fisik yang disebabkan oleh perasaan gelisah dan meningkatkan suasana hati.",
+            "Bergabung dengan seseorang yang Anda percayai atau berbicara dengan seorang terapis dapat membantu Anda meredakan kegelisahan dengan cara yang lebih sehat.",
+            "Cobalah untuk melakukan aktivitas yang Anda nikmati, seperti membaca, menulis, atau berkumpul dengan teman, untuk mengalihkan perhatian dari perasaan gelisah."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "mencapai_keseimbangan_hidup",
+        "patterns": [
+            "Bagaimana cara mencapai keseimbangan hidup yang sehat?",
+            "Saya merasa tertekan dengan pekerjaan dan kehidupan pribadi, bagaimana cara menyeimbangkannya?",
+            "Apa yang bisa saya lakukan untuk menjaga keseimbangan antara pekerjaan dan kehidupan?",
+            "Bagaimana cara mengatur waktu untuk diri sendiri dan orang lain?",
+            "Apa yang harus saya lakukan untuk merasa seimbang dalam hidup?"
+        ],
+        "responses": [
+            "Cobalah untuk menetapkan prioritas yang jelas antara pekerjaan dan kehidupan pribadi, dan beri waktu untuk aktivitas yang Anda nikmati.",
+            "Jangan takut untuk mengatakan 'tidak' jika Anda merasa kewalahan. Menetapkan batasan penting untuk menjaga keseimbangan hidup.",
+            "Mengatur waktu dengan baik dan memberi diri Anda ruang untuk beristirahat atau melakukan hobi adalah kunci untuk mencapai keseimbangan.",
+            "Praktikkan perawatan diri secara teratur, seperti tidur yang cukup, makan sehat, dan berolahraga untuk menjaga keseimbangan fisik dan mental.",
+            "Jaga hubungan sosial yang positif dan beri perhatian pada keluarga atau teman-teman untuk menjaga keseimbangan antara pekerjaan dan kehidupan pribadi."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "memahami_perasaan_terluka",
+        "patterns": [
+            "Bagaimana cara saya memahami perasaan terluka?",
+            "Saya merasa terluka oleh seseorang, bagaimana cara saya menghadapinya?",
+            "Apa yang harus saya lakukan jika saya merasa sangat terluka secara emosional?",
+            "Bagaimana cara mengenali perasaan terluka dan menyembuhkannya?",
+            "Perasaan terluka mengganggu hidup saya, apa yang bisa saya lakukan?"
+        ],
+        "responses": [
+            "Cobalah untuk memberi diri Anda waktu untuk merasakan dan memproses perasaan terluka tersebut tanpa terburu-buru untuk sembuh.",
+            "Berbicara dengan seseorang yang Anda percayai bisa memberi Anda dukungan dan membantu Anda mengatasi perasaan terluka.",
+            "Menulis tentang perasaan Anda atau berbicara dengan seorang profesional bisa membantu Anda memproses perasaan tersebut dengan cara yang sehat.",
+            "Ingatlah bahwa perasaan terluka adalah bagian dari kehidupan. Memaafkan, baik itu diri sendiri atau orang lain, dapat membantu proses penyembuhan.",
+            "Perlahan-lahan membangun kembali rasa percaya diri dan fokus pada hal-hal positif dalam hidup bisa membantu Anda sembuh dari perasaan terluka."
+        ],
+        "context": [
+            ""
+        ]
+    }
+]
