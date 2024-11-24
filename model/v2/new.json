@@ -1,0 +1,1538 @@
+[
+    {
+        "tag": "apa_itu_gangguan_mental",
+        "patterns": [
+            "Apa itu gangguan mental?",
+            "Apa maksud dari gangguan mental?",
+            "Gangguan mental itu apa sih?",
+            "Bisakah Anda jelaskan apa itu gangguan mental?",
+            "Apa arti dari gangguan mental?",
+            "Gangguan mental itu bagaimana?",
+            "Apa yang dimaksud gangguan mental?",
+            "Bisa dijelaskan tentang gangguan mental?",
+            "Apa definisi dari gangguan mental?",
+            "Gangguan mental itu sebenarnya apa?",
+            "Apa yang disebut dengan gangguan mental?",
+            "Boleh tahu apa itu gangguan mental?",
+            "Apa pengertian dari gangguan mental?",
+            "Gangguan mental itu seperti apa ya?",
+            "Apa artinya gangguan mental?",
+            "Apa saja yang masuk dalam kategori gangguan mental?",
+            "Bagaimana pengertian gangguan mental?",
+            "Apa yang termasuk dalam gangguan mental?",
+            "Gangguan mental itu maksudnya apa?",
+            "Gangguan mental itu apa ya?"
+        ],
+        "responses": [
+            "Gangguan mental adalah kondisi kesehatan yang mengganggu pikiran, emosi, hubungan, dan fungsi sehari-hari seseorang.",
+            "Gangguan mental mencakup berbagai kondisi yang memengaruhi bagaimana seseorang berpikir, merasa, dan berperilaku.",
+            "Kesehatan mental yang terganggu bisa membuat seseorang kesulitan dalam menjalani kehidupan sehari-hari.",
+            "Gangguan kesehatan mental adalah masalah kesehatan yang berdampak pada bagaimana seseorang merasa, berpikir, dan berinteraksi dengan orang lain.",
+            "Gangguan mental adalah kondisi yang dapat memengaruhi setiap aspek kehidupan seseorang."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "penyebab_gangguan_mental",
+        "patterns": [
+            "Apa yang menyebabkan gangguan mental?",
+            "Kenapa seseorang bisa mengalami gangguan mental?",
+            "Apa penyebab utama gangguan mental?",
+            "Ada faktor apa saja yang menyebabkan gangguan mental?",
+            "Apa yang mempengaruhi gangguan mental?",
+            "Faktor apa yang memengaruhi gangguan mental?",
+            "Kenapa gangguan mental bisa terjadi?",
+            "Apa yang bisa memicu gangguan mental?",
+            "Penyebab gangguan mental itu apa saja?",
+            "Bagaimana gangguan mental bisa terjadi?",
+            "Apa yang dapat menyebabkan gangguan mental?",
+            "Apa faktor yang dapat memicu gangguan mental?",
+            "Apakah stres bisa menjadi penyebab gangguan mental?",
+            "Apa yang bisa menjadi penyebab gangguan mental?",
+            "Adakah penyebab fisik untuk gangguan mental?",
+            "Apakah pola hidup memengaruhi gangguan mental?",
+            "Apa yang menjadi penyebab gangguan mental pada remaja?",
+            "Bagaimana gangguan mental dipengaruhi oleh lingkungan?",
+            "Apa yang memengaruhi gangguan mental pada orang dewasa?",
+            "Faktor genetik seperti apa yang menyebabkan gangguan mental?"
+        ],
+        "responses": [
+            "Gangguan mental dapat disebabkan oleh berbagai faktor, termasuk faktor genetik, lingkungan, stres, dan trauma.",
+            "Penyebab gangguan mental bisa sangat bervariasi, mulai dari keturunan, tekanan hidup, hingga ketidakseimbangan kimia di otak.",
+            "Faktor-faktor seperti stres berat, pengalaman traumatis, atau masalah dalam keluarga dapat berperan dalam memicu gangguan mental.",
+            "Kesehatan mental seseorang dapat dipengaruhi oleh genetik, pengalaman masa kecil, dan masalah dalam kehidupan sehari-hari."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "gejala_gangguan_mental",
+        "patterns": [
+            "Apa gejala gangguan mental?",
+            "Gejala gangguan mental itu apa?",
+            "Bagaimana cara mengetahui gangguan mental?",
+            "Apa saja tanda-tanda gangguan mental?",
+            "Apa ciri-ciri gangguan mental?",
+            "Apa gejala yang muncul pada gangguan mental?",
+            "Gejala gangguan mental pada orang dewasa?",
+            "Gejala gangguan mental yang paling umum?",
+            "Apa yang harus diwaspadai sebagai gejala gangguan mental?",
+            "Bagaimana cara mengenali gejala gangguan mental?",
+            "Apa saja tanda seseorang mengalami gangguan mental?",
+            "Apa saja yang bisa menjadi gejala gangguan mental?",
+            "Gejala gangguan mental yang umum terjadi?",
+            "Apa tanda-tanda seseorang menderita gangguan mental?",
+            "Gejala gangguan mental seperti apa yang harus diperhatikan?",
+            "Bagaimana cara mendeteksi gejala gangguan mental?",
+            "Apakah ada perubahan fisik pada gejala gangguan mental?",
+            "Bagaimana gejala gangguan mental muncul pada remaja?",
+            "Apa saja gejala gangguan mental yang harus diwaspadai?",
+            "Gejala gangguan mental bisa terlihat seperti apa?"
+        ],
+        "responses": [
+            "Gejala gangguan mental bisa meliputi perubahan mood yang ekstrem, kesulitan berpikir jernih, dan perubahan perilaku yang tiba-tiba.",
+            "Seseorang dengan gangguan mental mungkin menunjukkan gejala seperti perasaan cemas berlebihan, perubahan pola tidur, atau kesulitan berfungsi dalam kehidupan sehari-hari.",
+            "Beberapa gejala umum gangguan mental termasuk perasaan cemas, depresi, atau penarikan diri dari interaksi sosial.",
+            "Jika seseorang menunjukkan perubahan emosi yang drastis atau mulai menghindari aktivitas yang biasanya mereka nikmati, itu bisa menjadi tanda gangguan mental."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "cara_mengatasi_gangguan_mental",
+        "patterns": [
+            "Bagaimana cara mengatasi gangguan mental?",
+            "Apa yang bisa dilakukan untuk mengatasi gangguan mental?",
+            "Bisakah gangguan mental disembuhkan?",
+            "Bagaimana cara sembuh dari gangguan mental?",
+            "Apa solusi untuk gangguan mental?",
+            "Apa yang harus dilakukan jika saya mengalami gangguan mental?",
+            "Apa pengobatan untuk gangguan mental?",
+            "Bagaimana cara mengatasi gangguan mental dengan efektif?",
+            "Ada cara alami untuk mengatasi gangguan mental?",
+            "Bisakah terapi membantu mengatasi gangguan mental?",
+            "Bagaimana mengatasi gangguan mental dengan cepat?",
+            "Apa langkah-langkah untuk mengatasi gangguan mental?",
+            "Apakah ada perawatan untuk gangguan mental?",
+            "Apa saja cara yang efektif untuk mengatasi gangguan mental?",
+            "Bagaimana terapi dapat membantu gangguan mental?",
+            "Ada tips untuk mengatasi gangguan mental?",
+            "Apa yang bisa saya lakukan untuk mengurangi gangguan mental?",
+            "Bagaimana cara menjaga kesehatan mental?",
+            "Perawatan apa yang terbaik untuk gangguan mental?",
+            "Apakah ada obat untuk mengatasi gangguan mental?"
+        ],
+        "responses": [
+            "Mengatasi gangguan mental bisa melibatkan terapi psikologis, dukungan sosial, dan kadang-kadang pengobatan yang diresepkan oleh dokter.",
+            "Perawatan untuk gangguan mental dapat meliputi terapi bicara, seperti terapi kognitif perilaku, dan obat-obatan untuk membantu mengelola gejala.",
+            "Penting untuk mencari dukungan dari profesional kesehatan mental dan orang-orang terdekat untuk mengatasi gangguan mental.",
+            "Mengikuti program terapi yang terarah dan menjaga pola hidup sehat dapat membantu dalam mengatasi gangguan mental."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "pengobatan_gangguan_mental",
+        "patterns": [
+            "Apa pengobatan untuk gangguan mental?",
+            "Pengobatan gangguan mental itu apa?",
+            "Bagaimana cara mengobati gangguan mental?",
+            "Ada obat untuk gangguan mental?",
+            "Apakah ada terapi untuk gangguan mental?",
+            "Bagaimana cara pengobatan gangguan mental?",
+            "Apakah pengobatan untuk gangguan mental efektif?",
+            "Apa jenis pengobatan untuk gangguan mental?",
+            "Adakah obat yang digunakan untuk gangguan mental?",
+            "Apa yang direkomendasikan untuk pengobatan gangguan mental?",
+            "Pengobatan untuk gangguan mental seperti apa?",
+            "Bisakah gangguan mental diobati dengan obat?",
+            "Apa perawatan terbaik untuk gangguan mental?",
+            "Apakah ada terapi untuk mengatasi gangguan mental?",
+            "Jenis pengobatan apa yang tersedia untuk gangguan mental?",
+            "Apa yang dibutuhkan dalam pengobatan gangguan mental?",
+            "Apa yang dimaksud dengan pengobatan gangguan mental?",
+            "Apa pengobatan untuk gangguan mental yang umum dilakukan?",
+            "Pengobatan apa yang digunakan untuk gangguan mental?",
+            "Apakah pengobatan mental hanya membutuhkan obat?"
+        ],
+        "responses": [
+            "Pengobatan gangguan mental bisa melibatkan terapi psikologis, obat-obatan, atau kombinasi keduanya, tergantung pada jenis dan tingkat keparahan gangguan.",
+            "Penyembuhan gangguan mental seringkali melibatkan terapi psikoterapi dan pengelolaan stres, serta beberapa jenis obat untuk mengatur kimia otak.",
+            "Beberapa pengobatan umum untuk gangguan mental adalah terapi bicara, terapi perilaku kognitif, dan penggunaan antidepresan atau antipsikotik jika diperlukan.",
+            "Pengobatan gangguan mental bertujuan untuk mengurangi gejala dan membantu individu untuk kembali menjalani kehidupan sehari-hari dengan lebih baik."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "penanganan_gangguan_mental",
+        "patterns": [
+            "Bagaimana cara menangani gangguan mental?",
+            "Apa yang harus dilakukan untuk menangani gangguan mental?",
+            "Bagaimana cara penanganan gangguan mental?",
+            "Apa langkah pertama untuk menangani gangguan mental?",
+            "Ada tips untuk menangani gangguan mental?",
+            "Bagaimana cara menangani gangguan mental dengan baik?",
+            "Apa yang perlu dilakukan untuk menangani gangguan mental?",
+            "Penanganan gangguan mental seperti apa yang efektif?",
+            "Apa yang harus dihindari dalam penanganan gangguan mental?",
+            "Bagaimana penanganan gangguan mental pada orang dewasa?",
+            "Bagaimana cara penanganan gangguan mental pada remaja?",
+            "Apa langkah yang perlu diambil untuk menangani gangguan mental?",
+            "Apa yang harus dilakukan jika seseorang mengalami gangguan mental?",
+            "Bagaimana penanganan gangguan mental yang tepat?",
+            "Apakah ada cara alami untuk menangani gangguan mental?",
+            "Apa yang sebaiknya dilakukan untuk menangani gangguan mental?",
+            "Bagaimana cara membantu seseorang yang mengalami gangguan mental?",
+            "Apakah peran keluarga dalam penanganan gangguan mental?",
+            "Bagaimana terapi dapat membantu dalam penanganan gangguan mental?",
+            "Apa yang harus dilakukan untuk mendukung orang dengan gangguan mental?"
+        ],
+        "responses": [
+            "Penanganan gangguan mental dapat dilakukan dengan dukungan dari keluarga, terapi profesional, dan pengobatan yang tepat.",
+            "Langkah-langkah dalam menangani gangguan mental termasuk mencari dukungan, melakukan terapi psikologis, dan menjaga pola hidup yang sehat.",
+            "Penanganan gangguan mental melibatkan pendekatan multidisipliner, seperti terapi kognitif perilaku, dukungan sosial, dan terkadang pengobatan.",
+            "Bantuan dari profesional kesehatan mental sangat penting dalam menangani gangguan mental untuk memastikan pengobatan yang tepat dan efektif."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "perbedaan_gangguan_mental_dan_stres",
+        "patterns": [
+            "Apa perbedaan gangguan mental dan stres?",
+            "Bagaimana cara membedakan gangguan mental dan stres?",
+            "Apa yang membedakan gangguan mental dengan stres?",
+            "Gangguan mental dan stres itu beda apa nggak?",
+            "Apakah gangguan mental dan stres sama?",
+            "Apa saja perbedaan gangguan mental dengan stres?",
+            "Stres itu gangguan mental atau bukan?",
+            "Bagaimana cara mengetahui apakah seseorang mengalami stres atau gangguan mental?",
+            "Apa tanda-tanda seseorang yang mengalami stres atau gangguan mental?",
+            "Perbedaan antara stres dan gangguan mental apa saja?",
+            "Stres bisa jadi gangguan mental ya?",
+            "Apakah stres bisa berubah menjadi gangguan mental?",
+            "Stres itu termasuk gangguan mental atau tidak?",
+            "Apa saja yang membedakan stres dari gangguan mental?",
+            "Bagaimana membedakan stres dan gangguan mental pada remaja?",
+            "Stres itu gejala gangguan mental atau bukan?",
+            "Apakah gangguan mental bisa disebabkan oleh stres?",
+            "Apa ciri-ciri stres yang berbeda dari gangguan mental?",
+            "Bagaimana cara mengetahui apakah seseorang mengalami gangguan mental atau stres?",
+            "Apakah stres bisa menyebabkan gangguan mental?"
+        ],
+        "responses": [
+            "Stres adalah reaksi normal terhadap tekanan atau tantangan hidup, sementara gangguan mental adalah kondisi medis yang mempengaruhi emosi, pikiran, dan perilaku seseorang.",
+            "Stres biasanya bersifat sementara dan dapat mereda dengan waktu, sementara gangguan mental adalah kondisi yang lebih serius dan memerlukan pengobatan atau terapi.",
+            "Stres dapat menjadi pemicu gangguan mental jika tidak ditangani dengan baik, tetapi keduanya berbeda dalam intensitas dan dampaknya terhadap kehidupan sehari-hari.",
+            "Gangguan mental biasanya memiliki gejala yang lebih berat dan bertahan lama, sedangkan stres seringkali lebih mudah diatasi dengan perubahan gaya hidup."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "efek_gangguan_mental",
+        "patterns": [
+            "Apa efek dari gangguan mental?",
+            "Apa dampak dari gangguan mental?",
+            "Apa saja efek buruk dari gangguan mental?",
+            "Bagaimana gangguan mental mempengaruhi hidup seseorang?",
+            "Apa akibat jika gangguan mental tidak diatasi?",
+            "Efek jangka panjang gangguan mental apa saja?",
+            "Dampak sosial dari gangguan mental itu apa?",
+            "Bagaimana gangguan mental mempengaruhi hubungan sosial?",
+            "Apa dampak ekonomi dari gangguan mental?",
+            "Bagaimana gangguan mental mempengaruhi pekerjaan?",
+            "Apa saja efek psikologis dari gangguan mental?",
+            "Gangguan mental bisa berdampak pada apa saja?",
+            "Apakah gangguan mental bisa mempengaruhi kesehatan fisik?",
+            "Bagaimana gangguan mental mempengaruhi kualitas hidup?",
+            "Apa akibat dari gangguan mental pada kehidupan sehari-hari?",
+            "Efek psikologis dari gangguan mental bisa apa saja?",
+            "Bagaimana gangguan mental dapat mempengaruhi keuangan seseorang?",
+            "Apa saja dampak gangguan mental yang dapat terjadi?",
+            "Gangguan mental dapat mempengaruhi apa saja dalam hidup seseorang?",
+            "Apa saja efek gangguan mental yang perlu diwaspadai?"
+        ],
+        "responses": [
+            "Gangguan mental dapat memengaruhi hampir setiap aspek kehidupan, termasuk hubungan sosial, pekerjaan, dan kesehatan fisik.",
+            "Efek dari gangguan mental bisa sangat luas, mulai dari kesulitan dalam berinteraksi sosial hingga penurunan kualitas hidup secara keseluruhan.",
+            "Gangguan mental yang tidak ditangani dengan baik dapat menyebabkan masalah jangka panjang dalam kehidupan pribadi, sosial, dan profesional seseorang.",
+            "Dampak dari gangguan mental seringkali melibatkan penurunan produktivitas, masalah dalam menjaga hubungan, dan penurunan kualitas hidup."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "penyebab_gangguan_mental",
+        "patterns": [
+            "Apa yang menyebabkan gangguan mental?",
+            "Apa penyebab utama gangguan mental?",
+            "Kenapa gangguan mental bisa terjadi?",
+            "Apa yang menjadi faktor penyebab gangguan mental?",
+            "Apa yang menyebabkan seseorang mengalami gangguan mental?",
+            "Apa faktor risiko yang menyebabkan gangguan mental?",
+            "Apakah gangguan mental disebabkan oleh genetika?",
+            "Apakah trauma bisa menyebabkan gangguan mental?",
+            "Bagaimana pola hidup mempengaruhi gangguan mental?",
+            "Apa pengaruh lingkungan terhadap gangguan mental?",
+            "Apa hubungan antara stres dan gangguan mental?",
+            "Adakah faktor genetik dalam penyebab gangguan mental?",
+            "Apa peran hormon dalam penyebab gangguan mental?",
+            "Bagaimana keluarga dapat memengaruhi gangguan mental?",
+            "Apa yang menjadi penyebab gangguan mental pada remaja?",
+            "Apakah gangguan mental dapat diwariskan?",
+            "Bagaimana peristiwa hidup yang mengubah pola hidup dapat menyebabkan gangguan mental?",
+            "Apa saja faktor yang dapat menyebabkan gangguan mental?",
+            "Dapatkah pola makan mempengaruhi gangguan mental?",
+            "Bagaimana pengaruh alkohol terhadap gangguan mental?"
+        ],
+        "responses": [
+            "Gangguan mental dapat disebabkan oleh berbagai faktor, termasuk genetik, lingkungan, stres, dan pola hidup.",
+            "Beberapa penyebab umum gangguan mental termasuk trauma, ketidakseimbangan kimia di otak, serta faktor lingkungan dan genetik.",
+            "Faktor genetik, trauma emosional, stres yang berkelanjutan, serta ketidakseimbangan hormon dapat menjadi penyebab utama gangguan mental.",
+            "Lingkungan yang tidak mendukung atau peristiwa hidup yang penuh tekanan dapat memperburuk atau memicu gangguan mental."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "diagnosis_gangguan_mental",
+        "patterns": [
+            "Bagaimana cara mendeteksi gangguan mental?",
+            "Apa langkah-langkah untuk mendiagnosis gangguan mental?",
+            "Apa saja tes untuk diagnosis gangguan mental?",
+            "Bagaimana cara mengetahui seseorang mengalami gangguan mental?",
+            "Bagaimana seorang profesional mendiagnosis gangguan mental?",
+            "Apa metode yang digunakan untuk mendiagnosis gangguan mental?",
+            "Bagaimana proses diagnosis gangguan mental?",
+            "Apa saja tanda-tanda gangguan mental yang bisa dideteksi?",
+            "Bagaimana tes untuk gangguan mental dilakukan?",
+            "Apa yang harus dilakukan untuk mendiagnosis gangguan mental?",
+            "Apakah gangguan mental bisa didiagnosis dengan tes psikologi?",
+            "Apa peran dokter dalam mendiagnosis gangguan mental?",
+            "Bagaimana cara mengetahui apakah seseorang memiliki gangguan mental?",
+            "Apakah pemeriksaan medis dibutuhkan untuk diagnosis gangguan mental?",
+            "Apa yang dibutuhkan dalam diagnosis gangguan mental?",
+            "Bagaimana seorang ahli mengidentifikasi gangguan mental?",
+            "Apakah tes darah digunakan untuk mendiagnosis gangguan mental?",
+            "Bagaimana cara mengidentifikasi gangguan mental pada anak-anak?",
+            "Apa tanda yang menunjukkan bahwa seseorang perlu pemeriksaan gangguan mental?",
+            "Bagaimana cara membedakan gangguan mental dari masalah fisik?"
+        ],
+        "responses": [
+            "Diagnosis gangguan mental dilakukan oleh profesional kesehatan mental melalui wawancara, observasi, dan tes psikologi.",
+            "Untuk mendiagnosis gangguan mental, seorang ahli akan mengevaluasi gejala yang dialami pasien dan mungkin melakukan serangkaian tes untuk menilai kondisi tersebut.",
+            "Pemeriksaan medis dan tes psikologis biasanya digunakan untuk memastikan diagnosis gangguan mental dan untuk membedakan dari kondisi lain.",
+            "Proses diagnosis gangguan mental melibatkan pengumpulan riwayat medis, gejala, dan interaksi dengan pasien untuk menentukan penyebabnya."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "gejala_gangguan_mental",
+        "patterns": [
+            "Apa gejala gangguan mental?",
+            "Apa tanda-tanda gangguan mental?",
+            "Bagaimana cara mengetahui gejala gangguan mental?",
+            "Gejala apa saja yang bisa menunjukkan gangguan mental?",
+            "Apa saja tanda awal gangguan mental?",
+            "Apa ciri-ciri gangguan mental yang umum?",
+            "Bagaimana seseorang tahu jika mereka mengalami gangguan mental?",
+            "Apa gejala fisik dari gangguan mental?",
+            "Bagaimana cara mendeteksi gejala gangguan mental?",
+            "Apa yang perlu diperhatikan dalam gejala gangguan mental?",
+            "Gejala fisik apa yang muncul pada gangguan mental?",
+            "Apa yang bisa menjadi indikator gangguan mental?",
+            "Gejala psikologis apa yang menunjukkan gangguan mental?",
+            "Bagaimana gangguan mental memengaruhi perilaku seseorang?",
+            "Apa yang menjadi tanda pertama gangguan mental?",
+            "Bagaimana perubahan mood bisa menunjukkan gangguan mental?",
+            "Apakah insomnia tanda dari gangguan mental?",
+            "Bagaimana gangguan mental mempengaruhi perasaan seseorang?",
+            "Apa gejala gangguan mental yang perlu diwaspadai?",
+            "Apa saja tanda yang menunjukkan bahwa seseorang mengalami gangguan mental?"
+        ],
+        "responses": [
+            "Gejala gangguan mental dapat meliputi perubahan perilaku, perubahan suasana hati, kesulitan tidur, serta penurunan kemampuan berpikir dan berfungsi dalam kehidupan sehari-hari.",
+            "Beberapa gejala umum gangguan mental termasuk perasaan cemas atau depresi yang berkepanjangan, gangguan tidur, serta perasaan kehilangan minat terhadap aktivitas sehari-hari.",
+            "Gejala fisik dari gangguan mental bisa termasuk kelelahan yang berlebihan, perubahan nafsu makan, dan gangguan tidur.",
+            "Gejala psikologis yang sering terlihat pada gangguan mental adalah perubahan mood yang ekstrem, perasaan tidak berdaya, serta kesulitan untuk berkonsentrasi."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "pencegahan_gangguan_mental",
+        "patterns": [
+            "Bagaimana cara mencegah gangguan mental?",
+            "Apa yang dapat dilakukan untuk mencegah gangguan mental?",
+            "Pencegahan gangguan mental itu apa?",
+            "Apa langkah yang bisa diambil untuk mencegah gangguan mental?",
+            "Bagaimana cara menghindari gangguan mental?",
+            "Pencegahan gangguan mental pada remaja itu seperti apa?",
+            "Apakah ada cara untuk mencegah gangguan mental?",
+            "Apa yang perlu dilakukan untuk mengurangi risiko gangguan mental?",
+            "Apa yang sebaiknya dilakukan untuk mencegah gangguan mental?",
+            "Bagaimana pola hidup bisa membantu mencegah gangguan mental?",
+            "Apa yang bisa dilakukan untuk menjaga kesehatan mental?",
+            "Bagaimana cara mengurangi stres untuk mencegah gangguan mental?",
+            "Apa pentingnya olahraga dalam pencegahan gangguan mental?",
+            "Apakah terapi dapat mencegah gangguan mental?",
+            "Apakah ada cara alami untuk mencegah gangguan mental?",
+            "Apa yang dapat dilakukan untuk mengelola stres guna mencegah gangguan mental?",
+            "Pencegahan gangguan mental pada anak itu seperti apa?",
+            "Apakah diet sehat bisa membantu mencegah gangguan mental?",
+            "Bagaimana pentingnya dukungan sosial dalam mencegah gangguan mental?",
+            "Apa yang perlu diperhatikan dalam pencegahan gangguan mental?"
+        ],
+        "responses": [
+            "Pencegahan gangguan mental dapat dilakukan dengan menjaga kesehatan mental melalui pola hidup sehat, mengelola stres, serta mendapatkan dukungan sosial yang kuat.",
+            "Cara untuk mencegah gangguan mental melibatkan upaya untuk mengurangi stres, membangun kebiasaan sehat, dan mencari bantuan profesional jika diperlukan.",
+            "Pencegahan gangguan mental dapat meliputi manajemen stres yang baik, menjaga hubungan sosial yang sehat, serta menjalani pola makan dan olahraga yang baik.",
+            "Untuk mencegah gangguan mental, penting untuk merawat kesehatan mental secara keseluruhan, termasuk menjaga keseimbangan emosional dan fisik."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "pengobatan_gangguan_mental",
+        "patterns": [
+            "Bagaimana cara pengobatan gangguan mental?",
+            "Apa pengobatan yang tersedia untuk gangguan mental?",
+            "Bagaimana pengobatan gangguan mental dilakukan?",
+            "Apa yang dilakukan untuk mengobati gangguan mental?",
+            "Apa jenis pengobatan untuk gangguan mental?",
+            "Apakah ada obat untuk gangguan mental?",
+            "Bagaimana terapi membantu pengobatan gangguan mental?",
+            "Apa peran psikoterapi dalam pengobatan gangguan mental?",
+            "Apakah pengobatan gangguan mental harus menggunakan obat?",
+            "Apa saja pengobatan yang bisa membantu gangguan mental?",
+            "Bagaimana pengobatan gangguan mental pada anak-anak?",
+            "Apakah terapi perilaku kognitif efektif untuk gangguan mental?",
+            "Bagaimana cara memilih pengobatan untuk gangguan mental?",
+            "Apa manfaat pengobatan gangguan mental dengan obat-obatan?",
+            "Bagaimana cara pengobatan gangguan mental dengan terapi?",
+            "Apakah terapi keluarga dapat membantu pengobatan gangguan mental?",
+            "Apa yang dimaksud dengan terapi elektrokonvulsif untuk gangguan mental?",
+            "Apakah pengobatan gangguan mental membutuhkan intervensi medis?",
+            "Bagaimana peran obat antidepresan dalam pengobatan gangguan mental?",
+            "Apa yang bisa dilakukan jika pengobatan gangguan mental tidak berhasil?"
+        ],
+        "responses": [
+            "Pengobatan gangguan mental meliputi terapi psikologis, pengobatan dengan obat-obatan, serta terapi lainnya seperti terapi perilaku kognitif.",
+            "Untuk mengobati gangguan mental, seringkali digunakan kombinasi pengobatan seperti terapi psikoterapi dan pengobatan dengan obat-obatan, tergantung pada jenis gangguan.",
+            "Obat-obatan dan psikoterapi adalah pengobatan yang umum digunakan untuk gangguan mental, dengan pendekatan yang disesuaikan dengan kondisi individu.",
+            "Terapi kognitif-perilaku dan pengobatan antidepresan dapat membantu mengatasi banyak jenis gangguan mental, terutama gangguan kecemasan dan depresi."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "gangguan_mental_dan_stigma",
+        "patterns": [
+            "Apa stigma yang ada terhadap gangguan mental?",
+            "Bagaimana stigma mempengaruhi penderita gangguan mental?",
+            "Mengapa ada stigma terhadap orang dengan gangguan mental?",
+            "Apa dampak stigma terhadap gangguan mental?",
+            "Bagaimana cara mengurangi stigma terhadap gangguan mental?",
+            "Apa yang dimaksud dengan stigma dalam gangguan mental?",
+            "Apakah stigma bisa memperburuk gangguan mental?",
+            "Mengapa orang dengan gangguan mental sering mendapat stigma?",
+            "Bagaimana stigma memengaruhi perawatan gangguan mental?",
+            "Apa yang bisa dilakukan untuk mengatasi stigma gangguan mental?",
+            "Apakah stigma sosial mempengaruhi pengobatan gangguan mental?",
+            "Bagaimana cara menghilangkan stigma terhadap gangguan mental?",
+            "Bagaimana stigma menghambat orang untuk mencari pengobatan gangguan mental?",
+            "Apakah stigma sosial berpengaruh pada kesadaran tentang gangguan mental?",
+            "Apa yang perlu dilakukan untuk meningkatkan pemahaman tentang gangguan mental?",
+            "Bagaimana stigma mempengaruhi kualitas hidup penderita gangguan mental?",
+            "Apa yang harus dilakukan masyarakat untuk mengurangi stigma terhadap gangguan mental?",
+            "Bagaimana keluarga dapat membantu mengurangi stigma terhadap gangguan mental?",
+            "Apa yang bisa dilakukan untuk mengedukasi orang mengenai gangguan mental?",
+            "Bagaimana stigma memengaruhi terapi untuk gangguan mental?"
+        ],
+        "responses": [
+            "Stigma terhadap gangguan mental seringkali membuat individu merasa malu dan terisolasi, yang dapat memperburuk kondisi mereka.",
+            "Untuk mengurangi stigma terhadap gangguan mental, penting untuk meningkatkan kesadaran dan edukasi tentang kesehatan mental di masyarakat.",
+            "Stigma sosial dapat menghalangi orang dengan gangguan mental untuk mencari bantuan, yang dapat memperburuk kondisi mereka jika tidak ditangani dengan tepat.",
+            "Penting untuk mengedukasi masyarakat tentang gangguan mental agar stigma dapat dikurangi dan lebih banyak orang merasa nyaman mencari perawatan."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "gangguan_mental_untuk_anak",
+        "patterns": [
+            "Apa itu gangguan mental pada anak?",
+            "Bagaimana gangguan mental muncul pada anak?",
+            "Apa saja gangguan mental yang dapat terjadi pada anak-anak?",
+            "Apa gejala gangguan mental pada anak?",
+            "Bagaimana cara mengetahui gangguan mental pada anak?",
+            "Apa yang menyebabkan gangguan mental pada anak-anak?",
+            "Bagaimana cara mengatasi gangguan mental pada anak?",
+            "Apa yang perlu diperhatikan pada gangguan mental anak?",
+            "Apakah gangguan mental pada anak bisa disembuhkan?",
+            "Bagaimana pengobatan gangguan mental pada anak?",
+            "Apa saja tanda-tanda gangguan mental pada anak?",
+            "Apa peran orang tua dalam menangani gangguan mental anak?",
+            "Apakah terapi anak dapat membantu mengatasi gangguan mental?",
+            "Apa yang menyebabkan anak-anak mengalami gangguan mental?",
+            "Bagaimana cara mengidentifikasi gangguan mental pada anak-anak?",
+            "Apakah gangguan mental pada anak berhubungan dengan trauma?",
+            "Bagaimana cara mengurangi stres pada anak untuk mencegah gangguan mental?",
+            "Apa yang perlu dilakukan orang tua jika anak mengalami gangguan mental?",
+            "Apakah anak yang mengalami gangguan mental memerlukan perawatan khusus?",
+            "Apa dampak gangguan mental pada perkembangan anak?"
+        ],
+        "responses": [
+            "Gangguan mental pada anak dapat mencakup berbagai kondisi, seperti gangguan kecemasan, ADHD, dan depresi.",
+            "Gejala gangguan mental pada anak bisa meliputi perubahan perilaku, kesulitan dalam berinteraksi dengan teman, serta kesulitan tidur atau makan.",
+            "Pencegahan gangguan mental pada anak melibatkan menciptakan lingkungan yang mendukung dan mengurangi stres, serta memberikan dukungan emosional yang cukup.",
+            "Pengobatan gangguan mental pada anak sering melibatkan terapi, konseling, dan terkadang pengobatan yang disesuaikan dengan usia dan kondisi anak."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "gangguan_mental_dan_depresi",
+        "patterns": [
+            "Apa itu depresi dalam gangguan mental?",
+            "Bagaimana depresi mempengaruhi gangguan mental?",
+            "Apa tanda-tanda depresi sebagai gangguan mental?",
+            "Apa penyebab depresi dalam gangguan mental?",
+            "Bagaimana cara mengatasi depresi dalam gangguan mental?",
+            "Apa gejala depresi yang menunjukkan gangguan mental?",
+            "Bagaimana depresi menjadi gangguan mental?",
+            "Apa hubungan antara gangguan mental dan depresi?",
+            "Bagaimana cara mengobati depresi dalam gangguan mental?",
+            "Apakah depresi termasuk gangguan mental?",
+            "Apa yang perlu dilakukan jika mengalami depresi dalam gangguan mental?",
+            "Bagaimana seseorang tahu apakah mereka mengalami depresi?",
+            "Apa yang menyebabkan seseorang mengalami depresi dalam gangguan mental?",
+            "Bagaimana pengobatan depresi dalam gangguan mental dilakukan?",
+            "Apa efek depresi terhadap kesehatan mental?",
+            "Bagaimana cara mencegah depresi dalam gangguan mental?",
+            "Apakah terapi dapat mengobati depresi dalam gangguan mental?",
+            "Bagaimana depresi bisa memengaruhi kehidupan sehari-hari?",
+            "Apa yang harus dilakukan jika depresi semakin parah?",
+            "Bagaimana cara membantu seseorang yang depresi?"
+        ],
+        "responses": [
+            "Depresi adalah salah satu jenis gangguan mental yang dapat memengaruhi pikiran, perasaan, dan kemampuan seseorang untuk menjalani kehidupan sehari-hari.",
+            "Gejala depresi dalam gangguan mental dapat mencakup perasaan tidak berharga, kelelahan, kesulitan tidur, dan kehilangan minat terhadap aktivitas yang sebelumnya disukai.",
+            "Depresi sering kali dapat diobati dengan kombinasi terapi dan obat-obatan, serta dengan dukungan sosial yang tepat.",
+            "Penting untuk mencari bantuan profesional jika depresi dalam gangguan mental mengganggu kehidupan seseorang, agar pengobatan dapat segera dimulai."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "gangguan_mental_dan_kecemasan",
+        "patterns": [
+            "Apa itu gangguan kecemasan?",
+            "Apa yang dimaksud dengan gangguan kecemasan?",
+            "Bagaimana gangguan kecemasan mempengaruhi kehidupan sehari-hari?",
+            "Apa tanda-tanda seseorang mengalami gangguan kecemasan?",
+            "Apa penyebab gangguan kecemasan?",
+            "Apa perbedaan antara kecemasan biasa dan gangguan kecemasan?",
+            "Bagaimana cara mengetahui seseorang memiliki gangguan kecemasan?",
+            "Apakah kecemasan berlebihan bisa menjadi gangguan mental?",
+            "Apa yang menyebabkan gangguan kecemasan?",
+            "Bagaimana cara mengatasi gangguan kecemasan?",
+            "Apa yang harus dilakukan jika seseorang mengalami kecemasan berlebihan?",
+            "Apakah terapi efektif untuk mengatasi gangguan kecemasan?",
+            "Apa hubungan antara gangguan kecemasan dan stres?",
+            "Bagaimana cara mengelola gangguan kecemasan?",
+            "Apa yang dimaksud dengan gangguan kecemasan umum?",
+            "Bagaimana cara mengidentifikasi gangguan kecemasan pada anak?",
+            "Bagaimana gangguan kecemasan mempengaruhi hubungan sosial?",
+            "Apa dampak gangguan kecemasan terhadap kesehatan fisik?",
+            "Apa yang bisa dilakukan untuk mencegah gangguan kecemasan?",
+            "Bagaimana pengobatan untuk gangguan kecemasan dilakukan?"
+        ],
+        "responses": [
+            "Gangguan kecemasan adalah kondisi di mana seseorang merasa cemas atau khawatir secara berlebihan, yang memengaruhi aktivitas sehari-hari mereka.",
+            "Gejala gangguan kecemasan bisa mencakup perasaan gelisah, ketegangan otot, kesulitan tidur, dan rasa takut tanpa alasan yang jelas.",
+            "Gangguan kecemasan dapat diatasi dengan terapi perilaku kognitif, relaksasi, serta pengobatan untuk mengurangi kecemasan berlebihan.",
+            "Penting untuk mendapatkan dukungan dari profesional kesehatan mental jika kecemasan mengganggu kehidupan sehari-hari, agar dapat dikelola dengan baik."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "gangguan_mental_dan_psikoterapi",
+        "patterns": [
+            "Apa itu psikoterapi untuk gangguan mental?",
+            "Bagaimana psikoterapi membantu gangguan mental?",
+            "Apa jenis psikoterapi yang digunakan untuk gangguan mental?",
+            "Apakah psikoterapi efektif untuk gangguan mental?",
+            "Bagaimana cara kerja psikoterapi untuk gangguan mental?",
+            "Apa tujuan dari psikoterapi untuk gangguan mental?",
+            "Seberapa penting psikoterapi dalam pengobatan gangguan mental?",
+            "Bagaimana psikoterapi membantu seseorang mengatasi gangguan mental?",
+            "Apa yang terjadi selama sesi psikoterapi untuk gangguan mental?",
+            "Apa yang dimaksud dengan terapi perilaku kognitif?",
+            "Bagaimana terapi perilaku kognitif membantu dalam pengobatan gangguan mental?",
+            "Apakah terapi keluarga bagian dari psikoterapi untuk gangguan mental?",
+            "Bagaimana psikoterapi dapat mendukung pengobatan gangguan mental?",
+            "Berapa lama waktu yang dibutuhkan untuk merasakan manfaat psikoterapi?",
+            "Apakah psikoterapi dapat mengatasi gangguan mental tanpa obat-obatan?",
+            "Apa peran psikoterapis dalam membantu individu dengan gangguan mental?",
+            "Bagaimana psikoterapi membantu dalam pemulihan gangguan mental?",
+            "Apa yang perlu dipersiapkan sebelum mengikuti psikoterapi untuk gangguan mental?",
+            "Apakah terapi kelompok dapat digunakan untuk gangguan mental?",
+            "Bagaimana psikoterapi membantu mengubah pola pikir yang negatif?"
+        ],
+        "responses": [
+            "Psikoterapi adalah metode pengobatan untuk gangguan mental yang melibatkan interaksi dengan seorang profesional untuk membantu seseorang memahami dan mengelola perasaan dan perilaku mereka.",
+            "Terapi perilaku kognitif adalah jenis psikoterapi yang efektif untuk banyak gangguan mental, seperti depresi dan kecemasan, dengan membantu individu mengidentifikasi dan mengubah pola pikir yang merugikan.",
+            "Psikoterapi dapat digunakan sebagai pengobatan utama atau bersama dengan obat-obatan untuk mengelola gangguan mental dengan cara yang lebih komprehensif.",
+            "Manfaat psikoterapi dapat dirasakan setelah beberapa sesi, tergantung pada jenis dan keparahan gangguan mental yang dialami oleh individu."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "gangguan_mental_dan_bipolar",
+        "patterns": [
+            "Apa itu gangguan bipolar?",
+            "Apa gejala gangguan bipolar?",
+            "Bagaimana seseorang mengetahui mereka memiliki gangguan bipolar?",
+            "Apa yang menyebabkan gangguan bipolar?",
+            "Apa perbedaan antara gangguan bipolar dan gangguan mood lainnya?",
+            "Apa yang terjadi pada penderita gangguan bipolar?",
+            "Bagaimana gangguan bipolar mempengaruhi kehidupan seseorang?",
+            "Bagaimana cara mengobati gangguan bipolar?",
+            "Apakah gangguan bipolar dapat sembuh?",
+            "Apa pengobatan terbaik untuk gangguan bipolar?",
+            "Bagaimana cara mendukung seseorang dengan gangguan bipolar?",
+            "Apa dampak gangguan bipolar terhadap hubungan sosial?",
+            "Apa jenis terapi yang digunakan untuk gangguan bipolar?",
+            "Apakah pengobatan gangguan bipolar melibatkan obat-obatan?",
+            "Apa yang perlu dilakukan untuk mencegah episode mania dalam gangguan bipolar?",
+            "Bagaimana cara hidup dengan gangguan bipolar?",
+            "Apakah perubahan gaya hidup dapat membantu gangguan bipolar?",
+            "Bagaimana cara menangani perubahan suasana hati pada gangguan bipolar?",
+            "Apa yang menyebabkan perubahan suasana hati pada gangguan bipolar?",
+            "Apakah gangguan bipolar lebih sering terjadi pada orang dewasa atau anak-anak?"
+        ],
+        "responses": [
+            "Gangguan bipolar adalah kondisi gangguan mood yang menyebabkan perubahan ekstrem dalam suasana hati, energi, dan kemampuan untuk menjalani aktivitas sehari-hari.",
+            "Gejala gangguan bipolar meliputi periode mania (energi tinggi dan perasaan euforia) dan depresi (perasaan sangat rendah dan tidak ada energi).",
+            "Pengobatan gangguan bipolar sering melibatkan kombinasi obat-obatan, seperti stabilisator mood, dan terapi psikologis untuk mengelola gejala.",
+            "Dengan pengobatan dan dukungan yang tepat, banyak orang dengan gangguan bipolar dapat mengelola gejalanya dan menjalani kehidupan yang stabil."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "gangguan_mental_dan_psikoedukasi",
+        "patterns": [
+            "Apa itu psikoedukasi untuk gangguan mental?",
+            "Bagaimana psikoedukasi membantu orang dengan gangguan mental?",
+            "Apa manfaat psikoedukasi untuk gangguan mental?",
+            "Mengapa psikoedukasi penting untuk penderita gangguan mental?",
+            "Bagaimana psikoedukasi dapat meningkatkan kesadaran tentang gangguan mental?",
+            "Apa yang diajarkan dalam psikoedukasi untuk gangguan mental?",
+            "Bagaimana psikoedukasi dapat mengurangi stigma terhadap gangguan mental?",
+            "Siapa yang membutuhkan psikoedukasi terkait gangguan mental?",
+            "Apa peran psikoedukasi dalam pengobatan gangguan mental?",
+            "Bagaimana psikoedukasi membantu keluarga penderita gangguan mental?",
+            "Apa yang bisa dipelajari dalam psikoedukasi untuk gangguan mental?",
+            "Bagaimana cara efektif dalam melakukan psikoedukasi tentang gangguan mental?",
+            "Apa tujuan utama dari psikoedukasi tentang gangguan mental?",
+            "Apakah psikoedukasi juga penting bagi masyarakat umum?",
+            "Bagaimana psikoedukasi bisa memperbaiki kualitas hidup penderita gangguan mental?",
+            "Apa dampak psikoedukasi terhadap pemahaman masyarakat tentang gangguan mental?",
+            "Bagaimana keluarga dapat mendapatkan manfaat dari psikoedukasi tentang gangguan mental?",
+            "Apa yang harus dilakukan agar psikoedukasi lebih efektif bagi penderita gangguan mental?",
+            "Bagaimana cara mengimplementasikan psikoedukasi di masyarakat?"
+        ],
+        "responses": [
+            "Psikoedukasi adalah proses memberikan informasi tentang gangguan mental kepada individu dan keluarga, untuk meningkatkan pemahaman dan keterampilan mereka dalam mengelola kondisi tersebut.",
+            "Melalui psikoedukasi, penderita gangguan mental dan keluarganya dapat memahami lebih baik tentang gejala, pengobatan, dan cara mengelola gangguan tersebut.",
+            "Psikoedukasi sangat penting untuk mengurangi stigma terhadap gangguan mental dan meningkatkan kesadaran bahwa gangguan mental adalah masalah kesehatan yang bisa diobati.",
+            "Psikoedukasi membantu meningkatkan kualitas hidup penderita gangguan mental dengan memberikan pemahaman yang lebih baik tentang kondisi mereka dan cara menghadapinya."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "badmood_gejala",
+        "patterns": [
+            "Apa saja gejala bad mood?",
+            "Bagaimana cara mengetahui kalau seseorang sedang bad mood?",
+            "Apa yang terjadi pada tubuh saat seseorang bad mood?",
+            "Bagaimana seseorang bisa merasa bad mood?",
+            "Apa yang menyebabkan seseorang mengalami bad mood?",
+            "Apa yang bisa dilakukan ketika seseorang bad mood?",
+            "Apakah bad mood itu normal?",
+            "Bagaimana cara mengidentifikasi tanda-tanda bad mood?",
+            "Apa yang bisa menandakan seseorang sedang bad mood?",
+            "Apakah bad mood bisa mempengaruhi kesehatan fisik?",
+            "Bagaimana bad mood bisa mempengaruhi pekerjaan?",
+            "Apa yang menyebabkan seseorang cepat bad mood?",
+            "Apakah bad mood bisa disebabkan oleh stres?",
+            "Bagaimana cara mengatasi bad mood dalam waktu singkat?",
+            "Apakah perasaan bad mood bisa bertahan lama?",
+            "Apa saja tanda fisik dari bad mood?",
+            "Apakah bad mood selalu disertai dengan perubahan suasana hati?",
+            "Bagaimana cara tahu kalau seseorang lagi bad mood?",
+            "Apakah ada hubungan antara bad mood dan kecemasan?",
+            "Apa saja tanda seseorang merasa bad mood di tempat kerja?"
+        ],
+        "responses": [
+            "Gejala bad mood bisa termasuk merasa mudah tersinggung, cemas, tidak tertarik dengan aktivitas yang biasanya disukai, dan sering merasa lelah.",
+            "Bad mood sering kali ditandai dengan perasaan tidak bahagia atau tidak nyaman, serta perubahan suasana hati yang tiba-tiba.",
+            "Stres, kelelahan, atau perasaan frustrasi bisa menjadi penyebab seseorang merasa bad mood.",
+            "Mengidentifikasi tanda-tanda bad mood bisa dilakukan dengan memperhatikan perubahan dalam emosi, energi, dan tingkat kenyamanan seseorang."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "badmood_penyebab",
+        "patterns": [
+            "Apa penyebab seseorang bisa bad mood?",
+            "Kenapa seseorang bisa merasa bad mood?",
+            "Apa yang menyebabkan perubahan suasana hati menjadi bad mood?",
+            "Apa yang menjadi faktor penyebab bad mood?",
+            "Bagaimana stres bisa menyebabkan bad mood?",
+            "Apakah kelelahan bisa menjadi penyebab bad mood?",
+            "Bagaimana masalah pribadi bisa menyebabkan seseorang bad mood?",
+            "Apakah pekerjaan bisa menyebabkan bad mood?",
+            "Apa dampak lingkungan sekitar terhadap bad mood?",
+            "Bagaimana konflik sosial bisa memicu bad mood?",
+            "Apakah kondisi cuaca bisa mempengaruhi mood seseorang?",
+            "Bagaimana kurang tidur bisa menyebabkan bad mood?",
+            "Apakah masalah keuangan bisa menyebabkan bad mood?",
+            "Bagaimana tekanan sosial mempengaruhi seseorang untuk bad mood?",
+            "Apakah hubungan asmara dapat menyebabkan bad mood?",
+            "Apa yang bisa membuat seseorang merasa bad mood secara tiba-tiba?",
+            "Bagaimana pola makan bisa berhubungan dengan bad mood?",
+            "Apakah perasaan kecewa bisa memicu bad mood?",
+            "Bagaimana perasaan tidak dihargai menyebabkan bad mood?",
+            "Bagaimana kesibukan berlebihan bisa menyebabkan bad mood?"
+        ],
+        "responses": [
+            "Penyebab bad mood bisa bermacam-macam, termasuk stres, masalah pribadi, kurang tidur, atau ketegangan dalam hubungan sosial.",
+            "Kelelahan fisik atau mental, serta perasaan tidak dihargai, dapat menyebabkan seseorang merasa bad mood.",
+            "Konflik atau masalah di tempat kerja sering menjadi pemicu utama bad mood bagi banyak orang.",
+            "Faktor eksternal seperti cuaca atau lingkungan juga dapat berpengaruh terhadap suasana hati dan menyebabkan bad mood."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "badmood_dampak",
+        "patterns": [
+            "Apa dampak bad mood terhadap kesehatan?",
+            "Bagaimana bad mood mempengaruhi kehidupan sehari-hari?",
+            "Apakah bad mood bisa merusak hubungan sosial?",
+            "Apa efek jangka panjang dari bad mood?",
+            "Bagaimana bad mood mempengaruhi pekerjaan atau produktivitas?",
+            "Apa dampak psikologis dari bad mood?",
+            "Bagaimana bad mood bisa mempengaruhi hubungan dengan orang lain?",
+            "Apakah bad mood bisa menyebabkan depresi?",
+            "Apa pengaruh bad mood terhadap pola tidur?",
+            "Bagaimana bad mood dapat mempengaruhi sistem imun?",
+            "Apakah bad mood bisa mempengaruhi kemampuan berpikir?",
+            "Apakah bad mood bisa menyebabkan gangguan makan?",
+            "Bagaimana seseorang bisa merasa terisolasi karena bad mood?",
+            "Apakah bad mood dapat menyebabkan peningkatan stres?",
+            "Apa dampak bad mood terhadap hubungan asmara?",
+            "Bagaimana bad mood dapat mengganggu kualitas hidup?",
+            "Apa yang terjadi jika seseorang terus menerus bad mood?",
+            "Apa pengaruh bad mood terhadap kebiasaan sehari-hari?",
+            "Apa yang terjadi ketika seseorang terlalu lama bad mood?",
+            "Apakah bad mood berhubungan dengan gangguan mental lainnya?"
+        ],
+        "responses": [
+            "Bad mood dapat mengganggu produktivitas, hubungan sosial, dan kesehatan fisik serta mental seseorang.",
+            "Jika tidak diatasi, bad mood yang berlangsung lama bisa berujung pada gangguan kecemasan atau depresi.",
+            "Dampak jangka panjang dari bad mood bisa mencakup masalah tidur, peningkatan stres, dan penurunan kualitas hidup secara keseluruhan.",
+            "Dalam beberapa kasus, bad mood dapat menyebabkan seseorang merasa terisolasi atau kesulitan berinteraksi dengan orang lain."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "badmood_pengobatan",
+        "patterns": [
+            "Bagaimana cara mengatasi bad mood?",
+            "Apa yang harus dilakukan jika sedang bad mood?",
+            "Apakah ada cara cepat untuk mengatasi bad mood?",
+            "Bagaimana cara mengatasi perasaan bad mood?",
+            "Apakah olahraga bisa membantu mengatasi bad mood?",
+            "Bagaimana meditasi bisa membantu mengurangi bad mood?",
+            "Apakah berbicara dengan seseorang bisa membantu mengatasi bad mood?",
+            "Bagaimana cara untuk keluar dari perasaan bad mood?",
+            "Apakah makan makanan tertentu bisa membantu mengurangi bad mood?",
+            "Bagaimana cara mengendalikan perasaan bad mood yang intens?",
+            "Apakah musik bisa membantu meredakan bad mood?",
+            "Bagaimana cara mengatasi bad mood saat di tempat kerja?",
+            "Apa yang harus dilakukan agar tidak terlalu lama bad mood?",
+            "Apakah terapi bisa membantu mengatasi bad mood?",
+            "Bagaimana cara menghindari bad mood di pagi hari?",
+            "Apakah tidur yang cukup bisa mengatasi bad mood?",
+            "Apakah yoga efektif untuk mengurangi bad mood?",
+            "Bagaimana cara berkomunikasi dengan orang yang sedang bad mood?",
+            "Apa saja teknik untuk meredakan bad mood?",
+            "Apakah menggunakan jurnal bisa membantu mengatasi bad mood?"
+        ],
+        "responses": [
+            "Cara mengatasi bad mood termasuk berbicara dengan seseorang yang dipercaya, berolahraga, atau melakukan meditasi untuk menenangkan pikiran.",
+            "Olahraga dapat membantu melepaskan endorfin, yang dapat memperbaiki suasana hati dan mengurangi perasaan bad mood.",
+            "Tidur yang cukup dan makan makanan sehat juga dapat membantu mengatasi bad mood dengan memberi tubuh energi yang dibutuhkan.",
+            "Melakukan aktivitas yang disukai, seperti mendengarkan musik atau menulis dalam jurnal, dapat membantu meredakan bad mood."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "badmood_preventif",
+        "patterns": [
+            "Bagaimana cara mencegah bad mood?",
+            "Apa yang bisa dilakukan untuk menghindari bad mood?",
+            "Apa langkah preventif agar tidak cepat bad mood?",
+            "Bagaimana cara menjaga suasana hati tetap positif?",
+            "Apakah ada cara untuk mengurangi risiko bad mood?",
+            "Bagaimana cara menjaga mood agar tidak mudah buruk?",
+            "Apa yang harus dilakukan agar tidak mudah bad mood?",
+            "Apakah pola tidur yang baik bisa mencegah bad mood?",
+            "Bagaimana cara menjaga pikiran tetap positif?",
+            "Apa yang harus dilakukan untuk menjaga emosi tetap stabil?",
+            "Apakah teknik relaksasi bisa mencegah bad mood?",
+            "Bagaimana cara menjaga hubungan sosial yang sehat untuk mencegah bad mood?",
+            "Apa peran olahraga dalam mencegah bad mood?",
+            "Apakah meditasi setiap hari bisa mencegah bad mood?",
+            "Apa yang harus dilakukan agar tidak merasa tertekan dan bad mood?",
+            "Bagaimana cara menjaga pola makan yang sehat untuk mencegah bad mood?",
+            "Apakah berbicara dengan orang terdekat bisa membantu mencegah bad mood?",
+            "Bagaimana cara mengatur stres untuk mencegah bad mood?",
+            "Apa yang harus dilakukan untuk menghindari pikiran negatif?"
+        ],
+        "responses": [
+            "Mencegah bad mood melibatkan menjaga keseimbangan emosional melalui tidur yang cukup, olahraga, meditasi, dan komunikasi terbuka dengan orang terdekat.",
+            "Untuk menghindari bad mood, penting untuk menjaga rutinitas yang sehat, termasuk makan dengan baik, berolahraga, dan mengelola stres.",
+            "Menjaga pikiran positif dan menghindari pemicu stres juga dapat membantu mencegah bad mood.",
+            "Mengatur waktu untuk diri sendiri dan berbicara dengan orang yang dipercaya adalah langkah-langkah preventif yang efektif untuk menjaga mood tetap stabil."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "badmood_efek_jangka_panjang",
+        "patterns": [
+            "Apa efek jangka panjang dari bad mood?",
+            "Bagaimana dampak bad mood dalam jangka panjang?",
+            "Apakah bad mood bisa berkelanjutan?",
+            "Apa yang terjadi jika seseorang terus-menerus bad mood?",
+            "Bagaimana bad mood bisa mempengaruhi hidup dalam waktu panjang?",
+            "Apa akibat dari perasaan bad mood yang lama?",
+            "Apakah bad mood bisa mengubah hidup seseorang?",
+            "Apa yang terjadi pada tubuh jika seseorang terus merasa bad mood?",
+            "Bagaimana efek jangka panjang dari perubahan suasana hati buruk?",
+            "Apakah seseorang bisa merasa terjebak dalam bad mood?",
+            "Bagaimana cara bad mood berpengaruh pada kehidupan jangka panjang?",
+            "Apa akibat buruk jika seseorang terus menerus bad mood?",
+            "Apakah kondisi bad mood yang berkepanjangan bisa berbahaya?",
+            "Bagaimana seseorang bisa keluar dari bad mood yang sudah berlangsung lama?",
+            "Apakah bad mood yang terus berlangsung bisa menyebabkan gangguan mental?",
+            "Apa dampaknya jika seseorang merasa bad mood dalam waktu yang lama?",
+            "Bagaimana cara mengatasi efek jangka panjang dari bad mood?",
+            "Bagaimana perubahan suasana hati yang buruk dapat merusak kehidupan sosial?",
+            "Apakah efek bad mood bisa bertahan lama dalam hidup seseorang?"
+        ],
+        "responses": [
+            "Bad mood yang berlangsung lama dapat menyebabkan masalah psikologis seperti kecemasan dan depresi.",
+            "Efek jangka panjang dari bad mood bisa mencakup penurunan kualitas hidup, kesulitan dalam hubungan sosial, dan masalah kesehatan.",
+            "Jika bad mood tidak diatasi, bisa menyebabkan gangguan tidur, peningkatan stres, dan penurunan kemampuan untuk berfokus pada pekerjaan.",
+            "Bad mood yang berkepanjangan dapat mempengaruhi hubungan sosial, pekerjaan, dan kesehatan mental seseorang."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "badmood_terhadap_pekerjaan",
+        "patterns": [
+            "Bagaimana bad mood mempengaruhi pekerjaan?",
+            "Apa yang terjadi ketika seseorang bad mood di tempat kerja?",
+            "Bagaimana bad mood dapat mengganggu produktivitas kerja?",
+            "Apa dampak bad mood terhadap kinerja di tempat kerja?",
+            "Apakah seseorang bisa bekerja dengan baik saat bad mood?",
+            "Bagaimana cara mengatasi bad mood agar tidak mempengaruhi pekerjaan?",
+            "Apa yang harus dilakukan jika merasa bad mood saat bekerja?",
+            "Bagaimana bad mood mempengaruhi hubungan dengan rekan kerja?",
+            "Apa yang terjadi pada pekerjaan jika seseorang mengalami bad mood?",
+            "Apakah bad mood bisa merusak hubungan profesional?",
+            "Bagaimana cara menjaga mood tetap positif saat bekerja?",
+            "Apa dampak jangka panjang jika sering bad mood di tempat kerja?",
+            "Bagaimana cara menghindari bad mood di lingkungan kerja?",
+            "Bagaimana cara keluar dari bad mood yang terjadi di kantor?",
+            "Apakah bad mood bisa mengganggu keputusan di tempat kerja?",
+            "Bagaimana cara menghadapi tekanan pekerjaan yang menyebabkan bad mood?",
+            "Bagaimana agar tetap produktif meskipun sedang bad mood?",
+            "Apakah bad mood dapat mempengaruhi komunikasi dengan atasan?",
+            "Apa yang bisa dilakukan untuk tetap tenang meskipun bad mood di pekerjaan?",
+            "Bagaimana caranya mengelola stres agar tidak berujung bad mood di tempat kerja?"
+        ],
+        "responses": [
+            "Bad mood dapat menurunkan fokus, mengganggu interaksi sosial, dan mengurangi produktivitas di tempat kerja.",
+            "Cara untuk mengatasi bad mood di tempat kerja termasuk beristirahat sejenak, berbicara dengan rekan kerja, atau melakukan teknik relaksasi.",
+            "Bad mood yang tidak ditangani bisa menyebabkan kesalahan dalam pekerjaan, hubungan yang tegang dengan rekan kerja, dan menurunnya kinerja.",
+            "Mengelola stres dan mengambil waktu untuk diri sendiri di tempat kerja dapat membantu menghindari dampak buruk dari bad mood."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "badmood_solusi_pribadi",
+        "patterns": [
+            "Apa solusi pribadi untuk mengatasi bad mood?",
+            "Bagaimana cara pribadi mengelola bad mood?",
+            "Apa yang bisa dilakukan untuk mengatasi bad mood sendiri?",
+            "Bagaimana cara keluar dari bad mood tanpa bantuan orang lain?",
+            "Apa langkah-langkah untuk mengatasi bad mood secara mandiri?",
+            "Apa yang bisa saya lakukan saat bad mood datang?",
+            "Bagaimana cara mengendalikan bad mood ketika sedang sendirian?",
+            "Apa cara efektif untuk mengatasi bad mood dengan cepat?",
+            "Bagaimana cara meredakan bad mood tanpa berbicara dengan orang lain?",
+            "Apa yang harus saya lakukan ketika merasa bad mood di rumah?",
+            "Bagaimana cara menyelesaikan perasaan bad mood tanpa dukungan sosial?",
+            "Apa yang perlu dilakukan untuk mengatasi perasaan bad mood sendirian?",
+            "Bagaimana cara mengatur diri sendiri untuk keluar dari bad mood?",
+            "Apa saja teknik yang dapat digunakan untuk mengatasi bad mood pribadi?",
+            "Apakah ada cara untuk mencegah bad mood datang kembali?",
+            "Bagaimana cara menghadapi bad mood yang muncul tiba-tiba?",
+            "Apa yang bisa dilakukan untuk menenangkan diri saat bad mood?",
+            "Bagaimana cara mengatasi bad mood yang muncul tanpa alasan jelas?",
+            "Apa hal pertama yang harus dilakukan saat bad mood datang?",
+            "Apakah meditasi bisa menjadi solusi untuk mengatasi bad mood sendiri?"
+        ],
+        "responses": [
+            "Beberapa cara untuk mengatasi bad mood sendiri termasuk berolahraga, meditasi, menulis dalam jurnal, atau melakukan aktivitas yang disukai.",
+            "Jika merasa bad mood, penting untuk mengambil waktu sejenak untuk diri sendiri, bernafas dalam-dalam, atau mendengarkan musik favorit.",
+            "Mengubah pola pikir dan berfokus pada hal-hal positif juga dapat membantu meredakan bad mood yang datang tiba-tiba.",
+            "Menciptakan rutinitas yang sehat, seperti tidur cukup dan makan dengan baik, dapat mencegah bad mood dan membantu mengelola perasaan buruk."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "badmood_terhadap_kesehatan_fisik",
+        "patterns": [
+            "Bagaimana bad mood mempengaruhi kesehatan fisik?",
+            "Apakah bad mood bisa merusak kesehatan tubuh?",
+            "Apa dampak fisik dari bad mood?",
+            "Bagaimana bad mood bisa mempengaruhi sistem kekebalan tubuh?",
+            "Apakah bad mood bisa menyebabkan sakit kepala?",
+            "Bagaimana bad mood mempengaruhi tekanan darah?",
+            "Apakah bad mood bisa menyebabkan gangguan tidur?",
+            "Bagaimana perasaan bad mood mempengaruhi metabolisme tubuh?",
+            "Apa dampak bad mood terhadap pola makan?",
+            "Apakah bad mood bisa menyebabkan penurunan energi?",
+            "Bagaimana cara menjaga kesehatan fisik meskipun bad mood?",
+            "Apakah bad mood dapat memperburuk kondisi medis tertentu?",
+            "Apa yang terjadi pada tubuh jika seseorang mengalami bad mood terus-menerus?",
+            "Bagaimana sistem imun dipengaruhi oleh bad mood?",
+            "Apakah bad mood bisa memperburuk masalah kesehatan kronis?",
+            "Apakah tubuh menjadi lebih rentan terhadap penyakit jika sedang bad mood?",
+            "Bagaimana perubahan suasana hati yang buruk mempengaruhi tubuh?",
+            "Apakah bad mood bisa mengganggu pencernaan?",
+            "Apa pengaruh bad mood terhadap kualitas tidur?",
+            "Apakah sakit fisik bisa menjadi akibat dari bad mood?"
+        ],
+        "responses": [
+            "Bad mood dapat meningkatkan stres dan mengganggu sistem kekebalan tubuh, membuat tubuh lebih rentan terhadap penyakit.",
+            "Perasaan buruk dapat menyebabkan peningkatan tekanan darah, gangguan tidur, serta masalah pencernaan dan metabolisme.",
+            "Jika bad mood berlangsung lama, bisa mempengaruhi pola makan, tidur, dan mengurangi energi tubuh secara keseluruhan.",
+            "Mengatasi bad mood dengan olahraga, relaksasi, dan tidur yang cukup dapat membantu menjaga kesehatan fisik."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "sapaan_pagi",
+        "patterns": [
+            "Selamat pagi!",
+            "Apa kabar pagi ini?",
+            "Pagi!",
+            "Selamat pagi, bagaimana kabarmu?",
+            "Apa yang kamu lakukan pagi ini?",
+            "Selamat pagi, semoga hari ini menyenangkan!",
+            "Pagi, semoga hari ini baik-baik saja!",
+            "Halo, selamat pagi!",
+            "Selamat pagi, ada rencana hari ini?",
+            "Pagi, bagaimana perasaanmu pagi ini?",
+            "Selamat pagi, semoga cuacanya cerah!",
+            "Selamat pagi! Semoga semuanya berjalan lancar hari ini.",
+            "Apa kabar di pagi hari ini?",
+            "Pagi, bagaimana tidurmu semalam?",
+            "Selamat pagi, apa yang kamu harapkan hari ini?",
+            "Selamat pagi, semoga hari ini lebih baik dari kemarin.",
+            "Pagi! Apa kabar hari ini?",
+            "Halo, pagi! Apa yang ada di pikiranmu?",
+            "Selamat pagi, semoga hari ini penuh semangat!"
+        ],
+        "responses": [
+            "Selamat pagi! Semoga hari Anda menyenankan.",
+            "Pagi! Apa yang bisa saya bantu hari ini?",
+            "Selamat pagi! Semoga hari ini penuh kebahagiaan.",
+            "Halo! Selamat pagi, semoga hari Anda penuh semangat.",
+            "Pagi! Semoga semuanya berjalan lancar hari ini."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "sapaan_tanya_kabar",
+        "patterns": [
+            "Apa kabar?",
+            "Bagaimana kabarmu?",
+            "Apa kabar hari ini?",
+            "Bagaimana perasaanmu hari ini?",
+            "Apa yang kamu rasakan sekarang?",
+            "Bagaimana kondisi kamu?",
+            "Apa yang sedang terjadi?",
+            "Kamu baik-baik saja?",
+            "Ada apa denganmu?",
+            "Bagaimana hari ini?",
+            "Kabar baik?",
+            "Apakah semuanya baik-baik saja?",
+            "Apa yang sedang kamu rasakan?",
+            "Ada yang baru hari ini?",
+            "Bagaimana suasana hatimu?",
+            "Apakah ada yang ingin kamu ceritakan?",
+            "Bagaimana keadaanmu?",
+            "Apakah kamu merasa baik hari ini?",
+            "Bagaimana keadaanmu sekarang?"
+        ],
+        "responses": [
+            "Saya baik-baik saja, terima kasih telah bertanya!",
+            "Saya baik, terima kasih! Bagaimana denganmu?",
+            "Saya sedang merasa baik hari ini, terima kasih!",
+            "Terima kasih sudah bertanya, saya baik-baik saja!",
+            "Semua baik-baik saja di sini, bagaimana dengan kamu?"
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "tanya_kabar_teman",
+        "patterns": [
+            "Bagaimana kabar teman-teman?",
+            "Apa kabar teman-temanmu?",
+            "Bagaimana keadaan teman-temanmu?",
+            "Apa kabar orang di sekitarmu?",
+            "Bagaimana perasaan teman-temanmu?",
+            "Apa yang terjadi dengan teman-temanmu?",
+            "Bagaimana kondisi teman-temanmu?",
+            "Bagaimana suasana hati teman-temanmu?",
+            "Apakah teman-temanmu baik-baik saja?",
+            "Ada kabar dari teman-temanmu?",
+            "Bagaimana hari teman-temanmu?",
+            "Apa yang teman-temanmu lakukan hari ini?",
+            "Apakah teman-temanmu juga merasa baik?",
+            "Apa yang sedang dilakukan teman-temanmu?",
+            "Apa kabar teman-temanmu hari ini?",
+            "Bagaimana perasaan teman-temanmu akhir-akhir ini?",
+            "Bagaimana dengan teman-temanmu sekarang?",
+            "Apa kabar teman-temanmu di sana?",
+            "Bagaimana keadaan teman-temanmu sekarang?"
+        ],
+        "responses": [
+            "Teman-teman saya baik-baik saja, terima kasih telah bertanya!",
+            "Semua baik-baik saja dengan teman-teman saya.",
+            "Teman-teman saya juga baik-baik saja, terima kasih!",
+            "Teman-teman saya baik-baik saja, terima kasih sudah bertanya.",
+            "Semua teman-teman saya baik, semuanya berjalan lancar!"
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "ucapan_terima_kasih",
+        "patterns": [
+            "Terima kasih!",
+            "Terima kasih banyak!",
+            "Makasih ya!",
+            "Terima kasih atas bantuanmu!",
+            "Aku sangat berterima kasih!",
+            "Terima kasih banyak atas segala bantuanmu!",
+            "Makasih banget!",
+            "Terima kasih sudah membantu!",
+            "Terima kasih, kamu sangat membantu!",
+            "Aku berterima kasih atas perhatianmu!",
+            "Terima kasih atas dukunganmu!",
+            "Makasih ya, itu sangat membantu!",
+            "Terima kasih atas waktu yang kamu beri!",
+            "Makasih banyak, itu berarti sekali!",
+            "Aku sangat menghargai bantuanmu, terima kasih!",
+            "Terima kasih untuk segala kebaikanmu!",
+            "Makasih ya, kamu luar biasa!",
+            "Aku berterima kasih sekali!",
+            "Terima kasih atas kerjasamanya!"
+        ],
+        "responses": [
+            "Sama-sama! Senang bisa membantu.",
+            "Terima kasih kembali! Semoga hari Anda menyenankan.",
+            "Tidak masalah, saya senang bisa membantu.",
+            "Sama-sama! Senang bisa membantu Anda.",
+            "Terima kasih! Senang bisa membantu Anda."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "perkenalan_diri",
+        "patterns": [
+            "Siapa namamu?",
+            "Boleh tahu nama kamu?",
+            "Apa nama kamu?",
+            "Kenalkan nama kamu dong!",
+            "Nama kamu siapa?",
+            "Aku ingin tahu namamu.",
+            "Siapa kamu?",
+            "Kenalkan diri kamu dong.",
+            "Kamu siapa?",
+            "Apa nama panggilan kamu?",
+            "Apa yang bisa dipanggil?",
+            "Siapa nama lengkapmu?",
+            "Boleh tahu lebih tentang dirimu?",
+            "Siapa yang ada di balik layar ini?",
+            "Apa saja yang kamu sukai?",
+            "Bisa ceritakan sedikit tentang dirimu?",
+            "Bagaimana cara kamu memperkenalkan diri?",
+            "Kamu berasal dari mana?",
+            "Apa yang bisa kamu ceritakan tentang diri kamu?"
+        ],
+        "responses": [
+            "Saya adalah chatbot yang siap membantu Anda.",
+            "Nama saya ChatGPT, senang bisa berbicara dengan Anda.",
+            "Saya chatbot yang siap menjawab pertanyaan Anda!",
+            "Saya adalah asisten virtual, nama saya ChatGPT.",
+            "Halo! Nama saya ChatGPT, senang berkenalan dengan Anda."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "perpisahan",
+        "patterns": [
+            "Selamat tinggal!",
+            "Sampai jumpa!",
+            "Dadah!",
+            "Selamat tinggal, sampai bertemu lagi!",
+            "Semoga kita bertemu lagi!",
+            "Sampai jumpa di lain waktu!",
+            "Selamat tinggal, terima kasih atas waktunya!",
+            "Sampai jumpa lagi, semoga hari Anda menyenankan!",
+            "Semoga kita bisa bertemu lagi!",
+            "Semoga hari Anda menyenankan, sampai jumpa!",
+            "Selamat tinggal, semoga hari Anda luar biasa!",
+            "Sampai jumpa, semoga hari Anda menyenankan!",
+            "Selamat tinggal, sampai kita bertemu lagi!",
+            "Sampai jumpa! Terima kasih telah berbicara dengan saya.",
+            "Dadah, semoga hari Anda menyenankan!"
+        ],
+        "responses": [
+            "Selamat tinggal! Semoga hari Anda menyenankan.",
+            "Sampai jumpa, semoga hari Anda luar biasa!",
+            "Dadah! Semoga hari Anda menyenankan.",
+            "Selamat tinggal! Semoga Anda selalu bahagia.",
+            "Sampai jumpa! Semoga hari Anda menyenankan."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "kabar_baik",
+        "patterns": [
+            "Saya sedang baik-baik saja.",
+            "Saya merasa sangat baik hari ini!",
+            "Kabar saya baik, terima kasih sudah bertanya.",
+            "Saya merasa luar biasa hari ini.",
+            "Semua baik-baik saja di sini!",
+            "Saya merasa bahagia hari ini.",
+            "Saya merasa energik dan siap menjalani hari!",
+            "Saya merasa sangat positif sekarang.",
+            "Kabar saya sangat baik, semuanya berjalan lancar.",
+            "Saya merasa hebat hari ini.",
+            "Semua berjalan dengan baik, terima kasih.",
+            "Saya sangat senang hari ini.",
+            "Saya merasa tenang dan nyaman.",
+            "Hari ini saya merasa sangat baik.",
+            "Saya merasa seperti hari yang sempurna.",
+            "Semua terasa sempurna hari ini!",
+            "Saya merasa penuh energi.",
+            "Saya merasa lebih baik hari ini.",
+            "Saya merasa segar dan bugar."
+        ],
+        "responses": [
+            "Senang mendengar kabar baik dari Anda!",
+            "Itu kabar yang menyenangkan, semoga terus baik-baik saja.",
+            "Saya senang mendengar Anda merasa baik, semoga hari Anda terus menyenankan.",
+            "Bagus sekali, semoga Anda terus merasa hebat!",
+            "Senang mendengar Anda merasa luar biasa, semoga terus seperti itu!"
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "kabar_buruk",
+        "patterns": [
+            "Saya tidak merasa baik hari ini.",
+            "Saya merasa buruk hari ini.",
+            "Hari ini saya merasa sangat lelah.",
+            "Saya sedang merasa tidak enak badan.",
+            "Saya merasa sedikit sedih hari ini.",
+            "Kondisi saya tidak baik sekarang.",
+            "Saya merasa kurang bersemangat hari ini.",
+            "Saya merasa tidak baik akhir-akhir ini.",
+            "Saya merasa tidak ada energi.",
+            "Hari ini saya merasa sangat down.",
+            "Saya merasa tidak nyaman hari ini.",
+            "Saya sedang merasa sangat cemas.",
+            "Saya merasa seperti tidak ada harapan.",
+            "Saya merasa tertekan hari ini.",
+            "Kondisi saya sedang buruk hari ini.",
+            "Saya merasa sangat stres akhir-akhir ini.",
+            "Saya merasa sedikit putus asa.",
+            "Saya merasa terjebak dalam masalah.",
+            "Saya merasa sangat kosong hari ini."
+        ],
+        "responses": [
+            "Saya sangat menyesal mendengar itu. Semoga Anda segera merasa lebih baik.",
+            "Jika Anda ingin berbicara lebih banyak, saya siap mendengarkan.",
+            "Saya harap Anda bisa merasa lebih baik segera. Jangan ragu untuk berbagi.",
+            "Semoga Anda segera mendapatkan solusi dan merasa lebih baik.",
+            "Saya harap hari Anda segera menjadi lebih baik. Jika ada yang bisa saya bantu, beri tahu saya."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "kabar_netral",
+        "patterns": [
+            "Saya tidak terlalu baik, tapi juga tidak buruk.",
+            "Saya merasa biasa saja hari ini.",
+            "Hari ini saya merasa seperti hari biasa.",
+            "Saya merasa tidak ada yang istimewa hari ini.",
+            "Saya tidak merasa lebih baik atau lebih buruk.",
+            "Tidak ada yang berubah, saya baik-baik saja.",
+            "Hari ini saya merasa tenang, tidak ada yang luar biasa.",
+            "Kondisi saya sedang biasa saja.",
+            "Saya merasa seperti hari yang santai.",
+            "Hari ini seperti hari lainnya.",
+            "Tidak ada yang spesial hari ini, tapi saya merasa baik-baik saja.",
+            "Saya merasa netral hari ini.",
+            "Saya merasa seperti tidak ada yang istimewa hari ini.",
+            "Saya merasa biasa saja, tidak ada hal yang menonjol.",
+            "Hari ini saya merasa cukup stabil.",
+            "Saya merasa biasa saja, tidak ada perubahan besar.",
+            "Kondisi saya stabil hari ini.",
+            "Hari ini saya merasa cukup santai dan damai.",
+            "Saya merasa biasa-biasa saja, tidak ada yang menarik."
+        ],
+        "responses": [
+            "Baiklah, semoga hari Anda terus berjalan dengan lancar.",
+            "Hari biasa juga terkadang bisa menyenangkan. Semoga tetap nyaman.",
+            "Terkadang hari yang biasa saja juga memberikan ketenangan. Semoga Anda merasa tenang.",
+            "Hari-hari biasa juga memiliki sisi positifnya. Semoga Anda tetap merasa baik.",
+            "Semoga hari Anda berjalan lancar meski biasa saja."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "bunuh_diri",
+        "patterns": [
+            "Saya ingin mengakhiri hidup saya.",
+            "Saya merasa seperti saya tidak bisa melanjutkan hidup ini.",
+            "Saya merasa sangat putus asa, saya ingin mati.",
+            "Saya merasa tidak ada harapan lagi.",
+            "Saya tidak ingin hidup lagi.",
+            "Saya tidak bisa bertahan lagi.",
+            "Saya merasa hidup saya tidak berarti.",
+            "Saya merasa terjebak dan ingin melarikan diri.",
+            "Saya ingin menyakiti diri saya sendiri.",
+            "Saya merasa seperti saya sudah kehilangan segalanya.",
+            "Saya merasa sangat kosong dan tak ada gunanya.",
+            "Saya merasa seolah-olah semuanya berakhir.",
+            "Saya tidak tahu bagaimana cara keluar dari perasaan ini.",
+            "Saya merasa sangat terluka dan ingin mengakhiri semuanya.",
+            "Saya tidak melihat ada alasan untuk terus hidup.",
+            "Saya merasa sangat cemas dan tidak bisa menahan perasaan ini.",
+            "Saya merasa sendirian dan tidak ada yang peduli.",
+            "Saya merasa terjebak dalam kegelapan."
+        ],
+        "responses": [
+            "Saya sangat menyesal mendengar Anda merasa seperti itu, tetapi hidup Anda sangat berarti.",
+            "Saya benar-benar peduli dengan perasaan Anda, dan ada orang-orang yang siap membantu Anda melalui ini.",
+            "Anda tidak sendirian. Cobalah untuk berbicara dengan seseorang yang Anda percayai atau hubungi layanan bantuan segera.",
+            "Saya tahu ini bisa sangat sulit, tapi ada bantuan yang tersedia. Jangan ragu untuk mencari pertolongan.",
+            "Mencari bantuan adalah langkah yang sangat penting. Anda tidak harus menghadapi ini sendirian.",
+            "Saya sangat peduli dengan Anda, dan saya ingin Anda tetap aman. Hubungi seorang profesional untuk bantuan lebih lanjut.",
+            "Tolong jangan buat keputusan saat merasa seperti ini. Ada banyak orang yang peduli dan ingin membantu.",
+            "Ini sangat berat, tapi Anda berharga dan layak untuk mendapatkan bantuan dan dukungan.",
+            "Jangan ragu untuk mencari dukungan dari seorang profesional atau teman yang bisa membantu Anda melalui ini.",
+            "Saya ingin Anda tahu bahwa Anda penting, dan ada banyak cara untuk mencari bantuan yang bisa membantu Anda melewati ini."
+        ],
+        "context": [
+            "mental_health_crisis"
+        ]
+    },
+    {
+        "tag": "dukungan_mental_terapi",
+        "patterns": [
+            "Saya merasa sangat cemas dan tertekan.",
+            "Saya merasa sangat terisolasi.",
+            "Saya tidak tahu apa yang harus saya lakukan dengan perasaan saya.",
+            "Saya merasa seperti saya tidak bisa mengendalikan emosi saya.",
+            "Saya merasa sangat kesulitan untuk merasa lebih baik.",
+            "Saya sering merasa sangat cemas tanpa alasan jelas.",
+            "Saya merasa seperti saya tidak bisa menghadapinya sendiri.",
+            "Saya merasa sangat kewalahan dengan masalah saya.",
+            "Saya merasa tidak bisa berbicara dengan siapa pun tentang ini.",
+            "Saya merasa seperti tidak ada jalan keluar dari masalah saya.",
+            "Saya merasa sangat sedih tanpa tahu mengapa.",
+            "Saya merasa sangat cemas setiap hari.",
+            "Saya merasa sangat tertekan dan tidak tahu apa yang harus dilakukan.",
+            "Saya merasa sangat kehilangan arah.",
+            "Saya merasa seperti saya tidak punya kontrol atas hidup saya.",
+            "Saya merasa sangat sendirian dengan perasaan ini.",
+            "Saya merasa sangat stres dan tidak bisa tenang.",
+            "Saya merasa terjebak dalam perasaan saya."
+        ],
+        "responses": [
+            "Cobalah untuk berbicara dengan seorang profesional yang bisa membantu Anda mengelola perasaan ini.",
+            "Mencari bantuan adalah langkah pertama yang sangat penting. Ada banyak orang yang peduli dan siap membantu.",
+            "Anda tidak harus melalui perasaan ini sendirian. Cobalah untuk mencari dukungan dari seseorang yang Anda percayai.",
+            "Penting untuk mengungkapkan perasaan ini kepada seorang profesional. Mereka bisa membantu Anda menemukan cara untuk merasa lebih baik.",
+            "Tidak ada salahnya untuk mencari bantuan. Ada terapis dan konselor yang bisa membantu Anda mengatasi perasaan ini.",
+            "Perasaan seperti ini sangat sulit, tapi ada banyak cara untuk mendapatkan dukungan dan merasa lebih baik.",
+            "Jika Anda merasa cemas atau tertekan, berbicara dengan seseorang yang bisa memberi dukungan bisa sangat membantu.",
+            "Tolong pertimbangkan untuk menghubungi seorang ahli untuk membantu Anda mengelola perasaan ini. Anda tidak sendirian.",
+            "Jangan ragu untuk mencari dukungan mental profesional, mereka bisa membantu Anda lebih banyak daripada yang Anda bayangkan.",
+            "Saya ingin Anda tahu bahwa Anda sangat berarti dan berharga. Ada dukungan yang tersedia untuk membantu Anda melalui ini."
+        ],
+        "context": [
+            "mental_health_crisis"
+        ]
+    },
+    {
+        "tag": "tanya_bantuan_terdekat",
+        "patterns": [
+            "Di mana saya bisa mendapatkan bantuan?",
+            "Siapa yang bisa membantu saya dengan perasaan ini?",
+            "Saya tidak tahu ke mana harus mencari bantuan.",
+            "Ada nomor yang bisa saya hubungi untuk bantuan mental?",
+            "Saya butuh bantuan, siapa yang bisa saya hubungi?",
+            "Di mana saya bisa berbicara dengan seseorang tentang ini?",
+            "Siapa yang bisa membantu saya sekarang?",
+            "Bagaimana cara saya mencari dukungan profesional?",
+            "Apakah ada tempat untuk mencari pertolongan dalam situasi seperti ini?",
+            "Apa yang harus saya lakukan jika saya merasa seperti ini?",
+            "Bagaimana cara saya menghubungi seorang konselor atau terapis?",
+            "Adakah layanan bantuan untuk masalah seperti ini?",
+            "Apa yang harus saya lakukan jika saya merasa tidak ada harapan?",
+            "Saya tidak tahu bagaimana cara mencari bantuan, bisa beri tahu saya?",
+            "Ada nomor telepon untuk bantuan yang bisa saya hubungi?",
+            "Bagaimana cara saya mencari pertolongan dari seorang profesional?",
+            "Apakah ada layanan yang dapat membantu saya?",
+            "Siapa yang bisa saya hubungi untuk mendapatkan bantuan segera?"
+        ],
+        "responses": [
+            "Ada beberapa layanan bantuan yang tersedia, seperti nomor telepon darurat atau konselor profesional. Jangan ragu untuk menghubungi mereka.",
+            "Cobalah menghubungi layanan darurat atau pusat krisis terdekat di daerah Anda. Mereka siap membantu Anda.",
+            "Hubungi nomor bantuan kesehatan mental yang tersedia di negara Anda untuk mendapatkan bantuan segera.",
+            "Anda bisa menghubungi terapis atau konselor untuk mendapatkan dukungan profesional yang Anda butuhkan.",
+            "Jika Anda merasa terancam atau dalam bahaya, harap segera menghubungi layanan darurat atau nomor helpline kesehatan mental.",
+            "Ada banyak organisasi yang menyediakan dukungan dan bantuan. Cobalah mencari bantuan dari layanan terdekat di kota Anda.",
+            "Jangan ragu untuk mencari bantuan dari pusat krisis yang dapat memberikan dukungan dan solusi yang Anda butuhkan.",
+            "Ada layanan telepon bantuan yang tersedia 24 jam yang siap membantu Anda. Cobalah untuk menghubungi mereka segera.",
+            "Untuk membantu Anda melalui ini, penting untuk berbicara dengan seorang profesional. Mereka dapat memberi Anda dukungan yang Anda butuhkan.",
+            "Penting untuk mencari dukungan. Hubungi layanan bantuan yang tersedia untuk mendapatkan pertolongan segera."
+        ],
+        "context": [
+            "mental_health_crisis"
+        ]
+    },
+    {
+        "tag": "mood_bahagia",
+        "patterns": [
+            "Saya merasa sangat bahagia hari ini.",
+            "Hari ini saya merasa sangat senang.",
+            "Saya merasa gembira dan penuh energi.",
+            "Saya merasa bahagia sekali.",
+            "Saya merasa sangat positif hari ini.",
+            "Saya merasa seperti hari ini adalah hari terbaik.",
+            "Saya merasa sangat puas dengan hidup saya.",
+            "Saya merasa sangat bersyukur hari ini.",
+            "Semua hal terasa menyenangkan hari ini.",
+            "Saya merasa sangat damai dan tenang.",
+            "Saya merasa luar biasa hari ini.",
+            "Saya merasa sangat bersemangat.",
+            "Hari ini benar-benar menyenankan!",
+            "Saya merasa sangat bahagia dan penuh semangat.",
+            "Saya merasa hidup penuh warna hari ini.",
+            "Saya merasa penuh dengan energi positif.",
+            "Saya merasa sangat beruntung.",
+            "Saya merasa sangat optimis hari ini.",
+            "Saya merasa sangat senang dengan pencapaian saya."
+        ],
+        "responses": [
+            "Saya senang mendengar Anda merasa bahagia!",
+            "Itu luar biasa! Teruskan hari yang penuh energi positif ini.",
+            "Bagus sekali, teruskan merasa bahagia seperti itu!",
+            "Saya senang Anda merasa senang. Semoga hari Anda semakin menyenangkan.",
+            "Hari yang menyenangkan memang sangat berharga, nikmatilah!"
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "mood_sedih",
+        "patterns": [
+            "Saya merasa sangat sedih hari ini.",
+            "Saya merasa sangat tertekan.",
+            "Saya merasa kosong dan hampa.",
+            "Saya merasa kehilangan semangat hidup.",
+            "Saya merasa sangat down.",
+            "Saya merasa terpuruk dan tidak ada yang bisa membantu.",
+            "Saya merasa sangat murung.",
+            "Saya tidak tahu kenapa saya merasa begitu sedih.",
+            "Saya merasa seperti dunia ini tidak adil.",
+            "Saya merasa sangat tertekan dengan semuanya.",
+            "Saya merasa tidak ada harapan.",
+            "Saya merasa sangat kecewa dengan diri saya sendiri.",
+            "Saya merasa sangat lelah secara emosional.",
+            "Saya merasa seperti tidak bisa menghadapinya.",
+            "Saya merasa cemas dan tertekan.",
+            "Saya merasa seperti tidak ada yang bisa membantu saya.",
+            "Saya merasa sangat sendirian.",
+            "Saya merasa sangat putus asa.",
+            "Saya merasa sangat buruk tentang diri saya."
+        ],
+        "responses": [
+            "Saya sangat menyesal mendengar Anda merasa seperti itu. Apakah Anda ingin berbicara lebih lanjut?",
+            "Saya sangat peduli dengan Anda, dan saya ingin Anda tahu bahwa perasaan ini tidak permanen.",
+            "Terkadang hidup bisa sangat berat. Jangan ragu untuk mencari bantuan dari orang terdekat atau seorang profesional.",
+            "Saya mengerti perasaan Anda, dan mungkin berbicara dengan seseorang bisa sedikit membantu.",
+            "Mencari dukungan sangat penting saat merasa seperti ini. Anda tidak perlu melalui ini sendirian."
+        ],
+        "context": [
+            "mental_health_crisis"
+        ]
+    },
+    {
+        "tag": "mood_marahan",
+        "patterns": [
+            "Saya merasa sangat marah sekarang.",
+            "Saya benar-benar kesal dengan semuanya.",
+            "Saya tidak bisa mengendalikan kemarahan saya.",
+            "Saya merasa sangat jengkel dan frustrasi.",
+            "Saya marah dengan semua yang terjadi.",
+            "Saya merasa sangat marah hari ini.",
+            "Saya tidak bisa menahan amarah saya.",
+            "Saya merasa sangat kesal dengan orang lain.",
+            "Saya merasa sangat marah pada diri saya sendiri.",
+            "Saya ingin meledak karena kemarahan.",
+            "Saya sangat frustrasi dengan keadaan ini.",
+            "Saya tidak bisa berhenti merasa marah.",
+            "Saya benar-benar tersinggung dengan apa yang terjadi.",
+            "Saya merasa sangat marah dan kecewa.",
+            "Saya merasa ingin membalas orang yang membuat saya marah.",
+            "Saya merasa sangat jengkel dengan orang-orang di sekitar saya.",
+            "Saya sangat kesal dengan sikap orang lain.",
+            "Saya merasa seperti tidak ada yang bisa menenangkan saya.",
+            "Saya merasa sangat marah dan tidak bisa menenangkan diri."
+        ],
+        "responses": [
+            "Saya paham kalau Anda merasa marah. Terkadang, berbicara atau melepaskan kemarahan dengan cara yang sehat bisa membantu.",
+            "Amarah bisa sangat berat untuk dikelola. Cobalah untuk bernafas dalam-dalam dan mencari cara untuk menenangkan diri.",
+            "Kadang, kita perlu waktu untuk meredakan kemarahan. Semoga Anda bisa menemukan cara untuk merasa lebih baik.",
+            "Saya tahu perasaan itu sangat intens. Jika Anda merasa kesulitan, mungkin berbicara dengan seseorang bisa membantu.",
+            "Mengendalikan amarah memang tidak mudah, tetapi ada cara untuk meredakannya, seperti berbicara dengan seseorang atau melakukan aktivitas fisik."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "mood_cemas",
+        "patterns": [
+            "Saya merasa sangat cemas hari ini.",
+            "Saya merasa khawatir dengan segala sesuatu.",
+            "Saya merasa tidak tenang dan cemas.",
+            "Saya merasa sangat gelisah.",
+            "Saya merasa seperti tidak bisa tenang.",
+            "Saya merasa sangat tertekan dengan semua yang terjadi.",
+            "Saya merasa cemas tentang masa depan.",
+            "Saya tidak bisa menghentikan pikiran cemas saya.",
+            "Saya merasa sangat khawatir tentang hal-hal kecil.",
+            "Saya merasa sangat tidak nyaman.",
+            "Saya merasa ketakutan dan tidak tahu apa yang harus saya lakukan.",
+            "Saya merasa sangat terjepit dengan perasaan cemas ini.",
+            "Saya merasa sangat tidak aman.",
+            "Saya merasa sangat tegang dan khawatir.",
+            "Saya tidak bisa mengontrol kecemasan saya.",
+            "Saya merasa seperti dunia ini terlalu berat untuk saya.",
+            "Saya merasa seperti tidak ada yang bisa membantu dengan kecemasan saya.",
+            "Saya merasa cemas tentang banyak hal sekaligus.",
+            "Saya merasa tidak bisa tenang karena perasaan cemas ini."
+        ],
+        "responses": [
+            "Cemas adalah perasaan yang sangat berat. Mungkin berbicara dengan seseorang yang Anda percayai bisa membantu sedikit.",
+            "Saya paham bahwa perasaan cemas bisa sangat menekan. Cobalah untuk bernafas dalam-dalam dan fokus pada hal-hal yang bisa Anda kendalikan.",
+            "Kadang-kadang kecemasan bisa sangat mengganggu. Jangan ragu untuk mencari cara untuk menenangkan diri atau berbicara dengan seorang profesional.",
+            "Mencari cara untuk mengurangi kecemasan sangat penting. Apakah ada aktivitas yang bisa membantu Anda merasa lebih tenang?",
+            "Cemas bisa sangat mengganggu, tapi ada cara untuk mengelola perasaan ini. Cobalah untuk fokus pada hal-hal yang membuat Anda merasa lebih baik."
+        ],
+        "context": [
+            ""
+        ]
+    }
+]
