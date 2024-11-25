@@ -1595,5 +1595,110 @@
         "context": [
             ""
         ]
+    },
+    {
+        "tag": "mood_membaik",
+        "patterns": [
+            "Aku ingin merasa lebih baik.",
+            "Bagaimana cara agar moodku membaik?",
+            "Bisa bantu aku memperbaiki moodku?",
+            "Aku merasa sedih, bisakah aku merasa lebih baik?",
+            "Bagaimana caranya memperbaiki mood?",
+            "Tolong bantu aku merasa lebih baik.",
+            "Aku butuh cara untuk memperbaiki mood.",
+            "Bisakah kamu bantu agar aku merasa lebih bahagia?",
+            "Bagaimana agar aku tidak sedih lagi?",
+            "Aku ingin suasana hatiku membaik.",
+            "Tolong beri aku saran untuk memperbaiki mood.",
+            "Apa yang harus kulakukan untuk memperbaiki moodku?",
+            "Aku ingin kembali merasa senang.",
+            "Apa cara terbaik untuk meningkatkan mood?",
+            "Aku ingin suasana hatiku menjadi lebih baik.",
+            "Bagaimana agar aku tidak merasa buruk lagi?",
+            "Apa ada tips untuk memperbaiki mood?",
+            "Bisakah kamu membuatku merasa lebih baik?",
+            "Aku ingin suasana hatiku membaik segera.",
+            "Bantu aku memperbaiki suasana hati, tolong."
+        ],
+        "responses": [
+            "Cobalah untuk menarik napas dalam-dalam dan luangkan waktu sejenak untuk dirimu sendiri.",
+            "Mendengarkan musik favorit bisa membantu memperbaiki moodmu.",
+            "Cobalah melakukan hal yang kamu sukai, seperti membaca, berjalan-jalan, atau menonton film.",
+            "Berbicara dengan teman atau orang yang kamu percaya bisa membuatmu merasa lebih baik.",
+            "Jika memungkinkan, pergilah keluar dan nikmati udara segar untuk membantu suasana hatimu."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "mood_stress_relief",
+        "patterns": [
+            "Aku sedang stres, apa yang bisa kulakukan?",
+            "Bagaimana cara menghilangkan stres?",
+            "Aku merasa tegang, bisa bantu aku santai?",
+            "Apa cara terbaik untuk mengatasi stres?",
+            "Aku stres banget, tolong beri solusi.",
+            "Bagaimana agar aku bisa lebih rileks?",
+            "Bisa kasih tips untuk mengurangi stres?",
+            "Aku butuh cara untuk menenangkan diri.",
+            "Apa yang harus kulakukan saat stres?",
+            "Bagaimana caranya agar aku tidak merasa tegang lagi?",
+            "Aku ingin santai, bagaimana caranya?",
+            "Apa yang bisa kulakukan agar stresku berkurang?",
+            "Aku merasa sangat tertekan, tolong bantu aku.",
+            "Bagaimana agar aku tidak merasa tertekan lagi?",
+            "Bisakah kamu bantu aku merasa lebih rileks?",
+            "Apa saja yang bisa membantu mengurangi stres?",
+            "Aku merasa sangat cemas, bisa bantu menenangkan?",
+            "Bagaimana caranya agar aku merasa lebih santai?",
+            "Aku butuh saran untuk mengurangi stres.",
+            "Apa yang bisa kulakukan untuk merasa lebih rileks?"
+        ],
+        "responses": [
+            "Cobalah teknik pernapasan dalam untuk membantu menenangkan pikiranmu.",
+            "Luangkan waktu untuk dirimu sendiri, seperti berjalan-jalan atau bermeditasi.",
+            "Mendengarkan musik santai atau membaca buku bisa membantu mengurangi stres.",
+            "Bicarakan perasaanmu dengan seseorang yang kamu percayai.",
+            "Minum teh hangat atau mandi air hangat bisa membuat tubuh dan pikiranmu lebih rileks."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "mood_motivation",
+        "patterns": [
+            "Aku butuh motivasi.",
+            "Bisakah kamu memberiku motivasi?",
+            "Aku merasa kurang semangat, bisa bantu?",
+            "Bagaimana agar aku merasa lebih termotivasi?",
+            "Aku kehilangan semangat, apa yang bisa kulakukan?",
+            "Bisakah kamu memberikan kata-kata motivasi?",
+            "Aku ingin lebih bersemangat, apa sarannya?",
+            "Aku butuh dukungan moral, tolong bantu.",
+            "Apa yang bisa membuatku merasa lebih termotivasi?",
+            "Bagaimana agar aku tidak merasa malas lagi?",
+            "Aku butuh inspirasi, bisa bantu?",
+            "Tolong beri aku semangat!",
+            "Aku merasa lesu, bagaimana agar lebih termotivasi?",
+            "Apa yang bisa meningkatkan semangatku?",
+            "Aku merasa putus asa, tolong motivasi aku.",
+            "Bagaimana cara menemukan semangatku kembali?",
+            "Bisakah kamu membuatku merasa lebih optimis?",
+            "Aku butuh kata-kata semangat untuk hari ini.",
+            "Tolong bantu aku menemukan semangatku.",
+            "Aku ingin merasa lebih positif dan termotivasi."
+        ],
+        "responses": [
+            "Ingat, setiap langkah kecil adalah kemajuan menuju tujuanmu!",
+            "Kamu lebih kuat dari yang kamu kira, teruslah berusaha.",
+            "Jangan menyerah, hari yang lebih baik akan datang.",
+            "Fokus pada hal-hal kecil yang bisa kamu kendalikan hari ini.",
+            "Selalu ada cahaya di ujung jalan, tetap semangat!"
+        ],
+        "context": [
+            ""
+        ]
     }
 ]
