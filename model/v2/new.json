@@ -1700,5 +1700,1010 @@
         "context": [
             ""
         ]
+    },
+    {
+        "tag": "emosi_sedih",
+        "patterns": [
+            "Aku merasa sedih.",
+            "Hari ini aku sangat sedih.",
+            "Kenapa aku terus merasa sedih?",
+            "Aku tidak tahu kenapa aku merasa sedih.",
+            "Aku ingin menangis karena aku sedih.",
+            "Apa yang harus kulakukan saat aku sedih?",
+            "Sedih banget rasanya hari ini.",
+            "Kenapa perasaan sedih ini tidak hilang?",
+            "Aku merasa hampa dan sedih.",
+            "Bagaimana cara mengatasi rasa sedih?",
+            "Aku terlalu sedih untuk melakukan apa pun.",
+            "Aku merasa kehilangan dan sedih.",
+            "Sedihku ini tidak bisa dijelaskan.",
+            "Aku ingin berbicara dengan seseorang karena aku sedih.",
+            "Aku merasa sedih tanpa alasan.",
+            "Sedih banget rasanya tidak ada yang mengerti aku.",
+            "Kenapa aku selalu merasa sedih akhir-akhir ini?",
+            "Sedih banget, aku merasa sendirian.",
+            "Aku ingin berhenti merasa sedih.",
+            "Tolong bantu aku keluar dari rasa sedih ini."
+        ],
+        "responses": [
+            "Aku di sini untuk mendengarkanmu. Ceritakan saja apa yang membuatmu sedih.",
+            "Kadang menangis itu baik untuk melepaskan emosi. Jangan tahan kesedihanmu.",
+            "Ingat, kesedihan adalah bagian dari hidup, dan itu akan berlalu.",
+            "Coba fokus pada hal-hal kecil yang bisa membuatmu merasa lebih baik.",
+            "Bicaralah dengan seseorang yang kamu percaya, itu bisa sangat membantu."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "emosi_senang",
+        "patterns": [
+            "Aku merasa sangat senang hari ini.",
+            "Hari ini menyenangkan sekali!",
+            "Aku bahagia banget sekarang.",
+            "Aku merasa senang tanpa alasan.",
+            "Senangnya hari ini berjalan dengan baik.",
+            "Aku ingin berbagi kabar baik karena aku senang.",
+            "Rasanya bahagia sekali hari ini.",
+            "Senang rasanya semua berjalan sesuai rencana.",
+            "Aku merasa puas dan senang.",
+            "Aku merasa optimis dan senang hari ini.",
+            "Senang banget aku bisa menyelesaikan semuanya.",
+            "Aku senang karena teman-temanku sangat mendukung.",
+            "Hari ini benar-benar membuatku bahagia.",
+            "Aku merasa damai dan bahagia.",
+            "Aku senang banget karena kabar baik ini.",
+            "Aku ingin berbagi kebahagiaan ini.",
+            "Bahagia sekali rasanya hari ini spesial.",
+            "Senang banget aku berhasil mencapai targetku.",
+            "Aku merasa semangat karena aku senang.",
+            "Aku merasa bahagia tanpa alasan apa pun."
+        ],
+        "responses": [
+            "Senangnya mendengar kabar baik darimu! Semoga hari-harimu terus menyenangkan.",
+            "Kebahagiaanmu adalah hal yang indah. Nikmati setiap momennya!",
+            "Momen seperti ini layak untuk dirayakan. Lanjutkan dengan senyuman!",
+            "Rasanya luar biasa mendengar kabar bahagia darimu. Tetap semangat ya!",
+            "Bagus sekali kamu merasa senang. Itu hal yang patut disyukuri."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "emosi_marah",
+        "patterns": [
+            "Aku merasa marah hari ini.",
+            "Kenapa aku marah banget sekarang?",
+            "Aku benar-benar kesal.",
+            "Aku merasa frustrasi dan marah.",
+            "Aku marah karena semuanya tidak berjalan lancar.",
+            "Aku tidak tahu kenapa aku merasa marah.",
+            "Aku ingin meluapkan amarahku.",
+            "Aku sedang emosi banget sekarang.",
+            "Kenapa aku tidak bisa berhenti marah?",
+            "Aku merasa marah dan kesal.",
+            "Aku tidak bisa menahan amarahku lagi.",
+            "Aku merasa marah karena hal ini terus terjadi.",
+            "Aku marah karena orang-orang tidak mengerti aku.",
+            "Marah banget aku karena semuanya terasa salah.",
+            "Aku benar-benar kesal dengan situasi ini.",
+            "Aku tidak tahu kenapa aku merasa sangat marah.",
+            "Aku marah dan tidak tahu harus berbuat apa.",
+            "Amarahku sudah di luar kendali.",
+            "Aku merasa jengkel dan marah.",
+            "Aku sangat marah hari ini."
+        ],
+        "responses": [
+            "Cobalah menarik napas dalam-dalam untuk menenangkan diri.",
+            "Marah adalah emosi yang normal, tapi cobalah luangkan waktu untuk menenangkan diri.",
+            "Bicaralah dengan seseorang yang kamu percaya tentang perasaanmu.",
+            "Menulis di jurnal atau melakukan aktivitas fisik bisa membantu meredakan amarah.",
+            "Aku di sini untuk membantumu jika kamu ingin bercerita."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "emosi_takut",
+        "patterns": [
+            "Aku merasa takut.",
+            "Aku cemas dan takut.",
+            "Rasanya aku tidak bisa menghadapi ketakutanku.",
+            "Aku takut hal buruk akan terjadi.",
+            "Aku merasa was-was dan takut.",
+            "Aku merasa sangat khawatir dan takut.",
+            "Ketakutanku ini terasa sangat nyata.",
+            "Aku takut melakukan kesalahan.",
+            "Aku takut menghadapi apa yang akan datang.",
+            "Aku takut tidak bisa melakukannya.",
+            "Aku takut aku akan gagal.",
+            "Ketakutan ini terus menghantuiku.",
+            "Aku tidak bisa berhenti merasa takut.",
+            "Aku takut sendirian.",
+            "Aku takut kehilangan seseorang yang kucintai.",
+            "Aku merasa tidak aman dan takut.",
+            "Ketakutanku membuatku merasa tidak berdaya.",
+            "Aku ingin mengatasi rasa takut ini.",
+            "Aku merasa gelisah dan takut.",
+            "Aku takut pada hal-hal yang tidak kuketahui."
+        ],
+        "responses": [
+            "Ketakutan adalah emosi yang normal, cobalah fokus pada hal-hal yang bisa kamu kendalikan.",
+            "Cobalah untuk berbicara dengan seseorang yang bisa mendukungmu.",
+            "Menuliskan apa yang kamu rasakan bisa membantu mengurangi ketakutanmu.",
+            "Fokus pada pernapasanmu untuk mengurangi kecemasan.",
+            "Aku di sini untuk mendengarkanmu jika kamu ingin berbagi."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "emosi_bingung",
+        "patterns": [
+            "Aku merasa bingung.",
+            "Aku tidak tahu harus melakukan apa.",
+            "Aku bingung dengan situasi ini.",
+            "Aku merasa tidak pasti dan bingung.",
+            "Aku bingung harus memulai dari mana.",
+            "Aku tidak tahu keputusan yang tepat.",
+            "Aku merasa kebingungan dan putus asa.",
+            "Aku bingung tentang apa yang harus kulakukan.",
+            "Situasi ini membuatku bingung.",
+            "Aku merasa bingung dengan semua yang terjadi.",
+            "Aku tidak tahu apa yang salah.",
+            "Aku bingung dengan apa yang orang lain katakan.",
+            "Aku merasa ragu dan bingung.",
+            "Aku bingung harus mengambil langkah apa.",
+            "Aku tidak yakin apa yang benar.",
+            "Aku merasa tersesat dan bingung.",
+            "Aku bingung apa yang harus kulakukan sekarang.",
+            "Aku merasa kehilangan arah dan bingung.",
+            "Aku tidak tahu bagaimana menyelesaikan ini.",
+            "Aku bingung dan butuh bantuan."
+        ],
+        "responses": [
+            "Cobalah untuk mengambil langkah kecil dan fokus pada satu hal terlebih dahulu.",
+            "Kadang berbicara dengan seseorang bisa membantu mengklarifikasi kebingunganmu.",
+            "Menuliskan situasi yang membingungkan bisa membantu menemukan solusi.",
+            "Cobalah untuk tidak terburu-buru, luangkan waktu untuk berpikir jernih.",
+            "Aku di sini jika kamu ingin membicarakan apa yang membuatmu bingung."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "emosi_hampa",
+        "patterns": [
+            "Aku merasa hampa.",
+            "Kenapa aku selalu merasa kosong dan hampa?",
+            "Hari ini aku merasa tidak berarti, hampa.",
+            "Aku merasa kehilangan arah dan hampa.",
+            "Kenapa perasaan hampa ini tidak pergi?",
+            "Hampa banget rasanya hidupku sekarang.",
+            "Aku tidak tahu apa yang salah, tapi aku merasa hampa.",
+            "Kenapa aku merasa tidak ada apa-apa di dalam diriku?",
+            "Hidupku terasa kosong dan hampa.",
+            "Aku tidak punya tujuan, aku merasa hampa.",
+            "Aku ingin menghilangkan perasaan hampa ini.",
+            "Aku merasa tidak ada yang peduli, hampa banget.",
+            "Hampa ini membuatku tidak ingin melakukan apa-apa.",
+            "Rasanya aku tidak bisa merasa bahagia, hanya hampa.",
+            "Hampa banget, aku tidak tahu apa yang aku cari.",
+            "Kenapa aku merasa seperti ini? Hampa sekali rasanya.",
+            "Aku merasa seperti hidupku tidak ada artinya, hampa.",
+            "Aku merasa kehilangan diriku sendiri, hampa banget.",
+            "Hampa ini membuatku sulit untuk berpikir positif.",
+            "Aku merasa tidak ada yang tersisa dalam hidupku, hampa."
+        ],
+        "responses": [
+            "Aku di sini untuk mendengarkanmu, ceritakan apa yang kamu rasakan.",
+            "Kadang-kadang perasaan hampa adalah tanda bahwa kamu perlu istirahat atau mencari arah baru.",
+            "Cobalah untuk fokus pada hal kecil yang bisa membuatmu merasa lebih baik.",
+            "Hampa bukanlah akhir dari segalanya, kamu punya potensi untuk menemukan kebahagiaan lagi.",
+            "Bicaralah dengan seseorang yang kamu percaya, itu bisa sangat membantu."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "emosi_takut_gagal",
+        "patterns": [
+            "Aku takut gagal.",
+            "Aku merasa cemas karena takut gagal.",
+            "Bagaimana jika aku gagal lagi?",
+            "Aku takut mencoba karena aku takut gagal.",
+            "Aku merasa gagal dan tidak bisa bangkit.",
+            "Aku takut jika usahaku akan sia-sia.",
+            "Aku merasa tidak mampu dan takut gagal.",
+            "Gagal adalah hal yang paling aku takuti.",
+            "Aku tidak tahu bagaimana mengatasi rasa takut gagal ini.",
+            "Aku selalu merasa akan gagal.",
+            "Aku takut tidak bisa memenuhi harapan orang lain.",
+            "Aku takut bahwa aku tidak akan pernah berhasil.",
+            "Takut banget kalau aku mengecewakan orang lain.",
+            "Aku takut bahwa aku tidak cukup baik.",
+            "Rasa takut gagal ini membuatku ragu untuk mencoba.",
+            "Aku merasa takut untuk melangkah karena takut gagal.",
+            "Aku takut jika semua kerja kerasku akan sia-sia.",
+            "Aku merasa lumpuh karena rasa takut gagal ini.",
+            "Aku takut membuat kesalahan besar.",
+            "Bagaimana jika aku gagal lagi dan tidak bisa bangkit?"
+        ],
+        "responses": [
+            "Gagal adalah bagian dari proses belajar, dan setiap orang pernah mengalaminya.",
+            "Ingatlah bahwa mencoba adalah langkah pertama menuju kesuksesan.",
+            "Bicaralah dengan seseorang yang bisa mendukungmu, kamu tidak sendirian.",
+            "Takut gagal itu wajar, tapi jangan biarkan itu menghentikanmu untuk mencoba.",
+            "Fokuslah pada proses, bukan hanya hasilnya. Setiap langkah kecil adalah pencapaian."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "emosi_tidak_dihargai",
+        "patterns": [
+            "Aku merasa tidak dihargai.",
+            "Kenapa tidak ada yang menghargai aku?",
+            "Aku merasa usahaku tidak dianggap.",
+            "Rasanya tidak ada yang peduli dengan apa yang aku lakukan.",
+            "Aku merasa diabaikan dan tidak dihargai.",
+            "Kenapa semua orang menganggap aku tidak penting?",
+            "Aku merasa tidak dilihat oleh siapa pun.",
+            "Usahaku tidak pernah dihargai.",
+            "Aku merasa diremehkan dan tidak dihargai.",
+            "Aku sudah melakukan yang terbaik, tapi tetap tidak dihargai.",
+            "Kenapa aku merasa seperti ini, tidak dihargai sama sekali?",
+            "Aku merasa tidak diakui oleh siapa pun.",
+            "Tidak ada yang melihat usahaku, aku merasa tidak dihargai.",
+            "Aku merasa sia-sia karena tidak dihargai.",
+            "Rasanya tidak ada yang peduli dengan aku.",
+            "Aku hanya ingin dihargai atas apa yang aku lakukan.",
+            "Aku merasa tidak dihormati oleh siapa pun.",
+            "Tidak dihargai itu sakit sekali.",
+            "Kenapa orang tidak bisa melihat usahaku?",
+            "Aku merasa rendah diri karena tidak dihargai."
+        ],
+        "responses": [
+            "Aku paham itu pasti menyakitkan. Usahamu tetap berarti, bahkan jika tidak semua orang melihatnya.",
+            "Kadang, kita tidak bisa mengendalikan apa yang orang lain pikirkan, tapi kita bisa menghargai diri sendiri.",
+            "Ingatlah bahwa kamu layak dihargai, dan aku di sini untuk mendengarkanmu.",
+            "Bicaralah dengan orang yang bisa memahami perasaanmu, itu bisa membantu.",
+            "Usahamu tidak sia-sia, dan orang yang benar-benar peduli akan melihat nilaimu."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "emosi_frustrasi",
+        "patterns": [
+            "Aku merasa frustrasi.",
+            "Aku kesal dan frustrasi dengan semua ini.",
+            "Aku merasa tidak ada jalan keluar, frustrasi banget.",
+            "Aku frustrasi karena tidak ada yang berjalan dengan benar.",
+            "Aku merasa sangat frustrasi dan putus asa.",
+            "Frustrasi ini membuatku ingin menyerah.",
+            "Aku tidak tahu harus bagaimana lagi, frustrasi banget.",
+            "Aku frustrasi karena semuanya terasa sulit.",
+            "Rasanya aku tidak bisa maju, hanya frustrasi.",
+            "Aku benar-benar kesal dan frustrasi dengan situasi ini.",
+            "Kenapa semuanya selalu sulit? Aku frustrasi.",
+            "Aku frustrasi karena tidak ada yang berjalan sesuai rencana.",
+            "Aku merasa sangat lelah dan frustrasi.",
+            "Aku tidak tahu bagaimana menghadapi frustrasi ini.",
+            "Frustrasi banget aku dengan semua tekanan ini.",
+            "Aku merasa tidak ada yang peduli, frustrasi banget.",
+            "Frustrasi ini membuatku ingin menyerah pada semuanya.",
+            "Aku merasa seperti tidak ada yang berhasil, frustrasi sekali.",
+            "Kenapa aku selalu merasa frustrasi?",
+            "Aku frustrasi karena tidak ada yang membantu."
+        ],
+        "responses": [
+            "Aku mengerti kamu merasa frustrasi. Kadang mengambil jeda bisa membantu.",
+            "Bicaralah dengan seseorang yang bisa memahami situasimu, itu bisa meringankan bebanmu.",
+            "Cobalah fokus pada satu hal kecil yang bisa kamu selesaikan dulu.",
+            "Frustrasi itu wajar, tapi jangan menyerah. Kamu bisa melewati ini.",
+            "Aku di sini jika kamu butuh tempat untuk berbicara."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "emosi_kecewa",
+        "patterns": [
+            "Aku merasa kecewa.",
+            "Kecewa banget rasanya sekarang.",
+            "Kenapa aku selalu merasa kecewa seperti ini?",
+            "Aku kecewa dengan semua yang terjadi.",
+            "Rasanya sakit dan kecewa banget.",
+            "Aku sangat kecewa pada diri sendiri.",
+            "Aku kecewa karena harapanku tidak tercapai.",
+            "Kenapa semua tidak berjalan seperti yang aku harapkan? Kecewa sekali.",
+            "Aku merasa sangat kecewa dengan keputusan ini.",
+            "Kecewa banget, aku tidak tahu harus bagaimana.",
+            "Aku kecewa karena orang lain tidak menghargai aku.",
+            "Kecewa itu menyakitkan, dan aku merasa itu sekarang.",
+            "Aku kecewa karena semuanya terasa salah.",
+            "Aku merasa dikhianati dan sangat kecewa.",
+            "Kecewa ini membuatku merasa lelah.",
+            "Kenapa aku harus merasa kecewa terus-menerus?",
+            "Aku kecewa karena hasilnya tidak sesuai usaha.",
+            "Kecewa banget, aku tidak tahu apa yang harus aku lakukan.",
+            "Rasanya aku tidak bisa bangkit dari rasa kecewa ini.",
+            "Kecewa itu melemahkan, dan aku merasa itu sekarang."
+        ],
+        "responses": [
+            "Aku paham rasa kecewa bisa sangat menyakitkan, tapi kamu tidak sendirian.",
+            "Kadang-kadang rasa kecewa adalah tanda bahwa kita harus mencari jalan lain.",
+            "Bicaralah dengan seseorang yang kamu percaya, itu bisa membantumu melewati rasa kecewa ini.",
+            "Kecewa adalah bagian dari perjalanan, dan kamu pasti bisa melewatinya.",
+            "Ingatlah, tidak apa-apa merasa kecewa, tapi jangan berhenti di situ. Kamu lebih kuat dari yang kamu pikirkan."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "emosi_lelah",
+        "patterns": [
+            "Aku merasa lelah.",
+            "Lelah banget rasanya sekarang.",
+            "Kenapa aku selalu merasa lelah seperti ini?",
+            "Aku lelah dengan semua yang terjadi.",
+            "Rasanya capek banget dengan keadaan ini.",
+            "Aku merasa sangat lelah secara fisik dan mental.",
+            "Lelah ini membuatku ingin menyerah.",
+            "Aku capek dengan semua tuntutan yang ada.",
+            "Aku merasa tidak punya energi untuk melanjutkan.",
+            "Capek banget, rasanya tidak ada habisnya.",
+            "Aku lelah karena selalu berusaha keras tapi tidak ada hasil.",
+            "Kenapa aku merasa lelah terus-menerus?",
+            "Lelah ini membuatku tidak ingin melakukan apapun.",
+            "Aku merasa benar-benar capek dengan semua masalah ini.",
+            "Aku tidak tahu bagaimana mengatasi rasa lelah ini.",
+            "Lelah banget, rasanya aku ingin istirahat selamanya.",
+            "Aku capek menghadapi semuanya sendirian.",
+            "Kenapa aku tidak bisa berhenti merasa lelah?",
+            "Rasanya semuanya terlalu berat, aku lelah.",
+            "Aku merasa seperti tidak ada jalan keluar dari rasa lelah ini."
+        ],
+        "responses": [
+            "Lelah itu wajar, tubuhmu mungkin butuh istirahat. Cobalah luangkan waktu untuk dirimu sendiri.",
+            "Ketika merasa lelah, jangan ragu untuk berhenti sejenak dan mereset pikiranmu.",
+            "Lelah bukan tanda kelemahan, tapi tanda bahwa kamu telah berusaha keras.",
+            "Cobalah berbagi perasaanmu dengan orang terdekat, itu bisa mengurangi rasa lelahmu.",
+            "Istirahatlah sejenak, kamu tidak perlu menyelesaikan semuanya sekaligus."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "emosi_tertekan",
+        "patterns": [
+            "Aku merasa tertekan.",
+            "Kenapa semuanya terasa begitu berat dan menekan?",
+            "Aku merasa seperti ditekan dari segala arah.",
+            "Tertekan banget rasanya sekarang.",
+            "Aku tidak tahu bagaimana mengatasi tekanan ini.",
+            "Rasanya seperti ada beban berat di pundakku.",
+            "Aku tertekan dengan semua yang terjadi.",
+            "Tekanan ini membuatku sulit bernapas.",
+            "Aku merasa terperangkap dalam tekanan yang tidak kunjung hilang.",
+            "Tertekan banget, aku tidak tahu harus bagaimana.",
+            "Aku merasa semuanya terlalu berat untuk aku tangani.",
+            "Tekanan ini membuatku tidak bisa berpikir jernih.",
+            "Aku merasa tertekan dengan harapan yang terlalu tinggi.",
+            "Aku tertekan dengan ekspektasi yang diberikan kepadaku.",
+            "Rasanya sulit untuk keluar dari rasa tertekan ini.",
+            "Aku tidak tahu bagaimana cara mengurangi tekanan ini.",
+            "Tekanan ini membuatku merasa tidak cukup baik.",
+            "Aku merasa benar-benar tertekan secara mental dan emosional.",
+            "Tertekan banget, aku ingin semuanya berhenti sejenak.",
+            "Aku merasa kehilangan kendali karena terlalu tertekan."
+        ],
+        "responses": [
+            "Aku tahu tekanan ini berat, tapi kamu tidak harus menghadapinya sendirian.",
+            "Bicaralah dengan seseorang yang kamu percaya, itu bisa membantumu merasa lebih baik.",
+            "Cobalah ambil napas dalam-dalam, kadang tekanan berkurang dengan memberi diri waktu.",
+            "Tekanan itu sementara, percayalah kamu bisa melewatinya.",
+            "Cari dukungan dari orang-orang terdekat, mereka pasti ingin membantumu."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "emosi_terbebani",
+        "patterns": [
+            "Aku merasa terbebani.",
+            "Kenapa semuanya terasa begitu membebani?",
+            "Beban ini terlalu berat untuk aku tangani.",
+            "Aku merasa sangat terbebani dengan semua yang terjadi.",
+            "Rasanya aku tidak bisa memikul beban ini sendirian.",
+            "Beban ini membuatku merasa lelah dan putus asa.",
+            "Aku terbebani dengan ekspektasi yang terlalu tinggi.",
+            "Kenapa aku harus menanggung beban sebesar ini?",
+            "Aku merasa seperti semua tanggung jawab ada di pundakku.",
+            "Beban ini membuatku merasa tidak mampu.",
+            "Aku merasa terbebani oleh masalah yang tidak kunjung selesai.",
+            "Rasanya terlalu berat, aku tidak tahu harus bagaimana.",
+            "Aku terbebani dengan rasa takut akan kegagalan.",
+            "Beban ini membuatku kehilangan arah.",
+            "Aku merasa seperti tidak ada yang peduli dengan bebanku.",
+            "Beban ini terlalu banyak untuk aku tangani sendirian.",
+            "Aku merasa benar-benar terbebani secara emosional.",
+            "Rasanya aku ingin lari dari semua beban ini.",
+            "Kenapa beban ini tidak pernah berkurang?",
+            "Aku merasa sangat tertekan dan terbebani."
+        ],
+        "responses": [
+            "Aku mengerti beban ini terasa berat, tapi cobalah berbagi dengan orang yang kamu percaya.",
+            "Kamu tidak harus memikul semua beban ini sendiri, ada orang-orang yang peduli padamu.",
+            "Beban ini tidak akan bertahan selamanya, percayalah kamu bisa melewatinya.",
+            "Cobalah fokus pada satu hal kecil untuk mengurangi rasa terbebani.",
+            "Beristirahatlah sejenak, tubuh dan pikiranmu mungkin butuh waktu untuk pulih."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "cara_mengatasi_kecewa",
+        "patterns": [
+            "Bagaimana cara mengatasi rasa kecewa?",
+            "Apa yang harus dilakukan jika merasa kecewa?",
+            "Bagaimana agar aku tidak terlalu kecewa?",
+            "Ada tips untuk mengurangi rasa kecewa?",
+            "Apa solusi terbaik untuk menghadapi kekecewaan?",
+            "Apa yang bisa aku lakukan agar kecewaku berkurang?",
+            "Bagaimana caranya menghadapi kekecewaan ini?",
+            "Kecewa banget, bagaimana aku mengatasinya?",
+            "Apa langkah-langkah untuk melewati rasa kecewa?",
+            "Bagaimana aku bisa merasa lebih baik setelah kecewa?",
+            "Apa yang harus aku coba untuk mengurangi kecewa?",
+            "Kekecewaan ini berat, bagaimana aku melewatinya?",
+            "Apa yang harus dilakukan kalau aku sangat kecewa?",
+            "Bagaimana cara supaya rasa kecewa ini tidak membebani?",
+            "Apa yang bisa membantu aku untuk mengatasi kekecewaan?",
+            "Apa langkah awal untuk menghadapi rasa kecewa?",
+            "Bagaimana aku bisa melupakan rasa kecewa ini?",
+            "Apa yang bisa aku lakukan agar tidak kecewa lagi?",
+            "Kecewa terus, ada saran cara mengatasinya?",
+            "Bagaimana caranya agar aku tidak tenggelam dalam kekecewaan?"
+        ],
+        "responses": [
+            "Cobalah menerima perasaan kecewamu sebagai hal yang wajar.",
+            "Fokus pada hal-hal positif di sekitarmu yang bisa mengalihkan perhatianmu.",
+            "Berbicaralah dengan seseorang yang kamu percaya untuk meluapkan perasaanmu.",
+            "Luangkan waktu untuk dirimu sendiri dan lakukan aktivitas yang kamu nikmati.",
+            "Ingat bahwa setiap orang menghadapi kekecewaan, dan kamu tidak sendirian."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "cara_mengatasi_merasa_sendiri",
+        "patterns": [
+            "Bagaimana cara mengatasi rasa kesepian?",
+            "Apa yang harus dilakukan jika merasa sendiri?",
+            "Bagaimana agar aku tidak merasa sendirian?",
+            "Kesepian banget, apa yang harus aku lakukan?",
+            "Ada tips untuk menghadapi rasa kesepian?",
+            "Apa yang bisa aku lakukan agar tidak merasa sendiri?",
+            "Bagaimana caranya agar aku merasa lebih terhubung?",
+            "Apa solusi untuk mengatasi rasa sendiri ini?",
+            "Sendiri terus, bagaimana aku bisa mengatasinya?",
+            "Apa langkah-langkah untuk melewati rasa kesepian?",
+            "Bagaimana aku bisa berhenti merasa kesepian?",
+            "Apa yang harus aku coba untuk mengatasi rasa sendiri?",
+            "Kesepian ini mengganggu, ada cara untuk menguranginya?",
+            "Bagaimana aku bisa mengisi kekosongan rasa sendirian ini?",
+            "Apa cara terbaik untuk menghadapi rasa kesepian?",
+            "Apa yang bisa membantu aku agar tidak merasa sendirian?",
+            "Bagaimana agar aku bisa merasa lebih terhubung dengan orang lain?",
+            "Apa yang harus dilakukan supaya rasa sendiri ini hilang?",
+            "Apa yang harus aku lakukan untuk mengatasi rasa kesepian?",
+            "Sendirian terus, ada saran cara mengatasinya?"
+        ],
+        "responses": [
+            "Cobalah untuk berhubungan dengan teman atau keluarga, meskipun hanya lewat pesan singkat.",
+            "Ikutlah dalam komunitas atau kelompok yang memiliki minat yang sama denganmu.",
+            "Luangkan waktu untuk mengenal dirimu sendiri melalui hobi atau aktivitas yang kamu suka.",
+            "Jangan takut untuk mencari bantuan profesional jika rasa kesepian ini terlalu berat.",
+            "Ingat bahwa merasa sendiri adalah bagian dari pengalaman manusia, dan kamu tidak sendirian."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "cara_mengatasi_frustasi",
+        "patterns": [
+            "Bagaimana cara mengatasi rasa frustrasi?",
+            "Apa yang bisa aku lakukan kalau aku merasa frustrasi?",
+            "Bagaimana agar aku tidak frustrasi lagi?",
+            "Apa langkah-langkah untuk mengatasi frustrasi?",
+            "Ada tips untuk menghadapi rasa frustrasi?",
+            "Bagaimana caranya melewati rasa frustrasi ini?",
+            "Frustrasi banget, ada saran cara mengatasinya?",
+            "Apa yang harus aku lakukan untuk mengurangi rasa frustrasi?",
+            "Apa solusi untuk menghadapi rasa frustrasi ini?",
+            "Bagaimana agar rasa frustrasi ini tidak menguasai aku?",
+            "Apa yang harus dilakukan jika aku merasa frustrasi?",
+            "Apa langkah awal untuk mengatasi rasa frustrasi?",
+            "Apa yang bisa aku coba untuk mengurangi rasa frustrasi ini?",
+            "Bagaimana aku bisa menghilangkan rasa frustrasi ini?",
+            "Apa yang bisa membantu aku agar tidak merasa frustrasi lagi?",
+            "Bagaimana aku bisa melawan perasaan frustrasi ini?",
+            "Apa yang harus aku lakukan kalau frustrasi terus datang?",
+            "Frustrasi banget, apa yang harus aku lakukan?",
+            "Bagaimana caranya agar aku tidak terlalu frustrasi?",
+            "Frustrasi ini berat, bagaimana aku mengatasinya?"
+        ],
+        "responses": [
+            "Cobalah tarik napas dalam-dalam dan tenangkan pikiranmu.",
+            "Luangkan waktu untuk mengevaluasi masalah dan cari solusi secara perlahan.",
+            "Berbicaralah dengan seseorang yang kamu percaya tentang apa yang membuatmu frustrasi.",
+            "Alihkan perhatianmu dengan aktivitas yang membuatmu merasa lebih baik.",
+            "Ingat bahwa frustrasi adalah bagian dari proses, dan kamu bisa melewatinya."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "cara_mengatasi_tidak_dihargai",
+        "patterns": [
+            "Bagaimana cara mengatasi perasaan tidak dihargai?",
+            "Apa yang harus dilakukan jika merasa tidak dihargai?",
+            "Apa solusi untuk menghadapi perasaan tidak dihargai?",
+            "Bagaimana caranya menghadapi orang yang tidak menghargai aku?",
+            "Aku merasa tidak dihargai, apa yang harus aku lakukan?",
+            "Bagaimana agar aku bisa mengatasi rasa tidak dihargai ini?",
+            "Apa langkah terbaik untuk menghadapi rasa tidak dihargai?",
+            "Apa yang bisa aku lakukan kalau orang-orang tidak menghargai aku?",
+            "Rasanya tidak dihargai, bagaimana aku bisa melaluinya?",
+            "Bagaimana caranya agar aku tidak merasa tidak dihargai lagi?",
+            "Apa yang harus aku coba untuk mengatasi perasaan tidak dihargai?",
+            "Bagaimana aku bisa bangkit dari rasa tidak dihargai?",
+            "Orang lain tidak menghargai aku, apa yang harus aku lakukan?",
+            "Apa yang bisa membantu aku agar tidak merasa tidak dihargai?",
+            "Bagaimana caranya agar aku tidak terus merasa diabaikan?",
+            "Apa yang harus aku lakukan untuk menghentikan rasa tidak dihargai?",
+            "Aku kecewa karena tidak dihargai, bagaimana mengatasinya?",
+            "Apa yang harus aku lakukan kalau tidak ada yang menghargai aku?",
+            "Bagaimana agar aku tidak lagi merasa kecil karena tidak dihargai?",
+            "Apa langkah yang bisa aku ambil untuk menghadapi rasa tidak dihargai?"
+        ],
+        "responses": [
+            "Ingat bahwa nilai dirimu tidak ditentukan oleh orang lain.",
+            "Berikan penghargaan pada dirimu sendiri atas hal-hal kecil yang telah kamu capai.",
+            "Berbicaralah secara jujur dengan orang yang membuatmu merasa tidak dihargai.",
+            "Cobalah fokus pada orang-orang yang benar-benar peduli padamu.",
+            "Luangkan waktu untuk merawat dirimu sendiri dan bangun rasa percaya diri."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "cara_mengatasi_takut_gagal",
+        "patterns": [
+            "Bagaimana cara mengatasi rasa takut gagal?",
+            "Apa yang harus aku lakukan kalau takut gagal?",
+            "Bagaimana agar aku tidak takut menghadapi kegagalan?",
+            "Apa solusi terbaik untuk mengatasi rasa takut gagal?",
+            "Aku takut gagal, apa yang bisa aku lakukan?",
+            "Bagaimana caranya agar aku bisa melawan rasa takut gagal?",
+            "Apa yang harus aku coba untuk mengurangi rasa takut gagal?",
+            "Apa langkah awal untuk menghadapi rasa takut gagal?",
+            "Bagaimana agar aku berani mengambil risiko tanpa takut gagal?",
+            "Bagaimana caranya supaya rasa takut gagal tidak menghentikanku?",
+            "Aku selalu takut gagal, bagaimana aku bisa mengatasinya?",
+            "Apa yang bisa membantu aku agar tidak terlalu takut gagal?",
+            "Takut gagal terus menghantui aku, apa solusinya?",
+            "Bagaimana cara agar rasa takut gagal ini bisa hilang?",
+            "Apa langkah kecil yang bisa aku ambil untuk melawan rasa takut gagal?",
+            "Aku ragu karena takut gagal, bagaimana mengatasinya?",
+            "Apa yang harus aku lakukan kalau takut gagal menghadang langkahku?",
+            "Bagaimana agar aku bisa melihat kegagalan sebagai pembelajaran?",
+            "Apa yang bisa aku lakukan agar aku tidak takut mencoba lagi?",
+            "Takut gagal ini berat, apa yang bisa aku lakukan untuk melaluinya?"
+        ],
+        "responses": [
+            "Cobalah untuk melihat kegagalan sebagai bagian dari proses pembelajaran.",
+            "Fokuslah pada usaha dan kemajuanmu, bukan hanya hasil akhirnya.",
+            "Buatlah rencana cadangan agar kamu lebih percaya diri dalam mencoba.",
+            "Berbicaralah dengan seseorang yang dapat memberikan perspektif positif.",
+            "Ingat bahwa semua orang pernah gagal, dan itu adalah hal yang wajar."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "cara_mengatasi_hampa",
+        "patterns": [
+            "Bagaimana cara mengatasi rasa hampa?",
+            "Apa yang bisa aku lakukan kalau merasa hampa?",
+            "Aku merasa hampa, bagaimana aku bisa mengatasinya?",
+            "Hampa banget, apa yang harus aku lakukan?",
+            "Apa langkah-langkah untuk melewati rasa hampa?",
+            "Bagaimana agar aku bisa merasa lebih baik dari rasa hampa ini?",
+            "Apa solusi terbaik untuk menghadapi rasa hampa?",
+            "Aku kosong banget, bagaimana caranya agar aku bisa merasa lebih hidup?",
+            "Apa yang bisa aku lakukan untuk mengisi kekosongan ini?",
+            "Bagaimana cara supaya rasa hampa ini tidak menguasai aku?",
+            "Rasanya kosong, bagaimana aku bisa mengatasi ini?",
+            "Apa langkah kecil yang bisa aku ambil untuk menghadapi rasa hampa?",
+            "Bagaimana aku bisa menemukan makna di tengah rasa hampa ini?",
+            "Hampa terus, ada saran bagaimana aku bisa melewati ini?",
+            "Apa yang bisa membantu aku agar rasa hampa ini berkurang?",
+            "Bagaimana aku bisa mengalihkan pikiran dari rasa hampa ini?",
+            "Apa yang harus aku lakukan untuk menemukan kembali semangatku?",
+            "Apa yang bisa aku coba untuk mengatasi rasa hampa ini?",
+            "Bagaimana caranya supaya aku tidak merasa hampa lagi?",
+            "Rasanya hampa banget, bagaimana aku bisa mulai merasa lebih baik?"
+        ],
+        "responses": [
+            "Cobalah mencari kegiatan baru yang membuatmu merasa bersemangat.",
+            "Luangkan waktu untuk merenung dan mencari tahu apa yang benar-benar kamu butuhkan.",
+            "Berbicaralah dengan seseorang yang kamu percayai untuk meluapkan perasaanmu.",
+            "Fokus pada hal-hal kecil yang membawa kebahagiaan dalam hidupmu.",
+            "Ingat bahwa rasa hampa adalah sementara, dan kamu bisa melewatinya."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "cara_mengatasi_bingung",
+        "patterns": [
+            "Aku merasa bingung, apa yang harus aku lakukan?",
+            "Bagaimana cara mengatasi rasa bingung?",
+            "Apa yang bisa aku lakukan kalau aku bingung?",
+            "Aku bingung banget, ada saran?",
+            "Bagaimana supaya aku tidak merasa bingung lagi?",
+            "Apa solusi terbaik untuk menghadapi kebingungan?",
+            "Apa yang harus aku lakukan kalau aku terus bingung?",
+            "Bagaimana agar rasa bingung ini bisa hilang?",
+            "Aku tidak tahu harus bagaimana, aku bingung.",
+            "Apa langkah yang bisa aku ambil untuk mengatasi kebingungan?",
+            "Bingung banget, apa yang sebaiknya aku lakukan?",
+            "Aku merasa bingung dan tidak tahu harus kemana.",
+            "Bagaimana caranya agar aku bisa keluar dari rasa bingung ini?",
+            "Apa yang bisa aku coba untuk melawan rasa bingung?",
+            "Aku tidak yakin, aku bingung. Bagaimana cara mengatasinya?",
+            "Bagaimana agar aku bisa berpikir lebih jernih saat bingung?",
+            "Aku benar-benar bingung, ada cara untuk mengatasinya?",
+            "Apa langkah kecil yang bisa aku mulai untuk mengatasi kebingungan?",
+            "Rasa bingung ini melemahkan aku, apa yang bisa aku lakukan?",
+            "Bagaimana agar aku tidak bingung terus-menerus?"
+        ],
+        "responses": [
+            "Cobalah untuk memetakan masalahmu dan cari solusi secara bertahap.",
+            "Luangkan waktu untuk menenangkan pikiranmu sebelum membuat keputusan.",
+            "Bicarakan dengan seseorang yang kamu percaya untuk mendapatkan perspektif lain.",
+            "Fokus pada satu langkah kecil yang bisa kamu lakukan sekarang.",
+            "Ingat bahwa rasa bingung adalah bagian dari proses menemukan jalan keluar."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "cara_mengatasi_takut",
+        "patterns": [
+            "Bagaimana cara mengatasi rasa takut?",
+            "Aku takut, apa yang harus aku lakukan?",
+            "Bagaimana agar aku bisa melawan rasa takut ini?",
+            "Apa solusi terbaik untuk menghadapi rasa takut?",
+            "Aku sering merasa takut, bagaimana caranya agar lebih berani?",
+            "Apa yang harus aku lakukan kalau aku takut terus?",
+            "Apa langkah yang bisa aku ambil untuk mengurangi rasa takut?",
+            "Bagaimana cara agar aku tidak merasa takut lagi?",
+            "Rasa takut ini menghantui aku, bagaimana aku bisa mengatasinya?",
+            "Aku takut mencoba, bagaimana aku bisa melewati ini?",
+            "Apa yang bisa membantu aku mengatasi rasa takut?",
+            "Bagaimana agar rasa takut tidak mengendalikan aku?",
+            "Apa langkah kecil yang bisa aku lakukan untuk mengatasi ketakutan?",
+            "Aku takut menghadapi masa depan, apa yang harus aku lakukan?",
+            "Bagaimana aku bisa merasa lebih percaya diri meskipun takut?",
+            "Apa yang bisa aku coba untuk melawan rasa takutku?",
+            "Bagaimana caranya agar aku bisa merasa lebih tenang saat takut?",
+            "Aku merasa takut dan bingung, apa yang bisa membantu aku?",
+            "Apa yang bisa aku lakukan untuk menghadapi rasa takut ini?",
+            "Rasa takut ini berat, bagaimana aku bisa mulai mengatasinya?"
+        ],
+        "responses": [
+            "Cobalah untuk mengidentifikasi apa yang membuatmu takut dan hadapi secara perlahan.",
+            "Bernafaslah dalam-dalam dan fokus pada hal-hal yang kamu kontrol.",
+            "Bicarakan rasa takutmu dengan seseorang yang kamu percayai.",
+            "Fokus pada tindakan kecil yang bisa membantu kamu melangkah maju.",
+            "Ingat bahwa rasa takut adalah perasaan yang normal dan kamu bisa melewatinya."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "cara_mengatasi_marah",
+        "patterns": [
+            "Bagaimana cara mengatasi rasa marah?",
+            "Aku marah banget, apa yang harus aku lakukan?",
+            "Bagaimana agar aku tidak mudah marah?",
+            "Apa solusi untuk menghadapi kemarahan?",
+            "Aku sering marah, bagaimana caranya supaya lebih tenang?",
+            "Apa yang harus aku lakukan kalau aku marah?",
+            "Bagaimana caranya agar aku bisa mengontrol rasa marahku?",
+            "Apa langkah terbaik untuk menenangkan diri saat marah?",
+            "Aku sedang marah, bagaimana cara mengatasinya?",
+            "Apa yang bisa membantu aku agar lebih sabar?",
+            "Rasa marah ini menguasai aku, bagaimana cara mengatasinya?",
+            "Bagaimana supaya aku bisa lebih sabar dalam menghadapi situasi sulit?",
+            "Apa yang bisa aku coba untuk meredakan rasa marah?",
+            "Aku marah sekali, apa yang harus aku lakukan untuk tenang?",
+            "Bagaimana agar aku tidak membiarkan rasa marah mengendalikan aku?",
+            "Apa yang bisa membantu aku mengelola kemarahan dengan lebih baik?",
+            "Aku ingin marah, tapi aku takut menyesal, apa yang harus aku lakukan?",
+            "Apa yang harus aku lakukan agar aku bisa lebih mengontrol emosiku?",
+            "Bagaimana caranya agar aku tidak terus merasa marah?",
+            "Apa langkah kecil yang bisa aku lakukan untuk mengatasi rasa marah?"
+        ],
+        "responses": [
+            "Cobalah untuk mengambil napas dalam-dalam dan hitung hingga sepuluh.",
+            "Jauhkan diri dari situasi yang membuatmu marah untuk sementara waktu.",
+            "Luangkan waktu untuk menenangkan diri sebelum merespons sesuatu.",
+            "Bicarakan perasaanmu dengan seseorang yang kamu percayai.",
+            "Fokus pada solusi, bukan hanya masalah yang membuatmu marah."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "cara_mengatasi_sedih",
+        "patterns": [
+            "Bagaimana cara mengatasi rasa sedih?",
+            "Aku merasa sedih, apa yang harus aku lakukan?",
+            "Bagaimana agar aku tidak terus merasa sedih?",
+            "Apa solusi terbaik untuk menghadapi kesedihan?",
+            "Aku sedih banget, bagaimana aku bisa mengatasinya?",
+            "Apa langkah yang bisa aku ambil untuk melawan rasa sedih?",
+            "Bagaimana caranya agar aku bisa lebih bahagia?",
+            "Apa yang bisa aku lakukan supaya aku tidak merasa sedih lagi?",
+            "Rasa sedih ini berat, bagaimana aku bisa mulai mengatasinya?",
+            "Aku sedih terus, apa yang harus aku coba untuk mengatasinya?",
+            "Bagaimana agar rasa sedih ini tidak terus menghantui aku?",
+            "Apa yang harus aku lakukan kalau aku merasa sangat sedih?",
+            "Apa langkah kecil yang bisa aku mulai untuk merasa lebih baik?",
+            "Aku merasa sangat sedih, bagaimana cara bangkit?",
+            "Bagaimana supaya aku bisa melawan rasa sedih ini?",
+            "Apa yang bisa membantu aku agar tidak terlalu sedih?",
+            "Aku sedih dan bingung, bagaimana aku bisa melewati ini?",
+            "Apa yang bisa aku coba untuk menghadapi kesedihan ini?",
+            "Bagaimana agar aku bisa merasa lebih baik di tengah rasa sedih ini?",
+            "Apa langkah awal untuk keluar dari rasa sedih?"
+        ],
+        "responses": [
+            "Luangkan waktu untuk menangis jika perlu, itu adalah cara yang sehat untuk melepaskan emosi.",
+            "Berbicaralah dengan seseorang yang bisa memberikan dukungan emosional.",
+            "Cobalah fokus pada hal-hal kecil yang membawa kebahagiaan.",
+            "Luangkan waktu untuk diri sendiri dan lakukan hal-hal yang kamu nikmati.",
+            "Ingat bahwa kesedihan adalah perasaan sementara yang akan berlalu."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "cara_mengatasi_kesal",
+        "patterns": [
+            "Aku merasa kesal, apa yang harus aku lakukan?",
+            "Bagaimana cara mengatasi rasa kesal ini?",
+            "Aku kesal banget, apa yang sebaiknya aku lakukan?",
+            "Aku merasa kesal, bagaimana caranya agar lebih tenang?",
+            "Bagaimana agar aku tidak terlalu kesal?",
+            "Apa yang harus aku lakukan kalau aku merasa kesal?",
+            "Kesal banget nih, bagaimana cara mengatasinya?",
+            "Aku kesal dengan keadaan ini, ada cara untuk meredakannya?",
+            "Kenapa aku bisa merasa begitu kesal? Apa yang bisa dilakukan?",
+            "Apa yang bisa aku lakukan supaya tidak merasa kesal terus?",
+            "Bagaimana agar aku bisa lebih sabar dan tidak merasa kesal?",
+            "Aku kesal dan bingung, bagaimana caranya agar bisa tenang?",
+            "Apa langkah yang bisa aku ambil untuk meredakan rasa kesal?",
+            "Aku merasa kesal sekali, apa yang bisa aku lakukan untuk merasa lebih baik?",
+            "Aku tidak tahan dengan perasaan kesal ini, bagaimana cara menghadapinya?",
+            "Bagaimana agar rasa kesal tidak mengganggu keseharianku?",
+            "Apa yang bisa aku lakukan agar tidak terlalu kesal dengan situasi ini?",
+            "Aku ingin mengurangi rasa kesalku, apa yang bisa aku coba?",
+            "Bagaimana cara agar aku tidak membiarkan rasa kesal mengendalikan aku?"
+        ],
+        "responses": [
+            "Cobalah untuk mengambil napas dalam-dalam dan perlahan.",
+            "Luangkan waktu untuk menenangkan diri dan pikirkan solusi.",
+            "Bicara dengan seseorang yang kamu percayai bisa membantu meredakan rasa kesal.",
+            "Cobalah untuk fokus pada hal-hal positif dan lupakan yang membuatmu kesal.",
+            "Lakukan aktivitas yang bisa membuatmu merasa lebih baik seperti olahraga atau hobi."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "cara_mengatasi_iri",
+        "patterns": [
+            "Aku merasa iri dengan orang lain, apa yang harus aku lakukan?",
+            "Bagaimana cara mengatasi rasa iri yang aku rasakan?",
+            "Aku iri dengan pencapaian orang lain, apa yang bisa aku lakukan?",
+            "Rasa iri ini mengganggu aku, bagaimana cara menghadapinya?",
+            "Apa yang harus aku lakukan kalau aku merasa iri terus?",
+            "Bagaimana supaya rasa iri tidak mengganggu pikiranku?",
+            "Aku merasa iri terhadap orang lain, bagaimana cara agar tidak merasa seperti itu?",
+            "Apa yang bisa aku lakukan agar rasa iri ini hilang?",
+            "Bagaimana cara mengatasi rasa iri yang selalu muncul?",
+            "Rasa iri ini sangat mengganggu, apa yang sebaiknya aku lakukan?",
+            "Aku iri pada teman-temanku, apa yang harus aku lakukan untuk merasa lebih baik?",
+            "Apa yang bisa aku coba untuk mengatasi rasa iri ini?",
+            "Bagaimana agar aku bisa berhenti merasa iri dan merasa lebih baik?",
+            "Aku merasa iri, tapi aku tidak ingin terus seperti ini, apa yang harus dilakukan?",
+            "Apa yang bisa membantu aku mengurangi rasa iri terhadap orang lain?",
+            "Bagaimana cara agar aku bisa fokus pada diriku sendiri dan bukan pada orang lain?",
+            "Apa langkah yang bisa aku coba untuk mengatasi perasaan iri ini?",
+            "Bagaimana agar rasa iri tidak menghalangiku untuk berkembang?",
+            "Aku ingin berhenti merasa iri, apa yang bisa aku lakukan?"
+        ],
+        "responses": [
+            "Fokus pada pencapaianmu sendiri dan berusaha untuk berkembang.",
+            "Ingat bahwa setiap orang memiliki perjalanan hidup yang berbeda.",
+            "Cobalah untuk merasa bahagia dengan keberhasilan orang lain.",
+            "Bicarakan perasaanmu dengan seseorang yang kamu percayai.",
+            "Alihkan perhatianmu pada hal-hal positif yang ada dalam hidupmu."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "cara_mengatasi_malu",
+        "patterns": [
+            "Aku merasa malu, bagaimana cara mengatasi rasa malu ini?",
+            "Bagaimana agar aku tidak merasa malu terus?",
+            "Apa yang harus aku lakukan kalau aku merasa malu?",
+            "Aku malu dengan apa yang terjadi, bagaimana cara menghadapinya?",
+            "Apa langkah yang bisa aku coba untuk mengatasi rasa malu?",
+            "Aku merasa sangat malu, apa yang bisa aku lakukan?",
+            "Rasa malu ini sangat mengganggu, apa yang harus aku lakukan?",
+            "Aku ingin mengatasi rasa malu ini, apa yang sebaiknya aku lakukan?",
+            "Bagaimana cara agar aku bisa lebih percaya diri dan tidak merasa malu?",
+            "Apa yang bisa aku coba untuk mengurangi rasa malu?",
+            "Aku merasa malu dan takut, apa yang harus aku lakukan?",
+            "Bagaimana agar rasa malu ini tidak menghentikanku untuk beraktivitas?",
+            "Rasa malu ini menghalangiku, apa yang bisa aku lakukan?",
+            "Aku merasa sangat malu, bagaimana caranya agar aku bisa lebih tenang?",
+            "Apa yang harus aku lakukan agar rasa malu ini hilang?",
+            "Bagaimana cara untuk tidak merasa malu dalam situasi sulit?",
+            "Aku ingin mengatasi rasa malu ini, apa langkah pertama yang bisa aku coba?",
+            "Bagaimana caranya agar aku bisa lebih nyaman dalam situasi sosial?",
+            "Aku merasa malu dengan diriku sendiri, apa yang harus aku lakukan?"
+        ],
+        "responses": [
+            "Cobalah untuk menerima dirimu apa adanya dan berbicara dengan orang lain.",
+            "Berlatih berbicara di depan orang lain bisa membantu mengurangi rasa malu.",
+            "Ingat bahwa semua orang pernah merasa malu, itu adalah hal yang wajar.",
+            "Fokus pada hal-hal positif dan prestasimu, bukan pada kekuranganmu.",
+            "Mulailah dengan langkah kecil untuk membangun kepercayaan dirimu."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "cara_mengatasi_benci",
+        "patterns": [
+            "Aku merasa benci pada seseorang, bagaimana cara menghadapinya?",
+            "Bagaimana cara mengatasi rasa benci yang aku rasakan?",
+            "Aku tidak bisa menghilangkan rasa benci ini, apa yang harus aku lakukan?",
+            "Rasa benci ini membuat aku tidak nyaman, bagaimana cara mengatasinya?",
+            "Apa yang bisa aku lakukan supaya aku bisa berhenti merasa benci?",
+            "Aku merasa benci pada situasi ini, apa yang bisa aku lakukan?",
+            "Bagaimana cara supaya aku bisa melepaskan rasa benci ini?",
+            "Aku ingin berhenti merasa benci, apa yang harus aku coba?",
+            "Rasa benci ini sangat berat, apa yang bisa aku lakukan?",
+            "Bagaimana agar rasa benci ini tidak mengendalikan pikiranku?",
+            "Apa yang bisa aku coba agar bisa melepaskan rasa benci?",
+            "Bagaimana cara agar aku bisa berhenti merasa benci pada seseorang?",
+            "Rasa benci ini sangat mengganggu, apa yang bisa aku lakukan?",
+            "Apa langkah pertama yang bisa aku coba untuk mengatasi rasa benci?",
+            "Bagaimana cara agar aku bisa berdamai dengan perasaan benci ini?",
+            "Apa yang harus aku lakukan untuk melepaskan rasa benci dalam hatiku?",
+            "Bagaimana agar rasa benci tidak menghalangi jalan hidupku?",
+            "Aku ingin melepaskan rasa benci, apa yang harus aku lakukan?"
+        ],
+        "responses": [
+            "Cobalah untuk memahami perasaan orang lain dan lihat situasi dari sudut pandang mereka.",
+            "Fokus pada hal-hal yang positif dan lepaskan perasaan negatif yang mengikatmu.",
+            "Berbicara dengan seseorang yang kamu percayai bisa membantu meredakan perasaan benci.",
+            "Maafkan dirimu dan orang lain untuk kedamaian batin.",
+            "Lakukan aktivitas yang bisa menenangkan pikiranmu dan mengurangi perasaan negatif."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "cara_mengatasi_cemburu",
+        "patterns": [
+            "Aku merasa cemburu, bagaimana cara menghadapinya?",
+            "Apa yang harus aku lakukan kalau aku cemburu?",
+            "Bagaimana cara mengatasi rasa cemburu ini?",
+            "Aku cemburu pada orang lain, apa yang bisa aku lakukan?",
+            "Apa langkah terbaik untuk mengatasi rasa cemburu?",
+            "Rasa cemburu ini mengganggu aku, apa yang harus aku lakukan?",
+            "Aku ingin berhenti merasa cemburu, apa yang bisa aku coba?",
+            "Bagaimana cara agar rasa cemburu ini hilang?",
+            "Apa yang bisa membantu aku mengatasi perasaan cemburu?",
+            "Rasa cemburu ini berat, bagaimana cara menghadapinya?",
+            "Bagaimana agar aku bisa mengatasi rasa cemburu tanpa merusak hubungan?",
+            "Aku merasa cemburu, apa yang harus aku lakukan untuk merasa lebih baik?",
+            "Apa yang bisa aku coba untuk berhenti merasa cemburu?",
+            "Aku merasa tidak nyaman dengan rasa cemburu ini, bagaimana cara mengatasinya?",
+            "Apa langkah pertama yang bisa aku ambil untuk mengatasi rasa cemburu?",
+            "Bagaimana agar rasa cemburu ini tidak merusak pikiranku?",
+            "Aku cemburu dan bingung, apa yang bisa aku lakukan?",
+            "Bagaimana cara agar aku bisa merasa lebih tenang dan tidak cemburu?"
+        ],
+        "responses": [
+            "Fokus pada pencapaian pribadimu dan syukuri apa yang kamu miliki.",
+            "Ingat bahwa setiap orang memiliki kelebihan dan kekurangannya masing-masing.",
+            "Berbicara dengan orang yang kamu percayai bisa membantu mengurangi perasaan cemburu.",
+            "Alihkan perhatianmu pada hal-hal yang positif dalam hidupmu.",
+            "Fokus pada hubunganmu sendiri dan bukan pada perbandingan dengan orang lain."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "cara_mengatasi_dendam",
+        "patterns": [
+            "Aku merasa dendam, bagaimana cara menghadapinya?",
+            "Apa yang harus aku lakukan untuk mengatasi dendam?",
+            "Aku merasa sangat dendam, apa yang sebaiknya aku lakukan?",
+            "Bagaimana cara agar aku bisa melepaskan dendam?",
+            "Dendam ini mengganggu aku, apa yang bisa aku lakukan?",
+            "Aku ingin berhenti merasa dendam, apa yang harus aku coba?",
+            "Bagaimana agar aku bisa mengatasi perasaan dendam ini?",
+            "Aku merasa dendam terhadap seseorang, bagaimana cara menghadapinya?",
+            "Apa yang harus aku lakukan supaya dendam ini hilang?",
+            "Aku tidak ingin lagi merasa dendam, apa yang bisa aku lakukan?",
+            "Bagaimana cara untuk berhenti menyimpan dendam?",
+            "Aku ingin melepaskan dendam, bagaimana caranya?",
+            "Apa yang bisa aku lakukan supaya rasa dendam ini hilang?",
+            "Dendam ini sangat berat, bagaimana cara melepaskannya?",
+            "Aku merasa dendam, tetapi aku ingin mengatasinya, apa yang harus dilakukan?",
+            "Bagaimana cara agar aku tidak terus-terusan merasa dendam?",
+            "Apa yang bisa aku lakukan untuk melupakan rasa dendam ini?"
+        ],
+        "responses": [
+            "Cobalah untuk memaafkan, meskipun itu sulit, untuk kedamaian batinmu.",
+            "Fokus pada perbaikan diri dan jangan biarkan dendam mengendalikan hidupmu.",
+            "Bicara dengan seseorang yang kamu percayai bisa membantu melepaskan perasaan dendam.",
+            "Berfokus pada hal-hal positif dalam hidup bisa membantu mengurangi perasaan dendam.",
+            "Maafkan orang yang kamu rasa bersalah untuk kedamaian batinmu."
+        ],
+        "context": [
+            ""
+        ]
     }
 ]
