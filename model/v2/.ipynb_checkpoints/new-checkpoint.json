@@ -1052,6 +1052,40 @@
         ]
     },
     {
+        "tag": "tanya_kabar_teman",
+        "patterns": [
+            "Bagaimana kabar teman-teman?",
+            "Apa kabar teman-temanmu?",
+            "Bagaimana keadaan teman-temanmu?",
+            "Apa kabar orang di sekitarmu?",
+            "Bagaimana perasaan teman-temanmu?",
+            "Apa yang terjadi dengan teman-temanmu?",
+            "Bagaimana kondisi teman-temanmu?",
+            "Bagaimana suasana hati teman-temanmu?",
+            "Apakah teman-temanmu baik-baik saja?",
+            "Ada kabar dari teman-temanmu?",
+            "Bagaimana hari teman-temanmu?",
+            "Apa yang teman-temanmu lakukan hari ini?",
+            "Apakah teman-temanmu juga merasa baik?",
+            "Apa yang sedang dilakukan teman-temanmu?",
+            "Apa kabar teman-temanmu hari ini?",
+            "Bagaimana perasaan teman-temanmu akhir-akhir ini?",
+            "Bagaimana dengan teman-temanmu sekarang?",
+            "Apa kabar teman-temanmu di sana?",
+            "Bagaimana keadaan teman-temanmu sekarang?"
+        ],
+        "responses": [
+            "Teman-teman saya baik-baik saja, terima kasih telah bertanya!",
+            "Semua baik-baik saja dengan teman-teman saya.",
+            "Teman-teman saya juga baik-baik saja, terima kasih!",
+            "Teman-teman saya baik-baik saja, terima kasih sudah bertanya.",
+            "Semua teman-teman saya baik, semuanya berjalan lancar!"
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
         "tag": "ucapan_terima_kasih",
         "patterns": [
             "Terima kasih!",
@@ -1496,101 +1530,6 @@
             "Kadang-kadang kecemasan bisa sangat mengganggu. Jangan ragu untuk mencari cara untuk menenangkan diri atau berbicara dengan seorang profesional.",
             "Mencari cara untuk mengurangi kecemasan sangat penting. Apakah ada aktivitas yang bisa membantu Anda merasa lebih tenang?",
             "Cemas bisa sangat mengganggu, tapi ada cara untuk mengelola perasaan ini. Cobalah untuk fokus pada hal-hal yang membuat Anda merasa lebih baik."
-        ],
-        "context": [
-            ""
-        ]
-    },
-    {
-        "tag": "salam_halo",
-        "patterns": [
-            "Halo!",
-            "Hai!",
-            "Hallo!",
-            "Halo, apa kabar?",
-            "Hai, bagaimana kabarmu?",
-            "Hai, apa yang bisa saya bantu?",
-            "Halo, ada yang bisa saya bantu?",
-            "Hallo, bagaimana kabarmu?",
-            "Halo, selamat datang!",
-            "Hai, senang bertemu denganmu!",
-            "Halo, bagaimana hari ini?",
-            "Halo, apa yang sedang kamu lakukan?",
-            "Hai, apa yang ingin kamu bicarakan?"
-        ],
-        "responses": [
-            "Halo! Ada yang bisa saya bantu?",
-            "Hai! Semoga hari Anda menyenankan, ada yang bisa saya bantu?",
-            "Hallo! Apa kabar? Ada yang bisa saya bantu?",
-            "Selamat pagi! Apa yang bisa saya bantu hari ini?",
-            "Selamat sore! Semoga hari Anda menyenangkan, apa yang bisa saya bantu?"
-        ],
-        "context": [
-            ""
-        ]
-    },
-    {
-        "tag": "salam_hi_tes",
-        "patterns": [
-            "Hi!",
-            "Hai!",
-            "Tes!",
-            "Tes tes!",
-            "Halo tes!",
-            "Hi, apakah kamu mendengarku?",
-            "Hai, bisa dengar suara saya?",
-            "Tes suara!",
-            "Tes, ada yang bisa mendengar?",
-            "Hi, tes suara!",
-            "Halo, tes mikrofon!",
-            "Tes, tes, tes!",
-            "Hi, apakah sistem berfungsi?",
-            "Hai, apakah chat ini aktif?",
-            "Tes, apakah semuanya berjalan baik?",
-            "Tes, tes, tes! Bisa dengar saya?",
-            "Hi, tes, tes!",
-            "Hai, tes! Apakah kamu ada di sana?",
-            "Tes, apakah chatbot ini aktif?"
-        ],
-        "responses": [
-            "Hi! Ada yang bisa saya bantu?",
-            "Hai! Tes berhasil, saya bisa mendengar Anda!",
-            "Tes berhasil! Ada yang bisa saya bantu?",
-            "Halo! Saya mendengar Anda, ada yang ingin dibicarakan?",
-            "Tes suara berhasil! Ada yang ingin Anda tanyakan?"
-        ],
-        "context": [
-            ""
-        ]
-    },
-    {
-        "tag": "salam_terima_kasih",
-        "patterns": [
-            "Terima kasih!",
-            "Makasih!",
-            "Terima kasih banyak!",
-            "Terima kasih atas bantuanmu!",
-            "Makasih banyak!",
-            "Saya berterima kasih!",
-            "Terima kasih atas perhatianmu!",
-            "Terima kasih, sangat membantu!",
-            "Terima kasih atas waktunya!",
-            "Makasih atas bantuanmu hari ini!",
-            "Saya sangat berterima kasih!",
-            "Terima kasih atas semuanya!",
-            "Terima kasih banyak atas dukunganmu!",
-            "Terima kasih telah membantu saya!",
-            "Makasih, Anda sangat membantu!",
-            "Terima kasih untuk segala bantuanmu!",
-            "Terima kasih sudah membantu saya!",
-            "Terima kasih, saya menghargainya!"
-        ],
-        "responses": [
-            "Sama-sama! Senang bisa membantu.",
-            "Terima kasih kembali! Semoga hari Anda menyenankan.",
-            "Sama-sama! Jangan ragu untuk menghubungi saya lagi.",
-            "Terima kasih! Senang bisa membantu.",
-            "Sama-sama! Semoga saya bisa membantu lagi nanti."
         ],
         "context": [
             ""
