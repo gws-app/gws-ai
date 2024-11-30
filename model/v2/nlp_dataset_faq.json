@@ -2705,5 +2705,179 @@
         "context": [
             ""
         ]
+    },
+    {
+        "tag": "cara_mengatasi_diremehkan",
+        "patterns": [
+            "Aku merasa diremehkan, apa yang harus aku lakukan?",
+            "Bagaimana cara menghadapi orang yang meremehkan aku?",
+            "Aku diremehkan oleh orang lain, bagaimana cara mengatasinya?",
+            "Aku merasa tidak dihargai dan diremehkan, apa yang bisa aku lakukan?",
+            "Apa langkah terbaik untuk menghadapi rasa diremehkan?",
+            "Bagaimana cara agar aku tidak terpengaruh oleh orang yang meremehkan aku?",
+            "Aku merasa sakit hati karena diremehkan, bagaimana cara menghadapinya?",
+            "Apa yang bisa aku lakukan agar tidak merasa kecil karena diremehkan?",
+            "Bagaimana agar aku bisa lebih kuat menghadapi orang yang meremehkan aku?",
+            "Aku ingin berhenti merasa diremehkan, apa yang bisa aku coba?",
+            "Rasa diremehkan ini mengganggu aku, bagaimana cara mengatasinya?",
+            "Bagaimana cara agar aku bisa lebih percaya diri saat merasa diremehkan?",
+            "Apa yang bisa aku lakukan untuk menghadapi orang yang selalu meremehkan aku?",
+            "Aku merasa diremehkan di tempat kerja, bagaimana cara menghadapinya?",
+            "Bagaimana agar rasa diremehkan tidak mengganggu pikiranku?",
+            "Aku diremehkan oleh teman-temanku, apa yang bisa aku lakukan untuk merasa lebih baik?",
+            "Apa langkah pertama yang bisa aku ambil untuk mengatasi rasa diremehkan ini?",
+            "Bagaimana cara agar aku bisa tetap fokus pada diriku sendiri dan tidak pada komentar negatif?",
+            "Aku merasa diremehkan, tetapi aku ingin membuktikan diriku, bagaimana caranya?"
+        ],
+        "responses": [
+            "Ingat bahwa nilai dirimu tidak tergantung pada pendapat orang lain.",
+            "Fokus pada kemampuanmu sendiri dan buktikan dengan tindakan, bukan hanya kata-kata.",
+            "Bicarakan perasaanmu dengan seseorang yang kamu percayai untuk mendapatkan perspektif baru.",
+            "Gunakan rasa diremehkan sebagai motivasi untuk terus berkembang.",
+            "Cobalah untuk tidak terlalu memikirkan komentar negatif dan fokus pada tujuanmu."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "cara_mengatasi_cemas",
+        "patterns": [
+            "Aku merasa cemas, apa yang bisa aku lakukan?",
+            "Bagaimana cara mengatasi rasa cemas ini?",
+            "Apa yang harus aku lakukan saat merasa cemas?",
+            "Cemas ini membuat aku gelisah, bagaimana cara mengatasinya?",
+            "Aku sering cemas tanpa alasan, bagaimana caranya agar aku bisa tenang?",
+            "Bagaimana cara agar rasa cemas ini tidak mengganggu aku?",
+            "Apa langkah-langkah untuk menghadapi rasa cemas?",
+            "Aku cemas menghadapi masa depan, apa yang harus aku lakukan?",
+            "Apa tips agar aku bisa mengelola rasa cemas ini?",
+            "Bagaimana cara agar aku bisa mengurangi kecemasan saat menghadapi sesuatu?",
+            "Aku merasa sangat cemas tentang pekerjaan, bagaimana cara mengatasinya?",
+            "Cemas ini sulit dihilangkan, apa yang bisa aku lakukan?",
+            "Bagaimana cara agar aku bisa tetap tenang saat rasa cemas datang?",
+            "Apa yang harus aku lakukan jika rasa cemas ini semakin parah?",
+            "Bagaimana agar aku bisa lebih percaya diri dan tidak cemas?",
+            "Cemas ini membuat aku tidak bisa tidur, apa yang harus aku coba?",
+            "Apa yang bisa aku lakukan untuk meredakan kecemasan saat ini?",
+            "Bagaimana caranya agar aku bisa fokus dan tidak terpengaruh rasa cemas?",
+            "Apa yang sebaiknya aku lakukan saat merasa cemas tanpa sebab?",
+            "Cemas ini membuat aku tidak bisa berpikir jernih, apa solusinya?"
+        ],
+        "responses": [
+            "Cobalah untuk bernapas dalam-dalam dan fokus pada pernapasanmu untuk menenangkan pikiran.",
+            "Alihkan perhatianmu dengan melakukan aktivitas yang menyenangkan atau menenangkan seperti membaca, mendengarkan musik, atau berjalan-jalan.",
+            "Berbicaralah dengan seseorang yang kamu percayai untuk meringankan beban pikiranmu.",
+            "Tetaplah fokus pada hal-hal yang bisa kamu kendalikan dan lepaskan apa yang tidak bisa kamu ubah.",
+            "Jika rasa cemas terus berlanjut, pertimbangkan untuk berbicara dengan ahli kesehatan mental."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "cara_mengatasi_overthinking",
+        "patterns": [
+            "Aku sering overthinking, bagaimana cara mengatasinya?",
+            "Bagaimana caranya agar aku tidak terus overthinking?",
+            "Apa yang harus aku lakukan jika aku overthinking?",
+            "Aku terlalu sering memikirkan hal yang belum terjadi, apa yang harus aku lakukan?",
+            "Bagaimana cara agar aku bisa berhenti overthinking?",
+            "Aku selalu berpikir berlebihan, bagaimana cara mengendalikannya?",
+            "Apa tips untuk mengatasi overthinking?",
+            "Overthinking ini membuat aku lelah, apa yang bisa aku coba?",
+            "Aku overthinking tentang masa depan, bagaimana caranya agar aku lebih tenang?",
+            "Bagaimana cara agar aku bisa fokus dan tidak overthinking?",
+            "Apa yang bisa aku lakukan saat pikiran berlebihan muncul?",
+            "Aku sering khawatir berlebihan, bagaimana cara mengatasinya?",
+            "Bagaimana cara agar aku tidak terjebak dalam overthinking?",
+            "Apa langkah yang bisa diambil untuk berhenti overthinking?",
+            "Aku sering memikirkan hal-hal yang belum pasti, apa solusinya?",
+            "Bagaimana caranya agar aku bisa mengelola pikiran yang terlalu banyak?",
+            "Aku sering merasa cemas karena overthinking, apa yang harus aku lakukan?",
+            "Apa yang bisa membantu mengurangi overthinking?",
+            "Overthinking membuat aku tidak bisa tidur, bagaimana cara mengatasinya?",
+            "Bagaimana cara agar aku bisa lebih santai dan tidak overthinking?"
+        ],
+        "responses": [
+            "Cobalah untuk fokus pada hal-hal yang ada di depan mata dan lepaskan apa yang tidak bisa kamu kendalikan.",
+            "Alihkan perhatianmu dengan aktivitas seperti meditasi, olahraga, atau hobi yang kamu nikmati.",
+            "Tuliskan pikiranmu untuk membantu mengurai apa yang benar-benar penting dan mana yang tidak.",
+            "Berikan waktu untuk dirimu sendiri tanpa tekanan dan praktikkan mindfulness untuk tetap tenang.",
+            "Jika overthinking berlanjut, pertimbangkan untuk berbicara dengan seorang profesional untuk mendapatkan dukungan."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "cara_mengatasi_rasa_bersalah",
+        "patterns": [
+            "Aku merasa bersalah, bagaimana cara mengatasinya?",
+            "Bagaimana cara agar aku bisa memaafkan diriku sendiri?",
+            "Rasa bersalah ini sulit hilang, apa yang harus aku lakukan?",
+            "Apa yang bisa aku lakukan untuk memperbaiki kesalahan?",
+            "Aku merasa telah menyakiti seseorang, apa yang harus aku lakukan?",
+            "Bagaimana caranya agar aku bisa berdamai dengan rasa bersalah?",
+            "Aku sering terjebak dalam rasa bersalah, bagaimana cara mengatasinya?",
+            "Apa yang harus aku lakukan jika aku merasa bersalah?",
+            "Aku ingin memperbaiki kesalahan, bagaimana caranya?",
+            "Apa langkah terbaik untuk mengatasi rasa bersalah?",
+            "Bagaimana cara menghadapi perasaan bersalah yang terus muncul?",
+            "Apa yang bisa aku lakukan agar rasa bersalah ini tidak membebaniku?",
+            "Aku merasa tidak bisa memaafkan diriku sendiri, apa yang harus aku lakukan?",
+            "Apa tips untuk berdamai dengan rasa bersalah?",
+            "Bagaimana cara agar aku bisa fokus meski ada rasa bersalah?",
+            "Aku merasa sangat bersalah atas masa lalu, apa yang bisa aku lakukan?",
+            "Apa yang harus aku coba untuk mengurangi rasa bersalah ini?",
+            "Aku ingin meminta maaf tapi ragu, bagaimana cara memulainya?",
+            "Bagaimana cara agar rasa bersalah ini tidak mengganggu aktivitas sehari-hariku?",
+            "Aku ingin memperbaiki hubungan yang rusak karena kesalahan, apa yang harus aku lakukan?"
+        ],
+        "responses": [
+            "Meminta maaf adalah langkah awal yang baik untuk memperbaiki kesalahan.",
+            "Cobalah untuk memaafkan dirimu sendiri, karena semua orang pernah membuat kesalahan.",
+            "Gunakan rasa bersalah ini sebagai pelajaran untuk menjadi lebih baik di masa depan.",
+            "Fokuslah pada hal-hal yang bisa kamu ubah dan lepaskan apa yang sudah berlalu.",
+            "Jika perlu, berbicaralah dengan seseorang yang kamu percayai atau profesional untuk meringankan beban pikiranmu."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "cara_positive_thinking",
+        "patterns": [
+            "Bagaimana cara agar aku bisa berpikir lebih positif?",
+            "Apa tips untuk membangun pola pikir positif?",
+            "Aku ingin berpikir positif, apa yang harus aku lakukan?",
+            "Bagaimana cara agar aku tidak terjebak dalam pikiran negatif?",
+            "Apa langkah-langkah untuk mulai berpikir positif?",
+            "Aku sering merasa pesimis, bagaimana cara mengubahnya?",
+            "Bagaimana cara agar aku bisa lebih optimis dalam hidup?",
+            "Apa tips untuk melihat sisi baik dalam setiap situasi?",
+            "Bagaimana cara agar aku bisa memulai hari dengan pikiran positif?",
+            "Apa yang bisa membantu membangun kebiasaan berpikir positif?",
+            "Aku ingin mengurangi pikiran negatif, apa yang harus aku coba?",
+            "Bagaimana cara agar aku bisa fokus pada hal-hal baik dalam hidup?",
+            "Apa yang harus aku lakukan untuk memiliki pandangan hidup yang positif?",
+            "Aku sering merasa sulit untuk berpikir positif, apa solusinya?",
+            "Apa langkah kecil yang bisa aku ambil untuk lebih optimis?",
+            "Bagaimana cara agar aku bisa lebih tenang dan berpikir positif?",
+            "Apa yang bisa aku lakukan saat merasa dikelilingi oleh pikiran negatif?",
+            "Bagaimana cara membangun kepercayaan diri melalui pikiran positif?",
+            "Apa yang sebaiknya aku fokuskan untuk menghindari pikiran buruk?",
+            "Bagaimana cara agar aku bisa tetap positif meski menghadapi masalah besar?"
+        ],
+        "responses": [
+            "Mulailah hari dengan menulis tiga hal yang kamu syukuri untuk membangun pola pikir positif.",
+            "Cobalah untuk fokus pada solusi daripada masalah yang kamu hadapi.",
+            "Ingatlah bahwa setiap kesulitan membawa pelajaran berharga untuk masa depan.",
+            "Alihkan perhatianmu pada hal-hal yang membuatmu bahagia atau merasa damai.",
+            "Berlatih meditasi atau mindfulness dapat membantu mengurangi pikiran negatif dan meningkatkan ketenangan."
+        ],
+        "context": [
+            ""
+        ]
     }
 ]
