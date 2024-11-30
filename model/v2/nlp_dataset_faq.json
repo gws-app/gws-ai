@@ -1110,10 +1110,10 @@
         ],
         "responses": [
             "Saya adalah chatbot yang siap membantu Anda.",
-            "Nama saya ChatGPT, senang bisa berbicara dengan Anda.",
+            "Anda bisa panggil saya dengan nama apapun, senang bisa berbicara dengan Anda.",
             "Saya chatbot yang siap menjawab pertanyaan Anda!",
-            "Saya adalah asisten virtual, nama saya ChatGPT.",
-            "Halo! Nama saya ChatGPT, senang berkenalan dengan Anda."
+            "Saya adalah asisten virtual yang siap membantu Anda",
+            "Halo! Anda bisa panggil saya dengan nama apapun, senang berkenalan dengan Anda."
         ],
         "context": [
             ""
