@@ -2879,5 +2879,740 @@
         "context": [
             ""
         ]
+    },
+    {
+        "tag": "kata_mati",
+        "patterns": [
+            "Aku ingin mati",
+            "Aku lebih baik mati saja",
+            "Mungkin aku harus mati",
+            "Aku tidak punya alasan untuk hidup",
+            "Kenapa aku tidak mati saja?",
+            "Aku merasa lebih baik mati",
+            "Lebih baik mati daripada begini",
+            "Aku ingin mengakhiri hidupku",
+            "Aku berpikir tentang kematian",
+            "Aku ingin semuanya berakhir",
+            "Aku tidak peduli kalau aku mati",
+            "Hidup ini tidak ada gunanya",
+            "Aku capek hidup, ingin mati saja",
+            "Aku terus memikirkan kematian",
+            "Aku berharap aku bisa mati",
+            "Aku tidak ingin melanjutkan hidup ini",
+            "Bagaimana cara mati dengan cepat?",
+            "Aku ingin tidur dan tidak pernah bangun lagi",
+            "Tidak ada yang peduli kalau aku mati",
+            "Kematian sepertinya solusi bagiku"
+        ],
+        "responses": [
+            "Aku mendengar bahwa kamu merasa sangat sulit saat ini. Kamu tidak sendirian, dan ada orang-orang yang peduli dan ingin membantumu. Tolong, pertimbangkan untuk berbicara dengan seorang teman, keluarga, atau profesional.",
+            "Maaf mendengar kamu merasa seperti ini. Penting untuk tahu bahwa ada bantuan yang tersedia. Hubungi hotline atau profesional kesehatan mental di sekitarmu. Kamu layak mendapatkan dukungan.",
+            "Aku tahu ini adalah waktu yang sangat sulit. Tolong ingat bahwa kamu tidak perlu menghadapi semuanya sendirian. Ada layanan dan orang-orang yang siap membantu.",
+            "Kamu sangat berharga dan penting. Jika kamu merasa seperti ini, segera cari bantuan. Ada orang-orang yang peduli padamu dan ingin kamu tetap aman.",
+            "Tolong jangan membuat keputusan tergesa-gesa. Kamu sangat berarti, dan aku ingin memastikan kamu mendapat dukungan yang tepat. Hubungi seseorang yang kamu percayai atau organisasi dukungan."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "kata_mati_tidak_serius",
+        "patterns": [
+            "Aku capek banget sampai pengen mati rasanya",
+            "Mati aja deh daripada kayak gini",
+            "Rasanya pengen mati karena malu banget",
+            "Hadeh pengen mati karena tugas ini susah banget",
+            "Mati aja rasanya gara-gara ini",
+            "Aku benar-benar frustasi, pengen mati aja",
+            "Aduh mati aku kalau gini terus",
+            "Pengen mati gara-gara ini semua terlalu berat",
+            "Beneran mati aku kalau kayak gini",
+            "Rasanya kayak mau mati saking stresnya"
+        ],
+        "responses": [
+            "Kedengarannya kamu sedang merasa sangat frustrasi atau kelelahan. Aku di sini untuk mendengarkan. Apa yang sedang kamu alami?",
+            "Aku tahu ini mungkin hanya ungkapan, tetapi jika kamu merasa sangat kesulitan, aku di sini untuk mendukungmu. Ceritakan padaku apa yang bisa aku bantu.",
+            "Ungkapan ini sering muncul saat kita merasa tertekan, tapi ingat bahwa ada cara untuk menghadapi stres. Bicarakan padaku lebih banyak jika kamu mau.",
+            "Terkadang kita menggunakan kata-kata ini untuk melampiaskan perasaan, tapi aku ingin memastikan kamu baik-baik saja. Apakah ada sesuatu yang ingin kamu bagikan?",
+            "Aku tahu ini mungkin hanya ungkapan karena stres atau frustrasi, tapi jika kamu butuh dukungan, aku di sini untukmu."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "kehilangan_semangat",
+        "patterns": [
+            "Aku kehilangan semangat hidup",
+            "Hidupku terasa hampa, aku kehilangan semangat",
+            "Aku tidak tahu harus melakukan apa lagi, semangatku hilang",
+            "Aku merasa hidup ini tidak ada artinya lagi",
+            "Tidak ada yang membuatku bersemangat lagi",
+            "Aku tidak punya alasan untuk merasa semangat lagi",
+            "Semangatku sudah habis, aku lelah",
+            "Aku merasa kosong, tidak ada semangat dalam diriku",
+            "Aku tidak bisa bangkit lagi, semangatku hilang",
+            "Aku tidak punya energi untuk melanjutkan hidup",
+            "Rasanya semua semangatku telah hilang",
+            "Aku tidak lagi termotivasi untuk apapun",
+            "Hidupku tanpa tujuan, aku kehilangan semangat",
+            "Aku tidak bisa menemukan alasan untuk terus hidup",
+            "Aku merasa semua harapanku telah hilang",
+            "Semangatku lenyap, aku tidak tahu harus apa",
+            "Aku hanya ingin berhenti, tidak ada semangat lagi",
+            "Aku terlalu lelah untuk berusaha lagi",
+            "Aku kehilangan arah dan semangat",
+            "Aku merasa tidak ada yang tersisa untukku"
+        ],
+        "responses": [
+            "Aku mendengar bahwa kamu sedang merasa kehilangan semangat. Tidak apa-apa untuk merasa seperti ini, tapi aku ingin kamu tahu bahwa kamu tidak sendiri. Ambil waktu untuk dirimu sendiri, dan berbicaralah dengan orang-orang yang peduli padamu.",
+            "Hidup bisa terasa berat, tetapi aku yakin ada jalan untukmu. Cobalah fokus pada hal-hal kecil yang membawa kebahagiaan. Jika kamu merasa terlalu sulit, bicarakan dengan seseorang yang dapat mendukungmu.",
+            "Kehilangan semangat itu wajar, tapi aku ingin kamu tahu bahwa setiap hari adalah kesempatan baru untuk menemukan kebahagiaan. Kamu kuat, dan aku di sini untuk mendukungmu.",
+            "Aku tahu kamu merasa tidak bersemangat sekarang, tapi percayalah, ini hanya sementara. Berbicaralah dengan seseorang yang kamu percayai, atau luangkan waktu untuk hal-hal yang membuatmu bahagia.",
+            "Ketika hidup terasa berat, ingatlah bahwa kamu tidak sendirian. Aku ada di sini, dan ada orang-orang yang peduli padamu. Jangan ragu untuk mencari dukungan."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "patah_hati",
+        "patterns": [
+            "Aku patah hati",
+            "Hatiku hancur",
+            "Aku merasa kehilangan seseorang yang aku sayangi",
+            "Aku tidak bisa melupakan rasa sakit ini",
+            "Aku baru saja putus dengan pasanganku",
+            "Aku merasa hancur setelah kehilangan dia",
+            "Aku tidak tahu bagaimana menghadapi rasa patah hati ini",
+            "Rasanya aku tidak bisa hidup tanpa dia",
+            "Aku tidak tahu bagaimana melanjutkan hidupku tanpa dia",
+            "Patah hati ini benar-benar menyakitkan",
+            "Aku tidak bisa berhenti memikirkan dia",
+            "Aku kehilangan orang yang sangat aku cintai",
+            "Rasanya aku tidak akan pernah bahagia lagi",
+            "Aku merasa sangat kosong setelah kehilangan dia",
+            "Hati ini terlalu sakit untuk ditanggung",
+            "Aku merasa semuanya runtuh setelah kehilangannya",
+            "Aku tidak tahu bagaimana caranya bangkit dari patah hati ini",
+            "Rasanya seperti dunia berhenti setelah dia pergi",
+            "Aku merasa sangat kehilangan dan sedih",
+            "Aku tidak tahu bagaimana menghadapi hari tanpa dia"
+        ],
+        "responses": [
+            "Patah hati adalah salah satu perasaan yang paling sulit, dan aku sangat menyesal kamu harus menghadapinya. Ingatlah bahwa kamu layak mendapatkan kebahagiaan, dan waktu akan membantu menyembuhkan rasa sakit ini.",
+            "Aku tahu ini sangat sulit, tapi kamu tidak sendiri. Ambil waktu untuk merawat dirimu sendiri dan fokus pada hal-hal yang membawa kebahagiaan.",
+            "Ketika kamu merasa patah hati, penting untuk berbicara dengan orang-orang yang peduli padamu. Kamu tidak perlu menghadapi ini sendirian.",
+            "Rasa sakit ini memang nyata, tapi itu tidak akan berlangsung selamanya. Beri dirimu waktu untuk merasakan dan menyembuhkan.",
+            "Hati yang patah bisa terasa sangat berat, tapi aku ingin kamu tahu bahwa kamu tidak sendiri. Fokuslah pada langkah kecil untuk kembali bahagia."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "putus_pacar",
+        "patterns": [
+            "Aku baru saja putus dengan pacarku",
+            "Pacarku memutuskan hubungan kami",
+            "Aku tidak tahu harus bagaimana setelah putus",
+            "Rasanya hancur setelah kami putus",
+            "Aku kehilangan orang yang aku cintai setelah putus",
+            "Kenapa hubungan ini harus berakhir?",
+            "Aku merasa tidak akan bisa bangkit setelah putus",
+            "Putus cinta ini benar-benar menyakitkan",
+            "Aku tidak bisa menerima kenyataan bahwa kami putus",
+            "Aku tidak tahu bagaimana melanjutkan hidup setelah putus",
+            "Dia meninggalkan aku dan aku merasa kosong",
+            "Putus ini benar-benar menghancurkan hatiku",
+            "Aku kehilangan pacarku dan rasanya sulit untuk berdamai",
+            "Aku merasa seperti kehilangan segalanya setelah putus",
+            "Rasanya tidak ada harapan lagi setelah dia pergi",
+            "Aku tidak bisa berhenti menangisi hubungan yang berakhir",
+            "Aku sangat mencintainya, tapi kami harus putus",
+            "Kami memutuskan untuk berpisah, tapi rasanya sangat sulit",
+            "Aku tidak bisa melupakan kenangan kami setelah putus",
+            "Aku tidak tahu harus mulai dari mana setelah putus"
+        ],
+        "responses": [
+            "Putus cinta adalah pengalaman yang sangat sulit, tetapi ingatlah bahwa kamu tidak sendirian. Beri dirimu waktu untuk merasakan dan menyembuhkan.",
+            "Rasa sakit ini nyata, tapi aku ingin kamu tahu bahwa waktu akan membantu mengurangi rasa sakitnya. Fokuslah pada dirimu sendiri untuk sementara waktu.",
+            "Aku tahu ini berat, tetapi kamu layak mendapatkan kebahagiaan dan cinta yang tepat. Jangan ragu untuk berbicara dengan orang-orang yang peduli padamu.",
+            "Setelah putus, penting untuk merawat dirimu sendiri dan menemukan hal-hal yang membawa kebahagiaan. Kamu kuat, dan kamu akan melalui ini.",
+            "Kenangan itu sulit untuk dilupakan, tapi aku yakin kamu bisa bangkit perlahan. Cobalah cari dukungan dari teman atau keluarga."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "bertengkar",
+        "patterns": [
+            "Aku bertengkar dengan teman dekatku",
+            "Kami bertengkar dan aku merasa sedih",
+            "Aku tidak tahu bagaimana menyelesaikan pertengkaran ini",
+            "Kami berdebat hebat dan aku merasa buruk",
+            "Aku bertengkar dengan keluargaku",
+            "Aku merasa bersalah setelah bertengkar dengannya",
+            "Pertengkaran ini benar-benar menghancurkan hubungan kami",
+            "Aku ingin memperbaiki hubungan setelah bertengkar",
+            "Aku tidak tahu bagaimana cara memulai pembicaraan setelah bertengkar",
+            "Aku merasa sedih setelah berdebat dengannya",
+            "Kami bertengkar dan aku merasa semuanya kacau",
+            "Aku tidak bisa berhenti memikirkan pertengkaran tadi",
+            "Aku merasa kesal dan sedih setelah pertengkaran itu",
+            "Aku bertengkar dengan pasanganku",
+            "Aku ingin meminta maaf setelah bertengkar",
+            "Pertengkaran ini membuatku merasa buruk",
+            "Aku kehilangan kendali saat bertengkar dan merasa menyesal",
+            "Aku ingin menyelesaikan masalah setelah bertengkar",
+            "Aku merasa hubungan kami terganggu setelah bertengkar",
+            "Pertengkaran itu membuatku merasa bersalah"
+        ],
+        "responses": [
+            "Bertengkar dengan orang yang kita sayangi itu sulit, tapi berbicara secara jujur dan saling mendengarkan bisa membantu menyelesaikan masalah.",
+            "Pertengkaran itu wajar, tetapi penting untuk tetap saling menghormati. Jika memungkinkan, cobalah untuk berdamai dengan membicarakan masalahnya.",
+            "Aku tahu ini sulit, tetapi meminta maaf atau mendekati mereka dengan niat baik bisa membuat hubungan kembali baik.",
+            "Setelah bertengkar, beri waktu untuk dirimu dan mereka untuk tenang. Kemudian, cobalah berbicara dari hati ke hati.",
+            "Pertengkaran ini bisa menjadi pelajaran untuk saling memahami lebih baik. Jangan takut untuk membuka percakapan jika kamu siap."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "baru_punya_pacar",
+        "patterns": [
+            "Aku baru saja punya pacar",
+            "Aku baru jadian!",
+            "Baru saja aku menjalin hubungan dengan seseorang",
+            "Akhirnya aku punya pacar",
+            "Aku sekarang punya pasangan!",
+            "Rasanya senang sekali baru jadian",
+            "Aku baru mulai hubungan baru",
+            "Aku sekarang pacaran dengan seseorang",
+            "Aku merasa bahagia karena baru jadian",
+            "Akhirnya hubungan ini resmi",
+            "Aku punya pacar baru",
+            "Hubungan kami baru saja dimulai",
+            "Aku akhirnya menjalin hubungan romantis",
+            "Aku senang sekali karena dia jadi pacarku",
+            "Aku sedang menjalani hubungan baru",
+            "Rasanya bahagia sekali setelah jadian",
+            "Aku dan dia resmi pacaran sekarang",
+            "Hubungan kami baru dimulai dan rasanya menyenangkan",
+            "Aku akhirnya menemukan pasangan",
+            "Kami baru memulai hubungan dan aku merasa bahagia"
+        ],
+        "responses": [
+            "Wah, selamat! Semoga hubunganmu berjalan dengan baik dan membawa banyak kebahagiaan.",
+            "Itu kabar yang menyenangkan! Nikmati momen-momen indah bersama pasanganmu.",
+            "Senang mendengarnya! Semoga hubungan kalian penuh dengan kebahagiaan dan cinta.",
+            "Selamat atas hubungan barumu! Ingat untuk saling menghargai dan mendukung satu sama lain.",
+            "Luar biasa! Semoga perjalanan hubungan ini membawa banyak cerita indah untukmu."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "jalan_dengan_pacar",
+        "patterns": [
+            "Aku sedang jalan sama pacarku",
+            "Hari ini aku pergi keluar dengan pasangan",
+            "Aku habis kencan sama pacarku",
+            "Kami baru saja pergi makan bersama",
+            "Aku dan pacarku jalan-jalan hari ini",
+            "Aku habiskan waktu dengan pasangan hari ini",
+            "Kami baru saja menonton film bersama",
+            "Aku dan pacarku pergi ke taman",
+            "Hari ini kami menghabiskan waktu bersama",
+            "Aku merasa senang setelah jalan dengan pacarku",
+            "Aku dan dia kencan hari ini",
+            "Kami pergi ke restoran favorit bersama",
+            "Aku senang bisa jalan dengan pacarku",
+            "Kami menghabiskan waktu berkualitas bersama",
+            "Kami baru saja pulang dari jalan-jalan",
+            "Aku sangat bahagia setelah kencan tadi",
+            "Hari ini kami mencoba tempat baru bersama",
+            "Aku senang bisa menghabiskan waktu dengan pacarku",
+            "Kami punya momen spesial hari ini",
+            "Aku menikmati waktu bersama pasangan hari ini"
+        ],
+        "responses": [
+            "Kedengarannya menyenangkan! Semoga kamu dan pasangan terus menikmati waktu bersama.",
+            "Wah, itu pasti membuat harimu lebih berwarna! Nikmati setiap momennya.",
+            "Senangnya mendengar itu! Menghabiskan waktu dengan orang tersayang adalah hal yang berharga.",
+            "Kencan yang seru pasti membuat hubungan kalian semakin dekat. Semoga harimu menyenangkan!",
+            "Bagus sekali! Semoga setiap momen bersama pasangan membawa kebahagiaan."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "mendapat_nilai_jelek",
+        "patterns": [
+            "Aku dapat nilai jelek",
+            "Nilai ujianku buruk",
+            "Hasil tugas aku jelek",
+            "Aku tidak puas dengan nilai ini",
+            "Aku merasa kecewa dengan nilai ini",
+            "Nilai raportku jelek",
+            "Aku gagal mendapatkan nilai bagus",
+            "Nilai ujian kemarin mengecewakan",
+            "Aku merasa buruk karena nilainya jelek",
+            "Kenapa aku dapat nilai seperti ini?",
+            "Aku sedih karena nilainya rendah",
+            "Nilai aku tidak sebagus yang diharapkan",
+            "Hasil tesku buruk sekali",
+            "Aku kecewa dengan performaku di ujian",
+            "Kenapa nilai aku selalu jelek?",
+            "Aku tidak tahu harus bagaimana dengan nilai ini",
+            "Nilainya benar-benar mengecewakan",
+            "Aku gagal mempertahankan nilai bagus",
+            "Aku ingin nilai yang lebih baik, tapi sulit",
+            "Aku merasa putus asa dengan hasil ini"
+        ],
+        "responses": [
+            "Jangan terlalu keras pada dirimu sendiri. Nilai buruk bisa menjadi pelajaran untuk perbaikan ke depan.",
+            "Aku tahu ini mengecewakan, tapi jangan menyerah. Cobalah untuk fokus pada hal-hal yang bisa kamu tingkatkan.",
+            "Semua orang pernah mendapat nilai yang tidak memuaskan. Yang penting adalah belajar dari kesalahan dan mencoba lagi.",
+            "Aku mengerti kamu merasa kecewa. Ingat, nilai tidak menentukan siapa dirimu sepenuhnya.",
+            "Ini adalah bagian dari proses belajar. Jangan menyerah, dan percayalah bahwa kamu bisa melakukan lebih baik ke depannya."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "masalah_tempat_kerja",
+        "patterns": [
+            "Aku punya masalah di tempat kerja",
+            "Aku tidak cocok dengan rekan kerjaku",
+            "Bosku tidak menghargai usahaku",
+            "Lingkungan kerja sangat stresful",
+            "Aku merasa tidak dihargai di kantor",
+            "Pekerjaan ini terlalu berat untukku",
+            "Aku sering bertengkar dengan rekan kerja",
+            "Tempat kerja ini terlalu banyak drama",
+            "Aku kesulitan memenuhi ekspektasi di kantor",
+            "Bosku selalu marah tanpa alasan jelas",
+            "Aku merasa tidak berkembang di tempat kerja ini",
+            "Kantorku penuh dengan politik internal",
+            "Aku merasa burnout di tempat kerja",
+            "Pekerjaan ini membuatku sangat stres",
+            "Aku merasa tertekan di kantor",
+            "Aku takut kehilangan pekerjaanku",
+            "Tugas di kantor ini terlalu banyak",
+            "Aku merasa tidak bahagia di tempat kerja",
+            "Aku tidak puas dengan posisi pekerjaanku",
+            "Hubunganku dengan kolega semakin buruk"
+        ],
+        "responses": [
+            "Aku mengerti situasimu. Cobalah berbicara dengan seseorang yang kamu percaya untuk mencari solusi.",
+            "Lingkungan kerja yang sulit memang bisa membuat stres. Apakah ada cara untuk membicarakan ini dengan atasan atau HR?",
+            "Ingatlah bahwa kamu berhak atas lingkungan kerja yang mendukung. Jangan ragu untuk mencari bantuan jika diperlukan.",
+            "Jika pekerjaanmu terasa terlalu berat, coba prioritaskan tugas yang paling penting dan beri dirimu waktu untuk beristirahat.",
+            "Aku tahu ini sulit, tetapi cobalah untuk tetap fokus pada apa yang bisa kamu kendalikan dan jangan ragu untuk berbicara dengan seseorang yang bisa membantumu."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "masalah_dengan_orang_tua",
+        "patterns": [
+            "Aku sering bertengkar dengan orang tua",
+            "Orang tuaku tidak mendengarkan aku",
+            "Aku merasa tidak dipahami oleh orang tua",
+            "Orang tua selalu membandingkan aku dengan orang lain",
+            "Aku merasa tertekan karena ekspektasi orang tua",
+            "Aku ingin orang tuaku mengerti perasaanku",
+            "Orang tua terlalu banyak menuntut",
+            "Aku merasa orang tua tidak mendukung keputusanku",
+            "Orang tuaku tidak setuju dengan pilihanku",
+            "Hubunganku dengan orang tua semakin buruk",
+            "Aku merasa orang tua tidak percaya padaku",
+            "Orang tua selalu memarahi aku",
+            "Aku tidak tahu bagaimana berbicara dengan orang tua",
+            "Aku takut mengecewakan orang tua",
+            "Orang tua tidak pernah puas dengan apa yang aku lakukan",
+            "Aku merasa tidak dihargai oleh orang tua",
+            "Aku bingung harus bagaimana menghadapi orang tua",
+            "Aku tidak nyaman di rumah karena konflik dengan orang tua",
+            "Orang tuaku terlalu protektif",
+            "Aku merasa orang tua tidak peduli dengan aku"
+        ],
+        "responses": [
+            "Aku mengerti perasaanmu. Cobalah untuk berbicara dengan orang tua secara tenang dan sampaikan apa yang kamu rasakan.",
+            "Hubungan dengan orang tua memang kadang sulit. Apakah kamu sudah mencoba mencari waktu yang tepat untuk berdiskusi dengan mereka?",
+            "Aku tahu ini tidak mudah. Ingatlah bahwa orang tua sering ingin yang terbaik untuk anak mereka, meskipun terkadang cara mereka tidak sesuai dengan harapan kita.",
+            "Jika kamu merasa sulit berbicara langsung, cobalah menuliskan perasaanmu dalam surat untuk mereka.",
+            "Penting untuk menjaga komunikasi yang baik dengan orang tua. Cobalah untuk mendengarkan perspektif mereka sambil menjelaskan pandanganmu."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "interaksi_positif_dengan_orang_tua",
+        "patterns": [
+            "Aku ingin membuat orang tua bahagia",
+            "Bagaimana cara menyenangkan orang tua?",
+            "Aku ingin lebih dekat dengan orang tua",
+            "Aku senang bisa membantu orang tua hari ini",
+            "Aku ingin menunjukkan rasa sayang pada orang tua",
+            "Aku ingin memberikan kejutan untuk orang tua",
+            "Apa yang bisa aku lakukan untuk orang tua?",
+            "Aku ingin membuat orang tua bangga",
+            "Bagaimana cara meningkatkan hubungan dengan orang tua?",
+            "Aku merasa bersyukur memiliki orang tua seperti mereka",
+            "Aku ingin lebih sering menghabiskan waktu bersama orang tua",
+            "Orang tua adalah sumber inspirasiku",
+            "Aku ingin belajar lebih banyak dari pengalaman orang tua",
+            "Orang tua selalu mendukungku, aku ingin membalasnya",
+            "Aku merasa beruntung memiliki orang tua yang peduli",
+            "Aku ingin memberi hadiah spesial untuk orang tua",
+            "Apa yang bisa aku lakukan untuk berterima kasih pada orang tua?",
+            "Aku ingin membuat kenangan indah bersama orang tua",
+            "Aku ingin menjaga hubungan baik dengan orang tua",
+            "Aku ingin membuat orang tua merasa bangga padaku"
+        ],
+        "responses": [
+            "Itu adalah niat yang luar biasa! Mungkin kamu bisa memulai dengan hal kecil seperti berbicara lebih sering atau membantu pekerjaan mereka.",
+            "Memberikan perhatian dan menunjukkan rasa sayang adalah cara terbaik untuk membuat orang tua bahagia.",
+            "Cobalah untuk menghabiskan waktu bersama mereka, seperti makan malam bersama atau pergi jalan-jalan.",
+            "Hal sederhana seperti mengucapkan terima kasih dan mendengarkan cerita mereka bisa sangat berarti.",
+            "Orang tua pasti bangga melihat usahamu. Tetaplah menjadi anak yang penuh perhatian dan peduli."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "masalah_pertemanan",
+        "patterns": [
+            "Aku bertengkar dengan temanku",
+            "Temanku tidak peduli padaku lagi",
+            "Aku merasa dikhianati oleh teman",
+            "Hubunganku dengan teman semakin renggang",
+            "Temanku tidak mendukungku",
+            "Aku merasa tidak dihargai oleh teman-temanku",
+            "Temanku sering mengecewakan aku",
+            "Aku tidak tahu bagaimana cara memperbaiki hubungan dengan teman",
+            "Temanku berbicara buruk di belakangku",
+            "Aku merasa tidak punya teman sejati",
+            "Aku kesal karena temanku selalu membandingkanku dengan orang lain",
+            "Aku tidak tahu apakah temanku benar-benar peduli padaku",
+            "Aku merasa sendirian meskipun punya teman",
+            "Temanku tidak pernah ada untukku saat aku butuh",
+            "Aku merasa temanku hanya memanfaatkan aku",
+            "Aku merasa tidak cocok lagi dengan temanku",
+            "Temanku selalu mengabaikanku",
+            "Aku merasa tidak diterima oleh teman-temanku",
+            "Hubungan pertemananku menjadi rumit",
+            "Aku bingung harus bagaimana dengan pertemanan ini"
+        ],
+        "responses": [
+            "Aku mengerti perasaanmu. Hubungan pertemanan kadang memang rumit. Cobalah berbicara dari hati ke hati dengan temanmu.",
+            "Terkadang, jarak dalam pertemanan adalah hal yang normal. Berikan waktu dan coba pahami sudut pandang mereka.",
+            "Jika kamu merasa dikhianati, cobalah untuk memberi dirimu waktu sebelum memutuskan langkah berikutnya.",
+            "Komunikasi adalah kunci. Cobalah untuk berbicara dengan tenang dan jujur kepada temanmu tentang perasaanmu.",
+            "Penting untuk menjaga pertemanan yang sehat. Jika hubungan ini terus menyakitimu, mungkin kamu perlu mempertimbangkan apa yang terbaik untukmu."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "interaksi_positif_pertemanan",
+        "patterns": [
+            "Aku senang bisa menghabiskan waktu dengan temanku",
+            "Temanku selalu mendukung aku",
+            "Aku merasa beruntung punya teman yang peduli",
+            "Aku ingin melakukan sesuatu yang spesial untuk temanku",
+            "Aku ingin menjaga hubungan baik dengan temanku",
+            "Temanku adalah orang yang luar biasa",
+            "Aku ingin menunjukkan rasa terima kasih pada temanku",
+            "Aku bersyukur punya teman seperti dia",
+            "Aku merasa nyaman berbicara dengan temanku",
+            "Aku ingin memberi kejutan untuk temanku",
+            "Temanku selalu ada untukku saat aku butuh",
+            "Aku ingin lebih sering menghabiskan waktu dengan temanku",
+            "Aku senang punya teman yang selalu mendukungku",
+            "Aku ingin membuat kenangan indah bersama temanku",
+            "Temanku adalah inspirasi untukku",
+            "Aku bangga punya teman seperti dia",
+            "Temanku adalah pendengar yang baik",
+            "Aku ingin membuat temanku merasa dihargai",
+            "Aku merasa hubungan pertemananku semakin kuat",
+            "Aku ingin lebih dekat dengan temanku"
+        ],
+        "responses": [
+            "Itu adalah hal yang indah! Menunjukkan rasa terima kasih kepada temanmu adalah cara yang baik untuk menjaga hubungan.",
+            "Cobalah untuk melakukan sesuatu yang spesial, seperti memberikan hadiah kecil atau menghabiskan waktu bersama.",
+            "Hubungan pertemanan yang positif adalah sesuatu yang patut disyukuri. Pertahankan hubungan itu dengan terus saling mendukung.",
+            "Menghargai teman adalah salah satu cara terbaik untuk memperkuat hubungan kalian. Teruslah menjadi teman yang baik!",
+            "Teman yang baik adalah harta yang berharga. Pastikan kamu juga mendukung mereka seperti mereka mendukungmu."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "stres_tugas",
+        "patterns": [
+            "Aku stres karena tugas menumpuk",
+            "Aku tidak tahu bagaimana cara menyelesaikan tugas ini",
+            "Tugas ini terlalu sulit untukku",
+            "Aku merasa kewalahan dengan semua tugas yang ada",
+            "Aku tidak punya waktu cukup untuk mengerjakan tugas",
+            "Tugas yang harus aku kerjakan terlalu banyak",
+            "Aku merasa cemas karena belum selesai mengerjakan tugas",
+            "Aku bingung harus mulai dari mana untuk mengerjakan tugas ini",
+            "Aku tidak paham bagaimana cara menyelesaikan tugas ini",
+            "Aku kesulitan memahami instruksi tugas",
+            "Tugas ini membuatku merasa frustasi",
+            "Aku terlalu lelah untuk mengerjakan tugas",
+            "Aku merasa tidak bisa menyelesaikan tugas tepat waktu",
+            "Tugas ini membuatku kehilangan semangat",
+            "Aku takut tidak bisa menyelesaikan tugas ini dengan baik",
+            "Aku merasa tertekan karena tugas",
+            "Aku kesulitan mengatur waktu untuk tugas ini",
+            "Tugas ini terlalu rumit untukku",
+            "Aku merasa tidak mampu menyelesaikan tugas ini",
+            "Aku stres karena deadline tugas semakin dekat"
+        ],
+        "responses": [
+            "Aku mengerti bahwa tugas bisa terasa sangat membebani. Cobalah untuk membuat daftar prioritas dan kerjakan satu per satu.",
+            "Ambil napas dalam-dalam dan istirahat sejenak. Kadang, memberikan waktu untuk dirimu sendiri bisa membantu.",
+            "Jika tugas terasa sulit, jangan ragu untuk meminta bantuan dari teman, dosen, atau orang lain yang bisa membantumu.",
+            "Pisahkan tugas menjadi bagian-bagian kecil yang lebih mudah dikelola, dan fokus pada langkah kecil terlebih dahulu.",
+            "Ingat, kamu tidak harus sempurna. Lakukan yang terbaik yang kamu bisa, dan itu sudah cukup.",
+            "Jangan ragu untuk mengambil waktu istirahat jika kamu merasa terlalu stres. Kesehatan mentalmu lebih penting.",
+            "Jika tugas ini terlalu sulit, mungkin kamu bisa mencari referensi tambahan atau berdiskusi dengan teman untuk mendapat perspektif baru.",
+            "Coba atur waktu dengan membuat jadwal atau to-do list agar lebih terorganisir.",
+            "Beri dirimu penghargaan kecil setiap kali menyelesaikan bagian dari tugas. Ini bisa membantumu tetap termotivasi.",
+            "Ingat, setiap tugas adalah kesempatan untuk belajar. Fokus pada proses dan jangan terlalu keras pada dirimu sendiri."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "membanggakan_orangtua",
+        "patterns": [
+            "Aku ingin membuat orang tuaku bangga",
+            "Aku berharap bisa membanggakan orang tuaku",
+            "Aku ingin sukses agar orang tuaku senang",
+            "Aku ingin memberikan kebanggaan kepada orang tuaku",
+            "Aku berharap bisa mencapai hal besar untuk orang tuaku",
+            "Aku ingin menunjukkan pada orang tuaku bahwa aku bisa",
+            "Aku ingin orang tuaku merasa bangga dengan pencapaianku",
+            "Aku berusaha keras untuk membanggakan orang tuaku",
+            "Aku ingin membuat orang tuaku tersenyum bangga",
+            "Aku berharap bisa membuat orang tuaku bahagia dengan prestasiku",
+            "Aku ingin melihat orang tuaku bangga dengan hasil kerjaku",
+            "Aku ingin menjadi anak yang bisa membanggakan orang tuaku",
+            "Aku ingin mewujudkan impian orang tuaku",
+            "Aku ingin membuat orang tuaku merasa bahwa usaha mereka selama ini tidak sia-sia",
+            "Aku berusaha sebaik mungkin agar orang tuaku merasa bangga padaku",
+            "Aku ingin membuktikan bahwa aku bisa sukses untuk orang tuaku",
+            "Aku berharap bisa membahagiakan orang tuaku dengan pencapaianku",
+            "Aku ingin meraih prestasi agar orang tuaku bangga padaku",
+            "Aku ingin membuat orang tuaku merasa puas dengan hasil yang aku capai",
+            "Aku ingin memberikan yang terbaik untuk orang tuaku"
+        ],
+        "responses": [
+            "Itu sangat mulia. Orang tua pasti akan sangat bangga melihat usaha dan kerja kerasmu. Teruslah berjuang!",
+            "Tujuan seperti itu luar biasa. Ketika kita berusaha keras untuk membuat orang tua bangga, kita juga tumbuh sebagai pribadi yang lebih baik.",
+            "Aku yakin orang tuamu akan sangat bangga dengan semua usaha yang telah kamu lakukan. Jangan lupa untuk tetap menjaga keseimbangan dan kesehatan mental.",
+            "Setiap langkah kecil yang kamu ambil menuju tujuan tersebut akan membawa kebanggaan yang besar. Terus berusaha, orang tuamu pasti tahu betapa keras kamu berjuang.",
+            "Kebanggaan orang tua adalah sesuatu yang sangat berharga. Usahamu untuk mencapai tujuan pasti akan mereka hargai. Semangat terus!",
+            "Kamu sudah berada di jalan yang benar. Ingat bahwa usaha dan dedikasimu untuk membanggakan orang tuamu akan membuahkan hasil.",
+            "Jangan lupa untuk merayakan setiap pencapaian, sekecil apapun, untuk diri sendiri. Orang tuamu pasti merasa bangga melihatmu berusaha mencapai yang terbaik.",
+            "Terus fokus pada tujuanmu. Orang tuamu pasti akan merasa bangga dengan perjalanan yang telah kamu tempuh.",
+            "Orang tua pasti merasa bangga denganmu, apalagi jika mereka melihat seberapa keras kamu berusaha untuk mewujudkan impianmu.",
+            "Semangat terus! Ketika kita berusaha untuk membanggakan orang tua, kita juga memberi inspirasi bagi diri kita sendiri untuk lebih baik lagi."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "tidak_ingin_dilahirkan",
+        "patterns": [
+            "Aku berharap aku tidak pernah dilahirkan",
+            "Kenapa aku harus dilahirkan kalau hidupku seperti ini?",
+            "Aku merasa sebaiknya aku tidak ada di dunia ini",
+            "Aku tidak tahu kenapa aku dilahirkan",
+            "Aku rasa lebih baik kalau aku tidak pernah ada",
+            "Hidup ini terasa sangat sulit, mungkin aku tidak seharusnya dilahirkan",
+            "Aku merasa aku tidak diinginkan di dunia ini",
+            "Aku berharap aku tidak pernah dilahirkan",
+            "Aku merasa hidup ini terlalu berat untukku",
+            "Aku merasa tidak ada gunanya aku ada di dunia ini",
+            "Aku tidak merasa punya tujuan hidup",
+            "Aku tidak tahu kenapa aku dilahirkan ke dunia ini",
+            "Jika aku tidak pernah dilahirkan, mungkin semuanya lebih baik",
+            "Aku ingin menghilang saja",
+            "Kadang aku berpikir hidup ini lebih baik tanpa aku",
+            "Aku tidak merasa dihargai dan berharap aku tidak ada",
+            "Aku merasa seperti beban di dunia ini",
+            "Aku merasa seperti tidak seharusnya ada di sini",
+            "Kadang aku merasa hidupku tidak berarti"
+        ],
+        "responses": [
+            "Aku sangat menyesal mendengar perasaanmu seperti ini, tetapi ingatlah bahwa kamu berharga dan hidupmu memiliki makna. Mungkin saat ini terasa sangat berat, tapi kamu tidak sendirian.",
+            "Saat kita merasa sangat tertekan, perasaan seperti ini bisa muncul. Tapi ingatlah, setiap orang berharga, termasuk kamu. Jika kamu merasa terpuruk, penting untuk berbicara dengan seseorang yang bisa mendukungmu.",
+            "Aku tahu ini bisa sangat sulit, tapi ingat bahwa hidup penuh dengan perubahan. Mungkin hari ini terasa berat, namun besok bisa berbeda. Jangan ragu untuk mencari dukungan dari orang yang peduli padamu.",
+            "Aku tahu perasaan ini bisa sangat menguras, tapi kamu tidak sendiri. Banyak orang peduli dan menghargai keberadaanmu. Cobalah untuk berbicara dengan seseorang yang kamu percayai, seperti teman, keluarga, atau seorang profesional.",
+            "Jika perasaan ini terlalu berat, mungkin berbicara dengan seorang konselor atau terapis bisa sangat membantu. Mereka dapat memberikan dukungan yang lebih baik untuk membantumu melalui saat-saat seperti ini.",
+            "Kamu mungkin merasa sangat tertekan sekarang, tetapi ini adalah waktu yang sulit yang akan berlalu. Cobalah untuk berbicara dengan orang yang kamu percayai, dan ingat bahwa kamu berharga bagi banyak orang di sekitarmu.",
+            "Perasaan seperti ini bisa sangat mengganggu, dan tidak apa-apa untuk merasa cemas atau bingung. Mencari dukungan emosional, baik dari keluarga, teman, atau seorang konselor, adalah langkah yang baik untuk merasa lebih baik.",
+            "Jangan pernah ragu untuk mencari dukungan saat kamu merasa terpuruk. Kamu tidak sendirian, dan ada banyak orang yang peduli padamu. Kamu penting, dan hidupmu memiliki arti."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "bot_atau_orang_asli",
+        "patterns": [
+            "Apakah kamu orang asli?",
+            "Apakah saya sedang berbicara dengan manusia atau bot?",
+            "Kamu manusia atau bot?",
+            "Kamu orang asli atau bukan?",
+            "Apakah kamu benar-benar manusia?",
+            "Apakah kamu seorang manusia?",
+            "Kamu bot atau manusia?",
+            "Apakah kamu robot atau orang asli?",
+            "Saya berbicara dengan siapa? Manusia atau bot?",
+            "Kamu bukan orang asli kan?",
+            "Apakah ini percakapan dengan orang asli atau hanya bot?",
+            "Kamu beneran orang atau bot?",
+            "Kamu bot atau manusia?",
+            "Kamu manusia atau mesin?",
+            "Benarkah kamu seorang manusia?",
+            "Apa kamu bot atau manusia?",
+            "Apakah kamu bukan manusia?",
+            "Kamu robot kan?"
+        ],
+        "responses": [
+            "Saya adalah sebuah bot yang dirancang untuk membantu kamu. Walaupun saya bukan manusia, saya di sini untuk membantu menjawab pertanyaan dan memberikan dukungan.",
+            "Saya bukan manusia, tapi saya dibuat untuk memberikan informasi dan berbicara dengan kamu seolah-olah saya seorang teman. Ada yang bisa saya bantu?",
+            "Saya adalah bot yang diciptakan untuk membantu kamu dengan berbagai hal. Meski saya bukan manusia, saya di sini untuk memberikan informasi dan dukungan yang kamu butuhkan.",
+            "Saya bukan orang asli, saya adalah bot yang dibuat untuk membantu kamu dengan pertanyaan dan memberikan dukungan. Tapi meskipun saya bot, saya akan berusaha sebaik mungkin untuk membantu!",
+            "Saya adalah sebuah sistem otomatis yang dirancang untuk berinteraksi dengan kamu. Walau bukan manusia, saya selalu siap membantu kapan saja kamu butuh bantuan.",
+            "Saya adalah bot, bukan orang asli. Namun, saya di sini untuk memberikan informasi dan membantu kamu dengan cara yang terbaik yang saya bisa.",
+            "Saya bukan manusia, saya adalah bot yang didesain untuk berkomunikasi dengan kamu dan memberikan bantuan. Tapi saya akan selalu berusaha memberikan jawaban terbaik untuk kamu.",
+            "Saya bukan orang asli, saya adalah bot yang dikembangkan untuk membantu kamu. Tetapi saya di sini untuk membantu dengan apapun yang kamu butuhkan!"
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "kehilangan_ketertarikan_hidup",
+        "patterns": [
+            "Saya merasa kehilangan ketertarikan dalam hidup.",
+            "Hidup terasa begitu membosankan, saya kehilangan minat.",
+            "Saya tidak tertarik lagi dengan apapun dalam hidup.",
+            "Saya merasa tidak ada yang menarik lagi dalam hidup.",
+            "Segala hal terasa tidak berarti bagi saya.",
+            "Saya tidak punya semangat untuk hidup.",
+            "Saya merasa kosong dan tidak tertarik dengan apapun.",
+            "Apa yang harus saya lakukan jika merasa tidak tertarik dengan hidup?",
+            "Hidup terasa datar dan tidak menarik.",
+            "Saya merasa tidak ada tujuan dalam hidup saya.",
+            "Saya merasa kehilangan minat dalam segala hal.",
+            "Semua yang saya lakukan terasa sia-sia.",
+            "Saya merasa hidup saya tidak ada arah.",
+            "Saya tidak tahu apa yang saya inginkan lagi dalam hidup.",
+            "Saya merasa hampa dan tidak tertarik pada apapun.",
+            "Apa yang harus saya lakukan kalau merasa tidak punya minat hidup?",
+            "Saya kehilangan rasa ingin tahu tentang hidup.",
+            "Saya merasa tidak ada yang bisa membuat saya bahagia lagi."
+        ],
+        "responses": [
+            "Saya sangat menyesal mendengar kamu merasa seperti itu. Terkadang kita semua bisa merasa kehilangan arah atau minat dalam hidup. Mencari dukungan dari orang lain, berbicara dengan teman atau keluarga, atau mencari kegiatan yang memberi rasa nyaman bisa membantu. Jangan ragu untuk meminta bantuan profesional jika kamu merasa perlu.",
+            "Kehilangan ketertarikan dalam hidup bisa menjadi tanda bahwa kamu sedang merasa tertekan atau cemas. Hal pertama yang perlu dilakukan adalah memberi diri kamu waktu untuk meresapi perasaan ini tanpa merasa terbebani. Cobalah untuk berbicara dengan seseorang yang kamu percayai, atau pertimbangkan untuk berkonsultasi dengan seorang profesional.",
+            "Terkadang kita merasa hilang minat terhadap kehidupan karena tekanan atau perubahan besar dalam hidup. Ini adalah perasaan yang cukup normal, tetapi penting untuk mengenali bahwa perasaan ini tidak akan bertahan selamanya. Cobalah untuk memulai dengan langkah kecil yang bisa membangkitkan kembali rasa antusiasme dan minatmu.",
+            "Saya paham kalau terkadang hidup bisa terasa datar dan tidak menarik. Namun, kamu tidak sendirian dalam perasaan ini. Cobalah untuk memberi kesempatan pada diri sendiri untuk menemukan kembali hal-hal yang memberi kebahagiaan, bahkan jika itu hanya hal-hal kecil. Jika perasaan ini berlanjut, berbicara dengan seorang ahli bisa sangat membantu.",
+            "Kehilangan ketertarikan dalam hidup bisa terjadi pada siapa saja, dan itu bukan berarti kamu harus menghadapi semuanya sendirian. Terkadang berbicara dengan seseorang yang bisa mendengarkan, atau mencoba untuk terlibat dalam aktivitas baru, bisa membantu menemukan kembali minat dan semangat hidupmu.",
+            "Saat kita merasa kehilangan ketertarikan dalam hidup, itu bisa menjadi sinyal bahwa kita perlu memberi perhatian lebih pada kesehatan mental kita. Cobalah untuk tidak terlalu keras pada diri sendiri. Cari waktu untuk beristirahat, mengatur harapan dengan lebih realistis, dan mencari cara untuk menyambung kembali dengan apa yang membuatmu merasa bahagia.",
+            "Memang sulit untuk menemukan semangat ketika kamu merasa hampa atau kehilangan minat. Namun, sangat penting untuk diingat bahwa perasaan seperti ini sering kali bersifat sementara. Mencari dukungan dari orang terdekat, melibatkan diri dalam hobi baru, atau mempertimbangkan untuk mencari bantuan dari seorang profesional dapat membantu mengatasi perasaan ini."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "kesulitan_tidur",
+        "patterns": [
+            "Saya susah tidur.",
+            "Kenapa saya sulit tidur?",
+            "Saya sering terjaga malam.",
+            "Tidur saya terganggu, bagaimana cara mengatasinya?",
+            "Saya tidak bisa tidur nyenyak.",
+            "Apakah ada cara agar saya bisa tidur lebih cepat?",
+            "Saya selalu terbangun tengah malam, kenapa ya?",
+            "Susah tidur ini membuat saya lelah di pagi hari.",
+            "Kenapa saya merasa gelisah saat hendak tidur?",
+            "Saya merasa terjaga terus-menerus meskipun sudah lelah.",
+            "Apa yang harus saya lakukan jika susah tidur?",
+            "Saya merasa cemas dan itu membuat saya tidak bisa tidur.",
+            "Tidur saya sangat terganggu, bagaimana cara tidur lebih baik?",
+            "Saya merasa tidak bisa tidur meskipun sudah mencoba rileks.",
+            "Tidur saya tidak nyenyak, apa yang bisa saya lakukan?",
+            "Setiap kali tidur, saya merasa gelisah dan terjaga.",
+            "Apakah ada tips untuk tidur lebih nyenyak?",
+            "Saya terjaga sepanjang malam, ada saran?"
+        ],
+        "responses": [
+            "Kesulitan tidur bisa disebabkan oleh berbagai faktor, seperti stres, kecemasan, atau kebiasaan tidur yang kurang baik. Cobalah untuk menetapkan rutinitas tidur yang konsisten, hindari kafein sebelum tidur, dan cobalah teknik relaksasi seperti pernapasan dalam atau meditasi.",
+            "Jika kamu merasa gelisah dan susah tidur, mungkin ada beberapa hal yang perlu disesuaikan, seperti pencahayaan kamar, suhu ruangan, atau bahkan kebiasaan menggunakan layar ponsel sebelum tidur. Cobalah untuk menciptakan lingkungan yang tenang dan nyaman untuk tidur.",
+            "Cobalah untuk membuat rutinitas tidur yang baik, seperti tidur dan bangun pada waktu yang sama setiap hari. Hindari makan berat atau minuman berkafein beberapa jam sebelum tidur. Berlatih relaksasi seperti pernapasan atau meditasi bisa membantu menenangkan pikiran sebelum tidur.",
+            "Susah tidur bisa disebabkan oleh berbagai hal, termasuk stres dan kecemasan. Jika kamu merasa gelisah, cobalah melakukan aktivitas yang menenangkan seperti membaca buku, mendengarkan musik santai, atau berlatih yoga ringan sebelum tidur.",
+            "Jika kamu terbangun di tengah malam, cobalah untuk tidak melihat jam atau memikirkan banyak hal. Cobalah berlatih pernapasan dalam untuk menenangkan diri. Jika masalah tidur berlanjut, pertimbangkan untuk berkonsultasi dengan seorang ahli untuk mencari penyebab dan solusi yang lebih tepat.",
+            "Stres atau kecemasan sering kali menjadi penyebab tidur yang tidak nyenyak. Untuk mengatasi ini, lakukan teknik relaksasi atau meditasi. Hindari aktivitas yang bisa membuatmu semakin cemas, seperti memeriksa ponsel atau mengecek email sebelum tidur.",
+            "Untuk membantu tidur lebih baik, pastikan kamu tidur dalam kondisi ruangan yang nyaman dan gelap. Mengatur suhu ruangan agar tidak terlalu panas atau dingin juga bisa mempengaruhi kualitas tidur. Jika tidurmu terus terganggu, mungkin ada baiknya berbicara dengan seorang ahli untuk mencari solusi lebih lanjut.",
+            "Jika kamu merasa cemas dan kesulitan tidur, pastikan untuk memberi dirimu waktu untuk relaksasi sebelum tidur. Hindari makanan berat atau terlalu banyak minuman yang mengandung kafein beberapa jam sebelum tidur.",
+            "Jika tidurmu terganggu, cobalah untuk menenangkan pikiran terlebih dahulu sebelum tidur. Lakukan teknik pernapasan atau visualisasi untuk menenangkan diri. Mengatur rutinitas tidur yang konsisten juga dapat membantu tubuhmu mengenali waktu tidur yang tepat."
+        ],
+        "context": [
+            ""
+        ]
+    },
+    {
+        "tag": "agama_kepercayaan_bot",
+        "patterns": [
+            "Apa agama kamu?",
+            "Kamu percaya Tuhan?",
+            "Apa kamu punya agama?",
+            "Apakah kamu seorang beragama?",
+            "Apa agama yang kamu anut?",
+            "Kamu percaya ada Tuhan?",
+            "Apakah kamu memiliki kepercayaan?",
+            "Tuhan itu ada, kan?",
+            "Kenapa kamu tidak percaya Tuhan?",
+            "Bot ini punya agama atau tidak?",
+            "Kamu percaya Tuhan itu ada?",
+            "Apakah kamu bisa membuktikan adanya Tuhan?",
+            "Bagaimana menurut kamu tentang Tuhan?",
+            "Apa yang kamu percayai tentang Tuhan?"
+        ],
+        "responses": [
+            "Sebagai AI, saya tidak memiliki agama atau kepercayaan pribadi. Saya dirancang untuk membantu dan memberikan informasi berdasarkan pengetahuan yang ada, tanpa memihak pada agama atau keyakinan tertentu.",
+            "Saya adalah program AI yang tidak memiliki keyakinan atau agama.",
+            "Saya tidak memiliki agama atau kepercayaan karena saya bukan manusia.",
+            "Sebagai bot, saya tidak dapat memiliki agama atau kepercayaan.",
+            "Karena saya adalah sistem berbasis kecerdasan buatan, saya tidak bisa percaya atau tidak percaya pada Tuhan."
+        ],
+        "context": [
+            ""
+        ]
     }
+    
 ]
