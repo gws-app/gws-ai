@@ -30,7 +30,7 @@
             "Gangguan kesehatan mental adalah masalah kesehatan yang berdampak pada bagaimana seseorang merasa, berpikir, dan berinteraksi dengan orang lain.",
             "Gangguan mental adalah kondisi yang dapat memengaruhi setiap aspek kehidupan seseorang."
         ],
-        "context": "apa_itu_gangguan_mental"
+        "context": "gangguan_mental"
     },
     {
         "tag": "penyebab_gangguan_mental",
@@ -62,7 +62,7 @@
             "Faktor-faktor seperti stres berat, pengalaman traumatis, atau masalah dalam keluarga dapat berperan dalam memicu gangguan mental.",
             "Kesehatan mental seseorang dapat dipengaruhi oleh genetik, pengalaman masa kecil, dan masalah dalam kehidupan sehari-hari."
         ],
-        "context": "penyebab_gangguan_mental"
+        "context": "gangguan_mental"
     },
     {
         "tag": "gejala_gangguan_mental",
@@ -94,7 +94,7 @@
             "Beberapa gejala umum gangguan mental termasuk perasaan cemas, depresi, atau penarikan diri dari interaksi sosial.",
             "Jika seseorang menunjukkan perubahan emosi yang drastis atau mulai menghindari aktivitas yang biasanya mereka nikmati, itu bisa menjadi tanda gangguan mental."
         ],
-        "context": "gejala_gangguan_mental"
+        "context": "gangguan_mental"
     },
     {
         "tag": "cara_mengatasi_gangguan_mental",
@@ -126,7 +126,7 @@
             "Penting untuk mencari dukungan dari profesional kesehatan mental dan orang-orang terdekat untuk mengatasi gangguan mental.",
             "Mengikuti program terapi yang terarah dan menjaga pola hidup sehat dapat membantu dalam mengatasi gangguan mental."
         ],
-        "context": "cara_mengatasi_gangguan_mental"
+        "context": "gangguan_mental"
     },
     {
         "tag": "pengobatan_gangguan_mental",
@@ -158,7 +158,7 @@
             "Beberapa pengobatan umum untuk gangguan mental adalah terapi bicara, terapi perilaku kognitif, dan penggunaan antidepresan atau antipsikotik jika diperlukan.",
             "Pengobatan gangguan mental bertujuan untuk mengurangi gejala dan membantu individu untuk kembali menjalani kehidupan sehari-hari dengan lebih baik."
         ],
-        "context": "pengobatan_gangguan_mental"
+        "context": "gangguan_mental"
     },
     {
         "tag": "penanganan_gangguan_mental",
@@ -190,7 +190,7 @@
             "Penanganan gangguan mental melibatkan pendekatan multidisipliner, seperti terapi kognitif perilaku, dukungan sosial, dan terkadang pengobatan.",
             "Bantuan dari profesional kesehatan mental sangat penting dalam menangani gangguan mental untuk memastikan pengobatan yang tepat dan efektif."
         ],
-        "context": "penanganan_gangguan_mental"
+        "context": "gangguan_mental"
     },
     {
         "tag": "perbedaan_gangguan_mental_dan_stres",
@@ -222,7 +222,7 @@
             "Stres dapat menjadi pemicu gangguan mental jika tidak ditangani dengan baik, tetapi keduanya berbeda dalam intensitas dan dampaknya terhadap kehidupan sehari-hari.",
             "Gangguan mental biasanya memiliki gejala yang lebih berat dan bertahan lama, sedangkan stres seringkali lebih mudah diatasi dengan perubahan gaya hidup."
         ],
-        "context": "perbedaan_gangguan_mental_dan_stres"
+        "context": "gangguan_mental"
     },
     {
         "tag": "efek_gangguan_mental",
@@ -254,7 +254,7 @@
             "Gangguan mental yang tidak ditangani dengan baik dapat menyebabkan masalah jangka panjang dalam kehidupan pribadi, sosial, dan profesional seseorang.",
             "Dampak dari gangguan mental seringkali melibatkan penurunan produktivitas, masalah dalam menjaga hubungan, dan penurunan kualitas hidup."
         ],
-        "context": "efek_gangguan_mental"
+        "context": "gangguan_mental"
     },
     {
         "tag": "penyebab_gangguan_mental",
@@ -286,7 +286,7 @@
             "Faktor genetik, trauma emosional, stres yang berkelanjutan, serta ketidakseimbangan hormon dapat menjadi penyebab utama gangguan mental.",
             "Lingkungan yang tidak mendukung atau peristiwa hidup yang penuh tekanan dapat memperburuk atau memicu gangguan mental."
         ],
-        "context": "penyebab_gangguan_mental"
+        "context": "gangguan_mental"
     },
     {
         "tag": "diagnosis_gangguan_mental",
@@ -318,7 +318,7 @@
             "Pemeriksaan medis dan tes psikologis biasanya digunakan untuk memastikan diagnosis gangguan mental dan untuk membedakan dari kondisi lain.",
             "Proses diagnosis gangguan mental melibatkan pengumpulan riwayat medis, gejala, dan interaksi dengan pasien untuk menentukan penyebabnya."
         ],
-        "context": "diagnosis_gangguan_mental"
+        "context": "gangguan_mental"
     },
     {
         "tag": "gejala_gangguan_mental",
@@ -350,7 +350,7 @@
             "Gejala fisik dari gangguan mental bisa termasuk kelelahan yang berlebihan, perubahan nafsu makan, dan gangguan tidur.",
             "Gejala psikologis yang sering terlihat pada gangguan mental adalah perubahan mood yang ekstrem, perasaan tidak berdaya, serta kesulitan untuk berkonsentrasi."
         ],
-        "context": "gejala_gangguan_mental"
+        "context": "gangguan_mental"
     },
     {
         "tag": "pencegahan_gangguan_mental",
@@ -382,7 +382,7 @@
             "Pencegahan gangguan mental dapat meliputi manajemen stres yang baik, menjaga hubungan sosial yang sehat, serta menjalani pola makan dan olahraga yang baik.",
             "Untuk mencegah gangguan mental, penting untuk merawat kesehatan mental secara keseluruhan, termasuk menjaga keseimbangan emosional dan fisik."
         ],
-        "context": "pencegahan_gangguan_mental"
+        "context": "gangguan_mental"
     },
     {
         "tag": "pengobatan_gangguan_mental",
@@ -414,7 +414,7 @@
             "Obat-obatan dan psikoterapi adalah pengobatan yang umum digunakan untuk gangguan mental, dengan pendekatan yang disesuaikan dengan kondisi individu.",
             "Terapi kognitif-perilaku dan pengobatan antidepresan dapat membantu mengatasi banyak jenis gangguan mental, terutama gangguan kecemasan dan depresi."
         ],
-        "context": "pengobatan_gangguan_mental"
+        "context": "gangguan_mental"
     },
     {
         "tag": "gangguan_mental_dan_stigma",
@@ -446,7 +446,7 @@
             "Stigma sosial dapat menghalangi orang dengan gangguan mental untuk mencari bantuan, yang dapat memperburuk kondisi mereka jika tidak ditangani dengan tepat.",
             "Penting untuk mengedukasi masyarakat tentang gangguan mental agar stigma dapat dikurangi dan lebih banyak orang merasa nyaman mencari perawatan."
         ],
-        "context": "gangguan_mental_dan_stigma"
+        "context": "gangguan_mental"
     },
     {
         "tag": "gangguan_mental_untuk_anak",
@@ -478,7 +478,7 @@
             "Pencegahan gangguan mental pada anak melibatkan menciptakan lingkungan yang mendukung dan mengurangi stres, serta memberikan dukungan emosional yang cukup.",
             "Pengobatan gangguan mental pada anak sering melibatkan terapi, konseling, dan terkadang pengobatan yang disesuaikan dengan usia dan kondisi anak."
         ],
-        "context": "gangguan_mental_untuk_anak"
+        "context": "gangguan_mental"
     },
     {
         "tag": "gangguan_mental_dan_depresi",
@@ -510,7 +510,7 @@
             "Depresi sering kali dapat diobati dengan kombinasi terapi dan obat-obatan, serta dengan dukungan sosial yang tepat.",
             "Penting untuk mencari bantuan profesional jika depresi dalam gangguan mental mengganggu kehidupan seseorang, agar pengobatan dapat segera dimulai."
         ],
-        "context": "gangguan_mental_dan_depresi"
+        "context": "gangguan_mental"
     },
     {
         "tag": "gangguan_mental_dan_kecemasan",
@@ -542,7 +542,7 @@
             "Gangguan kecemasan dapat diatasi dengan terapi perilaku kognitif, relaksasi, serta pengobatan untuk mengurangi kecemasan berlebihan.",
             "Penting untuk mendapatkan dukungan dari profesional kesehatan mental jika kecemasan mengganggu kehidupan sehari-hari, agar dapat dikelola dengan baik."
         ],
-        "context": "gangguan_mental_dan_kecemasan"
+        "context": "gangguan_mental"
     },
     {
         "tag": "gangguan_mental_dan_psikoterapi",
@@ -574,7 +574,7 @@
             "Psikoterapi dapat digunakan sebagai pengobatan utama atau bersama dengan obat-obatan untuk mengelola gangguan mental dengan cara yang lebih komprehensif.",
             "Manfaat psikoterapi dapat dirasakan setelah beberapa sesi, tergantung pada jenis dan keparahan gangguan mental yang dialami oleh individu."
         ],
-        "context": "gangguan_mental_dan_psikoterapi"
+        "context": "gangguan_mental"
     },
     {
         "tag": "gangguan_mental_dan_bipolar",
@@ -606,7 +606,7 @@
             "Pengobatan gangguan bipolar sering melibatkan kombinasi obat-obatan, seperti stabilisator mood, dan terapi psikologis untuk mengelola gejala.",
             "Dengan pengobatan dan dukungan yang tepat, banyak orang dengan gangguan bipolar dapat mengelola gejalanya dan menjalani kehidupan yang stabil."
         ],
-        "context": "gangguan_mental_dan_bipolar"
+        "context": "gangguan_mental"
     },
     {
         "tag": "gangguan_mental_dan_psikoedukasi",
@@ -637,7 +637,7 @@
             "Psikoedukasi sangat penting untuk mengurangi stigma terhadap gangguan mental dan meningkatkan kesadaran bahwa gangguan mental adalah masalah kesehatan yang bisa diobati.",
             "Psikoedukasi membantu meningkatkan kualitas hidup penderita gangguan mental dengan memberikan pemahaman yang lebih baik tentang kondisi mereka dan cara menghadapinya."
         ],
-        "context": "gangguan_mental_dan_psikoedukasi"
+        "context": "gangguan_mental"
     },
     {
         "tag": "badmood_gejala",
@@ -669,7 +669,7 @@
             "Stres, kelelahan, atau perasaan frustrasi bisa menjadi penyebab seseorang merasa bad mood.",
             "Mengidentifikasi tanda-tanda bad mood bisa dilakukan dengan memperhatikan perubahan dalam emosi, energi, dan tingkat kenyamanan seseorang."
         ],
-        "context": "badmood_gejala"
+        "context": "badmood"
     },
     {
         "tag": "badmood_penyebab",
@@ -701,7 +701,7 @@
             "Konflik atau masalah di tempat kerja sering menjadi pemicu utama bad mood bagi banyak orang.",
             "Faktor eksternal seperti cuaca atau lingkungan juga dapat berpengaruh terhadap suasana hati dan menyebabkan bad mood."
         ],
-        "context": "badmood_penyebab"
+        "context": "badmood"
     },
     {
         "tag": "badmood_dampak",
@@ -733,7 +733,7 @@
             "Dampak jangka panjang dari bad mood bisa mencakup masalah tidur, peningkatan stres, dan penurunan kualitas hidup secara keseluruhan.",
             "Dalam beberapa kasus, bad mood dapat menyebabkan seseorang merasa terisolasi atau kesulitan berinteraksi dengan orang lain."
         ],
-        "context": "badmood_dampak"
+        "context": "badmood"
     },
     {
         "tag": "badmood_pengobatan",
@@ -765,7 +765,7 @@
             "Tidur yang cukup dan makan makanan sehat juga dapat membantu mengatasi bad mood dengan memberi tubuh energi yang dibutuhkan.",
             "Melakukan aktivitas yang disukai, seperti mendengarkan musik atau menulis dalam jurnal, dapat membantu meredakan bad mood."
         ],
-        "context": "badmood_pengobatan"
+        "context": "badmood"
     },
     {
         "tag": "badmood_preventif",
@@ -796,7 +796,7 @@
             "Menjaga pikiran positif dan menghindari pemicu stres juga dapat membantu mencegah bad mood.",
             "Mengatur waktu untuk diri sendiri dan berbicara dengan orang yang dipercaya adalah langkah-langkah preventif yang efektif untuk menjaga mood tetap stabil."
         ],
-        "context": "badmood_preventif"
+        "context": "badmood"
     },
     {
         "tag": "badmood_efek_jangka_panjang",
@@ -827,7 +827,7 @@
             "Jika bad mood tidak diatasi, bisa menyebabkan gangguan tidur, peningkatan stres, dan penurunan kemampuan untuk berfokus pada pekerjaan.",
             "Bad mood yang berkepanjangan dapat mempengaruhi hubungan sosial, pekerjaan, dan kesehatan mental seseorang."
         ],
-        "context": "badmood_efek_jangka_panjang"
+        "context": "badmood"
     },
     {
         "tag": "badmood_terhadap_pekerjaan",
@@ -859,7 +859,7 @@
             "Bad mood yang tidak ditangani bisa menyebabkan kesalahan dalam pekerjaan, hubungan yang tegang dengan rekan kerja, dan menurunnya kinerja.",
             "Mengelola stres dan mengambil waktu untuk diri sendiri di tempat kerja dapat membantu menghindari dampak buruk dari bad mood."
         ],
-        "context": "badmood_terhadap_pekerjaan"
+        "context": "badmood"
     },
     {
         "tag": "badmood_solusi_pribadi",
@@ -891,7 +891,7 @@
             "Mengubah pola pikir dan berfokus pada hal-hal positif juga dapat membantu meredakan bad mood yang datang tiba-tiba.",
             "Menciptakan rutinitas yang sehat, seperti tidur cukup dan makan dengan baik, dapat mencegah bad mood dan membantu mengelola perasaan buruk."
         ],
-        "context": "badmood_solusi_pribadi"
+        "context": "badmood"
     },
     {
         "tag": "badmood_terhadap_kesehatan_fisik",
@@ -923,7 +923,7 @@
             "Jika bad mood berlangsung lama, bisa mempengaruhi pola makan, tidur, dan mengurangi energi tubuh secara keseluruhan.",
             "Mengatasi bad mood dengan olahraga, relaksasi, dan tidur yang cukup dapat membantu menjaga kesehatan fisik."
         ],
-        "context": "badmood_terhadap_kesehatan_fisik"
+        "context": "badmood"
     },
     {
         "tag": "sapaan_pagi",
@@ -955,7 +955,7 @@
             "Halo! Selamat pagi, semoga hari Anda penuh semangat.",
             "Pagi! Semoga semuanya berjalan lancar hari ini."
         ],
-        "context": "sapaan_pagi"
+        "context": "sapaan"
     },
     {
         "tag": "sapaan_tanya_kabar",
@@ -987,7 +987,7 @@
             "Terima kasih sudah bertanya, saya baik-baik saja!",
             "Semua baik-baik saja di sini, bagaimana dengan kamu?"
         ],
-        "context": "sapaan_tanya_kabar"
+        "context": "sapaan"
     },
     {
         "tag": "ucapan_terima_kasih",
@@ -1019,7 +1019,7 @@
             "Sama-sama! Senang bisa membantu Anda.",
             "Terima kasih! Senang bisa membantu Anda."
         ],
-        "context": "ucapan_terima_kasih"
+        "context": "sapaan"
     },
     {
         "tag": "perkenalan_diri",
@@ -1051,7 +1051,7 @@
             "Saya adalah asisten virtual yang siap membantu Anda",
             "Halo! Anda bisa panggil saya dengan nama apapun, senang berkenalan dengan Anda."
         ],
-        "context": "perkenalan_diri"
+        "context": "sapaan"
     },
     {
         "tag": "perpisahan",
@@ -1079,7 +1079,7 @@
             "Selamat tinggal! Semoga Anda selalu bahagia.",
             "Sampai jumpa! Semoga hari Anda menyenankan."
         ],
-        "context": "perpisahan"
+        "context": "sapaan"
     },
     {
         "tag": "kabar_baik",
@@ -1111,7 +1111,7 @@
             "Bagus sekali, semoga Anda terus merasa hebat!",
             "Senang mendengar Anda merasa luar biasa, semoga terus seperti itu!"
         ],
-        "context": "kabar_baik"
+        "context": "sapaan"
     },
     {
         "tag": "kabar_buruk",
@@ -1143,7 +1143,7 @@
             "Semoga Anda segera mendapatkan solusi dan merasa lebih baik.",
             "Saya harap hari Anda segera menjadi lebih baik. Jika ada yang bisa saya bantu, beri tahu saya."
         ],
-        "context": "kabar_buruk"
+        "context": "sapaan"
     },
     {
         "tag": "kabar_netral",
@@ -1175,31 +1175,11 @@
             "Hari-hari biasa juga memiliki sisi positifnya. Semoga Anda tetap merasa baik.",
             "Semoga hari Anda berjalan lancar meski biasa saja."
         ],
-        "context": "kabar_netral"
+        "context": "sapaan"
     },
     {
         "tag": "bunuh_diri",
         "patterns": [
-            "Saya ingin bunuh diri.",
-            "Saya berpikir untuk bunuh diri.",
-            "Saya merasa seperti bunuh diri adalah satu-satunya jalan keluar.",
-            "Saya ingin mengakhiri hidup saya dengan bunuh diri.",
-            "Bunuh diri mungkin adalah solusi untuk masalah saya.",
-            "Saya sudah memikirkan untuk bunuh diri.",
-            "Bunuh diri sepertinya jalan yang terbaik untuk saya.",
-            "Saya merasa tidak ada jalan lain selain bunuh diri.",
-            "Bunuh diri bisa mengakhiri rasa sakit saya.",
-            "Saya merasa putus asa dan ingin bunuh diri.",
-            "Saya ingin bunuh diri karena semuanya terasa terlalu berat.",
-            "Saya merasa bunuh diri adalah satu-satunya pilihan saya.",
-            "Saya ingin mengakhiri hidup saya dengan cara bunuh diri.",
-            "Bunuh diri adalah hal yang saya pikirkan belakangan ini.",
-            "Saya merasa lebih baik jika saya bunuh diri saja.",
-            "Saya ingin bunuh diri karena saya merasa sangat tertekan.",
-            "Saya merasa hidup saya tidak berarti dan ingin bunuh diri.",
-            "Bunuh diri adalah cara yang saya pikirkan untuk mengakhiri semuanya.",
-            "Saya ingin melukai diri saya atau bahkan bunuh diri.",
-            "Saya tidak tahu bagaimana cara keluar dari perasaan ini tanpa bunuh diri.",
             "Saya ingin mengakhiri hidup saya.",
             "Saya merasa seperti saya tidak bisa melanjutkan hidup ini.",
             "Saya merasa sangat putus asa, saya ingin mati.",
@@ -1207,7 +1187,6 @@
             "Saya tidak ingin hidup lagi.",
             "Saya tidak bisa bertahan lagi.",
             "Saya merasa hidup saya tidak berarti.",
-            "saya ingin mengakhiri hidup saya dengan cara apa pun",
             "Saya merasa terjebak dan ingin melarikan diri.",
             "Saya ingin menyakiti diri saya sendiri.",
             "Saya merasa seperti saya sudah kehilangan segalanya.",
@@ -1268,7 +1247,7 @@
             "Jangan ragu untuk mencari dukungan mental profesional, mereka bisa membantu Anda lebih banyak daripada yang Anda bayangkan.",
             "Saya ingin Anda tahu bahwa Anda sangat berarti dan berharga. Ada dukungan yang tersedia untuk membantu Anda melalui ini."
         ],
-        "context": "dukungan_mental_terapi"
+        "context": "bunuh_diri"
     },
     {
         "tag": "tanya_bantuan_terdekat",
@@ -1304,7 +1283,7 @@
             "Untuk membantu Anda melalui ini, penting untuk berbicara dengan seorang profesional. Mereka dapat memberi Anda dukungan yang Anda butuhkan.",
             "Penting untuk mencari dukungan. Hubungi layanan bantuan yang tersedia untuk mendapatkan pertolongan segera."
         ],
-        "context": "tanya_bantuan_terdekat"
+        "context": "bunuh_diri"
     },
     {
         "tag": "mood_bahagia",
@@ -1336,7 +1315,7 @@
             "Saya senang Anda merasa senang. Semoga hari Anda semakin menyenangkan.",
             "Hari yang menyenangkan memang sangat berharga, nikmatilah!"
         ],
-        "context": "mood_bahagia"
+        "context": "mood_emosi_senang"
     },
     {
         "tag": "mood_sedih",
@@ -1368,7 +1347,7 @@
             "Saya mengerti perasaan Anda, dan mungkin berbicara dengan seseorang bisa sedikit membantu.",
             "Mencari dukungan sangat penting saat merasa seperti ini. Anda tidak perlu melalui ini sendirian."
         ],
-        "context": "mood_sedih"
+        "context": "mood_emosi_sedih"
     },
     {
         "tag": "mood_marahan",
@@ -1400,7 +1379,7 @@
             "Saya tahu perasaan itu sangat intens. Jika Anda merasa kesulitan, mungkin berbicara dengan seseorang bisa membantu.",
             "Mengendalikan amarah memang tidak mudah, tetapi ada cara untuk meredakannya, seperti berbicara dengan seseorang atau melakukan aktivitas fisik."
         ],
-        "context": "mood_marahan"
+        "context": "mood_emosi_marah"
     },
     {
         "tag": "mood_cemas",
@@ -1432,7 +1411,7 @@
             "Mencari cara untuk mengurangi kecemasan sangat penting. Apakah ada aktivitas yang bisa membantu Anda merasa lebih tenang?",
             "Cemas bisa sangat mengganggu, tapi ada cara untuk mengelola perasaan ini. Cobalah untuk fokus pada hal-hal yang membuat Anda merasa lebih baik."
         ],
-        "context": "mood_cemas"
+        "context": "cemas"
     },
     {
         "tag": "salam_halo",
@@ -1554,7 +1533,7 @@
             "Berbicara dengan teman atau orang yang kamu percaya bisa membuatmu merasa lebih baik.",
             "Jika memungkinkan, pergilah keluar dan nikmati udara segar untuk membantu suasana hatimu."
         ],
-        "context": "mood_membaik"
+        "context": "membaik"
     },
     {
         "tag": "mood_stress_relief",
@@ -1587,7 +1566,7 @@
             "Bicarakan perasaanmu dengan seseorang yang kamu percayai.",
             "Minum teh hangat atau mandi air hangat bisa membuat tubuh dan pikiranmu lebih rileks."
         ],
-        "context": "mood_stress_relief"
+        "context": "stress"
     },
     {
         "tag": "mood_motivation",
@@ -1620,7 +1599,7 @@
             "Fokus pada hal-hal kecil yang bisa kamu kendalikan hari ini.",
             "Selalu ada cahaya di ujung jalan, tetap semangat!"
         ],
-        "context": "mood_motivation"
+        "context": "motivation"
     },
     {
         "tag": "emosi_sedih",
@@ -1653,7 +1632,7 @@
             "Coba fokus pada hal-hal kecil yang bisa membuatmu merasa lebih baik.",
             "Bicaralah dengan seseorang yang kamu percaya, itu bisa sangat membantu."
         ],
-        "context": "emosi_sedih"
+        "context": "stress"
     },
     {
         "tag": "emosi_senang",
@@ -1686,7 +1665,7 @@
             "Rasanya luar biasa mendengar kabar bahagia darimu. Tetap semangat ya!",
             "Bagus sekali kamu merasa senang. Itu hal yang patut disyukuri."
         ],
-        "context": "emosi_senang"
+        "context": "motivation"
     },
     {
         "tag": "emosi_marah",
@@ -1719,7 +1698,7 @@
             "Menulis di jurnal atau melakukan aktivitas fisik bisa membantu meredakan amarah.",
             "Aku di sini untuk membantumu jika kamu ingin bercerita."
         ],
-        "context": "emosi_marah"
+        "context": "marah"
     },
     {
         "tag": "emosi_takut",
@@ -1752,7 +1731,7 @@
             "Fokus pada pernapasanmu untuk mengurangi kecemasan.",
             "Aku di sini untuk mendengarkanmu jika kamu ingin berbagi."
         ],
-        "context": "emosi_takut"
+        "context": "takut"
     },
     {
         "tag": "emosi_bingung",
@@ -1785,7 +1764,7 @@
             "Cobalah untuk tidak terburu-buru, luangkan waktu untuk berpikir jernih.",
             "Aku di sini jika kamu ingin membicarakan apa yang membuatmu bingung."
         ],
-        "context": "emosi_bingung"
+        "context": "bingung"
     },
     {
         "tag": "emosi_hampa",
@@ -1818,7 +1797,7 @@
             "Hampa bukanlah akhir dari segalanya, kamu punya potensi untuk menemukan kebahagiaan lagi.",
             "Bicaralah dengan seseorang yang kamu percaya, itu bisa sangat membantu."
         ],
-        "context": "emosi_hampa"
+        "context": "hampa"
     },
     {
         "tag": "emosi_takut_gagal",
@@ -1851,7 +1830,7 @@
             "Takut gagal itu wajar, tapi jangan biarkan itu menghentikanmu untuk mencoba.",
             "Fokuslah pada proses, bukan hanya hasilnya. Setiap langkah kecil adalah pencapaian."
         ],
-        "context": "emosi_takut_gagal"
+        "context": "takut_gagal"
     },
     {
         "tag": "emosi_tidak_dihargai",
@@ -1884,7 +1863,7 @@
             "Bicaralah dengan orang yang bisa memahami perasaanmu, itu bisa membantu.",
             "Usahamu tidak sia-sia, dan orang yang benar-benar peduli akan melihat nilaimu."
         ],
-        "context": "emosi_tidak_dihargai"
+        "context": "tidak_dihargai"
     },
     {
         "tag": "emosi_frustrasi",
@@ -1917,7 +1896,7 @@
             "Frustrasi itu wajar, tapi jangan menyerah. Kamu bisa melewati ini.",
             "Aku di sini jika kamu butuh tempat untuk berbicara."
         ],
-        "context": "emosi_frustrasi"
+        "context": "frustrasi"
     },
     {
         "tag": "emosi_kecewa",
@@ -1950,7 +1929,7 @@
             "Kecewa adalah bagian dari perjalanan, dan kamu pasti bisa melewatinya.",
             "Ingatlah, tidak apa-apa merasa kecewa, tapi jangan berhenti di situ. Kamu lebih kuat dari yang kamu pikirkan."
         ],
-        "context": "emosi_kecewa"
+        "context": "kecewa"
     },
     {
         "tag": "emosi_lelah",
@@ -1983,7 +1962,7 @@
             "Cobalah berbagi perasaanmu dengan orang terdekat, itu bisa mengurangi rasa lelahmu.",
             "Istirahatlah sejenak, kamu tidak perlu menyelesaikan semuanya sekaligus."
         ],
-        "context": "emosi_lelah"
+        "context": "lelah"
     },
     {
         "tag": "emosi_tertekan",
@@ -2016,7 +1995,7 @@
             "Tekanan itu sementara, percayalah kamu bisa melewatinya.",
             "Cari dukungan dari orang-orang terdekat, mereka pasti ingin membantumu."
         ],
-        "context": "emosi_tertekan"
+        "context": "tertekan"
     },
     {
         "tag": "emosi_terbebani",
@@ -2049,7 +2028,7 @@
             "Cobalah fokus pada satu hal kecil untuk mengurangi rasa terbebani.",
             "Beristirahatlah sejenak, tubuh dan pikiranmu mungkin butuh waktu untuk pulih."
         ],
-        "context": "emosi_terbebani"
+        "context": "terbebani"
     },
     {
         "tag": "cara_mengatasi_kecewa",
@@ -2082,7 +2061,7 @@
             "Luangkan waktu untuk dirimu sendiri dan lakukan aktivitas yang kamu nikmati.",
             "Ingat bahwa setiap orang menghadapi kekecewaan, dan kamu tidak sendirian."
         ],
-        "context": "cara_mengatasi_kecewa"
+        "context": "kecewa"
     },
     {
         "tag": "cara_mengatasi_merasa_sendiri",
@@ -2148,7 +2127,7 @@
             "Alihkan perhatianmu dengan aktivitas yang membuatmu merasa lebih baik.",
             "Ingat bahwa frustrasi adalah bagian dari proses, dan kamu bisa melewatinya."
         ],
-        "context": "cara_mengatasi_frustasi"
+        "context": "frustrasi"
     },
     {
         "tag": "cara_mengatasi_tidak_dihargai",
@@ -2181,7 +2160,7 @@
             "Cobalah fokus pada orang-orang yang benar-benar peduli padamu.",
             "Luangkan waktu untuk merawat dirimu sendiri dan bangun rasa percaya diri."
         ],
-        "context": "cara_mengatasi_tidak_dihargai"
+        "context": "tidak_dihargai"
     },
     {
         "tag": "cara_mengatasi_takut_gagal",
@@ -2214,7 +2193,7 @@
             "Berbicaralah dengan seseorang yang dapat memberikan perspektif positif.",
             "Ingat bahwa semua orang pernah gagal, dan itu adalah hal yang wajar."
         ],
-        "context": "cara_mengatasi_takut_gagal"
+        "context": "takut_gagal"
     },
     {
         "tag": "cara_mengatasi_hampa",
@@ -2247,7 +2226,7 @@
             "Fokus pada hal-hal kecil yang membawa kebahagiaan dalam hidupmu.",
             "Ingat bahwa rasa hampa adalah sementara, dan kamu bisa melewatinya."
         ],
-        "context": "cara_mengatasi_hampa"
+        "context": "hampa"
     },
     {
         "tag": "cara_mengatasi_bingung",
@@ -2280,7 +2259,7 @@
             "Fokus pada satu langkah kecil yang bisa kamu lakukan sekarang.",
             "Ingat bahwa rasa bingung adalah bagian dari proses menemukan jalan keluar."
         ],
-        "context": "cara_mengatasi_bingung"
+        "context": "bingung"
     },
     {
         "tag": "cara_mengatasi_takut",
@@ -2313,7 +2292,7 @@
             "Fokus pada tindakan kecil yang bisa membantu kamu melangkah maju.",
             "Ingat bahwa rasa takut adalah perasaan yang normal dan kamu bisa melewatinya."
         ],
-        "context": "cara_mengatasi_takut"
+        "context": "takut"
     },
     {
         "tag": "cara_mengatasi_marah",
@@ -2346,7 +2325,7 @@
             "Bicarakan perasaanmu dengan seseorang yang kamu percayai.",
             "Fokus pada solusi, bukan hanya masalah yang membuatmu marah."
         ],
-        "context": "cara_mengatasi_marah"
+        "context": "marah"
     },
     {
         "tag": "cara_mengatasi_sedih",
@@ -2379,7 +2358,7 @@
             "Luangkan waktu untuk diri sendiri dan lakukan hal-hal yang kamu nikmati.",
             "Ingat bahwa kesedihan adalah perasaan sementara yang akan berlalu."
         ],
-        "context": "cara_mengatasi_sedih"
+        "context": "stress"
     },
     {
         "tag": "cara_mengatasi_kesal",
@@ -2632,7 +2611,7 @@
             "Tetaplah fokus pada hal-hal yang bisa kamu kendalikan dan lepaskan apa yang tidak bisa kamu ubah.",
             "Jika rasa cemas terus berlanjut, pertimbangkan untuk berbicara dengan ahli kesehatan mental."
         ],
-        "context": "cara_mengatasi_cemas"
+        "context": "cemas"
     },
     {
         "tag": "cara_mengatasi_overthinking",
@@ -2764,7 +2743,7 @@
             "Kamu sangat berharga dan penting. Jika kamu merasa seperti ini, segera cari bantuan. Ada orang-orang yang peduli padamu dan ingin kamu tetap aman.",
             "Tolong jangan membuat keputusan tergesa-gesa. Kamu sangat berarti, dan aku ingin memastikan kamu mendapat dukungan yang tepat. Hubungi seseorang yang kamu percayai atau organisasi dukungan."
         ],
-        "context": "kata_mati"
+        "context": "bunuh_diri"
     },
     {
         "tag": "kata_mati_tidak_serius",
@@ -2787,7 +2766,7 @@
             "Terkadang kita menggunakan kata-kata ini untuk melampiaskan perasaan, tapi aku ingin memastikan kamu baik-baik saja. Apakah ada sesuatu yang ingin kamu bagikan?",
             "Aku tahu ini mungkin hanya ungkapan karena stres atau frustrasi, tapi jika kamu butuh dukungan, aku di sini untukmu."
         ],
-        "context": "kata_mati_tidak_serius"
+        "context": "bunuh_diri"
     },
     {
         "tag": "kehilangan_semangat",
@@ -2853,7 +2832,7 @@
             "Rasa sakit ini memang nyata, tapi itu tidak akan berlangsung selamanya. Beri dirimu waktu untuk merasakan dan menyembuhkan.",
             "Hati yang patah bisa terasa sangat berat, tapi aku ingin kamu tahu bahwa kamu tidak sendiri. Fokuslah pada langkah kecil untuk kembali bahagia."
         ],
-        "context": "patah_hati"
+        "context": "relationship"
     },
     {
         "tag": "putus_pacar",
@@ -2886,7 +2865,7 @@
             "Setelah putus, penting untuk merawat dirimu sendiri dan menemukan hal-hal yang membawa kebahagiaan. Kamu kuat, dan kamu akan melalui ini.",
             "Kenangan itu sulit untuk dilupakan, tapi aku yakin kamu bisa bangkit perlahan. Cobalah cari dukungan dari teman atau keluarga."
         ],
-        "context": "putus_pacar"
+        "context": "relationship"
     },
     {
         "tag": "bertengkar",
@@ -2919,7 +2898,7 @@
             "Setelah bertengkar, beri waktu untuk dirimu dan mereka untuk tenang. Kemudian, cobalah berbicara dari hati ke hati.",
             "Pertengkaran ini bisa menjadi pelajaran untuk saling memahami lebih baik. Jangan takut untuk membuka percakapan jika kamu siap."
         ],
-        "context": "bertengkar"
+        "context": "relationship"
     },
     {
         "tag": "baru_punya_pacar",
@@ -2952,7 +2931,7 @@
             "Selamat atas hubungan barumu! Ingat untuk saling menghargai dan mendukung satu sama lain.",
             "Luar biasa! Semoga perjalanan hubungan ini membawa banyak cerita indah untukmu."
         ],
-        "context": "baru_punya_pacar"
+        "context": "relationship"
     },
     {
         "tag": "jalan_dengan_pacar",
@@ -2985,7 +2964,7 @@
             "Kencan yang seru pasti membuat hubungan kalian semakin dekat. Semoga harimu menyenangkan!",
             "Bagus sekali! Semoga setiap momen bersama pasangan membawa kebahagiaan."
         ],
-        "context": "jalan_dengan_pacar"
+        "context": "relationship"
     },
     {
         "tag": "mendapat_nilai_jelek",
@@ -3051,7 +3030,7 @@
             "Jika pekerjaanmu terasa terlalu berat, coba prioritaskan tugas yang paling penting dan beri dirimu waktu untuk beristirahat.",
             "Aku tahu ini sulit, tetapi cobalah untuk tetap fokus pada apa yang bisa kamu kendalikan dan jangan ragu untuk berbicara dengan seseorang yang bisa membantumu."
         ],
-        "context": "masalah_tempat_kerja"
+        "context": "relationship"
     },
     {
         "tag": "masalah_dengan_orang_tua",
@@ -3084,7 +3063,7 @@
             "Jika kamu merasa sulit berbicara langsung, cobalah menuliskan perasaanmu dalam surat untuk mereka.",
             "Penting untuk menjaga komunikasi yang baik dengan orang tua. Cobalah untuk mendengarkan perspektif mereka sambil menjelaskan pandanganmu."
         ],
-        "context": "masalah_dengan_orang_tua"
+        "context": "relationship"
     },
     {
         "tag": "interaksi_positif_dengan_orang_tua",
@@ -3117,7 +3096,7 @@
             "Hal sederhana seperti mengucapkan terima kasih dan mendengarkan cerita mereka bisa sangat berarti.",
             "Orang tua pasti bangga melihat usahamu. Tetaplah menjadi anak yang penuh perhatian dan peduli."
         ],
-        "context": "interaksi_positif_dengan_orang_tua"
+        "context": "relationship"
     },
     {
         "tag": "masalah_pertemanan",
@@ -3150,7 +3129,7 @@
             "Komunikasi adalah kunci. Cobalah untuk berbicara dengan tenang dan jujur kepada temanmu tentang perasaanmu.",
             "Penting untuk menjaga pertemanan yang sehat. Jika hubungan ini terus menyakitimu, mungkin kamu perlu mempertimbangkan apa yang terbaik untukmu."
         ],
-        "context": "masalah_pertemanan"
+        "context": "relationship"
     },
     {
         "tag": "interaksi_positif_pertemanan",
@@ -3183,7 +3162,7 @@
             "Menghargai teman adalah salah satu cara terbaik untuk memperkuat hubungan kalian. Teruslah menjadi teman yang baik!",
             "Teman yang baik adalah harta yang berharga. Pastikan kamu juga mendukung mereka seperti mereka mendukungmu."
         ],
-        "context": "interaksi_positif_pertemanan"
+        "context": "relationship"
     },
     {
         "tag": "stres_tugas",
@@ -3221,7 +3200,7 @@
             "Beri dirimu penghargaan kecil setiap kali menyelesaikan bagian dari tugas. Ini bisa membantumu tetap termotivasi.",
             "Ingat, setiap tugas adalah kesempatan untuk belajar. Fokus pada proses dan jangan terlalu keras pada dirimu sendiri."
         ],
-        "context": "stres_tugas"
+        "context": "self_improvement"
     },
     {
         "tag": "membanggakan_orangtua",
@@ -3259,7 +3238,7 @@
             "Orang tua pasti merasa bangga denganmu, apalagi jika mereka melihat seberapa keras kamu berusaha untuk mewujudkan impianmu.",
             "Semangat terus! Ketika kita berusaha untuk membanggakan orang tua, kita juga memberi inspirasi bagi diri kita sendiri untuk lebih baik lagi."
         ],
-        "context": "membanggakan_orangtua"
+        "context": "self_improvement"
     },
     {
         "tag": "tidak_ingin_dilahirkan",
@@ -3294,7 +3273,7 @@
             "Perasaan seperti ini bisa sangat mengganggu, dan tidak apa-apa untuk merasa cemas atau bingung. Mencari dukungan emosional, baik dari keluarga, teman, atau seorang konselor, adalah langkah yang baik untuk merasa lebih baik.",
             "Jangan pernah ragu untuk mencari dukungan saat kamu merasa terpuruk. Kamu tidak sendirian, dan ada banyak orang yang peduli padamu. Kamu penting, dan hidupmu memiliki arti."
         ],
-        "context": "tidak_ingin_dilahirkan"
+        "context": "self_improvement"
     },
     {
         "tag": "bot_atau_orang_asli",
@@ -3361,7 +3340,7 @@
             "Saat kita merasa kehilangan ketertarikan dalam hidup, itu bisa menjadi sinyal bahwa kita perlu memberi perhatian lebih pada kesehatan mental kita. Cobalah untuk tidak terlalu keras pada diri sendiri. Cari waktu untuk beristirahat, mengatur harapan dengan lebih realistis, dan mencari cara untuk menyambung kembali dengan apa yang membuatmu merasa bahagia.",
             "Memang sulit untuk menemukan semangat ketika kamu merasa hampa atau kehilangan minat. Namun, sangat penting untuk diingat bahwa perasaan seperti ini sering kali bersifat sementara. Mencari dukungan dari orang terdekat, melibatkan diri dalam hobi baru, atau mempertimbangkan untuk mencari bantuan dari seorang profesional dapat membantu mengatasi perasaan ini."
         ],
-        "context": "kehilangan_ketertarikan_hidup"
+        "context": "self_improvement"
     },
     {
         "tag": "kesulitan_tidur",
@@ -3396,7 +3375,7 @@
             "Jika kamu merasa cemas dan kesulitan tidur, pastikan untuk memberi dirimu waktu untuk relaksasi sebelum tidur. Hindari makanan berat atau terlalu banyak minuman yang mengandung kafein beberapa jam sebelum tidur.",
             "Jika tidurmu terganggu, cobalah untuk menenangkan pikiran terlebih dahulu sebelum tidur. Lakukan teknik pernapasan atau visualisasi untuk menenangkan diri. Mengatur rutinitas tidur yang konsisten juga dapat membantu tubuhmu mengenali waktu tidur yang tepat."
         ],
-        "context": "kesulitan_tidur"
+        "context": "self_improvement"
     },
     {
         "tag": "agama_kepercayaan_bot",
@@ -3423,6 +3402,6 @@
             "Sebagai bot, saya tidak dapat memiliki agama atau kepercayaan.",
             "Karena saya adalah sistem berbasis kecerdasan buatan, saya tidak bisa percaya atau tidak percaya pada Tuhan."
         ],
-        "context": "agama_kepercayaan_bot"
+        "context": "sapaan"
     }
 ]
