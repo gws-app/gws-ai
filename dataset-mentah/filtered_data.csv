@@ -1,0 +1,34 @@
+mood,activities
+good,unsure | bored | bad sleep | movies | gaming | eat healthy
+good,happy | excited | bad sleep
+keren,keluarga | bersih-bersih
+keren,keluarga | teman | film | game | coding
+baik,keluarga | film | game | bersih-bersih | coding
+baik,keluarga | film | bersih-bersih | coding
+keren,teman | membaca | game | coding
+baik,makan sehat | santai | coding
+keren,santai | game | coding
+baik,bersyukur | cemas | tidur lumayan nenyak | minum air | film | membaca | masakan rumah | keluarga | teman | Doing the task | fokus | belanja | bersih-bersih | berawan | berangin | belajar
+baik,bersyukur | santai | tidak yakin | cemas | tidur lumayan nenyak | minum air | jalan kaki | film | membaca | masakan rumah | keluarga | kebaikan | mendengarkan | Doing the task | istirahat | bersih-bersih | berawan | belajar
+baik,senang | bersemangat | bersyukur | puas | tidur lumayan nenyak | jalan kaki | membaca | masakan rumah | keluarga | teman | kebaikan | mendengarkan | Doing the task | mulai lebih awal | buat daftar | fokus | bersih-bersih | berawan | hujan | berangin | kelas | belajar | pekerjaan rumah | ujian | proyek kelompok
+baik,bersyukur | cemas | tidur lumayan nenyak | minum air | jalan kaki | membaca | masakan rumah | keluarga | meditasi | kebaikan | mendengarkan | fokus | istirahat | bersih-bersih | cerah | belajar
+baik,bersemangat | puas | lelah | cemas | tidur lumayan nenyak | minum air | jalan kaki | membaca | masakan rumah | keluarga | teman | kebaikan | mendengarkan | Doing the task | buat daftar | fokus | bersih-bersih | cerah | berawan | hujan | kelas | belajar | pekerjaan rumah | ujian | proyek kelompok
+baik,bersemangat | bersyukur | tidur lumayan nenyak | minum air | jalan kaki | membaca | masakan rumah | keluarga | teman | meditasi | kebaikan | mendengarkan | Doing the task | fokus | belanja | bersih-bersih | cerah | kelas | belajar | pekerjaan rumah | ujian
+baik,bersemangat | tidur lumayan nenyak | minum air | jalan kaki | film | membaca | masakan rumah | keluarga | teman | kebaikan | Doing the task | fokus | bersih-bersih | berawan | hujan | belajar
+keren,teman | santai | membaca | game
+keren,keluarga | teman | kencan | olahraga | santai | belanja
+baik,tidur lebih awal | santai | game | belanja
+keren,keluarga | tidur lebih awal | makan sehat | santai | film | game
+baik,teman | tidur lebih awal | santai | game
+baik,olahraga | olahraga | bersih-bersih
+keren,tidur lebih awal | makan sehat | membaca | game | bersih-bersih | belanja
+baik,tidur lebih awal | game | bersih-bersih | belanja
+baik,tidur lebih awal | film | game
+keren,olahraga | tidur lebih awal | membaca | game | culinary
+baik,olahraga | makan sehat | film
+baik,tidur lebih awal | makan sehat | santai
+baik,keluarga | olahraga | makan sehat | membaca | culinary
+keren,keluarga | olahraga | tidur lebih awal
+good,friends
+good,manicure
+good,laundry

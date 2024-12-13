@@ -1,0 +1,667 @@
+mood,activities
+good,unsure | bored | bad sleep | movies | gaming | eat healthy
+good,happy | excited | bad sleep
+keren,keluarga | bersih-bersih
+keren,keluarga | teman | film | game | coding
+baik,keluarga | film | game | bersih-bersih | coding
+baik,keluarga | film | bersih-bersih | coding
+keren,teman | membaca | game | coding
+baik,makan sehat | santai | coding
+keren,santai | game | coding
+baik,bersyukur | cemas | tidur lumayan nenyak | minum air | film | membaca | masakan rumah | keluarga | teman | doing the task | fokus | belanja | bersih-bersih | berawan | berangin | belajar
+baik,bersyukur | santai | tidak yakin | cemas | tidur lumayan nenyak | minum air | jalan kaki | film | membaca | masakan rumah | keluarga | kebaikan | mendengarkan | doing the task | istirahat | bersih-bersih | berawan | belajar
+baik,senang | bersemangat | bersyukur | puas | tidur lumayan nenyak | jalan kaki | membaca | masakan rumah | keluarga | teman | kebaikan | mendengarkan | doing the task | mulai lebih awal | buat daftar | fokus | bersih-bersih | berawan | hujan | berangin | kelas | belajar | pekerjaan rumah | ujian | proyek kelompok
+baik,bersyukur | cemas | tidur lumayan nenyak | minum air | jalan kaki | membaca | masakan rumah | keluarga | meditasi | kebaikan | mendengarkan | fokus | istirahat | bersih-bersih | cerah | belajar
+baik,bersemangat | puas | lelah | cemas | tidur lumayan nenyak | minum air | jalan kaki | membaca | masakan rumah | keluarga | teman | kebaikan | mendengarkan | doing the task | buat daftar | fokus | bersih-bersih | cerah | berawan | hujan | kelas | belajar | pekerjaan rumah | ujian | proyek kelompok
+baik,bersemangat | bersyukur | tidur lumayan nenyak | minum air | jalan kaki | membaca | masakan rumah | keluarga | teman | meditasi | kebaikan | mendengarkan | doing the task | fokus | belanja | bersih-bersih | cerah | kelas | belajar | pekerjaan rumah | ujian
+baik,bersemangat | tidur lumayan nenyak | minum air | jalan kaki | film | membaca | masakan rumah | keluarga | teman | kebaikan | doing the task | fokus | bersih-bersih | berawan | hujan | belajar
+keren,teman | santai | membaca | game
+keren,keluarga | teman | kencan | olahraga | santai | belanja
+baik,tidur lebih awal | santai | game | belanja
+keren,keluarga | tidur lebih awal | makan sehat | santai | film | game
+baik,teman | tidur lebih awal | santai | game
+baik,olahraga | olahraga | bersih-bersih
+keren,tidur lebih awal | makan sehat | membaca | game | bersih-bersih | belanja
+baik,tidur lebih awal | game | bersih-bersih | belanja
+baik,tidur lebih awal | film | game
+keren,olahraga | tidur lebih awal | membaca | game | culinary
+baik,olahraga | makan sehat | film
+baik,tidur lebih awal | makan sehat | santai
+baik,keluarga | olahraga | makan sehat | membaca | culinary
+keren,keluarga | olahraga | tidur lebih awal
+good,friends
+good,manicure
+good,laundry
+good,reading | art | prayer | fasting  | walk | meditation  | shower | writing | watching series  | good meal | reddit | language learning  | streaming  | youtube | cooking | travel | cleaning | new things  | power nap | documentary  | penpal | coding 
+good,reading | learning  | art | prayer | fasting  | walk | meditation  | shower | audio books  | writing | watching series  | good meal | reddit | language learning  | shave  | streaming  | youtube | cooking | cleaning | research  | new things  | power nap | repair | documentary  | penpal | coding  | tutorial 
+good,reading | learning  | prayer | walk | meditation  | shower | writing | watching series  | good meal | reddit | language learning  | streaming  | youtube | cooking | travel | research  | new things  | power nap | penpal | coding  | tutorial 
+good,reading | learning  | prayer | fasting  | walk | meditation  | shower | writing | watching series  | news update | good meal | reddit | language learning  | streaming  | youtube | cooking | travel | new things  | power nap | email | documentary  | penpal | coding  | tutorial 
+amazing,reading | learning  | art | meditation  | shower | writing | watching series  | good meal | reddit | language learning  | streaming  | youtube | cooking | cleaning | research  | new things  | power nap | documentary  | penpal | coding  | tutorial 
+good,reading | learning  | fasting  | walk | meditation  | audio books  | writing | watching series  | good meal | reddit | trimming  | streaming  | youtube | cooking | cleaning | new things  | power nap | documentary  | penpal | coding  | tutorial 
+good,reading | learning  | prayer | fasting  | walk | meditation  | shower | audio books  | writing | watching series  | good meal | reddit | language learning  | poetry  | streaming  | youtube | cooking | cleaning | new things  | designing  | penpal | coding  | tutorial 
+good,reading | learning  | prayer | fasting  | walk | meditation  | shower | audio books  | writing | watching series  | news update | good meal | reddit | language learning  | trimming  | streaming  | youtube | cooking | research  | new things  | power nap | documentary  | penpal | coding  | tutorial 
+good,reading | write dairy  | prayer | fasting  | walk | meditation  | shower | audio books  | writing | watching series  | good meal | reddit | language learning  | yoga | streaming  | youtube | cooking | research  | new things  | power nap | documentary  | penpal | coding  | tutorial 
+good,reading | learning  | prayer | fasting  | walk | meditation  | shower | audio books  | writing | watching series  | good meal | reddit | language learning  | streaming  | youtube | cooking | travel | research  | new things  | power nap | documentary  | penpal | coding  | tutorial 
+amazing,reading | learning  | art | prayer | fasting  | walk | meditation  | shower | audio books  | writing | watching series  | good meal | reddit | language learning  | poetry  | streaming  | youtube | cooking | travel | cleaning | research  | new things  | power nap | designing  | documentary  | penpal | coding  | tutorial 
+good,reading | art | prayer | fasting  | walk | meditation  | writing | watching series  | reddit | language learning  | streaming  | youtube | cooking | cleaning | research  | new things  | power nap | documentary  | penpal | coding  | tutorial 
+good,reading | learning  | art | prayer | fasting  | walk | meditation  | shower | audio books  | writing | watching series  | good meal | reddit | language learning  | poetry  | streaming  | youtube | cooking | research  | new things  | songs | designing  | documentary  | penpal | coding  | tutorial 
+good,reading | learning  | prayer | fasting  | walk | meditation  | shower | podcast | audio books  | writing | watching series  | reddit | language learning  | streaming  | youtube | cooking | travel | new things  | power nap | songs | documentary  | penpal | coding  | tutorial 
+good,reading | write dairy  | prayer | fasting  | quran  | walk | meditation  | shower | audio books  | writing | watching series  | news update | good meal | reddit | language learning  | youtube | cooking | cleaning | research  | new things  | power nap | documentary  | penpal | coding  | tutorial  | jobs
+good,reading | art | fasting  | walk | meditation  | writing | watching series  | good meal | reddit | language learning  | streaming  | youtube | cooking | cleaning | research  | new things  | power nap | songs | documentary  | penpal | coding  | tutorial 
+amazing,reading | learning  | art | prayer | fasting  | walk | meditation  | shower | audio books  | writing | watching series  | good meal | reddit | language learning  | streaming  | youtube | cooking | cleaning | research  | new things  | power nap | repair | documentary  | penpal | coding  | tutorial 
+good,reading | learning  | art | prayer | fasting  | walk | meditation  | shower | podcast | audio books  | writing | watching series  | good meal | language learning  | streaming  | youtube | cooking | travel | research  | new things  | power nap | documentary  | penpal | coding  | tutorial 
+good,reading | learning  | art | prayer | fasting  | walk | meditation  | shower | writing | watching series  | good meal | reddit | language learning  | streaming  | youtube | cleaning | research  | new things  | power nap | documentary  | penpal | coding  | tutorial 
+good,reading | learning  | walk | meditation  | shower | writing | watching series  | good meal | reddit | language learning  | streaming  | youtube | movies | cooking | research  | new things  | power nap | documentary  | penpal | coding  | tutorial 
+good,reading | learning  | prayer | fasting  | walk | meditation  | shower | writing | watching series  | good meal | reddit | language learning  | shave  | streaming  | youtube | cooking | travel | power nap | songs | documentary  | penpal | coding  | tutorial 
+good,reading | learning  | prayer | fasting  | quran  | walk | meditation  | shower | podcast | audio books  | writing | watching series  | news update | good meal | reddit | language learning  | streaming  | youtube | cooking | research  | new things  | power nap | documentary  | penpal | coding  | tutorial 
+good,reading | prayer | fasting  | walk | meditation  | shower | audio books  | writing | watching series  | good meal | reddit | language learning  | streaming  | youtube | movies | cleaning | research  | new things  | power nap | songs | documentary  | penpal | coding  | tutorial 
+good,reading | learning  | prayer | fasting  | exercise  | walk | meditation  | shower | audio books  | writing | watching series  | news update | reddit | language learning  | streaming  | youtube | cooking | research  | new things  | power nap | documentary  | penpal | coding  | tutorial 
+good,reading | learning  | prayer | fasting  | walk | meditation  | shower | audio books  | writing | watching series  | good meal | language learning  | shave  | streaming  | youtube | cooking | new things  | songs | documentary  | penpal | coding  | tutorial 
+good,reading | learning  | prayer | fasting  | walk | meditation  | podcast | audio books  | writing | watching series  | good meal | reddit | language learning  | streaming  | youtube | cooking | research  | new things  | power nap | documentary  | penpal | coding  | tutorial 
+good,reading | learning  | write dairy  | prayer | fasting  | walk | meditation  | shower | audio books  | writing | watching series  | news update | reddit | language learning  | streaming  | youtube | cooking | research  | power nap | documentary  | penpal | coding  | tutorial 
+good,reading | learning  | prayer | fasting  | walk | meditation  | podcast | audio books  | writing | watching series  | good meal | reddit | language learning  | streaming  | youtube | cooking | cleaning | research  | new things  | power nap | songs | documentary  | penpal | coding  | tutorial 
+amazing,reading | learning  | art | prayer | fasting  | quran  | walk | meditation  | shower | audio books  | writing | watching series  | good meal | reddit | language learning  | streaming  | youtube | cooking | research  | new things  | email | documentary  | penpal | coding  | tutorial 
+good,reading | learning  | art | prayer | walk | meditation  | audio books  | writing | watching series  | good meal | reddit | language learning  | streaming  | youtube | cooking | cleaning | research  | new things  | power nap | documentary  | penpal | coding  | tutorial 
+good,learning  | prayer | fasting  | walk | meditation  | shower | audio books  | writing | watching series  | good meal | language learning  | shave  | streaming  | youtube | cooking | cleaning | new things  | power nap | penpal | coding  | tutorial 
+good,learning  | art | prayer | fasting  | quran  | walk | meditation  | shower | podcast | audio books  | writing | watching series  | good meal | reddit | language learning  | streaming  | youtube | cooking | cleaning | research  | new things  | power nap | songs | designing  | documentary  | penpal | coding  | tutorial 
+good,reading | learning  | art | prayer | fasting  | walk | meditation  | shower | audio books  | writing | watching series  | good meal | reddit | language learning  | streaming  | youtube | cooking | cleaning | research  | new things  | power nap | documentary  | coding  | tutorial  | love
+good,art | prayer | fasting  | walk | meditation  | shower | audio books  | writing | watching series  | good meal | reddit | language learning  | streaming  | youtube | cooking | cleaning | research  | power nap | documentary  | coding  | tutorial 
+good,reading | art | prayer | fasting  | meditation  | shower | audio books  | writing | watching series  | good meal | reddit | language learning  | streaming  | youtube | cooking | research  | new things  | power nap | documentary  | coding  | tutorial  | love
+good,reading | learning  | prayer | fasting  | walk | meditation  | shower | audio books  | writing | watching series  | reddit | language learning  | streaming  | youtube | cooking | research  | new things  | power nap | songs | documentary  | penpal | coding  | tutorial 
+good,reading | learning  | art | fasting  | walk | meditation  | podcast | audio books  | writing | watching series  | news update | good meal | reddit | language learning  | streaming  | youtube | cooking | cleaning | research  | new things  | power nap | documentary  | coding  | love
+good,reading | learning  | prayer | fasting  | walk | meditation  | shower | audio books  | writing | watching series  | good meal | reddit | language learning  | poetry  | streaming  | youtube | cooking | research  | new things  | songs | repair | penpal | coding  | tutorial  | recording 
+good,reading | learning  | prayer | fasting  | walk | meditation  | audio books  | writing | watching series  | good meal | reddit | language learning  | yoga | poetry  | streaming  | youtube | cooking | cleaning | research  | new things  | power nap | songs | repair | documentary  | penpal | coding  | tutorial  | love
+good,reading | learning  | art | prayer | fasting  | meditation  | shower | podcast | audio books  | writing | watching series  | good meal | language learning  | yoga | streaming  | youtube | cooking | cleaning | research  | new things  | power nap | songs | designing  | documentary  | penpal | coding  | tutorial 
+good,reading | learning  | prayer | fasting  | exercise  | meditation  | shower | audio books  | writing | watching series  | good meal | reddit | language learning  | streaming  | youtube | cooking | cleaning | research  | new things  | power nap | songs | repair | documentary  | penpal | coding  | tutorial  | love | recording 
+good,reading | learning  | fasting  | walk | shower | podcast | audio books  | writing | watching series  | good meal | language learning  | streaming  | youtube | cooking | cleaning | research  | new things  | power nap | documentary  | penpal | coding  | tutorial 
+good,reading | learning  | fasting  | walk | shower | podcast | audio books  | writing | watching series  | good meal | reddit | language learning  | yoga | streaming  | youtube | cooking | cleaning | research  | new things  | power nap | songs | designing  | repair | documentary  | penpal | coding  | tutorial 
+amazing,reading | prayer | fasting  | walk | shower | audio books  | writing | watching series  | good meal | reddit | language learning  | streaming  | youtube | cooking | cleaning | research  | new things  | power nap | documentary  | penpal | coding  | tutorial 
+amazing,reading | learning  | fasting  | shower | audio books  | watching series  | good meal | language learning  | streaming  | youtube | cooking | cleaning | research  | new things  | power nap | documentary  | penpal | coding  | tutorial 
+amazing,reading | learning  | fasting  | walk | writing | watching series  | good meal | reddit | language learning  | streaming  | youtube | cooking | cleaning | research  | new things  | power nap | songs | designing  | documentary  | penpal | coding  | tutorial 
+good,reading | learning  | prayer | fasting  | walk | meditation  | shower | audio books  | writing | watching series  | reddit | language learning  | streaming  | youtube | cooking | cleaning | research  | new things  | family | songs | documentary  | penpal | coding  | tutorial  | love
+amazing,reading | learning  | fasting  | walk | audio books  | watching series  | good meal | language learning  | streaming  | youtube | cooking | cleaning | research  | new things  | power nap | documentary  | penpal | coding  | tutorial  | love
+good,reading | learning  | fasting  | exercise  | shower | writing | watching series  | good meal | reddit | language learning  | streaming  | youtube | cooking | cleaning | research  | power nap | documentary  | penpal | coding  | tutorial 
+good,reading | learning  | fasting  | walk | meditation  | audio books  | writing | news update | reddit | language learning  | streaming  | youtube | cooking | cleaning | research  | new things  | power nap | documentary  | penpal | coding  | tutorial 
+good,reading | learning  | fasting  | exercise  | shower | audio books  | writing | watching series  | good meal | reddit | language learning  | streaming  | youtube | cooking | cleaning | research  | new things  | power nap | documentary  | penpal | coding  | tutorial  | love
+good,reading | learning  | fasting  | walk | shower | audio books  | writing | watching series  | good meal | reddit | language learning  | streaming  | youtube | movies | cooking | cleaning | research  | new things  | power nap | songs | repair | documentary  | penpal | coding  | tutorial 
+good,reading | learning  | fasting  | walk | audio books  | writing | watching series  | good meal | reddit | language learning  | streaming  | youtube | cooking | cleaning | research  | power nap | documentary  | penpal | coding  | tutorial  | love
+good,reading | learning  | prayer | fasting  | walk | meditation  | shower | audio books  | writing | watching series  | good meal | reddit | language learning  | streaming  | youtube | cooking | holotropic  | research  | new things  | power nap | songs | repair | documentary  | penpal | coding  | tutorial 
+good,reading | learning  | fasting  | walk | meditation  | shower | writing | watching series  | news update | language learning  | youtube | movies | cooking | cleaning | research  | new things  | power nap | documentary  | penpal | coding  | tutorial  | love
+good,reading | learning  | fasting  | walk | meditation  | audio books  | writing | watching series  | news update | good meal | reddit | language learning  | streaming  | youtube | movies | cooking | research  | new things  | power nap | songs | designing  | documentary  | penpal | coding  | tutorial  | love | recording 
+amazing,reading | learning  | fasting  | walk | meditation  | shower | audio books  | writing | watching series  | news update | good meal | reddit | language learning  | streaming  | youtube | movies | cooking | travel | cleaning | research  | new things  | power nap | songs | documentary  | penpal | coding  | tutorial  | love
+amazing,reading | prayer | fasting  | exercise  | walk | meditation  | shower | audio books  | writing | watching series  | good meal | reddit | language learning  | poetry  | streaming  | youtube | movies | cooking | holotropic  | travel | cleaning | research  | new things  | power nap | documentary  | penpal | coding  | tutorial 
+good,reading | learning  | prayer | fasting  | walk | meditation  | shower | audio books  | writing | watching series  | news update | reddit | language learning  | streaming  | youtube | movies | cooking | cleaning | research  | new things  | power nap | email | documentary  | penpal | coding  | tutorial 
+good,reading | learning  | fasting  | audio books  | writing | watching series  | news update | good meal | reddit | language learning  | streaming  | youtube | movies | cooking | cleaning | research  | new things  | power nap | documentary  | penpal | coding  | tutorial 
+good,reading | learning  | fasting  | meditation  | audio books  | watching series  | reddit | language learning  | streaming  | youtube | movies | cooking | cleaning | research  | new things  | power nap | documentary  | penpal | coding  | tutorial  | love
+amazing,reading | learning  | prayer | fasting  | walk | meditation  | shower | audio books  | writing | watching series  | good meal | reddit | language learning  | streaming  | youtube | movies | cooking | holotropic  | research  | new things  | power nap | documentary  | penpal | coding  | tutorial 
+amazing,reading | learning  | fasting  | walk | shower | audio books  | writing | watching series  | news update | good meal | reddit | language learning  | shave  | streaming  | youtube | cooking | cleaning | research  | new things  | power nap | documentary  | penpal | coding  | tutorial  | love
+good,write dairy  | fasting  | walk | meditation  | shower | audio books  | writing | watching series  | reddit | language learning  | streaming  | youtube | cooking | cleaning | research  | new things  | power nap | documentary  | penpal | coding  | tutorial  | love
+good,reading | prayer | fasting  | walk | audio books  | writing | watching series  | reddit | language learning  | streaming  | youtube | cooking | cleaning | research  | new things  | power nap | documentary  | penpal | coding  | tutorial 
+good,reading | learning  | fasting  | walk | meditation  | shower | writing | watching series  | reddit | language learning  | streaming  | youtube | cooking | cleaning | research  | new things  | power nap | documentary  | penpal | coding  | tutorial 
+good,reading | learning  | fasting  | walk | shower | audio books  | writing | good meal | language learning  | streaming  | youtube | cooking | cleaning | new things  | power nap | songs | designing  | documentary  | penpal | coding  | tutorial 
+good,reading | prayer | fasting  | meditation  | shower | dota 2 | podcast | audio books  | writing | good meal | streaming  | youtube | movies | cooking | cleaning | research  | power nap | documentary  | penpal | coding  | tutorial 
+good,learning  | art | fasting  | meditation  | shower | audio books  | writing | watching series  | reddit | language learning  | streaming  | youtube | cleaning | research  | family | power nap | coding  | love
+good,reading | prayer | fasting  | meditation  | shower | audio books  | writing | watching series  | news update | good meal | reddit | language learning  | streaming  | youtube | cooking | travel | research  | new things  | power nap | documentary  | penpal | coding  | tutorial 
+amazing,reading | learning  | prayer | fasting  | meditation  | shower | dota 2 | audio books  | writing | watching series  | news update | reddit | streaming  | youtube | cooking | cleaning | research  | power nap | documentary  | penpal | coding  | tutorial 
+good,reading | learning  | prayer | fasting  | exercise  | walk | meditation  | audio books  | writing | watching series  | news update | good meal | reddit | language learning  | streaming  | youtube | cooking | cleaning | research  | new things  | power nap | songs | documentary  | penpal | coding  | tutorial  | recording 
+amazing,learning  | walk | streaming  | youtube | cooking | research  | new things  | documentary  | coding 
+amazing,reading | fasting  | meditation  | shower | audio books  | writing | watching series  | news update | good meal | reddit | language learning  | yoga | streaming  | youtube | cleaning | research  | family | power nap | repair | documentary  | penpal | coding  | tutorial  | love
+good,reading | learning  | art | prayer | fasting  | meditation  | shower | writing | watching series  | reddit | language learning  | yoga | streaming  | youtube | cooking | travel | cleaning | research  | new things  | family | power nap | songs | documentary  | penpal | coding 
+good,reading | learning  | art | fasting  | meditation  | shower | audio books  | writing | watching series  | news update | good meal | reddit | language learning  | streaming  | youtube | movies | cooking | cleaning | research  | new things  | power nap | documentary  | penpal | coding  | tutorial  | love
+amazing,reading | learning  | prayer | fasting  | walk | meditation  | shower | podcast | audio books  | writing | watching series  | news update | good meal | reddit | language learning  | yoga | streaming  | youtube | movies | cooking | holotropic  | travel | cleaning | research  | new things  | family | power nap | songs | designing  | repair | documentary  | penpal | coding  | tutorial 
+amazing,reading | learning  | prayer | fasting  | walk | meditation  | shower | audio books  | writing | watching series  | news update | good meal | reddit | language learning  | streaming  | youtube | cooking | cleaning | research  | new things  | power nap | songs | documentary  | coding  | tutorial 
+good,reading | art | fasting  | walk | meditation  | shower | audio books  | writing | watching series  | news update | good meal | reddit | language learning  | streaming  | youtube | cooking | cleaning | research  | new things  | power nap | repair | documentary  | penpal | coding  | tutorial  | love
+amazing,reading | learning  | prayer | fasting  | meditation  | shower | audio books  | writing | watching series  | news update | reddit | language learning  | streaming  | youtube | cooking | cleaning | research  | new things  | penpal | coding  | tutorial  | love
+amazing,reading | prayer | fasting  | meditation  | shower | audio books  | writing | watching series  | good meal | reddit | language learning  | poetry  | streaming  | youtube | cooking | research  | new things  | family | documentary  | penpal | coding  | tutorial 
+good,reading | learning  | prayer | fasting  | walk | shower | audio books  | writing | watching series  | news update | good meal | reddit | language learning  | streaming  | youtube | movies | cooking | research  | new things  | power nap | documentary  | penpal | coding  | tutorial 
+good,reading | learning  | art | prayer | fasting  | walk | meditation  | shower | audio books  | writing | watching series  | news update | good meal | reddit | language learning  | streaming  | youtube | movies | cooking | cleaning | research  | power nap | songs | repair | penpal | coding  | tutorial 
+amazing,reading | learning  | art | prayer | fasting  | meditation  | shower | audio books  | writing | watching series  | news update | good meal | reddit | streaming  | youtube | cooking | cleaning | research  | new things  | power nap | repair | documentary  | penpal | coding  | tutorial 
+good,reading | learning  | prayer | fasting  | meditation  | shower | audio books  | writing | watching series  | news update | good meal | reddit | language learning  | streaming  | youtube | cooking | cleaning | research  | new things  | power nap | songs | repair | documentary  | penpal | coding  | tutorial  | love
+good,reading | fasting  | shower | audio books  | writing | watching series  | language learning  | streaming  | youtube | cooking | travel | research  | new things  | power nap | documentary  | penpal | coding  | tutorial 
+good,reading | learning  | prayer | fasting  | walk | shower | audio books  | writing | watching series  | news update | good meal | reddit | streaming  | youtube | cooking | cleaning | research  | new things  | power nap | songs | documentary  | penpal | coding  | tutorial 
+good,reading | learning  | prayer | fasting  | shower | audio books  | writing | watching series  | news update | good meal | reddit | streaming  | youtube | cooking | travel | cleaning | new things  | power nap | penpal
+good,reading | art | fasting  | walk | shower | podcast | audio books  | writing | watching series  | news update | good meal | reddit | language learning  | streaming  | youtube | cooking | research  | new things  | power nap | songs | documentary  | penpal | coding  | tutorial  | love
+good,reading | learning  | prayer | meditation  | shower | dota 2 | podcast | audio books  | writing | watching series  | good meal | reddit | language learning  | streaming  | youtube | cooking | cleaning | research  | new things  | power nap | repair | documentary  | penpal | coding  | tutorial  | love
+good,reading | learning  | art | fasting  | shower | audio books  | writing | watching series  | good meal | reddit | language learning  | streaming  | youtube | cooking | travel | research  | power nap | documentary  | penpal | coding  | tutorial  | love
+good,reading | learning  | shower | audio books  | writing | watching series  | news update | good meal | reddit | language learning  | streaming  | youtube | cooking | cleaning | research  | new things  | power nap | documentary  | penpal | coding  | tutorial 
+good,reading | learning  | art | write dairy  | prayer | fasting  | walk | shower | writing | reddit | language learning  | streaming  | youtube | cooking | research  | new things  | power nap | songs | documentary  | penpal | coding  | tutorial 
+good,reading | learning  | fasting  | audio books  | writing | watching series  | good meal | reddit | language learning  | streaming  | youtube | cooking | cleaning | research  | new things  | power nap | penpal | party | coding  | tutorial  | love
+good,reading | learning  | prayer | fasting  | shower | audio books  | writing | watching series  | good meal | reddit | language learning  | streaming  | youtube | cooking | cleaning | research  | new things  | power nap | repair | penpal | coding  | tutorial  | love
+good,reading | fasting  | quran  | walk | audio books  | writing | watching series  | news update | good meal | reddit | language learning  | streaming  | youtube | cooking | cleaning | research  | power nap | penpal | coding  | tutorial  | love
+good,reading | learning  | fasting  | walk | audio books  | writing | watching series  | good meal | reddit | language learning  | streaming  | youtube | cooking | cleaning | research  | new things  | power nap | documentary  | penpal | coding  | tutorial  | love
+good,reading | learning  | art | prayer | fasting  | walk | shower | audio books  | writing | watching series  | news update | good meal | reddit | language learning  | streaming  | youtube | cooking | cleaning | new things  | power nap | penpal | coding  | tutorial 
+good,reading | art | prayer | fasting  | walk | shower | audio books  | writing | watching series  | news update | reddit | language learning  | streaming  | youtube | movies | cooking | research  | new things  | power nap | documentary  | penpal | coding  | tutorial  | love
+good,reading | art | fasting  | walk | shower | watching series  | news update | reddit | language learning  | streaming  | youtube | cooking | research  | new things  | power nap | documentary  | penpal | coding  | tutorial 
+good,reading | learning  | art | fasting  | walk | shower | podcast | audio books  | writing | watching series  | news update | good meal | reddit | language learning  | streaming  | youtube | cooking | cleaning | research  | new things  | power nap | documentary  | penpal | coding  | tutorial  | love
+good,reading | learning  | prayer | fasting  | walk | shower | dota 2 | podcast | audio books  | writing | watching series  | news update | good meal | reddit | language learning  | streaming  | youtube | cooking | research  | new things  | power nap | songs | repair | documentary  | penpal | coding  | tutorial  | love | recording 
+good,reading | art | prayer | fasting  | quran  | walk | meditation  | shower | audio books  | writing | watching series  | news update | good meal | reddit | language learning  | streaming  | youtube | cooking | travel | new things  | power nap | songs | penpal | coding  | tutorial  | love
+good,reading | learning  | prayer | fasting  | walk | meditation  | shower | audio books  | writing | watching series  | news update | good meal | reddit | language learning  | streaming  | youtube | cooking | research  | new things  | power nap | songs | documentary  | penpal | coding  | tutorial  | love | recording 
+good,reading | learning  | prayer | fasting  | quran  | walk | meditation  | shower | podcast | audio books  | writing | watching series  | good meal | reddit | language learning  | streaming  | youtube | cooking | cleaning | research  | new things  | power nap | documentary  | penpal | coding  | tutorial  | love
+good,reading | learning  | art | fasting  | quran  | shower | audio books  | writing | watching series  | good meal | reddit | language learning  | streaming  | youtube | cooking | cleaning | research  | new things  | power nap | documentary  | penpal | coding  | tutorial  | love
+good,reading | prayer | fasting  | walk | meditation  | shower | audio books  | writing | watching series  | news update | good meal | reddit | streaming  | youtube | cooking | cleaning | research  | power nap | songs | penpal | coding  | tutorial  | love
+good,reading | prayer | fasting  | meditation  | shower | writing | reddit | language learning  | streaming  | youtube | cooking | new things  | power nap | songs | designing  | documentary  | penpal | coding  | tutorial  | love
+good,reading | art | fasting  | audio books  | writing | good meal | reddit | language learning  | yoga | streaming  | youtube | cooking | research  | new things  | power nap | repair | documentary  | penpal | coding  | tutorial  | love
+good,learning  | prayer | fasting  | shower | audio books  | writing | watching series  | news update | good meal | reddit | language learning  | streaming  | youtube | cooking | research  | new things  | power nap | documentary  | penpal | coding  | tutorial  | love
+good,art | fasting  | shower | audio books  | writing | watching series  | good meal | language learning  | streaming  | youtube | cooking | cleaning | research  | new things  | power nap | songs | penpal | coding  | tutorial  | love | recording 
+good,reading | learning  | fasting  | walk | audio books  | writing | watching series  | news update | reddit | language learning  | streaming  | youtube | cooking | travel | new things  | power nap | designing  | repair | documentary  | penpal | coding  | tutorial  | jobs | love
+good,learning  | art | fasting  | shower | audio books  | writing | watching series  | reddit | language learning  | streaming  | youtube | cooking | research  | new things  | power nap | documentary  | penpal | coding  | tutorial 
+good,learning  | art | write dairy  | prayer | fasting  | walk | shower | dota 2 | podcast | audio books  | writing | watching series  | good meal | reddit | yoga | poetry  | streaming  | youtube | cooking | cleaning | research  | new things  | power nap | songs | designing  | documentary  | penpal | coding  | tutorial 
+amazing,reading | art | prayer | fasting  | walk | shower | podcast | audio books  | writing | watching series  | news update | good meal | reddit | language learning  | streaming  | youtube | cooking | cleaning | research  | new things  | power nap | songs | designing  | documentary  | penpal | coding  | tutorial 
+amazing,learning  | prayer | fasting  | meditation  | shower | audio books  | writing | watching series  | news update | good meal | reddit | language learning  | streaming  | youtube | cooking | cleaning | research  | new things  | power nap | documentary  | penpal | coding  | tutorial  | love
+good,learning  | prayer | fasting  | walk | meditation  | shower | audio books  | writing | watching series  | news update | good meal | reddit | language learning  | streaming  | youtube | cooking | cleaning | new things  | power nap | songs | designing  | documentary  | penpal | coding  | tutorial  | love
+good,reading | walk | meditation  | shower | audio books  | writing | watching series  | news update | reddit | language learning  | streaming  | youtube | cooking | cleaning | research  | new things  | power nap | designing  | repair | documentary  | penpal | coding  | tutorial  | love | recording 
+good,learning  | art | prayer | fasting  | walk | meditation  | shower | podcast | audio books  | watching series  | news update | good meal | reddit | language learning  | streaming  | youtube | cooking | cleaning | research  | new things  | power nap | designing  | repair | documentary  | penpal | coding  | tutorial  | love | recording 
+good,learning  | art | fasting  | shower | audio books  | writing | watching series  | news update | good meal | reddit | streaming  | youtube | cooking | cleaning | research  | new things  | power nap | email | songs | repair | documentary  | penpal | coding  | tutorial  | love
+good,learning  | art | fasting  | walk | shower | audio books  | writing | watching series  | news update | good meal | reddit | language learning  | streaming  | youtube | cooking | cleaning | new things  | power nap | songs | designing  | repair | penpal | coding  | tutorial  | love | recording 
+good,learning  | art | prayer | fasting  | walk | shower | audio books  | writing | watching series  | reddit | language learning  | poetry  | streaming  | youtube | cooking | holotropic  | cleaning | research  | new things  | power nap | songs | designing  | repair | documentary  | penpal | coding  | tutorial  | jobs | recording  | weight log
+good,fasting  | audio books  | writing | watching series  | good meal | reddit | language learning  | yoga | streaming  | youtube | cooking | research  | power nap | songs | designing  | repair | penpal | coding  | tutorial  | jobs
+amazing,learning  | art | prayer | fasting  | walk | shower | audio books  | writing | watching series  | news update | good meal | reddit | language learning  | streaming  | youtube | cooking | travel | research  | new things  | power nap | email | songs | designing  | documentary  | penpal | coding  | tutorial  | love | recording 
+good,art | fasting  | quran  | walk | shower | audio books  | writing | watching series  | news update | good meal | reddit | language learning  | streaming  | youtube | cooking | cleaning | research  | new things  | power nap | songs | designing  | documentary  | penpal | coding  | tutorial  | love | recording 
+good,learning  | prayer | fasting  | quran  | walk | meditation  | shower | dota 2 | podcast | audio books  | writing | watching series  | news update | good meal | reddit | language learning  | shave  | streaming  | youtube | cooking | cleaning | research  | new things  | power nap | songs | designing  | repair | documentary  | penpal | coding  | tutorial 
+good,learning  | prayer | fasting  | shower | audio books  | writing | watching series  | news update | good meal | reddit | language learning  | streaming  | youtube | cooking | research  | new things  | family | power nap | songs | penpal | coding  | tutorial  | love
+amazing,learning  | fasting  | walk | audio books  | writing | watching series  | news update | good meal | reddit | language learning  | streaming  | youtube | cooking | cleaning | research  | new things  | power nap | songs | designing  | repair | documentary  | penpal | coding  | tutorial  | love
+good,learning  | prayer | fasting  | walk | audio books  | writing | watching series  | news update | good meal | reddit | language learning  | streaming  | youtube | cooking | cleaning | research  | new things  | power nap | songs | documentary  | penpal | coding  | tutorial  | recording 
+good,reading | art | fasting  | shower | audio books  | writing | watching series  | news update | good meal | reddit | language learning  | streaming  | youtube | cooking | cleaning | research  | new things  | power nap | designing  | documentary  | penpal | coding  | tutorial  | love
+good,learning  | art | fasting  | walk | audio books  | writing | watching series  | news update | good meal | reddit | language learning  | streaming  | youtube | cooking | cleaning | research  | new things  | power nap | songs | designing  | documentary  | penpal | coding  | tutorial  | jobs | love | recording 
+amazing,learning  | art | prayer | fasting  | shower | audio books  | writing | watching series  | news update | good meal | reddit | language learning  | streaming  | youtube | cooking | research  | new things  | power nap | songs | designing  | documentary  | penpal | coding  | tutorial  | love | recording 
+amazing,learning  | shower | podcast | audio books  | writing | news update | good meal | reddit | language learning  | streaming  | youtube | movies | cooking | cleaning | research  | new things  | power nap | songs | designing  | documentary  | penpal | coding  | tutorial  | love | recording 
+good,learning  | art | fasting  | audio books  | writing | watching series  | news update | good meal | reddit | language learning  | streaming  | youtube | cooking | cleaning | research  | new things  | power nap | email | designing  | documentary  | penpal | coding  | tutorial 
+good,fasting  | walk | meditation  | audio books  | writing | watching series  | news update | good meal | reddit | language learning  | streaming  | youtube | cooking | research  | new things  | power nap | songs | designing  | documentary  | coding  | tutorial  | love
+good,learning  | prayer | fasting  | exercise  | walk | meditation  | shower | dota 2 | audio books  | writing | watching series  | news update | good meal | reddit | language learning  | streaming  | youtube | cleaning | research  | power nap | designing  | documentary  | coding  | tutorial  | love
+good,reading | learning  | fasting  | walk | meditation  | shower | podcast | audio books  | writing | watching series  | news update | good meal | reddit | language learning  | streaming  | youtube | cooking | cleaning | research  | new things  | power nap | documentary  | coding  | tutorial 
+good,fasting  | walk | shower | audio books  | writing | watching series  | news update | good meal | reddit | language learning  | streaming  | youtube | movies | cooking | research  | power nap | documentary  | coding  | tutorial  | love | recording 
+good,prayer | quran  | walk | meditation  | shower | audio books  | writing | watching series  | news update | good meal | reddit | language learning  | streaming  | youtube | cooking | research  | power nap | designing  | repair | documentary  | coding  | tutorial  | love | recording 
+good,learning  | fasting  | walk | watching series  | news update | good meal | reddit | language learning  | streaming  | youtube | cooking | research  | new things  | power nap | coding  | tutorial 
+good,learning  | prayer | fasting  | walk | meditation  | audio books  | writing | watching series  | news update | good meal | reddit | language learning  | streaming  | youtube | movies | cooking | cleaning | research  | power nap | songs | penpal | coding  | tutorial  | jobs
+good,learning  | prayer | fasting  | quran  | walk | meditation  | shower | audio books  | writing | watching series  | news update | good meal | reddit | language learning  | streaming  | youtube | cooking | research  | new things  | power nap | songs | documentary  | penpal | coding  | tutorial 
+good,learning  | fasting  | exercise  | meditation  | shower | dota 2 | podcast | audio books  | writing | watching series  | news update | good meal | reddit | language learning  | streaming  | youtube | cooking | cleaning | research  | power nap | songs | documentary  | coding  | tutorial 
+good,fasting  | exercise  | quran  | walk | meditation  | audio books  | writing | watching series  | news update | good meal | reddit | language learning  | streaming  | youtube | cooking | cleaning | research  | power nap | email | coding  | tutorial 
+good,prayer | fasting  | exercise  | walk | meditation  | shower | audio books  | writing | watching series  | news update | good meal | reddit | language learning  | streaming  | youtube | research  | new things  | email | songs | repair | documentary  | penpal | coding  | tutorial 
+good,learning  | prayer | fasting  | quran  | walk | meditation  | shower | audio books  | writing | watching series  | news update | good meal | reddit | language learning  | streaming  | youtube | cooking | cleaning | research  | new things  | power nap | documentary  | penpal | coding  | tutorial 
+good,learning  | fasting  | walk | meditation  | shower | audio books  | writing | watching series  | news update | good meal | reddit | language learning  | poetry  | streaming  | youtube | cooking | cleaning | research  | new things  | power nap | email | songs | repair | penpal | coding  | tutorial 
+good,learning  | prayer | fasting  | quran  | walk | meditation  | shower | audio books  | writing | watching series  | news update | good meal | reddit | language learning  | streaming  | youtube | cooking | cleaning | research  | new things  | power nap | documentary  | penpal | coding  | tutorial 
+good,learning  | prayer | fasting  | walk | meditation  | shower | dota 2 | audio books  | writing | watching series  | news update | good meal | reddit | language learning  | streaming  | youtube | cooking | cleaning | research  | new things  | power nap | email | documentary  | penpal | coding  | tutorial 
+good,learning  | art | prayer | fasting  | walk | meditation  | shower | audio books  | writing | watching series  | news update | good meal | reddit | language learning  | poetry  | streaming  | youtube | cooking | cleaning | research  | power nap | songs | documentary  | penpal | coding  | tutorial  | jobs
+good,prayer | fasting  | exercise  | quran  | walk | meditation  | audio books  | watching series  | news update | good meal | reddit | language learning  | streaming  | youtube | cooking | cleaning | research  | new things  | power nap | documentary  | penpal | coding  | tutorial 
+good,reading | learning  | prayer | fasting  | quran  | walk | shower | audio books  | watching series  | news update | good meal | reddit | language learning  | streaming  | youtube | cleaning | research  | new things  | power nap | repair | documentary  | penpal | coding  | tutorial 
+good,learning  | prayer | fasting  | quran  | walk | meditation  | shower | audio books  | watching series  | good meal | reddit | language learning  | streaming  | youtube | cooking | cleaning | research  | new things  | power nap | documentary  | penpal | coding  | tutorial 
+good,learning  | prayer | fasting  | walk | meditation  | shower | audio books  | watching series  | news update | good meal | reddit | language learning  | streaming  | youtube | cooking | cleaning | research  | new things  | power nap | songs | penpal | coding  | tutorial 
+good,reading | prayer | fasting  | quran  | walk | meditation  | audio books  | watching series  | news update | good meal | reddit | language learning  | streaming  | youtube | new things  | songs | designing  | penpal | coding  | tutorial  | love
+good,learning  | news update | good meal | reddit | language learning  | streaming  | youtube | cooking | research  | new things  | power nap | penpal | coding  | tutorial  | love | recording 
+good,learning  | walk | meditation  | audio books  | watching series  | news update | good meal | reddit | language learning  | streaming  | youtube | cooking | research  | new things  | power nap | documentary  | penpal | coding  | tutorial 
+amazing,learning  | art | prayer | fasting  | quran  | walk | meditation  | podcast | audio books  | watching series  | news update | good meal | reddit | language learning  | streaming  | youtube | research  | songs | penpal | coding  | tutorial  | recording 
+good,learning  | prayer | fasting  | quran  | walk | meditation  | shower | audio books  | watching series  | news update | good meal | reddit | language learning  | streaming  | youtube | holotropic  | cleaning | research  | new things  | documentary  | penpal | coding  | tutorial  | recording 
+amazing,reading | learning  | art | prayer | fasting  | quran  | walk | meditation  | shower | audio books  | writing | watching series  | news update | good meal | reddit | language learning  | yoga | shave  | trimming  | poetry  | streaming  | youtube | cooking | holotropic  | cleaning | research  | new things  | songs | documentary  | penpal | coding  | tutorial  | recording 
+amazing,learning  | prayer | quran  | walk | meditation  | shower | audio books  | writing | watching series  | news update | good meal | reddit | language learning  | shave  | poetry  | streaming  | youtube | cooking | research  | new things  | family | email | songs | documentary  | shopping | coding  | tutorial  | recording 
+amazing,learning  | prayer | fasting  | quran  | walk | meditation  | shower | audio books  | writing | watching series  | news update | good meal | reddit | language learning  | streaming  | youtube | holotropic  | new things  | songs | penpal | coding  | tutorial  | jobs | recording 
+amazing,prayer | fasting  | quran  | walk | meditation  | shower | audio books  | watching series  | news update | good meal | reddit | language learning  | shave  | streaming  | youtube | cooking | cleaning | power nap | songs | documentary  | penpal | coding  | tutorial  | jobs | recording 
+amazing,art | fasting  | quran  | walk | meditation  | audio books  | writing | watching series  | news update | good meal | reddit | language learning  | streaming  | youtube | cooking | holotropic  | research  | new things  | power nap | documentary  | penpal | coding  | tutorial  | recording 
+good,learning  | art | fasting  | quran  | walk | meditation  | audio books  | writing | watching series  | news update | good meal | reddit | language learning  | streaming  | youtube | research  | new things  | power nap | email | documentary  | penpal | coding  | tutorial  | recording 
+good,learning  | art | prayer | fasting  | quran  | walk | meditation  | shower | podcast | audio books  | writing | watching series  | news update | good meal | reddit | language learning  | shave  | streaming  | youtube | cooking | holotropic  | power nap | documentary  | penpal | coding  | tutorial  | recording 
+good,art | prayer | fasting  | quran  | walk | meditation  | shower | podcast | audio books  | writing | watching series  | news update | good meal | reddit | language learning  | streaming  | youtube | cooking | research  | power nap | songs | documentary  | penpal | shopping | coding  | recording 
+good,reading | learning  | art | fasting  | quran  | walk | meditation  | audio books  | writing | watching series  | news update | good meal | reddit | language learning  | streaming  | youtube | movies | power nap | songs | documentary  | penpal | coding  | tutorial  | recording 
+good,reading | art | prayer | fasting  | exercise  | quran  | walk | meditation  | shower | dota 2 | audio books  | writing | watching series  | news update | good meal | reddit | language learning  | streaming  | youtube | cleaning | research  | new things  | family | designing  | documentary  | friends | penpal | coding  | tutorial  | love | recording 
+good,reading | art | prayer | fasting  | quran  | walk | meditation  | shower | dota 2 | audio books  | news update | good meal | reddit | language learning  | poetry  | streaming  | youtube | songs | documentary  | shopping | coding  | tutorial  | recording 
+good,reading | prayer | fasting  | quran  | walk | meditation  | shower | dota 2 | podcast | audio books  | writing | watching series  | news update | good meal | reddit | language learning  | streaming  | youtube | power nap | songs | love
+good,fasting  | quran  | meditation  | shower | dota 2 | podcast | writing | watching series  | news update | good meal | reddit | language learning  | streaming  | youtube | documentary  | love
+good,art | write dairy  | prayer | fasting  | quran  | walk | meditation  | shower | dota 2 | podcast | audio books  | writing | watching series  | news update | good meal | reddit | language learning  | streaming  | youtube | cleaning | power nap | songs | designing  | love
+good,reading | art | write dairy  | prayer | fasting  | quran  | walk | meditation  | shower | dota 2 | podcast | audio books  | writing | watching series  | news update | good meal | reddit | language learning  | streaming  | youtube | movies | cleaning | research  | new things  | power nap | songs | designing  | documentary  | tutorial  | love | recording 
+good,learning  | prayer | fasting  | quran  | walk | meditation  | shower | dota 2 | audio books  | writing | watching series  | news update | good meal | reddit | language learning  | streaming  | youtube | power nap | songs | designing  | love
+good,learning  | art | prayer | fasting  | quran  | walk | meditation  | shower | dota 2 | podcast | audio books  | writing | watching series  | news update | good meal | reddit | language learning  | shave  | trimming  | streaming  | youtube | cleaning | research  | power nap | songs | love | kaballah
+amazing,learning  | art | prayer | fasting  | quran  | walk | meditation  | shower | dota 2 | audio books  | writing | watching series  | news update | good meal | language learning  | streaming  | youtube | cleaning | research  | documentary  | tutorial  | love
+good,learning  | art | write dairy  | prayer | fasting  | quran  | walk | meditation  | dota 2 | audio books  | writing | watching series  | news update | good meal | reddit | language learning  | streaming  | youtube | research  | new things  | family | power nap | songs | designing  | tutorial  | recording 
+good,reading | learning  | write dairy  | prayer | quran  | walk | meditation  | shower | dota 2 | podcast | audio books  | writing | watching series  | news update | good meal | reddit | language learning  | streaming  | youtube | movies | cleaning | research  | new things  | power nap | songs | designing 
+good,reading | learning  | art | prayer | fasting  | quran  | walk | meditation  | shower | podcast | audio books  | writing | watching series  | news update | good meal | reddit | language learning  | streaming  | youtube | movies | power nap | songs | documentary  | love
+good,learning  | art | write dairy  | prayer | fasting  | quran  | walk | meditation  | shower | podcast | audio books  | writing | watching series  | news update | good meal | reddit | language learning  | streaming  | youtube | movies | power nap | songs | designing  | love | recording 
+good,learning  | art | prayer | fasting  | quran  | walk | meditation  | shower | dota 2 | podcast | audio books  | writing | watching series  | news update | good meal | reddit | language learning  | streaming  | youtube | movies | power nap | songs | documentary  | love
+good,reading | art | prayer | quran  | walk | meditation  | shower | dota 2 | audio books  | writing | watching series  | news update | good meal | reddit | language learning  | shave  | streaming  | youtube | movies | research  | new things  | power nap | songs | tutorial  | love | weight log
+good,art | write dairy  | prayer | fasting  | quran  | walk | meditation  | shower | dota 2 | podcast | audio books  | writing | watching series  | news update | good meal | reddit | language learning  | streaming  | youtube | new things  | family | power nap | songs | designing  | penpal | love | recording 
+amazing,reading | learning  | art | write dairy  | prayer | quran  | walk | meditation  | shower | dota 2 | podcast | audio books  | writing | watching series  | news update | good meal | reddit | language learning  | shave  | streaming  | youtube | movies | cleaning | research  | family | power nap | email | designing  | documentary  | tutorial  | love
+good,reading | learning  | art | write dairy  | prayer | fasting  | quran  | walk | meditation  | shower | dota 2 | audio books  | writing | news update | good meal | reddit | language learning  | streaming  | youtube | songs | love | recording 
+good,reading | learning  | art | write dairy  | prayer | quran  | meditation  | shower | audio books  | writing | watching series  | news update | good meal | reddit | language learning  | streaming  | youtube | research  | family | power nap | songs | documentary  | tutorial  | love | recording 
+good,reading | prayer | quran  | walk | meditation  | audio books  | writing | watching series  | news update | good meal | reddit | language learning  | streaming  | youtube | cleaning | family | power nap | songs
+good,reading | prayer | walk | shower | dota 2 | podcast | watching series  | good meal | reddit | language learning  | shave  | trimming  | streaming  | youtube | power nap | email | songs | love
+good,reading | learning  | prayer | quran  | walk | meditation  | shower | podcast | audio books  | writing | watching series  | news update | good meal | reddit | language learning  | streaming  | youtube | research  | family | power nap | songs | documentary  | penpal
+good,reading | learning  | prayer | fasting  | quran  | walk | meditation  | shower | dota 2 | audio books  | writing | news update | good meal | reddit | language learning  | streaming  | youtube | family | power nap | email | songs | love
+good,art | prayer | fasting  | walk | shower | audio books  | writing | watching series  | news update | good meal | reddit | streaming  | youtube | power nap | love
+amazing,reading | learning  | art | prayer | fasting  | quran  | walk | meditation  | shower | audio books  | writing | watching series  | news update | good meal | reddit | streaming  | youtube | movies | family | power nap | songs | documentary  | tutorial  | love
+amazing,reading | learning  | art | prayer | fasting  | quran  | walk | meditation  | shower | news update | good meal | reddit | language learning  | streaming  | youtube | power nap | email | songs | love | recording 
+good,reading | art | write dairy  | prayer | quran  | walk | meditation  | shower | audio books  | writing | watching series  | news update | good meal | reddit | streaming  | youtube | cleaning | power nap | email | songs | designing  | friends | love
+good,reading | learning  | art | write dairy  | prayer | fasting  | quran  | walk | meditation  | shower | audio books  | writing | watching series  | news update | good meal | reddit | streaming  | youtube | family | songs | documentary  | shopping | tutorial  | recording  | video editing 
+amazing,reading | art | prayer | fasting  | quran  | walk | meditation  | shower | dota 2 | podcast | audio books  | writing | watching series  | news update | good meal | reddit | streaming  | youtube | power nap | songs | documentary  | penpal | love
+good,reading | learning  | art | prayer | fasting  | quran  | walk | meditation  | shower | dota 2 | podcast | audio books  | news update | good meal | reddit | language learning  | streaming  | youtube | research  | new things  | power nap | songs | friends | penpal | love
+good,reading | prayer | fasting  | quran  | walk | meditation  | dota 2 | audio books  | watching series  | news update | good meal | reddit | streaming  | youtube | movies | cleaning | email | songs | penpal | love
+good,reading | learning  | walk | meditation  | dota 2 | writing | watching series  | good meal | reddit | language learning  | streaming  | youtube | power nap | songs | penpal | love
+good,art | walk | dota 2 | audio books  | watching series  | news update | good meal | reddit | streaming  | youtube | movies | research  | new things  | family | documentary  | penpal | love
+amazing,reading | walk | shower | dota 2 | writing | watching series  | news update | good meal | reddit | streaming  | youtube | movies | family | documentary  | friends | penpal | love
+amazing,walk | shower | audio books  | writing | watching series  | news update | good meal | reddit | language learning  | streaming  | youtube | new things  | power nap | songs | penpal
+good,walk | shower | audio books  | watching series  | news update | good meal | reddit | language learning  | streaming  | youtube | power nap | songs
+good,art | quran  | walk | meditation  | shower | writing | watching series  | good meal | reddit | language learning  | streaming  | youtube | power nap | songs | penpal
+good,learning  | walk | shower | audio books  | news update | good meal | reddit | language learning  | streaming  | youtube | power nap | songs | penpal
+good,learning  | write dairy  | prayer | quran  | walk | meditation  | shower | writing | watching series  | news update | good meal | reddit | language learning  | streaming  | youtube | power nap | songs
+good,learning  | write dairy  | prayer | fasting  | quran  | walk | meditation  | shower | audio books  | writing | watching series  | news update | good meal | reddit | language learning  | streaming  | youtube | new things  | power nap | songs | penpal
+amazing,prayer | shower | podcast | audio books  | news update | good meal | reddit | streaming  | youtube | songs
+amazing,reading | learning  | art | prayer | quran  | walk | meditation  | shower | writing | watching series  | good meal | reddit | language learning  | streaming  | youtube | new things  | email | songs | designing  | penpal
+amazing,reading | learning  | art | write dairy  | prayer | quran  | walk | meditation  | shower | writing | watching series  | news update | good meal | reddit | language learning  | streaming  | youtube | new things  | songs | penpal
+amazing,prayer | shower | news update | good meal | reddit | streaming  | youtube | new things  | songs
+good,reading | learning  | art | prayer | fasting  | quran  | walk | meditation  | shower | writing | watching series  | news update | good meal | reddit | language learning  | streaming  | youtube | new things  | power nap | songs
+good,prayer | quran  | walk | shower | good meal | streaming  | youtube
+amazing,learning  | art | prayer | fasting  | exercise  | quran  | walk | meditation  | shower | dota 2 | podcast | audio books  | watching series  | news update | good meal | reddit | language learning  | streaming  | youtube | new things  | songs | tutorial 
+amazing,reading | learning  | art | prayer | fasting  | quran  | walk | meditation  | shower | podcast | audio books  | writing | watching series  | news update | good meal | reddit | language learning  | streaming  | youtube | research  | new things  | power nap | email | songs
+amazing,reading | learning  | art | prayer | fasting  | exercise  | quran  | walk | meditation  | shower | writing | watching series  | news update | good meal | reddit | language learning  | streaming  | youtube | power nap | songs
+good,reading | learning  | art | write dairy  | prayer | fasting  | quran  | walk | meditation  | shower | podcast | audio books  | writing | watching series  | news update | good meal | reddit | language learning  | streaming  | youtube | songs | tutorial 
+amazing,reading | learning  | art | write dairy  | prayer | fasting  | exercise  | quran  | walk | meditation  | shower | audio books  | writing | watching series  | news update | good meal | reddit | language learning  | streaming  | youtube | power nap | songs | designing  | tutorial  | weight log
+amazing,reading | learning  | art | write dairy  | prayer | fasting  | exercise  | quran  | walk | meditation  | shower | audio books  | writing | news update | good meal | reddit | language learning  | streaming  | youtube | new things  | songs | tutorial  | weight log
+amazing,reading | learning  | art | write dairy  | prayer | fasting  | exercise  | quran  | walk | meditation  | shower | podcast | audio books  | writing | watching series  | news update | good meal | reddit | language learning  | streaming  | youtube | new things  | family | email | songs | tutorial  | weight log
+amazing,reading | learning  | art | write dairy  | prayer | fasting  | quran  | walk | meditation  | shower | audio books  | writing | watching series  | news update | good meal | reddit | streaming  | youtube | movies | new things  | family | power nap | email | songs | designing  | tutorial 
+amazing,reading | learning  | art | write dairy  | prayer | fasting  | quran  | walk | meditation  | shower | audio books  | news update | good meal | reddit | streaming  | youtube | new things  | email | songs | tutorial  | weight log
+good,reading | learning  | art | write dairy  | prayer | fasting  | quran  | walk | meditation  | shower | audio books  | writing | news update | good meal | reddit | streaming  | youtube | research  | new things  | songs | tutorial 
+amazing,reading | learning  | art | write dairy  | prayer | fasting  | quran  | walk | meditation  | shower | audio books  | writing | news update | good meal | reddit | language learning  | streaming  | youtube | movies | research  | new things  | email | songs | designing  | tutorial  | weight log
+amazing,reading | learning  | art | write dairy  | prayer | fasting  | quran  | walk | meditation  | shower | audio books  | writing | news update | good meal | reddit | streaming  | youtube | research  | power nap | songs | designing 
+amazing,learning  | art | write dairy  | prayer | fasting  | quran  | walk | meditation  | shower | audio books  | news update | good meal | reddit | streaming  | youtube | power nap | songs
+good,learning  | art | write dairy  | prayer | fasting  | quran  | walk | meditation  | shower | audio books  | news update | good meal | reddit | streaming  | youtube | power nap | songs
+good,reading | learning  | art | prayer | fasting  | quran  | walk | meditation  | shower | audio books  | watching series  | news update | good meal | reddit | streaming  | youtube | new things  | power nap | songs
+amazing,reading | learning  | prayer | fasting  | quran  | walk | meditation  | shower | watching series  | news update | good meal | reddit | streaming  | youtube | power nap | songs
+good,reading | learning  | prayer | fasting  | quran  | walk | meditation  | podcast | audio books  | watching series  | good meal | reddit | streaming  | youtube | power nap | songs | designing 
+good,reading | learning  | prayer | fasting  | quran  | walk | meditation  | audio books  | news update | good meal | reddit | streaming  | youtube | research  | new things  | songs
+good,reading | learning  | write dairy  | prayer | fasting  | quran  | walk | meditation  | shower | audio books  | watching series  | news update | good meal | reddit | streaming  | youtube | power nap | songs | designing  | penpal | weight log
+amazing,reading | learning  | prayer | fasting  | quran  | walk | meditation  | shower | audio books  | writing | watching series  | news update | good meal | reddit | streaming  | youtube | power nap | songs
+amazing,reading | learning  | write dairy  | prayer | fasting  | quran  | walk | meditation  | shower | audio books  | writing | watching series  | news update | good meal | reddit | streaming  | youtube | cleaning | research  | new things  | power nap | songs
+good,write dairy  | prayer | fasting  | quran  | walk | meditation  | shower | writing | watching series  | news update | good meal | reddit | streaming  | youtube | power nap | songs | designing  | penpal
+good,walk | watching series  | news update | good meal | reddit | streaming  | youtube | songs | penpal
+amazing,prayer | fasting  | walk | meditation  | shower | dota 2 | writing | watching series  | news update | good meal | reddit | streaming  | youtube | songs | designing  | penpal
+amazing,prayer | fasting  | quran  | walk | meditation  | shower | dota 2 | audio books  | watching series  | news update | good meal | reddit | streaming  | youtube | power nap | songs | penpal
+good,prayer | quran  | meditation  | shower | audio books  | watching series  | news update | good meal | reddit | streaming  | youtube | power nap | songs | penpal
+good,prayer | quran  | walk | meditation  | shower | dota 2 | podcast | writing | watching series  | news update | good meal | reddit | streaming  | youtube | power nap | songs | designing  | penpal
+good,prayer | walk | meditation  | shower | dota 2 | audio books  | writing | watching series  | news update | good meal | reddit | streaming  | youtube | power nap | songs | penpal
+amazing,prayer | walk | meditation  | shower | dota 2 | watching series  | news update | good meal | reddit | streaming  | youtube | family | power nap | songs | penpal | weight log
+amazing,prayer | fasting  | walk | meditation  | shower | dota 2 | audio books  | writing | watching series  | news update | good meal | reddit | streaming  | youtube | power nap | songs | penpal
+amazing,art | prayer | walk | meditation  | audio books  | watching series  | news update | good meal | reddit | streaming  | youtube | new things  | power nap | songs | penpal
+amazing,prayer | fasting  | walk | meditation  | shower | audio books  | watching series  | news update | good meal | reddit | streaming  | youtube | new things  | songs | penpal
+good,prayer | walk | meditation  | shower | watching series  | news update | good meal | reddit | streaming  | youtube | power nap | songs | penpal
+good,art | prayer | shower | podcast | audio books  | writing | watching series  | news update | good meal | reddit | streaming  | youtube | power nap | songs | penpal | keto
+amazing,prayer | fasting  | exercise  | quran  | walk | meditation  | shower | podcast | audio books  | writing | watching series  | news update | good meal | reddit | streaming  | youtube | family | power nap | songs | penpal
+good,art | prayer | walk | meditation  | shower | dota 2 | podcast | audio books  | writing | watching series  | news update | good meal | reddit | streaming  | youtube | power nap | songs | designing  | penpal
+amazing,art | fasting  | walk | meditation  | audio books  | writing | watching series  | news update | good meal | reddit | streaming  | youtube | cleaning | power nap | songs | penpal
+amazing,art | prayer | walk | meditation  | shower | writing | watching series  | news update | good meal | reddit | streaming  | youtube | cleaning | power nap | songs
+amazing,prayer | shower | dota 2 | audio books  | writing | watching series  | good meal | reddit | streaming  | youtube | power nap | songs | penpal
+amazing,prayer | walk | meditation  | shower | audio books  | writing | watching series  | news update | good meal | reddit | streaming  | youtube | cleaning | power nap | songs | penpal | weight log
+amazing,art | prayer | walk | meditation  | shower | audio books  | watching series  | news update | good meal | reddit | streaming  | youtube | power nap | songs | penpal
+amazing,fasting  | walk | meditation  | audio books  | watching series  | news update | good meal | reddit | streaming  | youtube | power nap | songs | penpal
+good,prayer | walk | meditation  | shower | watching series  | news update | good meal | reddit | streaming  | youtube | power nap | songs | penpal
+amazing,prayer | fasting  | walk | meditation  | shower | dota 2 | audio books  | watching series  | news update | good meal | reddit | streaming  | youtube | power nap | songs | penpal
+amazing,prayer | walk | meditation  | audio books  | watching series  | news update | good meal | reddit | streaming  | youtube | power nap | songs | phd
+amazing,prayer | fasting  | meditation  | shower | audio books  | watching series  | news update | good meal | reddit | streaming  | youtube | power nap | songs | penpal
+amazing,prayer | fasting  | walk | meditation  | shower | podcast | audio books  | watching series  | news update | good meal | reddit | streaming  | youtube | power nap | songs | penpal | weight log
+amazing,prayer | fasting  | walk | meditation  | shower | podcast | audio books  | writing | watching series  | news update | good meal | reddit | streaming  | youtube | power nap | songs | penpal | weight log
+amazing,prayer | walk | meditation  | dota 2 | podcast | audio books  | news update | good meal | reddit | streaming  | youtube | power nap | songs | designing  | penpal
+amazing,prayer | walk | meditation  | shower | podcast | audio books  | writing | watching series  | news update | good meal | reddit | streaming  | youtube | power nap | songs | penpal
+amazing,prayer | fasting  | walk | meditation  | audio books  | watching series  | news update | good meal | reddit | streaming  | youtube | family | power nap | songs
+amazing,prayer | walk | meditation  | shower | dota 2 | audio books  | watching series  | news update | good meal | reddit | streaming  | youtube | power nap | songs | penpal
+amazing,prayer | walk | meditation  | dota 2 | audio books  | watching series  | news update | good meal | reddit | streaming  | youtube | power nap | songs | penpal | keto
+amazing,prayer | fasting  | quran  | walk | meditation  | shower | audio books  | watching series  | news update | good meal | reddit | streaming  | youtube | power nap | songs | penpal
+amazing,prayer | fasting  | walk | meditation  | shower | dota 2 | audio books  | watching series  | news update | good meal | reddit | streaming  | youtube | power nap | songs | penpal | weight log
+amazing,prayer | fasting  | walk | meditation  | shower | audio books  | watching series  | news update | good meal | reddit | streaming  | youtube | power nap | songs | designing  | penpal
+amazing,prayer | fasting  | walk | meditation  | audio books  | watching series  | news update | good meal | reddit | streaming  | youtube | power nap | songs | penpal
+amazing,art | prayer | fasting  | walk | meditation  | shower | dota 2 | audio books  | watching series  | news update | good meal | reddit | streaming  | youtube | phd
+amazing,art | prayer | walk | meditation  | shower | dota 2 | podcast | audio books  | news update | good meal | reddit | streaming  | youtube | songs | penpal
+amazing,fasting  | walk | meditation  | dota 2 | audio books  | watching series  | news update | good meal | reddit | streaming  | youtube | songs | penpal
+amazing,prayer | fasting  | walk | meditation  | shower | dota 2 | audio books  | watching series  | news update | good meal | reddit | streaming  | youtube | power nap | songs | penpal
+amazing,art | prayer | fasting  | walk | meditation  | podcast | audio books  | watching series  | news update | good meal | reddit | streaming  | youtube | power nap | songs | penpal | keto
+amazing,write dairy  | prayer | fasting  | walk | meditation  | shower | watching series  | news update | good meal | reddit | streaming  | youtube | power nap | songs | penpal
+amazing,art | prayer | fasting  | walk | meditation  | dota 2 | audio books  | watching series  | news update | good meal | reddit | streaming  | youtube | songs | designing  | penpal
+amazing,prayer | fasting  | walk | meditation  | podcast | audio books  | writing | watching series  | news update | good meal | reddit | streaming  | youtube | songs | penpal
+amazing,prayer | fasting  | walk | meditation  | shower | audio books  | writing | watching series  | news update | good meal | reddit | streaming  | youtube | power nap | songs | penpal
+amazing,art | prayer | fasting  | walk | meditation  | dota 2 | audio books  | watching series  | news update | good meal | reddit | streaming  | youtube | family | power nap | songs | penpal | weight log
+amazing,fasting  | walk | meditation  | shower | dota 2 | watching series  | news update | good meal | reddit | streaming  | youtube | power nap | email | songs | penpal
+amazing,prayer | fasting  | walk | meditation  | shower | dota 2 | watching series  | news update | good meal | reddit | streaming  | youtube | family | power nap | songs | penpal | weight log
+amazing,prayer | fasting  | quran  | walk | meditation  | shower | dota 2 | audio books  | watching series  | news update | good meal | reddit | streaming  | youtube | power nap | songs | friends | penpal | keto
+amazing,prayer | fasting  | walk | meditation  | shower | watching series  | news update | good meal | reddit | streaming  | youtube | power nap | songs | penpal | keto
+amazing,prayer | walk | meditation  | watching series  | news update | good meal | reddit | streaming  | youtube | power nap | songs | penpal
+amazing,art | prayer | fasting  | walk | meditation  | dota 2 | watching series  | news update | good meal | reddit | streaming  | youtube | power nap | designing  | penpal | keto
+amazing,art | prayer | fasting  | walk | meditation  | shower | audio books  | watching series  | news update | good meal | reddit | streaming  | youtube | power nap | songs | designing  | keto | weight log
+good,prayer | fasting  | walk | meditation  | dota 2 | podcast | audio books  | watching series  | news update | good meal | reddit | streaming  | youtube | songs | penpal | keto | weight log
+amazing,prayer | walk | meditation  | dota 2 | podcast | watching series  | news update | good meal | reddit | streaming  | youtube | power nap | weight log
+amazing,prayer | fasting  | walk | meditation  | shower | dota 2 | podcast | watching series  | news update | good meal | reddit | streaming  | youtube | power nap | penpal | keto | weight log
+amazing,prayer | fasting  | walk | meditation  | shower | podcast | audio books  | watching series  | news update | good meal | reddit | streaming  | youtube | power nap | songs | penpal | keto
+amazing,prayer | fasting  | walk | meditation  | shower | dota 2 | audio books  | watching series  | news update | good meal | reddit | streaming  | youtube | power nap | songs | keto | weight log
+amazing,art | write dairy  | prayer | fasting  | walk | meditation  | shower | dota 2 | audio books  | news update | good meal | reddit | streaming  | youtube | movies | power nap
+good,art | prayer | walk | meditation  | shower | dota 2 | writing | news update | reddit | streaming  | youtube | penpal
+good,prayer | walk | meditation  | shower | dota 2 | podcast | audio books  | watching series  | news update | good meal | reddit | streaming  | youtube | research  | songs | designing  | penpal | keto
+good,prayer | fasting  | walk | meditation  | audio books  | news update | good meal | reddit | streaming  | youtube | penpal | keto
+amazing,prayer | fasting  | walk | meditation  | shower | audio books  | news update | good meal | reddit | streaming  | youtube
+amazing,fasting  | walk | meditation  | podcast | watching series  | news update | good meal | reddit | streaming  | youtube | keto
+amazing,prayer | fasting  | quran  | walk | meditation  | shower | dota 2 | podcast | writing | watching series  | news update | good meal | reddit | streaming  | youtube | power nap | songs | keto
+good,fasting  | walk | meditation  | watching series  | news update | good meal | reddit | streaming  | youtube | penpal | keto | weight log
+amazing,fasting  | walk | meditation  | dota 2 | audio books  | watching series  | news update | reddit | streaming  | youtube | power nap | penpal
+amazing,fasting  | walk | meditation  | shower | dota 2 | watching series  | news update | good meal | reddit | streaming  | youtube | penpal | weight log
+amazing,walk | meditation  | dota 2 | watching series  | news update | good meal | reddit | streaming  | youtube | power nap | songs | penpal | keto
+good,fasting  | walk | meditation  | dota 2 | podcast | audio books  | watching series  | news update | good meal | reddit | streaming  | youtube | penpal | keto
+good,fasting  | walk | meditation  | dota 2 | audio books  | watching series  | news update | good meal | reddit | streaming  | youtube | movies | penpal
+good,write dairy  | fasting  | walk | meditation  | dota 2 | audio books  | watching series  | news update | good meal | reddit | streaming  | youtube | movies | friends | penpal
+good,fasting  | walk | meditation  | dota 2 | audio books  | watching series  | news update | good meal | reddit | streaming  | youtube | penpal | keto
+good,fasting  | walk | meditation  | dota 2 | podcast | audio books  | watching series  | news update | good meal | reddit | streaming  | youtube | penpal
+good,fasting  | walk | meditation  | audio books  | watching series  | news update | good meal | reddit | streaming  | youtube | songs | penpal | keto
+good,fasting  | walk | meditation  | dota 2 | podcast | audio books  | watching series  | news update | good meal | reddit | streaming  | youtube | keto
+good,prayer | fasting  | walk | meditation  | shower | dota 2 | audio books  | watching series  | news update | good meal | reddit | streaming  | youtube
+good,write dairy  | fasting  | walk | meditation  | dota 2 | audio books  | watching series  | news update | good meal | reddit | streaming  | youtube | cleaning | new things  | penpal | keto | weight log
+amazing,fasting  | walk | meditation  | dota 2 | podcast | audio books  | watching series  | news update | good meal | reddit | streaming  | youtube | keto | weight log
+good,fasting  | walk | meditation  | shower | dota 2 | audio books  | news update | good meal | reddit | streaming  | youtube | keto
+good,fasting  | walk | meditation  | podcast | audio books  | watching series  | news update | good meal | reddit | streaming  | youtube | keto
+good,fasting  | walk | meditation  | audio books  | writing | watching series  | news update | good meal | reddit | streaming  | youtube | keto | weight log
+good,prayer | fasting  | walk | meditation  | shower | audio books  | watching series  | news update | reddit | streaming  | youtube | keto
+good,fasting  | walk | meditation  | audio books  | watching series  | news update | good meal | reddit | streaming  | youtube | gaming | keto
+good,fasting  | walk | meditation  | dota 2 | audio books  | watching series  | news update | good meal | reddit | streaming  | youtube | weight log
+good,fasting  | walk | meditation  | shower | dota 2 | audio books  | watching series  | news update | good meal | reddit | streaming  | youtube | keto
+amazing,fasting  | walk | meditation  | podcast | audio books  | watching series  | news update | good meal | reddit | streaming  | youtube
+amazing,fasting  | walk | meditation  | dota 2 | audio books  | watching series  | news update | streaming  | youtube | keto
+amazing,fasting  | walk | meditation  | podcast | audio books  | watching series  | good meal | reddit | streaming  | youtube | keto
+good,prayer | fasting  | walk | meditation  | shower | podcast | watching series  | news update | good meal | reddit | streaming  | youtube | keto | weight log
+good,fasting  | walk | meditation  | dota 2 | podcast | audio books  | watching series  | news update | good meal | reddit | streaming  | youtube | new things  | songs | keto | weight log
+good,fasting  | walk | meditation  | audio books  | watching series  | news update | good meal | reddit | streaming  | youtube | keto
+amazing,fasting  | walk | meditation  | dota 2 | audio books  | watching series  | news update | reddit | streaming  | youtube
+good,fasting  | walk | meditation  | dota 2 | podcast | audio books  | watching series  | news update | good meal | reddit | streaming  | youtube
+good,fasting  | walk | meditation  | dota 2 | podcast | audio books  | news update | good meal | reddit | streaming  | youtube | power nap | keto
+amazing,prayer | fasting  | walk | meditation  | shower | dota 2 | podcast | audio books  | news update | good meal | reddit | streaming  | youtube | keto | weight log
+good,fasting  | walk | meditation  | podcast | audio books  | watching series  | news update | good meal | reddit | streaming  | youtube | power nap | keto
+amazing,reading | fasting  | walk | meditation  | shower | audio books  | news update | good meal | reddit | streaming  | youtube | keto | weight log
+amazing,reading | art | fasting  | walk | meditation  | dota 2 | audio books  | good meal | reddit | streaming  | youtube | gaming | keto
+good,reading | art | write dairy  | fasting  | walk | meditation  | dota 2 | audio books  | news update | good meal | reddit | streaming  | youtube | new things  | songs
+good,fasting  | walk | meditation  | shower | dota 2 | audio books  | watching series  | news update | good meal | streaming  | youtube | keto | weight log
+amazing,reading | fasting  | walk | meditation  | dota 2 | podcast | audio books  | watching series  | news update | reddit | streaming  | youtube | keto
+good,prayer | fasting  | walk | meditation  | shower | dota 2 | podcast | audio books  | watching series  | good meal | streaming  | youtube | research  | keto | weight log
+good,reading | fasting  | walk | meditation  | dota 2 | podcast | audio books  | watching series  | good meal | streaming  | youtube | research  | keto
+amazing,fasting  | walk | meditation  | dota 2 | podcast | audio books  | watching series  | news update | good meal | reddit | streaming  | youtube | keto
+amazing,reading | fasting  | walk | meditation  | shower | podcast | audio books  | watching series  | news update | good meal | reddit | streaming  | youtube | research  | keto | weight log
+amazing,fasting  | walk | meditation  | podcast | audio books  | watching series  | news update | good meal | reddit | streaming  | youtube | keto
+good,fasting  | walk | meditation  | audio books  | watching series  | news update | good meal | reddit | streaming  | youtube | keto
+good,fasting  | walk | meditation  | shower | podcast | audio books  | writing | watching series  | news update | good meal | reddit | streaming  | youtube | movies | keto | weight log
+amazing,fasting  | walk | meditation  | shower | podcast | audio books  | watching series  | news update | good meal | reddit | streaming  | youtube | movies | research  | keto | weight log
+good,write dairy  | fasting  | walk | meditation  | podcast | audio books  | writing | watching series  | news update | good meal | reddit | streaming  | youtube | movies | research  | power nap | keto
+amazing,fasting  | walk | meditation  | shower | audio books  | watching series  | news update | good meal | reddit | streaming  | youtube | keto
+good,fasting  | walk | meditation  | shower | audio books  | watching series  | news update | good meal | reddit | streaming  | youtube | keto | weight log
+amazing,fasting  | walk | meditation  | audio books  | watching series  | news update | good meal | reddit | streaming  | youtube | power nap | keto
+amazing,fasting  | walk | meditation  | audio books  | watching series  | news update | good meal | reddit | streaming  | youtube | research  | keto
+amazing,fasting  | walk | meditation  | audio books  | watching series  | news update | good meal | reddit | streaming  | youtube | keto
+good,prayer | fasting  | walk | meditation  | shower | dota 2 | audio books  | watching series  | news update | reddit | streaming  | youtube | power nap | keto | weight log
+good,fasting  | walk | meditation  | shower | dota 2 | audio books  | news update | good meal | reddit | streaming  | youtube | keto | weight log
+good,fasting  | walk | meditation  | audio books  | reddit | streaming  | youtube | keto
+good,fasting  | walk | meditation  | audio books  | news update | reddit | streaming  | youtube | movies | keto
+good,prayer | fasting  | walk | meditation  | shower | audio books  | watching series  | news update | reddit | streaming  | youtube | movies | cleaning | power nap | songs
+amazing,fasting  | exercise  | walk | meditation  | audio books  | watching series  | news update | good meal | reddit | streaming  | youtube | keto | weight log
+amazing,fasting  | exercise  | walk | meditation  | audio books  | watching series  | news update | reddit | streaming  | youtube | keto | weight log
+amazing,reading | prayer | fasting  | exercise  | walk | meditation  | shower | audio books  | watching series  | news update | good meal | reddit | streaming  | youtube | keto
+good,fasting  | exercise  | walk | meditation  | audio books  | writing | watching series  | reddit | streaming  | youtube | cleaning | new things  | songs | penpal | coding  | keto | weight log
+good,fasting  | walk | meditation  | dota 2 | audio books  | writing | watching series  | reddit | streaming  | youtube | movies | power nap | keto | weight log
+amazing,reading | fasting  | walk | meditation  | podcast | audio books  | news update | good meal | reddit | streaming  | youtube | family | keto | weight log
+good,fasting  | walk | meditation  | podcast | audio books  | watching series  | news update | good meal | reddit | streaming  | youtube | power nap | keto | weight log
+good,fasting  | walk | meditation  | shower | audio books  | watching series  | good meal | reddit | streaming  | youtube | research  | power nap | keto
+good,fasting  | walk | meditation  | podcast | audio books  | watching series  | news update | good meal | reddit | streaming  | youtube | keto
+good,fasting  | walk | meditation  | shower | dota 2 | audio books  | watching series  | news update | reddit | streaming  | youtube | keto
+amazing,fasting  | walk | meditation  | audio books  | watching series  | news update | reddit | streaming  | youtube | keto
+good,fasting  | walk | meditation  | audio books  | watching series  | reddit | streaming  | youtube | keto
+amazing,fasting  | walk | meditation  | shower | audio books  | watching series  | good meal | reddit | streaming  | youtube | travel | power nap | keto | weight log
+amazing,fasting  | walk | meditation  | podcast | audio books  | writing | watching series  | good meal | reddit | streaming  | youtube | email | keto
+good,fasting  | walk | meditation  | audio books  | watching series  | reddit | streaming  | youtube | travel
+good,fasting  | walk | meditation  | dota 2 | audio books  | watching series  | reddit | streaming  | youtube | keto
+good,fasting  | walk | meditation  | shower | audio books  | watching series  | news update | reddit | streaming  | youtube | keto
+good,fasting  | walk | meditation  | audio books  | watching series  | good meal | reddit | streaming  | youtube | keto
+good,fasting  | walk | meditation  | audio books  | watching series  | reddit | streaming  | youtube | keto
+good,fasting  | walk | meditation  | podcast | audio books  | watching series  | news update | good meal | reddit | streaming  | youtube | songs | keto
+good,fasting  | walk | meditation  | shower | audio books  | good meal | reddit | streaming  | youtube | keto | weight log
+good,fasting  | walk | meditation  | audio books  | good meal | reddit | streaming  | youtube | keto | weight log
+good,fasting  | walk | meditation  | audio books  | watching series  | good meal | reddit | streaming  | youtube | keto | weight log
+good,fasting  | walk | meditation  | good meal | reddit | streaming  | youtube | keto | weight log
+good,prayer | fasting  | meditation  | shower | audio books  | watching series  | news update | reddit | streaming  | youtube | keto | weight log
+good,reading | fasting  | walk | meditation  | dota 2 | audio books  | watching series  | news update | reddit | streaming  | youtube | keto | weight log
+good,fasting  | walk | meditation  | dota 2 | audio books  | watching series  | news update | good meal | youtube | keto | weight log
+good,prayer | fasting  | walk | meditation  | shower | audio books  | watching series  | news update | good meal | reddit | streaming  | youtube | hiking  | keto | weight log
+good,fasting  | walk | meditation  | audio books  | watching series  | news update | good meal | reddit | youtube | keto | weight log
+good,fasting  | walk | meditation  | shower | dota 2 | audio books  | writing | watching series  | news update | good meal | reddit | streaming  | kaballah | keto | weight log
+good,prayer | fasting  | walk | meditation  | shower | dota 2 | podcast | audio books  | watching series  | news update | good meal | reddit | streaming  | youtube | new things  | coding  | kaballah | keto | weight log
+good,write dairy  | fasting  | walk | meditation  | podcast | audio books  | news update | streaming  | youtube | new things  | power nap | coding  | kaballah | keto
+good,fasting  | walk | meditation  | watching series  | news update | good meal | reddit | streaming  | youtube | travel | family | hiking  | kaballah | keto | weight log
+good,write dairy  | prayer | fasting  | walk | meditation  | podcast | audio books  | news update | good meal | reddit | youtube | kaballah | keto | weight log
+good,write dairy  | prayer | fasting  | walk | meditation  | audio books  | watching series  | reddit | streaming  | youtube | kaballah | keto | weight log
+amazing,write dairy  | prayer | fasting  | walk | meditation  | podcast | audio books  | watching series  | news update | reddit | streaming  | youtube | songs | kaballah | keto | weight log
+good,prayer | fasting  | walk | meditation  | dota 2 | audio books  | watching series  | news update | good meal | reddit | streaming  | youtube | power nap | kaballah | keto | weight log
+good,fasting  | walk | meditation  | shower | audio books  | watching series  | news update | good meal | reddit | youtube | new things  | keto | weight log
+amazing,fasting  | walk | meditation  | audio books  | watching series  | good meal | streaming  | youtube | power nap
+good,fasting  | walk | meditation  | podcast | audio books  | good meal | streaming  | youtube | research  | new things 
+amazing,prayer | fasting  | walk | meditation  | shower | dota 2 | news update | good meal | reddit | streaming  | youtube | travel | hiking 
+good,fasting  | walk | meditation  | dota 2 | podcast | watching series  | good meal | streaming  | youtube | power nap
+good,fasting  | walk | meditation  | dota 2 | podcast | audio books  | writing | watching series  | news update | reddit | designing 
+good,fasting  | walk | meditation  | shower | dota 2 | podcast | news update | good meal | reddit | streaming  | youtube | email | weight log
+good,fasting  | walk | meditation  | dota 2 | news update | good meal | reddit | power nap
+good,reading | write dairy  | fasting  | walk | meditation  | dota 2 | podcast | reddit | youtube | gaming | email | penpal
+good,good meal | reddit | streaming  | youtube | gaming | songs | penpal
+good,prayer | fasting  | meditation  | shower | watching series  | reddit | streaming  | youtube | movies | penpal
+good,reading | fasting  | meditation  | shower | podcast | watching series  | reddit | songs | penpal | weight log
+good,reading | prayer | fasting  | shower | podcast | watching series  | news update | streaming  | youtube | research  | penpal | weight log
+good,prayer | fasting  | quran  | podcast | news update | reddit | streaming  | youtube | penpal
+good,fasting  | quran  | podcast | audio books  | news update | good meal | streaming  | youtube | family | penpal
+good,prayer | fasting  | quran  | audio books  | news update | penpal
+good,podcast | audio books  | news update | reddit | streaming  | youtube | gaming | power nap | email | designing  | penpal | weight log
+good,prayer | fasting  | walk | shower | news update | good meal | reddit | streaming  | youtube | movies | gaming | travel | family | email | penpal
+good,walk | dota 2 | podcast | audio books  | news update | good meal | reddit | streaming  | youtube | email | designing  | weight log
+good,shower | dota 2 | podcast | audio books  | watching series  | news update | good meal | reddit | streaming  | youtube | designing  | weight log
+good,dota 2 | audio books  | news update | good meal | reddit | youtube | designing  | weight log
+good,write dairy  | meditation  | shower | podcast | audio books  | watching series  | reddit | youtube | penpal
+good,write dairy  | meditation  | dota 2 | podcast | news update | good meal | reddit | streaming  | youtube | designing  | penpal
+good,walk | watching series  | news update | good meal | streaming  | youtube | gaming | power nap | email | designing  | penpal
+good,walk | dota 2 | podcast | news update | good meal | reddit | streaming  | youtube | movies | gaming | penpal
+good,prayer | walk | shower | good meal | reddit | streaming  | youtube | movies | gaming | cleaning | power nap | email | designing 
+amazing,walk | dota 2 | news update | good meal | streaming  | youtube | penpal
+good,meditation  | podcast | news update | good meal | youtube | gaming
+good,podcast | good meal | reddit | youtube | gaming | email
+good,walk | meditation  | podcast | audio books  | reddit | youtube | movies | gaming | email
+good,prayer | walk | meditation  | shower | dota 2 | podcast | news update | reddit | streaming  | youtube | gaming | penpal
+good,walk | meditation  | podcast | audio books  | news update | good meal | streaming  | youtube | gaming | penpal
+good,podcast | news update | streaming  | youtube | gaming
+good,walk | meditation  | dota 2 | podcast | news update | good meal | streaming  | youtube | gaming | designing  | penpal
+good,meditation  | news update | good meal | streaming  | youtube
+good,reading | walk | meditation  | dota 2 | podcast | news update | good meal | streaming  | youtube | gaming | songs
+good,meditation  | dota 2 | news update | good meal | streaming  | youtube | gaming | power nap
+good,reading | walk | meditation  | podcast | news update | good meal | streaming  | youtube | gaming | new things  | songs | designing 
+good,reading | meditation  | podcast | news update | good meal | streaming  | youtube | new things  | designing  | penpal
+good,reading | meditation  | dota 2 | podcast | audio books  | news update | good meal | streaming  | youtube | movies | gaming | new things  | family | power nap | songs | designing  | friends | penpal
+good,reading | prayer | walk | meditation  | shower | dota 2 | podcast | audio books  | watching series  | good meal | streaming  | youtube | gaming
+good,walk | meditation  | dota 2 | podcast | audio books  | news update | good meal | streaming  | youtube | gaming | email | penpal
+good,walk | meditation  | dota 2 | podcast | audio books  | news update | good meal | streaming  | youtube | gaming | new things  | designing 
+good,reading | meditation  | news update | good meal | streaming  | youtube | gaming | designing 
+good,meditation  | news update | good meal | streaming  | youtube | movies | designing 
+good,reading | meditation  | dota 2 | news update | good meal | streaming  | youtube
+good,reading | meditation  | penpal
+good,reading | prayer | meditation  | shower | news update | streaming  | youtube | penpal
+good,meditation  | dota 2 | news update
+good,meditation  | shower | dota 2 | podcast | news update | good meal | streaming  | youtube | gaming | designing  | penpal
+good,exercise  | walk | meditation  | podcast | audio books  | news update | good meal | streaming  | youtube | movies | email | designing  | penpal
+good,meditation  | podcast | audio books  | news update | streaming  | youtube | new things  | email | designing  | jobs | weight log
+good,dota 2 | podcast | audio books  | news update | good meal | streaming  | youtube | designing  | party | weight log
+good,meditation  | news update | weight log
+good,podcast | audio books  | watching series  | news update | good meal | youtube | gaming | designing 
+good,meditation  | shower | audio books  | news update | good meal | streaming  | youtube | designing  | penpal
+good,reading | prayer | meditation  | audio books  | watching series  | news update | good meal | streaming  | youtube | new things  | email | designing  | jobs | weight log
+good,meditation  | dota 2 | podcast | news update | good meal | streaming  | youtube | new things  | email | penpal
+good,meditation  | podcast | news update | good meal | youtube | new things  | email | designing  | penpal | jobs
+good,meditation  | audio books  | news update | youtube | new things  | designing 
+amazing,meditation  | audio books  | news update | good meal | youtube | power nap
+good,walk | meditation  | audio books  | youtube | power nap
+good,meditation  | podcast | audio books  | news update | good meal | youtube | gaming | penpal | weight log
+good,prayer | meditation  | shower | audio books  | news update | good meal | youtube | new things  | weight log
+good,walk | shower | audio books  | good meal | gaming | travel | songs | designing 
+good,meditation  | shower | podcast | news update | streaming  | youtube | gaming | designing 
+good,meditation  | audio books  | news update | youtube | new things  | designing  | repair | penpal | weight log
+good,reading | meditation  | audio books  | good meal | youtube | gaming | new things  | email | designing 
+good,prayer | shower | audio books  | news update | good meal | streaming  | youtube | new things  | designing 
+amazing,meditation  | shower | audio books  | watching series  | news update | good meal | youtube | gaming | designing  | penpal
+good,meditation  | podcast | audio books  | good meal | streaming  | gaming
+good,prayer | meditation  | audio books  | news update
+amazing,fasting  | walk | meditation  | audio books  | news update
+good,fasting  | meditation  | dota 2 | podcast | audio books  | news update | good meal | streaming  | youtube | gaming | travel | penpal | party | weight log
+good,meditation  | podcast | audio books  | news update | youtube | gaming | cleaning | email | penpal | weight log
+good,fasting  | meditation  | shower | audio books  | watching series  | news update | youtube | gaming | designing  | penpal | jobs | weight log
+good,reading | prayer | meditation  | shower | dota 2 | podcast | audio books  | news update | youtube | movies | weight log
+good,reading | meditation  | audio books  | news update | good meal | streaming  | youtube | penpal | weight log
+good,prayer | shower | audio books  | watching series  | news update | youtube | gaming | penpal
+good,reading | meditation  | podcast | audio books  | watching series  | news update | good meal | youtube | gaming | email | penpal
+good,fasting  | meditation  | podcast | audio books  | news update | good meal | email | penpal
+good,reading | meditation  | audio books  | watching series  | news update | streaming  | youtube
+good,reading | meditation  | audio books  | penpal
+amazing,reading | meditation  | watching series  | news update | good meal | streaming  | youtube | penpal
+good,reading | meditation  | dota 2 | podcast | watching series  | news update | good meal | streaming  | youtube | power nap
+good,reading | write dairy  | meditation  | watching series  | good meal | streaming  | youtube | movies | email | penpal
+good,reading | audio books  | streaming  | youtube | movies
+good,reading | meditation  | news update | good meal
+good,reading | meditation  | shower | news update | good meal | songs | penpal
+good,reading | meditation  | news update | good meal | streaming  | youtube | new things  | designing  | penpal
+good,meditation  | news update | youtube | penpal
+good,reading | meditation  | podcast | audio books  | news update | good meal | streaming  | youtube | gaming | new things  | designing  | penpal | weight log
+good,reading | walk | meditation  | podcast | audio books  | news update | youtube | movies | new things  | email | penpal | jobs | weight log
+good,reading | prayer | meditation  | shower | news update | streaming  | cleaning | weight log
+good,reading | fasting  | meditation  | audio books  | watching series  | good meal | streaming  | youtube | movies | songs | penpal | weight log
+good,reading | write dairy  | meditation  | podcast | watching series  | news update | youtube | gaming | cleaning | penpal | weight log
+good,reading | meditation  | podcast | audio books  | news update | gaming | penpal | shopping
+good,reading | fasting  | meditation  | news update | penpal
+good,reading | write dairy  | meditation  | shower | dota 2 | podcast | audio books  | news update | streaming  | youtube | research  | power nap | email | penpal
+good,reading | meditation  | news update | penpal
+good,reading | meditation  | news update
+good,reading | walk | watching series  | youtube | email | penpal
+good,meditation  | penpal
+good,shower | watching series  | good meal | streaming  | youtube | new things  | power nap | penpal
+good,exercise  | meditation  | podcast
+good,podcast | streaming  | youtube | gaming | penpal
+good,prayer | audio books  | youtube | new things  | penpal
+good,meditation  | news update | penpal
+good,streaming  | youtube | gaming | new things  | power nap
+good,write dairy  | meditation  | research  | penpal | coding 
+good,meditation  | watching series  | good meal | youtube | penpal | tutorial 
+good,prayer | walk | shower | dota 2 | podcast | audio books  | news update | new things  | email | songs
+good,dota 2 | news update | streaming  | youtube
+good,prayer | dota 2 | podcast | news update
+good,news update
+good,dota 2 | news update | youtube
+good,dota 2 | watching series  | good meal
+good,walk | dota 2 | streaming  | youtube | songs
+amazing,walk | shower | dota 2 | podcast | watching series  | news update | good meal | youtube | travel | new things  | family | friends | penpal
+good,dota 2 | podcast | audio books  | streaming  | youtube | weight log
+good,shower | dota 2 | good meal | streaming  | youtube | phd | jobs
+good,meditation  | shower | dota 2 | good meal | streaming  | youtube | email | weight log
+good,meditation  | shower | weight log
+good,meditation 
+good,reading | meditation  | shower | dota 2 | podcast | audio books  | watching series  | streaming  | youtube | family | email
+good,podcast | audio books  | watching series  | streaming  | youtube | email | songs | weight log
+good,streaming  | movies
+good,reading | write dairy  | prayer | meditation  | shower | audio books  | watching series  | streaming  | youtube | movies | new things  | email | weight log
+good,write dairy  | meditation  | streaming  | youtube | cleaning
+good,audio books  | watching series  | good meal | streaming  | youtube | email | party
+amazing,reading | write dairy  | prayer | shower | audio books  | watching series  | new things  | email | weight log
+good,fasting  | shower | audio books  | streaming  | youtube | songs
+good,write dairy  | fasting  | audio books  | streaming  | youtube | email | songs | weight log
+good,prayer
+good,dota 2 | streaming  | youtube | songs
+good,watching series  | streaming 
+good,dota 2 | watching series 
+good,dota 2 | watching series  | streaming  | youtube | movies
+good,prayer | shower | dota 2 | audio books 
+good,reading | fasting  | shower | dota 2 | audio books  | youtube
+good,dota 2 | youtube
+good,dota 2 | audio books  | streaming 
+good,dota 2 | streaming 
+good,prayer | fasting  | dota 2 | audio books  | streaming 
+good,meditation  | shower | dota 2 | streaming 
+amazing,youtube | email | jobs
+good,prayer | fasting  | dota 2 | podcast | streaming  | youtube | email | jobs
+good,dota 2 | streaming  | email
+good,prayer | fasting  | streaming  | youtube
+good,reading | write dairy  | fasting  | meditation  | shower | podcast | audio books  | weight log
+good,prayer | audio books  | youtube
+good,prayer | fasting  | meditation  | dota 2 | podcast | youtube
+good,prayer | fasting  | walk | podcast | audio books  | streaming  | youtube | email | songs
+good,prayer | fasting  | meditation  | shower | audio books  | youtube | new things  | email
+good,audio books 
+good,streaming  | youtube | email
+good,prayer | shower | youtube | email | songs
+good,podcast | watching series  | youtube
+good,dota 2 | audio books  | youtube | email
+good,streaming 
+good,watching series  | streaming  | youtube | research 
+good,dota 2 | podcast | watching series  | streaming  | youtube
+good,prayer | shower | streaming  | youtube | research  | new things  | weight log
+good,prayer | shower | dota 2 | podcast | youtube
+good,meditation  | shower | podcast | watching series  | good meal | streaming  | youtube | email | designing 
+good,write dairy  | watching series  | good meal | streaming  | youtube | new things 
+good,watching series  | good meal | streaming  | youtube | email
+amazing,good meal | streaming  | youtube | email | phd | jobs
+good,dota 2 | good meal | streaming  | youtube | email
+good,prayer | dota 2 | watching series  | streaming  | youtube | movies | email
+good,watching series  | streaming  | youtube
+good,dota 2 | watching series  | streaming  | youtube
+good,prayer | shower | dota 2 | streaming  | youtube | new things 
+good,shower | power nap
+good,prayer | dota 2 | good meal | streaming 
+good,shower | streaming  | youtube | gaming | new things 
+amazing,prayer | shower | audio books  | streaming  | youtube | new things  | weight log
+good,prayer | shower | streaming 
+good,meditation  | dota 2 | good meal | streaming  | youtube | songs
+amazing,dota 2 | good meal | streaming  | youtube
+good,write dairy  | walk | meditation  | audio books  | new things  | songs
+good,write dairy  | shower | dota 2 | audio books  | good meal | streaming  | youtube | family | jobs
+good,dota 2 | streaming 
+good,watching series  | streaming  | youtube
+amazing,travel
+good,watching series  | youtube
+good,dota 2 | streaming  | youtube
+good,dota 2 | streaming  | youtube
+amazing,shower | good meal | streaming  | youtube | email
+good,walk | meditation  | streaming  | youtube
+amazing,dota 2
+amazing,prayer | watching series  | streaming  | youtube | new things  | email
+good,meditation  | shower | dota 2 | streaming  | research  | new things 
+good,dota 2 | streaming 
+good,shower | good meal | travel | cleaning | email
+good,dota 2 | youtube | email
+good,email
+good,dota 2 | watching series  | streaming  | youtube
+good,coding  | tutorial 
+good,dota 2 | watching series  | streaming  | youtube | coding  | tutorial 
+good,walk | watching series  | power nap
+good,dota 2
+amazing,dota 2 | streaming 
+good,dota 2 | streaming  | youtube | power nap
+good,dota 2 | streaming  | youtube
+amazing,streaming  | youtube | research  | new things  | email | phd
+good,prayer | streaming  | youtube | power nap
+good,streaming  | youtube | movies | research  | email | phd
+good,power nap
+good,prayer | power nap
+good,dota 2 | good meal | streaming  | youtube | movies | gaming | weight log
+amazing,dota 2 | streaming  | cleaning | email
+good,youtube | power nap
+amazing,reading | prayer | research  | new things  | power nap
+amazing,dota 2 | streaming  | youtube | movies
+good,prayer | walk | good meal | youtube | movies | power nap | songs | friends
+good,prayer | dota 2 | watching series  | good meal | streaming  | youtube
+good,watching series  | streaming  | youtube | power nap
+good,dota 2 | watching series  | streaming  | youtube | designing 
+good,walk | audio books  | watching series 
+good,dota 2 | youtube | gaming
+good,write dairy  | prayer | shower | dota 2 | good meal | streaming  | youtube | research  | power nap
+good,streaming  | youtube | research  | power nap | songs | designing 
+good,walk | meditation  | dota 2 | travel
+good,prayer
+good,dota 2 | streaming  | songs
+amazing,dota 2 | streaming  | youtube
+good,prayer | walk | meditation  | shower | dota 2 | good meal | streaming  | youtube
+good,fasting  | meditation  | dota 2 | streaming  | youtube | new things  | weight log
+amazing,reading | walk | audio books  | good meal | travel | research  | songs
+good,write dairy  | dota 2 | research  | email
+good,walk | audio books  | email | songs
+amazing,walk | audio books  | youtube | travel
+good,good meal | streaming  | youtube | email | shopping
+good,reading | travel | research  | email
+good,dota 2 | watching series  | youtube | travel | family | hospital 
+amazing,reading | shower | good meal | youtube | new things  | power nap | weight log
+good,fasting  | walk | meditation  | youtube
+good,write dairy  | walk | meditation  | audio books  | good meal | streaming  | youtube | new things 
+good,prayer | good meal | youtube | movies
